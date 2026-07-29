@@ -1,0 +1,72 @@
+/* Palette e tipografia custom per Civitella in Pillole, sopra il tema Bootstrap */
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@400;600&display=swap");
+
+:root {
+  --civitella-terracotta: #b5502f;
+  --civitella-terracotta-dark: #8f3f24;
+  --civitella-olive: #6f7d3c;
+  --civitella-sand: #f4ecdd;
+  --civitella-brown: #3d2b1f;
+  --civitella-gold: #c49a3a;
+}
+
+body {
+  font-family: "Source Sans 3", system-ui, -apple-system, sans-serif;
+  background-color: #fffdf9;
+  color: var(--civitella-brown);
+}
+
+h1, h2, h3, h4, .navbar-brand {
+  font-family: "Playfair Display", Georgia, serif;
+}
+
+.navbar.bg-dark {
+  background-color: var(--civitella-brown) !important;
+}
+
+.btn-primary {
+  background-color: var(--civitella-terracotta);
+  border-color: var(--civitella-terracotta);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--civitella-terracotta-dark);
+  border-color: var(--civitella-terracotta-dark);
+}
+
+header .bg-light,
+.card.bg-light {
+  background-color: var(--civitella-sand) !important;
+}
+
+.feature {
+  background: linear-gradient(135deg, var(--civitella-terracotta), var(--civitella-gold)) !important;
+}
+
+footer.bg-dark {
+  background-color: var(--civitella-brown) !important;
+}
+
+.frazione-badge {
+  display: inline-block;
+  background-color: var(--civitella-olive);
+  color: #fff;
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.placeholder-notice {
+  border-left: 4px solid var(--civitella-gold);
+  background-color: var(--civitella-sand);
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.image-credit {
+  font-size: 0.8rem;
+  color: #6c6258;
+}
