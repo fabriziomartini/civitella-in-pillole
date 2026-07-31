@@ -53,6 +53,7 @@
       '<li class="nav-item"><a class="' + navCls("index.html") + '" href="' + basePath + 'index.html">Home</a></li>' +
       '<li class="nav-item"><a class="' + navCls("storia.html") + '" href="' + basePath + 'storia.html">Storia</a></li>' +
       '<li class="nav-item"><a class="' + navCls("geografia.html") + '" href="' + basePath + 'geografia.html">Geografia</a></li>' +
+      '<li class="nav-item"><a class="' + navCls("amministrazione.html") + '" href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
       '<li class="nav-item dropdown">' +
       '<a class="nav-link dropdown-toggle' + (frazioniActive ? " active" : "") + '" href="' + basePath + 'frazioni.html" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Frazioni</a>' +
       '<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">' + dropdownItems + "</div>" +
@@ -79,6 +80,7 @@
       '<ul class="list-unstyled d-flex flex-column gap-2">' +
       '<li><a href="' + basePath + 'storia.html">Storia</a></li>' +
       '<li><a href="' + basePath + 'geografia.html">Geografia</a></li>' +
+      '<li><a href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
       '<li><a href="' + basePath + 'frazioni.html">Le frazioni</a></li>' +
       "</ul>" +
       "</div>" +
