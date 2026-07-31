@@ -1,4 +1,4 @@
-/* Palette e tipografia custom per Civitella in Pillole, sopra il tema Bootstrap */
+/* Palette, tipografia e componenti custom per Civitella in Pillole, sopra il tema Bootstrap */
 
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@400;600&display=swap");
 
@@ -6,14 +6,28 @@
   --civitella-terracotta: #b5502f;
   --civitella-terracotta-dark: #8f3f24;
   --civitella-olive: #6f7d3c;
+  --civitella-olive-dark: #565f2d;
   --civitella-sand: #f4ecdd;
+  --civitella-cream: #fffdf9;
   --civitella-brown: #3d2b1f;
   --civitella-gold: #c49a3a;
+
+  /* Ritema le variabili Bootstrap 5.3, cosi' che bottoni, link, focus ring ecc.
+     seguano la palette del sito invece del blu di default. */
+  --bs-primary: var(--civitella-terracotta);
+  --bs-primary-rgb: 181, 80, 47;
+  --bs-link-color: var(--civitella-terracotta-dark);
+  --bs-link-color-rgb: 143, 63, 36;
+  --bs-link-hover-color: var(--civitella-terracotta);
+  --bs-link-hover-color-rgb: 181, 80, 47;
+  --bs-body-color: var(--civitella-brown);
+  --bs-body-bg: var(--civitella-cream);
+  --bs-border-color: rgba(61, 43, 31, 0.15);
 }
 
 body {
   font-family: "Source Sans 3", system-ui, -apple-system, sans-serif;
-  background-color: #fffdf9;
+  background-color: var(--civitella-cream);
   color: var(--civitella-brown);
 }
 
@@ -21,9 +35,220 @@ h1, h2, h3, h4, .navbar-brand {
   font-family: "Playfair Display", Georgia, serif;
 }
 
+/* --- Navbar --- */
+
 .navbar.bg-dark {
   background-color: var(--civitella-brown) !important;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.2);
 }
+
+.navbar-brand {
+  letter-spacing: 0.02em;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  transition: color 0.15s ease;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link.active {
+  color: var(--civitella-gold) !important;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+  font-weight: 600;
+}
+
+.dropdown-menu {
+  border: none;
+  border-radius: 0.6rem;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.18);
+  padding: 0.4rem;
+}
+
+.dropdown-item {
+  border-radius: 0.4rem;
+  padding: 0.45rem 0.9rem;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+  background-color: var(--civitella-sand);
+  color: var(--civitella-terracotta-dark);
+}
+
+/* --- Hero --- */
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding: 4.5rem 0 3.75rem;
+  color: #fff;
+  background: linear-gradient(135deg, var(--civitella-brown) 0%, var(--civitella-terracotta-dark) 60%, var(--civitella-terracotta) 100%);
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.09) 1px, transparent 1px);
+  background-size: 24px 24px;
+  pointer-events: none;
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--civitella-gold), var(--civitella-terracotta), var(--civitella-olive));
+}
+
+.hero .container {
+  position: relative;
+  z-index: 1;
+}
+
+.hero h1 {
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.3);
+}
+
+.hero p {
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.frazione-badge {
+  display: inline-block;
+  background-color: var(--civitella-olive);
+  color: #fff;
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* Variante per badge sull'hero scuro (contrasto adeguato su sfondo gradiente) */
+.frazione-badge-on-dark {
+  background-color: rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  color: #fff;
+}
+
+/* --- Sezioni di contenuto --- */
+
+.section-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.section-heading .bi {
+  color: var(--civitella-terracotta);
+  font-size: 1.15em;
+}
+
+blockquote.citation {
+  position: relative;
+  margin: 1.75rem 0;
+  padding: 1.35rem 1.6rem;
+  border-left: 4px solid var(--civitella-gold);
+  background-color: var(--civitella-sand);
+  border-radius: 0 0.6rem 0.6rem 0;
+  font-family: "Playfair Display", Georgia, serif;
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--civitella-brown);
+}
+
+blockquote.citation cite {
+  display: block;
+  margin-top: 0.6rem;
+  font-family: "Source Sans 3", sans-serif;
+  font-style: normal;
+  font-size: 0.85rem;
+  color: #6c6258;
+}
+
+/* --- Timeline (usata nella pagina Storia) --- */
+
+.timeline {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 1.75rem;
+  border-left: 3px solid var(--civitella-sand);
+}
+
+.timeline-item {
+  position: relative;
+  padding-bottom: 1.75rem;
+}
+
+.timeline-item:last-child {
+  padding-bottom: 0;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -1.9rem;
+  top: 0.3rem;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--civitella-terracotta);
+  border: 3px solid var(--civitella-cream);
+  box-shadow: 0 0 0 2px var(--civitella-sand);
+}
+
+.timeline-year {
+  display: block;
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 700;
+  color: var(--civitella-terracotta-dark);
+  margin-bottom: 0.15rem;
+}
+
+/* --- Card frazioni --- */
+
+.frazione-card {
+  border: none;
+  border-radius: 0.75rem;
+  border-top: 4px solid var(--civitella-olive);
+  box-shadow: 0 2px 10px rgba(61, 43, 31, 0.08);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.frazione-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 26px rgba(61, 43, 31, 0.16);
+}
+
+.frazione-card.frazione-card-speciale {
+  border-top-color: var(--civitella-terracotta);
+}
+
+.frazione-card .card-meta {
+  font-size: 0.82rem;
+  color: #6c6258;
+}
+
+/* --- Card generiche (home) --- */
+
+header .bg-light,
+.card.bg-light {
+  border: none;
+  background-color: var(--civitella-sand) !important;
+}
+
+.feature {
+  background: linear-gradient(135deg, var(--civitella-terracotta), var(--civitella-gold)) !important;
+}
+
+/* --- Bottoni --- */
 
 .btn-primary {
   background-color: var(--civitella-terracotta);
@@ -36,28 +261,20 @@ h1, h2, h3, h4, .navbar-brand {
   border-color: var(--civitella-terracotta-dark);
 }
 
-header .bg-light,
-.card.bg-light {
-  background-color: var(--civitella-sand) !important;
+.btn-light {
+  background-color: var(--civitella-sand);
+  border-color: var(--civitella-sand);
+  color: var(--civitella-brown);
 }
 
-.feature {
-  background: linear-gradient(135deg, var(--civitella-terracotta), var(--civitella-gold)) !important;
+.btn-light:hover,
+.btn-light:focus {
+  background-color: #fff;
+  border-color: #fff;
+  color: var(--civitella-brown);
 }
 
-footer.bg-dark {
-  background-color: var(--civitella-brown) !important;
-}
-
-.frazione-badge {
-  display: inline-block;
-  background-color: var(--civitella-olive);
-  color: #fff;
-  padding: 0.2rem 0.7rem;
-  border-radius: 999px;
-  font-size: 0.8rem;
-  font-weight: 600;
-}
+/* --- Avvisi e note --- */
 
 .placeholder-notice {
   border-left: 4px solid var(--civitella-gold);
@@ -66,7 +283,57 @@ footer.bg-dark {
   border-radius: 0.5rem;
 }
 
+/* --- Immagini con credito --- */
+
+figure.photo {
+  margin: 1.75rem 0;
+}
+
+figure.photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.6rem;
+  box-shadow: 0 6px 20px rgba(61, 43, 31, 0.18);
+}
+
 .image-credit {
+  display: block;
+  margin-top: 0.4rem;
   font-size: 0.8rem;
   color: #6c6258;
+}
+
+/* --- Footer --- */
+
+.site-footer {
+  border-top: 3px solid var(--civitella-gold);
+  background-color: var(--civitella-brown) !important;
+}
+
+.site-footer h2,
+.site-footer h3 {
+  color: #fff;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+}
+
+.site-footer a {
+  color: rgba(255, 255, 255, 0.78);
+  text-decoration: none;
+}
+
+.site-footer a:hover,
+.site-footer a:focus {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.site-footer .footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.85rem;
+}
+
+footer.bg-dark {
+  background-color: var(--civitella-brown) !important;
 }
