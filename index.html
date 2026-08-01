@@ -9,72 +9,104 @@
     <title>Civitella in Pillole</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Google Fonts (preconnect per performance) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
-    <!-- Core theme CSS (includes Bootstrap)-->
+    <!-- Reset e griglia Bootstrap, sopra i quali si appoggia il design system "warm-modern" -->
     <link href="css/styles.css" rel="stylesheet" />
-    <link href="css/civitella.css" rel="stylesheet" />
+    <link href="css/warm-modern.css" rel="stylesheet" />
 </head>
 
 <body data-base-path="">
     <div id="navbar-placeholder"></div>
-    <!-- Header-->
-    <header class="hero text-center">
+
+    <!-- Hero: testo a sinistra, grande foto della Rocca a destra -->
+    <header class="wm-hero">
         <div class="container px-lg-5">
-            <span class="frazione-badge frazione-badge-on-dark mb-3">Provincia di Arezzo &middot; Toscana</span>
-            <h1 class="display-4 fw-bold mt-3">Civitella in Pillole</h1>
-            <p class="fs-4 mx-auto" style="max-width: 640px;">Un piccolo archivio dedicato a Civitella in Val di Chiana: un comune composto da un borgo storico e quattordici frazioni, tra le colline del Chianti e la pianura della Val di Chiana.</p>
-            <a class="btn btn-light btn-lg fw-bold mt-2" href="frazioni.html">Esplora le frazioni <i class="bi bi-arrow-right"></i></a>
-        </div>
-    </header>
-    <!-- Page Content-->
-    <main class="pt-4">
-        <div class="container px-lg-5">
-            <div class="row gx-lg-5">
-                <div class="col-lg-6 mb-5">
-                    <div class="card bg-light border-0 h-100">
-                        <div class="card-body p-4 p-lg-5 pt-0 pt-lg-0">
-                            <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-hourglass-split"></i></div>
-                            <h2 class="fs-4 fw-bold">Il comune</h2>
-                            <p>Civitella in Val di Chiana è un comune di circa 9.000 abitanti situato a una quindicina di chilometri a sud-ovest di Arezzo. Il capoluogo storico, un borgo collinare a 525 metri di altezza con la sua Rocca medievale, convive con quattordici frazioni sparse tra le colline e la pianura della Val di Chiana &mdash; dove oggi vive la maggior parte della popolazione.</p>
-                        </div>
-                    </div>
+            <div class="wm-hero__grid">
+                <div class="wm-hero__content">
+                    <span class="wm-badge">Provincia di Arezzo &middot; Toscana</span>
+                    <h1 class="wm-h1">Civitella in Pillole</h1>
+                    <p class="wm-lead">Un piccolo archivio dedicato a Civitella in Val di Chiana: un comune composto da un borgo storico e quattordici frazioni, tra le colline del Chianti e la pianura della Val di Chiana.</p>
+                    <a class="wm-btn wm-btn--light mt-4" href="frazioni.html">Esplora le frazioni <i class="bi bi-arrow-right"></i></a>
                 </div>
-                <div class="col-lg-6 mb-5">
-                    <div class="card bg-light border-0 h-100">
-                        <div class="card-body p-4 p-lg-5 pt-0 pt-lg-0">
-                            <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-book"></i></div>
-                            <h2 class="fs-4 fw-bold">Storia</h2>
-                            <p class="mb-3">Dalle origini etrusco-romane alla distruzione medievale, dall'eccidio nazifascista del 1944 alla Marcia per la pace che ogni anno lo ricorda: un percorso attraverso i secoli che hanno segnato il territorio.</p>
-                            <a class="fw-bold text-decoration-none" href="storia.html">Leggi la storia <i class="bi bi-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 mb-5">
-                    <div class="card bg-light border-0 h-100">
-                        <div class="card-body p-4 p-lg-5 pt-0 pt-lg-0">
-                            <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-map"></i></div>
-                            <h2 class="fs-4 fw-bold">Geografia</h2>
-                            <p class="mb-3">Un territorio a cavallo tra le prime propaggini dell'Appennino e la pianura della Val di Chiana, con vigneti di Chianti e oliveti che ne disegnano il paesaggio.</p>
-                            <a class="fw-bold text-decoration-none" href="geografia.html">Scopri il territorio <i class="bi bi-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 mb-5">
-                    <div class="card bg-light border-0 h-100">
-                        <div class="card-body p-4 p-lg-5 pt-0 pt-lg-0">
-                            <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-signpost-split"></i></div>
-                            <h2 class="fs-4 fw-bold">Le frazioni</h2>
-                            <p class="mb-3">Civitella (capoluogo storico), Albergo, Badia al Pino, Ciggiano, Cornia, Gebbia, Matroia, Oliveto, Pieve a Maiano, Pieve al Toppo, Ponticino, Spoiano, Tegoleto, Tuori e Viciomaggio: quindici volti dello stesso comune.</p>
-                            <a class="fw-bold text-decoration-none" href="frazioni.html">Vedi tutte le frazioni <i class="bi bi-arrow-right"></i></a>
-                        </div>
-                    </div>
+                <div class="wm-hero__media">
+                    <img src="assets/images/civitella-rocca.jpg" width="1600" height="914" alt="La Rocca di Civitella in Val di Chiana, borgo capoluogo del comune" loading="eager" />
                 </div>
             </div>
         </div>
+    </header>
+
+    <!-- Introduzione: paragrafo editoriale + numeri chiave del comune -->
+    <section class="wm-section wm-section--tight">
+        <div class="container px-lg-5">
+            <div class="wm-intro__grid">
+                <div>
+                    <span class="wm-eyebrow"><i class="bi bi-hourglass-split"></i> Il comune</span>
+                    <p class="wm-lead mt-3 mb-0">Civitella in Val di Chiana è un comune di circa 9.000 abitanti situato a una quindicina di chilometri a sud-ovest di Arezzo. Il capoluogo storico, un borgo collinare a 525 metri di altezza con la sua Rocca medievale, convive con quattordici frazioni sparse tra le colline e la pianura della Val di Chiana &mdash; dove oggi vive la maggior parte della popolazione.</p>
+                </div>
+                <ul class="wm-stats">
+                    <li>
+                        <span class="wm-stats__value">9.000</span>
+                        <span class="wm-stats__label">abitanti circa</span>
+                    </li>
+                    <li>
+                        <span class="wm-stats__value">14</span>
+                        <span class="wm-stats__label">frazioni oltre al capoluogo</span>
+                    </li>
+                    <li>
+                        <span class="wm-stats__value">525 m</span>
+                        <span class="wm-stats__label">la Rocca sul colle</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Percorsi di lettura: Storia, Geografia, Frazioni -->
+    <main class="pb-5">
+        <div class="container px-lg-5">
+            <div class="wm-cards-grid">
+                <article class="wm-card">
+                    <div class="wm-card__media">
+                        <img src="assets/images/eccidio-monumento.jpg" width="1600" height="1110" alt="Monumento commemorativo dell'eccidio del 1944 a Civitella" loading="lazy" />
+                    </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Storia</h2>
+                        <p class="wm-card__text">Dalle origini etrusco-romane alla distruzione medievale, dall'eccidio nazifascista del 1944 alla Marcia per la pace che ogni anno lo ricorda: un percorso attraverso i secoli che hanno segnato il territorio.</p>
+                        <a class="wm-card__link" href="storia.html">Leggi la storia <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media">
+                        <img src="assets/images/valdichiana-panorama.jpg" width="1600" height="1064" alt="Panorama della Val di Chiana" loading="lazy" />
+                    </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Geografia</h2>
+                        <p class="wm-card__text">Un territorio a cavallo tra le prime propaggini dell'Appennino e la pianura della Val di Chiana, con vigneti di Chianti e oliveti che ne disegnano il paesaggio.</p>
+                        <a class="wm-card__link" href="geografia.html">Scopri il territorio <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <article class="wm-card wm-card--wide">
+                    <div class="wm-card__media">
+                        <img src="assets/images/oliveto-villa-mazzi.jpg" width="1600" height="1064" alt="Villa Mazzi nella frazione di Oliveto" loading="lazy" />
+                    </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Le frazioni</h2>
+                        <p class="wm-card__text">Civitella (capoluogo storico), Albergo, Badia al Pino, Ciggiano, Cornia, Gebbia, Matroia, Oliveto, Pieve a Maiano, Pieve al Toppo, Ponticino, Spoiano, Tegoleto, Tuori e Viciomaggio: quindici volti dello stesso comune.</p>
+                        <a class="wm-card__link" href="frazioni.html">Vedi tutte le frazioni <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
+            </div>
+        </div>
     </main>
+
     <div id="footer-placeholder"></div>
-    <!-- Bootstrap core JS-->
+    <!-- Bootstrap core JS (solo per il comportamento di navbar/dropdown)-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
     <script src="js/partials.js"></script>
 </body>
