@@ -8,149 +8,184 @@
     <meta name="author" content="Fabrizio Martini" />
     <title>Frazioni &mdash; Civitella in Pillole</title>
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
     <link href="css/styles.css" rel="stylesheet" />
-    <link href="css/civitella.css" rel="stylesheet" />
+    <link href="css/warm-modern.css" rel="stylesheet" />
 </head>
 
 <body data-base-path="">
     <div id="navbar-placeholder"></div>
-    <header class="hero text-center">
+
+    <header class="wm-hero wm-hero--page">
         <div class="container px-lg-5">
-            <h1 class="display-5 fw-bold">Le frazioni</h1>
-            <p class="fs-5 mb-0">Il capoluogo storico e le quattordici frazioni del comune.</p>
+            <h1 class="wm-h1">Le frazioni</h1>
+            <p class="wm-lead">Il capoluogo storico e le quattordici frazioni del comune.</p>
         </div>
     </header>
-    <main class="pb-5">
+
+    <main class="pb-5 pt-5">
         <div class="container px-lg-5">
-            <p class="mx-auto mb-4" style="max-width: 800px;">Alcune pagine hanno già un contenuto completo, altre sono ancora uno scaffold in attesa di essere popolato &mdash; il lavoro procede per iterazioni successive.</p>
-            <div class="row gx-lg-5">
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card frazione-card-speciale bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <span class="frazione-badge mb-2">Capoluogo storico</span>
-                            <h2 class="fs-5 fw-bold mt-2">Civitella in Val di Chiana</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/civitella.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+            <p class="wm-lead mb-5" style="max-width: 720px;">Alcune pagine hanno già un contenuto completo, altre sono ancora uno scaffold in attesa di essere popolato &mdash; il lavoro procede per iterazioni successive.</p>
+
+            <div class="wm-cards-grid wm-cards-grid--frazioni">
+                <article class="wm-card">
+                    <div class="wm-card__media">
+                        <img src="assets/images/civitella-rocca.jpg" width="1600" height="914" alt="La Rocca di Civitella in Val di Chiana" loading="lazy" />
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Albergo</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/albergo.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                    <div class="wm-card__body">
+                        <span class="wm-card__badge">Capoluogo storico</span>
+                        <h2 class="wm-card__title">Civitella in Val di Chiana</h2>
+                        <a class="wm-card__link" href="frazioni/civitella.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card frazione-card-speciale bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <span class="frazione-badge mb-2">Sede comunale</span>
-                            <h2 class="fs-5 fw-bold mt-2">Badia al Pino</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/badia-al-pino.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media wm-card__media--icon">
+                        <i class="bi bi-geo-alt"></i>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Ciggiano</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/ciggiano.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Albergo</h2>
+                        <a class="wm-card__link" href="frazioni/albergo.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Cornia</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/cornia.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media">
+                        <img src="assets/images/badia-al-pino-san-bartolomeo.jpg" width="1600" height="1200" alt="Chiesa di San Bartolomeo, Badia al Pino" loading="lazy" />
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Matroia</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/matroia.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                    <div class="wm-card__body">
+                        <span class="wm-card__badge">Sede comunale</span>
+                        <h2 class="wm-card__title">Badia al Pino</h2>
+                        <a class="wm-card__link" href="frazioni/badia-al-pino.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Gebbia</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/gebbia.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media">
+                        <img src="assets/images/ciggiano-san-biagio.jpg" width="1064" height="1600" alt="Chiesa di San Biagio, Ciggiano" loading="lazy" />
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Oliveto</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/oliveto.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Ciggiano</h2>
+                        <a class="wm-card__link" href="frazioni/ciggiano.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Pieve a Maiano</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/pieve-a-maiano.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media">
+                        <img src="assets/images/cornia-san-michele-arcangelo.jpg" width="1064" height="1600" alt="Chiesa di San Michele Arcangelo, Cornia" loading="lazy" />
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Pieve al Toppo</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/pieve-al-toppo.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Cornia</h2>
+                        <a class="wm-card__link" href="frazioni/cornia.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card frazione-card-speciale bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <span class="frazione-badge mb-2">Frazione condivisa con altri comuni</span>
-                            <h2 class="fs-5 fw-bold mt-2">Ponticino</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/ponticino.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media wm-card__media--icon">
+                        <i class="bi bi-geo-alt"></i>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Spoiano</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/spoiano.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Matroia</h2>
+                        <a class="wm-card__link" href="frazioni/matroia.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Tegoleto</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/tegoleto.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media wm-card__media--icon">
+                        <i class="bi bi-geo-alt"></i>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Tuori</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/tuori.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Gebbia</h2>
+                        <a class="wm-card__link" href="frazioni/gebbia.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
                     </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="card frazione-card bg-light border-0 h-100">
-                        <div class="card-body p-4">
-                            <h2 class="fs-5 fw-bold mt-2">Viciomaggio</h2>
-                            <a class="fw-bold text-decoration-none" href="frazioni/viciomaggio.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
-                        </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media">
+                        <img src="assets/images/oliveto-villa-mazzi.jpg" width="1600" height="1064" alt="Villa Mazzi (Villa Oliveto), a Oliveto" loading="lazy" />
                     </div>
-                </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Oliveto</h2>
+                        <a class="wm-card__link" href="frazioni/oliveto.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media">
+                        <img src="assets/images/pieve-a-maiano-chiesa.jpg" width="1600" height="1200" alt="Chiesa e pieve di Santa Maria Assunta, Pieve a Maiano" loading="lazy" />
+                    </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Pieve a Maiano</h2>
+                        <a class="wm-card__link" href="frazioni/pieve-a-maiano.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media wm-card__media--icon">
+                        <i class="bi bi-geo-alt"></i>
+                    </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Pieve al Toppo</h2>
+                        <a class="wm-card__link" href="frazioni/pieve-al-toppo.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media wm-card__media--icon">
+                        <i class="bi bi-geo-alt"></i>
+                    </div>
+                    <div class="wm-card__body">
+                        <span class="wm-card__badge">Frazione condivisa con altri comuni</span>
+                        <h2 class="wm-card__title">Ponticino</h2>
+                        <a class="wm-card__link" href="frazioni/ponticino.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media wm-card__media--icon">
+                        <i class="bi bi-geo-alt"></i>
+                    </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Spoiano</h2>
+                        <a class="wm-card__link" href="frazioni/spoiano.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media wm-card__media--icon">
+                        <i class="bi bi-geo-alt"></i>
+                    </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Tegoleto</h2>
+                        <a class="wm-card__link" href="frazioni/tegoleto.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media">
+                        <img src="assets/images/tuori-santi-giorgio-e-luca.jpg" width="1600" height="1200" alt="Chiesa dei Santi Giorgio e Luca, Tuori" loading="lazy" />
+                    </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Tuori</h2>
+                        <a class="wm-card__link" href="frazioni/tuori.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
+
+                <article class="wm-card">
+                    <div class="wm-card__media">
+                        <img src="assets/images/viciomaggio-veduta.jpg" width="1600" height="935" alt="Veduta di Viciomaggio dalla collina di Marfiano" loading="lazy" />
+                    </div>
+                    <div class="wm-card__body">
+                        <h2 class="wm-card__title">Viciomaggio</h2>
+                        <a class="wm-card__link" href="frazioni/viciomaggio.html">Scopri di più <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </article>
             </div>
         </div>
     </main>
+
     <div id="footer-placeholder"></div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
     <script src="js/partials.js"></script>

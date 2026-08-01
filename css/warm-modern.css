@@ -1,0 +1,642 @@
+/*
+ * Civitella in Pillole — direzione "warm-modern"
+ * Palette terracotta / oliva / crema ispirata al paesaggio della Val di Chiana,
+ * tipografia sans-serif contemporanea, card arrotondate, fotografia protagonista.
+ *
+ * Riferimenti di design (vedi rationale nel commit): Airbnb, Casa Cook Hotels,
+ * Our Habitas. Questo file sostituisce css/civitella.css su index.html e
+ * frazioni/civitella.html; si appoggia solo al reset/griglia di Bootstrap
+ * presenti in css/styles.css (container/row/col, componente navbar/dropdown),
+ * ridisegnando da zero tipografia, colori, spaziatura, forme e componenti.
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap");
+
+:root {
+  /* --- Colore --- */
+  --wm-cream: #fbf4ea;
+  --wm-cream-deep: #f3e6d3;
+  --wm-sand: #ecdbc0;
+  --wm-ink: #362a1e;
+  --wm-ink-soft: #6b5a48;
+  --wm-terracotta: #c1602f;
+  --wm-terracotta-deep: #96471f;
+  --wm-terracotta-tint: #f2d9c6;
+  --wm-olive: #6e7a45;
+  --wm-olive-deep: #4e5730;
+  --wm-gold: #d2952f;
+  --wm-white: #ffffff;
+
+  /* --- Tipografia --- */
+  --wm-font-display: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --wm-font-body: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --wm-fs-h1: clamp(2.25rem, 1.65rem + 2.6vw, 3.5rem);
+  --wm-fs-h2: clamp(1.75rem, 1.5rem + 1.1vw, 2.375rem);
+  --wm-fs-h3: clamp(1.375rem, 1.25rem + 0.55vw, 1.625rem);
+  --wm-fs-h4: 1.2rem;
+  --wm-fs-lead: clamp(1.125rem, 1.05rem + 0.3vw, 1.3rem);
+  --wm-fs-body: 1.0625rem;
+  --wm-fs-small: 0.9375rem;
+  --wm-fs-xs: 0.8125rem;
+
+  /* --- Spaziatura (scala 4px) --- */
+  --wm-space-1: 0.25rem;
+  --wm-space-2: 0.5rem;
+  --wm-space-3: 0.75rem;
+  --wm-space-4: 1rem;
+  --wm-space-5: 1.5rem;
+  --wm-space-6: 2rem;
+  --wm-space-7: 3rem;
+  --wm-space-8: 4rem;
+  --wm-space-9: 6rem;
+
+  /* --- Raggi e ombre --- */
+  --wm-radius-sm: 12px;
+  --wm-radius-md: 20px;
+  --wm-radius-lg: 32px;
+  --wm-radius-full: 999px;
+  --wm-shadow-sm: 0 2px 10px rgba(54, 42, 30, 0.07);
+  --wm-shadow-md: 0 14px 32px rgba(54, 42, 30, 0.12);
+  --wm-shadow-lg: 0 26px 54px rgba(54, 42, 30, 0.18);
+}
+
+/* ============ Base ============ */
+
+body {
+  font-family: var(--wm-font-body);
+  font-size: var(--wm-fs-body);
+  line-height: 1.65;
+  background-color: var(--wm-cream);
+  color: var(--wm-ink);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--wm-font-display);
+  font-weight: 700;
+  line-height: 1.18;
+  letter-spacing: -0.01em;
+  color: var(--wm-ink);
+}
+
+p {
+  margin-bottom: var(--wm-space-4);
+}
+
+a {
+  color: var(--wm-terracotta-deep);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--wm-terracotta);
+}
+
+main :focus-visible,
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--wm-terracotta);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+::selection {
+  background: var(--wm-terracotta-tint);
+  color: var(--wm-terracotta-deep);
+}
+
+.wm-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-family: var(--wm-font-display);
+  font-weight: 700;
+  font-size: var(--wm-fs-xs);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--wm-terracotta-deep);
+}
+
+.wm-badge {
+  display: inline-block;
+  padding: 0.4rem 0.95rem;
+  border-radius: var(--wm-radius-full);
+  font-family: var(--wm-font-display);
+  font-weight: 600;
+  font-size: var(--wm-fs-xs);
+  letter-spacing: 0.02em;
+  background: rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  color: var(--wm-white);
+}
+
+.wm-h1 { font-size: var(--wm-fs-h1); }
+.wm-h2 { font-size: var(--wm-fs-h2); }
+.wm-h3 {
+  font-size: var(--wm-fs-h3);
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+.wm-h3 .bi { color: var(--wm-terracotta); font-size: 0.9em; }
+
+.wm-lead {
+  font-size: var(--wm-fs-lead);
+  line-height: 1.55;
+  color: var(--wm-ink);
+}
+
+/* ============ Navbar (markup generato da js/partials.js) ============ */
+
+.navbar.bg-dark {
+  background-color: var(--wm-ink) !important;
+  box-shadow: 0 2px 18px rgba(0, 0, 0, 0.18);
+  padding-top: var(--wm-space-4);
+  padding-bottom: var(--wm-space-4);
+}
+
+.navbar-brand {
+  font-family: var(--wm-font-display);
+  font-weight: 800;
+  font-size: 1.15rem;
+  letter-spacing: -0.01em;
+  color: var(--wm-white) !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  font-family: var(--wm-font-display);
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: rgba(255, 255, 255, 0.82);
+  padding: 0.5rem 0.9rem !important;
+  border-radius: var(--wm-radius-full);
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus {
+  color: var(--wm-white) !important;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+  color: var(--wm-white) !important;
+  background-color: var(--wm-terracotta);
+}
+
+.navbar-dark .navbar-nav .dropdown-toggle::after {
+  vertical-align: 0.15em;
+}
+
+.dropdown-menu {
+  border: none;
+  border-radius: var(--wm-radius-md);
+  box-shadow: var(--wm-shadow-lg);
+  padding: 0.5rem;
+  margin-top: 0.6rem !important;
+}
+
+.dropdown-item {
+  font-family: var(--wm-font-body);
+  font-size: 0.925rem;
+  border-radius: var(--wm-radius-sm);
+  padding: 0.5rem 1rem;
+  color: var(--wm-ink);
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus,
+.dropdown-item.active {
+  background-color: var(--wm-terracotta-tint);
+  color: var(--wm-terracotta-deep);
+}
+
+/* ============ Hero — homepage (split, con foto) ============ */
+
+.wm-hero {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(155deg, var(--wm-ink) 0%, var(--wm-terracotta-deep) 68%, var(--wm-terracotta) 120%);
+  padding: var(--wm-space-8) 0;
+  color: var(--wm-white);
+}
+
+.wm-hero__grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--wm-space-7);
+  align-items: center;
+}
+
+@media (min-width: 992px) {
+  .wm-hero__grid {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--wm-space-8);
+  }
+}
+
+.wm-hero__content .wm-badge { margin-bottom: var(--wm-space-4); }
+
+.wm-hero__content h1 {
+  margin: var(--wm-space-4) 0 var(--wm-space-4);
+  color: var(--wm-white);
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.22);
+}
+
+.wm-hero__content p {
+  color: rgba(255, 255, 255, 0.9);
+  max-width: 46ch;
+}
+
+.wm-hero__media {
+  position: relative;
+  border-radius: var(--wm-radius-lg);
+  overflow: hidden;
+  box-shadow: var(--wm-shadow-lg);
+}
+
+.wm-hero__media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 16 / 11;
+  object-fit: cover;
+}
+
+.wm-hero__media::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(200deg, rgba(54, 42, 30, 0) 55%, rgba(54, 42, 30, 0.35) 100%);
+  pointer-events: none;
+}
+
+/* ============ Hero — pagina interna (solo testo) ============ */
+
+.wm-hero--page {
+  padding: var(--wm-space-7) 0 calc(var(--wm-space-9) + var(--wm-space-4));
+  text-align: left;
+}
+
+.wm-hero--page .wm-badge { margin-bottom: var(--wm-space-3); }
+
+.wm-hero--page h1 {
+  margin: var(--wm-space-3) 0 var(--wm-space-3);
+  color: var(--wm-white);
+}
+
+.wm-hero--page p {
+  color: rgba(255, 255, 255, 0.92);
+  margin-bottom: 0;
+}
+
+/* Foto in evidenza che "sale" sopra l'hero di pagina, motivo ricorrente warm-modern */
+
+.wm-feature-photo {
+  margin-top: calc(-1 * var(--wm-space-9));
+  position: relative;
+  z-index: 2;
+  margin-bottom: var(--wm-space-7);
+}
+
+.wm-feature-photo figure {
+  margin: 0;
+  max-width: 900px;
+  margin-inline: auto;
+}
+
+.wm-feature-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9.15;
+  object-fit: cover;
+  border-radius: var(--wm-radius-lg);
+  box-shadow: var(--wm-shadow-lg);
+}
+
+.wm-feature-photo figcaption {
+  margin-top: var(--wm-space-3);
+  font-size: var(--wm-fs-xs);
+  color: var(--wm-ink-soft);
+  text-align: center;
+}
+
+.wm-feature-photo figcaption a {
+  color: var(--wm-ink-soft);
+  text-decoration: underline;
+}
+
+/* ============ Sezioni generiche ============ */
+
+.wm-section {
+  padding: var(--wm-space-8) 0;
+}
+
+.wm-section--tight { padding: var(--wm-space-6) 0; }
+
+/* ============ Intro / stats strip (homepage) ============ */
+
+.wm-intro__grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--wm-space-6);
+  align-items: start;
+}
+
+@media (min-width: 992px) {
+  .wm-intro__grid {
+    grid-template-columns: 1.4fr 1fr;
+    gap: var(--wm-space-8);
+  }
+}
+
+.wm-stats {
+  list-style: none;
+  margin: 0;
+  padding: var(--wm-space-5);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--wm-space-4);
+  background: var(--wm-cream-deep);
+  border-radius: var(--wm-radius-md);
+  border: 1px solid var(--wm-sand);
+}
+
+@media (min-width: 992px) {
+  .wm-stats {
+    grid-template-columns: 1fr;
+  }
+}
+
+.wm-stats li {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.wm-stats__value {
+  font-family: var(--wm-font-display);
+  font-weight: 800;
+  font-size: 1.75rem;
+  color: var(--wm-terracotta-deep);
+  line-height: 1;
+}
+
+.wm-stats__label {
+  font-size: var(--wm-fs-xs);
+  color: var(--wm-ink-soft);
+}
+
+/* ============ Card grid (homepage) ============ */
+
+.wm-cards-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--wm-space-6);
+}
+
+@media (min-width: 768px) {
+  .wm-cards-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.wm-card {
+  background: var(--wm-white);
+  border-radius: var(--wm-radius-lg);
+  overflow: hidden;
+  box-shadow: var(--wm-shadow-sm);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.wm-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--wm-shadow-md);
+}
+
+.wm-card__media {
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+}
+
+.wm-card__media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.wm-card__body {
+  padding: var(--wm-space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--wm-space-2);
+  flex: 1;
+}
+
+.wm-card__title {
+  font-size: var(--wm-fs-h4);
+  margin: 0;
+}
+
+.wm-card__text {
+  color: var(--wm-ink-soft);
+  font-size: var(--wm-fs-small);
+  margin: 0 0 var(--wm-space-2);
+  flex: 1;
+}
+
+.wm-card__link {
+  font-family: var(--wm-font-display);
+  font-weight: 700;
+  font-size: var(--wm-fs-small);
+  color: var(--wm-terracotta-deep);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.wm-card__link .bi { transition: transform 0.15s ease; }
+.wm-card:hover .wm-card__link .bi { transform: translateX(3px); }
+
+/* Card larga (Le frazioni): immagine + testo affiancati */
+
+.wm-card--wide {
+  grid-column: 1 / -1;
+  flex-direction: column;
+}
+
+@media (min-width: 768px) {
+  .wm-card--wide {
+    flex-direction: row;
+  }
+  .wm-card--wide .wm-card__media {
+    width: 42%;
+    aspect-ratio: auto;
+  }
+  .wm-card--wide .wm-card__body {
+    width: 58%;
+  }
+}
+
+/* ============ Bottoni ============ */
+
+.wm-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--wm-font-display);
+  font-weight: 700;
+  font-size: 0.95rem;
+  padding: 0.8rem 1.6rem;
+  border-radius: var(--wm-radius-full);
+  transition: background-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
+}
+
+.wm-btn--light {
+  background-color: var(--wm-white);
+  color: var(--wm-terracotta-deep);
+}
+
+.wm-btn--light:hover {
+  background-color: var(--wm-cream-deep);
+  color: var(--wm-terracotta-deep);
+  transform: translateY(-2px);
+}
+
+/* ============ Contenuto articolo (pagine di dettaglio) ============ */
+
+.wm-article {
+  max-width: 720px;
+  margin-inline: auto;
+}
+
+.wm-article h2 {
+  margin-top: var(--wm-space-7);
+  margin-bottom: var(--wm-space-3);
+}
+
+.wm-article h2:first-child { margin-top: 0; }
+
+.wm-article p { color: var(--wm-ink); }
+
+.wm-article a { text-decoration: underline; text-decoration-color: var(--wm-terracotta-tint); text-underline-offset: 2px; }
+
+.wm-feature-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: var(--wm-space-3);
+}
+
+.wm-feature-list li {
+  background: var(--wm-cream-deep);
+  border-radius: var(--wm-radius-md);
+  padding: var(--wm-space-4) var(--wm-space-5);
+  border-left: 4px solid var(--wm-olive);
+}
+
+.wm-feature-list strong {
+  color: var(--wm-terracotta-deep);
+  font-family: var(--wm-font-display);
+}
+
+.wm-callout {
+  background: linear-gradient(155deg, var(--wm-ink) 0%, var(--wm-terracotta-deep) 100%);
+  color: rgba(255, 255, 255, 0.95);
+  border-radius: var(--wm-radius-md);
+  padding: var(--wm-space-5) var(--wm-space-6);
+  box-shadow: var(--wm-shadow-sm);
+}
+
+.wm-callout p { margin-bottom: 0; color: inherit; }
+.wm-callout a { color: var(--wm-white); text-decoration-color: rgba(255, 255, 255, 0.5); }
+
+.wm-note {
+  background: var(--wm-cream-deep);
+  border: 1px dashed var(--wm-sand);
+  border-radius: var(--wm-radius-md);
+  padding: var(--wm-space-4) var(--wm-space-5);
+  font-size: var(--wm-fs-small);
+  color: var(--wm-ink-soft);
+}
+
+/* ============ Footer (markup generato da js/partials.js) ============ */
+
+.site-footer {
+  background-color: var(--wm-ink) !important;
+  border-top: none;
+  padding-top: var(--wm-space-8) !important;
+  padding-bottom: var(--wm-space-6) !important;
+}
+
+.site-footer h2,
+.site-footer h3 {
+  font-family: var(--wm-font-display);
+  font-size: var(--wm-fs-h4);
+  color: var(--wm-white);
+}
+
+.site-footer p {
+  color: rgba(255, 255, 255, 0.72) !important;
+}
+
+.site-footer a {
+  color: rgba(255, 255, 255, 0.8);
+  font-family: var(--wm-font-body);
+}
+
+.site-footer a:hover { color: var(--wm-gold); text-decoration: underline; }
+
+.site-footer .footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.55);
+  font-size: var(--wm-fs-xs);
+}
+
+/* ============ Varianti card — pagina elenco frazioni ============ */
+
+/* Su schermi larghi la griglia di 15 card passa a 3 colonne per restare compatta */
+@media (min-width: 1200px) {
+  .wm-cards-grid--frazioni {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Badge di stato (capoluogo, sede comunale, frazione condivisa) sopra il titolo card */
+.wm-card__badge {
+  display: inline-block;
+  align-self: flex-start;
+  padding: 0.3rem 0.75rem;
+  border-radius: var(--wm-radius-full);
+  font-family: var(--wm-font-display);
+  font-weight: 700;
+  font-size: var(--wm-fs-xs);
+  letter-spacing: 0.02em;
+  background: var(--wm-terracotta-tint);
+  color: var(--wm-terracotta-deep);
+}
+
+/* Media placeholder per le frazioni senza foto disponibile: stessa forma/raggio della card fotografica */
+.wm-card__media--icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--wm-cream-deep);
+}
+
+.wm-card__media--icon i {
+  font-size: 2.5rem;
+  color: var(--wm-olive);
+}
+
+/* ============ Responsive tweaks ============ */
+
+@media (max-width: 767.98px) {
+  .wm-feature-photo { margin-top: calc(-1 * var(--wm-space-7)); }
+  .wm-hero--page { padding-bottom: calc(var(--wm-space-8) + var(--wm-space-3)); }
+}

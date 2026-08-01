@@ -8,46 +8,59 @@
     <meta name="author" content="Fabrizio Martini" />
     <title>Viciomaggio &mdash; Civitella in Pillole</title>
     <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
     <link href="../css/styles.css" rel="stylesheet" />
-    <link href="../css/civitella.css" rel="stylesheet" />
+    <link href="../css/warm-modern.css" rel="stylesheet" />
 </head>
 
 <body data-base-path="../">
     <div id="navbar-placeholder"></div>
-    <header class="hero text-center">
+
+    <header class="wm-hero wm-hero--page">
         <div class="container px-lg-5">
-            <h1 class="display-5 fw-bold mt-2">Viciomaggio</h1>
-                <p class="fs-5 mb-0">Un toponimo romano, una leggenda su Annibale e una pagina dolorosa del 1944.</p>
+            <h1 class="wm-h1">Viciomaggio</h1>
+            <p class="wm-lead">Un toponimo romano, una leggenda su Annibale e una pagina dolorosa del 1944.</p>
         </div>
     </header>
+
+    <div class="wm-feature-photo">
+        <div class="container px-lg-5">
+            <figure>
+                <img src="../assets/images/viciomaggio-veduta.jpg" width="1600" height="935" alt="Veduta della frazione di Viciomaggio dalla collina di Marfiano" loading="eager" />
+                <figcaption>Foto: Undini Alessio, <a href="https://commons.wikimedia.org/wiki/File:Viciomaggio.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>, pubblico dominio</figcaption>
+            </figure>
+        </div>
+    </div>
+
     <main class="pb-5">
         <div class="container px-lg-5">
-            <article class="mx-auto" style="max-width: 800px;">
-                <figure class="photo">
-                    <img src="../assets/images/viciomaggio-veduta.jpg" alt="Veduta della frazione di Viciomaggio dalla collina di Marfiano" loading="lazy" />
-                    <figcaption class="image-credit">Foto: Undini Alessio, <a href="https://commons.wikimedia.org/wiki/File:Viciomaggio.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>, pubblico dominio</figcaption>
-                </figure>
-                <h2 class="section-heading fs-3 fw-bold mt-4"><i class="bi bi-hourglass-split"></i>Storia</h2>
+            <article class="wm-article">
+                <h2 class="wm-h3"><i class="bi bi-hourglass-split"></i>Storia</h2>
                 <p>Viciomaggio è una località di origine romana il cui toponimo deriva da <em>Vicus maius</em> ("Vicione maggiore"). È ricordata in un atto notarile del 1024, e storicamente ha svolto funzioni agricole e commerciali grazie alla sua posizione lungo il percorso tra Arezzo e <a href="civitella.html">Civitella</a>.</p>
 
-                <h2 class="section-heading fs-3 fw-bold mt-5"><i class="bi bi-bank2"></i>Chiese e monumenti</h2>
-                <ul>
+                <h2 class="wm-h3"><i class="bi bi-bank2"></i>Chiese e monumenti</h2>
+                <ul class="wm-feature-list">
                     <li><strong>Chiesa di San Martino</strong>: l'attuale parrocchiale, situata all'ingresso del paese. La chiesa altomedievale originaria è scomparsa e il titolo è stato trasferito al nuovo edificio.</li>
                     <li><strong>Villa Milioni</strong>: in località Fondaccio, edificio settecentesco con cappella secentesca annessa, riconoscibile per l'antico orologio sul fianco sud.</li>
                     <li><strong>Poggio Castellare</strong>: sede di un antico fortilizio, prima bizantino e poi longobardo.</li>
                 </ul>
 
-                <h2 class="section-heading fs-3 fw-bold mt-5"><i class="bi bi-signpost-2"></i>Popolazione e punti di interesse</h2>
+                <h2 class="wm-h3"><i class="bi bi-signpost-2"></i>Popolazione e punti di interesse</h2>
                 <p>La frazione conta 905 abitanti. Nelle vicinanze si trovano i piccoli borghi medievali di Malpertuso e Le Fosse, oltre all'antico insediamento di Tribbio.</p>
 
-                <h2 class="section-heading fs-3 fw-bold mt-5"><i class="bi bi-stars"></i>Curiosità e memoria</h2>
-                <p>Una leggenda locale, priva di riscontro storico ma parte del folklore del paese, attribuisce il nome <em>Vicus Major</em> al passaggio di Annibale in questi luoghi. Meno leggendaria, purtroppo, è un'altra data: il 29 marzo 1944 la frazione fu teatro di una strage fascista in cui fu ucciso Mario Mannelli, un episodio che si inserisce nel quadro più ampio della violenza nazifascista che avrebbe colpito il territorio comunale pochi mesi dopo, il 29 giugno 1944 (vedi la pagina <a href="../storia.html">Storia</a>).</p>
+                <h2 class="wm-h3"><i class="bi bi-stars"></i>Curiosità e memoria</h2>
+                <div class="wm-callout">
+                    <p>Una leggenda locale, priva di riscontro storico ma parte del folklore del paese, attribuisce il nome <em>Vicus Major</em> al passaggio di Annibale in questi luoghi. Meno leggendaria, purtroppo, è un'altra data: il 29 marzo 1944 la frazione fu teatro di una strage fascista in cui fu ucciso Mario Mannelli, un episodio che si inserisce nel quadro più ampio della violenza nazifascista che avrebbe colpito il territorio comunale pochi mesi dopo, il 29 giugno 1944 (vedi la pagina <a href="../storia.html">Storia</a>).</p>
+                </div>
 
-                <p class="mt-4">Le fonti usate per il sito sono elencate nella pagina <a href="../fonti.html">Fonti</a>.</p>
+                <h2 class="wm-h3"><i class="bi bi-info-circle"></i>Una nota</h2>
+                <p class="wm-note">Le fonti usate per il sito sono elencate nella pagina <a href="../fonti.html">Fonti</a>.</p>
             </article>
         </div>
     </main>
+
     <div id="footer-placeholder"></div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
     <script src="../js/partials.js"></script>
