@@ -598,6 +598,42 @@ button:focus-visible {
   font-size: var(--wm-fs-xs);
 }
 
+/* ============ Varianti card — pagina elenco frazioni ============ */
+
+/* Su schermi larghi la griglia di 15 card passa a 3 colonne per restare compatta */
+@media (min-width: 1200px) {
+  .wm-cards-grid--frazioni {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Badge di stato (capoluogo, sede comunale, frazione condivisa) sopra il titolo card */
+.wm-card__badge {
+  display: inline-block;
+  align-self: flex-start;
+  padding: 0.3rem 0.75rem;
+  border-radius: var(--wm-radius-full);
+  font-family: var(--wm-font-display);
+  font-weight: 700;
+  font-size: var(--wm-fs-xs);
+  letter-spacing: 0.02em;
+  background: var(--wm-terracotta-tint);
+  color: var(--wm-terracotta-deep);
+}
+
+/* Media placeholder per le frazioni senza foto disponibile: stessa forma/raggio della card fotografica */
+.wm-card__media--icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--wm-cream-deep);
+}
+
+.wm-card__media--icon i {
+  font-size: 2.5rem;
+  color: var(--wm-olive);
+}
+
 /* ============ Responsive tweaks ============ */
 
 @media (max-width: 767.98px) {
