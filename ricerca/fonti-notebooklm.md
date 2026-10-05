@@ -9,6 +9,92 @@ o segnato come non verificato.
 
 ---
 
+## ⚡ Blocchi pronti da incollare
+
+In NotebookLM: **+ Aggiungi → Sito web**, poi incollare un blocco intero. I link sono uno per riga
+perché NotebookLM separa gli indirizzi con uno spazio o un a capo, non con la virgola. Se un link
+dà errore, eliminarlo dalla lista e caricarlo con "Testo copiato".
+
+### Blocco A: sito del Comune
+```
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/itinerari/itinerario_1.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/itinerari/itinerario_2.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/itinerari/itinerario_3.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/itinerari/itinerario_4.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_1.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_15.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_23.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_24.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_30.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_31.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_32.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_33.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_34.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_35.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_36.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_37.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_38.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_39.html
+https://www.comune.civitella-in-val-di-chiana.ar.it/vivere_il_comune/luoghi/luogo_40.html
+http://www.halleyweb.com/c051016/zf/index.php/servizi-aggiuntivi/index/index/idtesto/71
+http://www.halleyweb.com/c051016/zf/index.php/servizi-aggiuntivi/index/index/idtesto/77
+```
+Nota: `itinerario_1/3/4` e `luogo_30/32/35/37/40` sono indirizzi dedotti dalla numerazione e
+non verificati. Se non esistono o non riguardano Civitella e le frazioni, eliminarli dal notebook.
+
+### Blocco B: storia, chiese, beni culturali
+```
+https://www.treccani.it/enciclopedia/pieve-al-toppo_(Enciclopedia-Dantesca)/
+https://diocesi.arezzo.it/chiese-parrocchiali/
+https://diocesi.arezzo.it/ciggiano/
+http://www.chieseitaliane.chiesacattolica.it/SCHEDA=50726&Chiesa_di_San_Biagio__Ciggiano,_Civitella_in_Val_di_Chiana
+http://www.chieseitaliane.chiesacattolica.it/SCHEDA=50716&Chiesa_di_Santa_Maria_Assunta__Civitella_in_Val_di_Chiana
+https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/09iccd_modi_4749768586751
+https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/09iccd_modi_3625118586751
+http://dati.san.beniculturali.it/SAN/produttore_SIUSA_san.cat.sogP.61110
+http://dati.san.beniculturali.it/SAN/produttore_SIUSA_san.cat.sogP.61101
+https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?TipoPag=cons&Chiave=11220
+```
+
+### Blocco C: 1944 e Novecento
+```
+https://www.archiviodellamemoriacivitellavaldichiana.it/en/i-luoghi-della-strage/
+https://www.archiviodellamemoriacivitellavaldichiana.it/gebbia/
+https://www.regione.toscana.it/-/villa-oliveto
+https://www.storiaememorie.it/villaoliveto/ShedeCampi/VillaOliveto.htm
+```
+
+### Blocco D: Wikipedia (solo per il controllo incrociato)
+```
+https://it.wikipedia.org/wiki/Civitella_in_Val_di_Chiana
+https://it.wikipedia.org/wiki/Badia_al_Pino
+https://it.wikipedia.org/wiki/Giostre_del_Toppo
+https://it.wikipedia.org/wiki/Villa_Oliveto
+```
+
+### PDF da scaricare e caricare con "+ Aggiungi → Carica"
+Aprire ogni link nel browser, salvare il file e caricarlo. Incollati come "Sito web", i PDF spesso
+non vengono letti bene.
+```
+https://www.straginazifasciste.it/wp-content/uploads/schede/CIVITELLA%20IN%20VAL%20DI%20CHIANA%2029.06.1944.pdf
+https://www.straginazifasciste.it/wp-content/uploads/schede/SAN%20PANCRAZIO%20BUCINE%2029.06.1944.pdf
+https://diocesi.arezzo.it/wp-content/uploads/sites/2/2022/03/ANNUARIO-PARROCCHIE-2022.pdf
+https://cloud.ldpgis.it/sites/civitellavaldichiana/files/ps/b_pieve_al_toppo.pdf
+https://cloud.ldpgis.it/civitellavaldichiana/sites/civitellavaldichiana/files/ps/l_viciomaggio.pdf
+https://cloud.ldpgis.it/sites/civitellavaldichiana/files/ps/m_tuori.pdf
+```
+Dal portale https://cloud.ldpgis.it/civitellavaldichiana/ps scaricare anche:
+- le Norme Tecniche del PS;
+- il Repertorio dei beni di interesse storico;
+- le schede degli edifici storici delle altre frazioni.
+
+### Da caricare con "Testo copiato"
+Le voci del Repetti (http://www.archeogr.unisi.it/repetti/): Civitella, Oliveto, Ciggiano,
+Viciomaggio, Tuori, Badia al Pino, Pieve al Toppo, Tegoleto, Albergo, Cornia, Spoiano. Una voce per
+fonte, intitolata "Repetti – voce X".
+
+---
+
 ## 1. Fonti istituzionali del Comune (priorità massima)
 
 ### Schede "Luoghi" del sito comunale
