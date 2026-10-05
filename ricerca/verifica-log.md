@@ -116,3 +116,28 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
   - tutta la pagina di Matroia;
   - Cornia: Parco faunistico e ANPIL.
 - **In sospeso, serve l'ISTAT:** la popolazione delle frazioni.
+
+---
+
+# Notebook 2: Piano Strutturale (Norme Tecniche e Repertorio dei beni storici)
+
+- **Matroia:**
+  - Confermato l'allevamento di cavalli (NTA art. 49). L'ambito è "fondovalle, pianura e lungo la Via Vecchia Senese": quindi **non** è un nucleo collinare, e il "272 m" non ha fonte.
+  - Il Repertorio vi censisce i resti di un convento con chiesetta di San Michele Arcangelo e una sorgente medicamentosa. La pagina diceva invece "nessuna struttura religiosa".
+  - Tolti terrazzamenti, Chianti, esodo, "trenta abitanti" e impianto medievale: la pagina è stata riscritta.
+- **Pieve a Maiano:** confermate la fornace di Vallimboi e le ceramiche del I–II secolo; tolta Casa al Cincio. Aggiunti gli altri ritrovamenti: scultura marmorea, fornace agli Ortali, moneta d'oro di Claudio.
+- **Oliveto:**
+  - Confermati il cassero (oggi abitazione), la porta e le mura, la Cappella della Compagnia (1637) e San Rocco (tabernacolo diventato cappella nel XIX secolo). Il "torrione presso la Porta Nord" non è nelle fonti.
+  - Aggiunta la Casa del Podestà.
+- **Spoiano:**
+  - Confermata Villa Pecchioli, settecentesca, con torre piccionaia.
+  - Il **portale ad arco policentrico appartiene al Saracino di Tuori**: era attribuito al luogo sbagliato, tolto.
+  - Aggiunto il tesoretto monetale romano. Tolta la "chiesetta ad aula unica" (doppione della chiesa di Spoiano).
+- **Ponticino:** il ponte romanico non è nelle fonti; l'unico bene censito è il Mulino di Ponticino. Sostituito.
+- **Cornia:** il Parco faunistico e l'ANPIL sono confermati (NTA artt. 23 e 53).
+- **Recuperati grazie al Repertorio** (erano stati tolti perché il notebook 1 non li trovava):
+  - la Fattoria di Tegoleto;
+  - **Villa Milloni** a Viciomaggio (con due "l"), con la sua cappella. Senza i dettagli non verificati del Fondaccio e dell'orologio.
+- **Aggiunti:** il Cippo delle Giostre del Toppo (Pieve al Toppo) e la fonte-cisterna di Albergo.
+- **Confermati anche:** il TMT di Tegoleto, il Cassero di Tuori, il Saracino (casa colonica del XVI secolo), i resti del castello di Badia al Pino.
+- Esiste un **Oratorio della Madonna della Costarella nel capoluogo**: conferma che la "Santa Maria della Costarella" di Ciggiano era un'attribuzione sbagliata.
