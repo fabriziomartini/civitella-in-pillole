@@ -211,6 +211,12 @@ button:focus-visible {
   color: var(--wm-terracotta-deep);
 }
 
+.dropdown-divider {
+  border-top-color: var(--wm-sand);
+  margin: 0.35rem 0.5rem;
+  opacity: 1;
+}
+
 /* ============ Hero — homepage (split, con foto) ============ */
 
 .wm-hero {
