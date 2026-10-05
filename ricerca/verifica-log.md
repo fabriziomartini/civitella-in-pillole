@@ -159,3 +159,8 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
 - **Spoiano:** il libro di Renzetti è confermato; "fine 2025" è sostituito da "uscito di recente".
 - **Muriel Spark:** confermati Penelope Jardine, la morte a Oliveto nel 2006, la sepoltura nel cimitero di Sant'Andrea Apostolo, la cittadinanza onoraria (settembre 2005), il circolo di lettura e la mostra.
 - **Ancora in sospeso:** la popolazione delle frazioni (ISTAT).
+
+## Popolazione delle frazioni
+- Gli aggregatori danno cifre in conflitto con il sito: Spoiano 112 (il sito diceva 31), Pieve al Toppo 1.635 (il sito diceva 1.531), Matroia 25. Nessuna di queste viene da una fonte primaria.
+- Tolti i numeri di Spoiano (31, anche nel sottotitolo) e di Viciomaggio (905). Resta Tuori (120-130), coerente con il dato di 129 abitanti nel 2021 (Wikipedia EN).
+- Resta solo il dato ufficiale di Ciggiano (scheda del Comune). Per reintegrare gli altri serve la tabella ISTAT "Popolazione per località abitata" (censimento 2011 o 2021).
