@@ -59,4 +59,28 @@ Notebook "Civitella – verifica fonti", con i blocchi A–D di `fonti-notebookl
 - **"Frazione più popolosa":** la rivendicavano Tegoleto, Badia al Pino e Pieve al Toppo insieme. Tolto da tutte e tre, insieme al numero 1.531.
 
 ## Prompt 5: parrocchie (annuario della Diocesi)
+Parrocchie ufficiali (annuario 2022):
+| Località | Titolo |
+|---|---|
+| Badia al Pino | San Bartolomeo |
+| Ciggiano | San Biagio |
+| Civitella | Santa Maria Assunta |
+| Oliveto | Sant'Andrea Apostolo |
+| Pieve a Maiano | Santa Maria Assunta |
+| Pieve al Toppo | San Giovanni Battista |
+| Spoiano | San Giovanni Battista |
+| Tegoleto | San Biagio |
+| Tuori | Santi Giorgio e Luca |
+| Viciomaggio | San Martino |
+
+Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matroia e Gebbia non hanno una parrocchia propria. La parrocchia di Ponticino (Santi Iacopo e Cristoforo) è nel comune di Laterina Pergine Valdarno.
+
+- **Tuori:** torno a **Santi Giorgio e Luca**, il titolo ufficiale della Diocesi. "Lucia" (itinerario del Comune) resta come variante nella nota.
+- **Tegoleto:** San Biagio confermato (3° itinerario): già esistente nel X secolo, ristrutturata nel XII, oggi restano i resti dell'abside. Anche Ciggiano ha una sua San Biagio, ma è un'altra chiesa.
+- **Albergo:** il 3° itinerario dice "antico borgo, probabilmente di origine romana. Nel nucleo sorgeva un ospedale per viandanti e malati". Aggiunto, e precisato che non c'è una parrocchia.
+- **Cornia:** tolte le scope di saggina; Vallebuona diventa "complesso religioso", perché il titolo di Santa Maria Maddalena non ha riscontro.
+- **Ponticino:** precisato dove ha sede la parrocchia.
+- **Criterio adottato:** le descrizioni architettoniche non trovate (torre colombaria di Villa Pecchioli, Cassero e torrione di Oliveto, ponte romanico di Ponticino) restano **in sospeso**. Potrebbero venire dalle schede edifici del Piano Strutturale, non caricate: da verificare con il secondo notebook.
+
+## Prompt 6: dettagli rimanenti
 _in attesa_
