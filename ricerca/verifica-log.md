@@ -180,3 +180,29 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
 - **Tuori:**
   - Corretta l'origine: è attestato dal **1021**, non "XIV secolo". Centro storico con vincolo nazionale.
   - Aggiunti il portale ad arco policentrico del Saracino (il suo posto giusto) e la ciclabile dei borghi pedecollinari.
+
+---
+
+# Popolazione: censimento ISTAT 2021 per località (file della Regione Toscana)
+| Località | Tipo | Residenti |
+|---|---|---|
+| Pieve al Toppo | centro | 1.545 |
+| Tegoleto | centro | 1.412 |
+| Badia al Pino | centro | 1.059 |
+| Viciomaggio | centro | 950 |
+| Ciggiano | centro | 530 |
+| Albergo | centro | 279 |
+| Pieve a Maiano | centro | 242 |
+| Civitella (borgo) | centro | 148 |
+| Tuori | centro | 129 |
+| Spoiano | nucleo | 120 |
+| Matroia | nucleo | 23 |
+| Oliveto | centro | 15 |
+| Casali, Le Poggiole, Malpertuso, Poggio Basso, area produttiva | — | 106 |
+| Case sparse | — | 2.256 |
+| **Totale comune** | | **8.814** |
+
+- Cornia e Gebbia non sono località censite. Ponticino ("Ponticino-Cavi Casalone", 1.997 residenti) è attribuito a Laterina Pergine Valdarno.
+- Pieve al Toppo **è** il centro più popoloso: l'affermazione torna, ora con la fonte.
+- Il "70% nei centri di pianura" non trova conferma: i quattro centri maggiori fanno il 56%. Sostituito con il dato ISTAT.
+- I vecchi numeri sul sito erano sbagliati: Spoiano 120 (non 31), Pieve al Toppo 1.545 (non 1.531), Viciomaggio 950 (non 905). Home: 8.814 abitanti al posto di "circa 9.000".
