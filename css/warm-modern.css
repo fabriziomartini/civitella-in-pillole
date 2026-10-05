@@ -565,6 +565,65 @@ button:focus-visible {
   color: var(--wm-ink-soft);
 }
 
+/* Riquadro "In breve" in apertura delle pagine delle frazioni */
+.wm-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(128px, 1fr));
+  gap: var(--wm-space-4) var(--wm-space-5);
+  margin: 0 0 var(--wm-space-6);
+  padding: var(--wm-space-5);
+  background: var(--wm-white);
+  border-radius: var(--wm-radius-md);
+  border-top: 4px solid var(--wm-terracotta);
+  box-shadow: var(--wm-shadow-sm);
+}
+
+.wm-facts > div { min-width: 0; }
+
+.wm-facts dt {
+  font-family: var(--wm-font-display);
+  font-size: var(--wm-fs-xs);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--wm-ink-soft);
+  margin-bottom: var(--wm-space-1);
+}
+
+.wm-facts dd {
+  margin: 0;
+  font-family: var(--wm-font-display);
+  font-weight: 700;
+  font-size: 1.0625rem;
+  line-height: 1.3;
+  color: var(--wm-ink);
+}
+
+.wm-facts dd small {
+  display: block;
+  margin-top: 2px;
+  font-family: var(--wm-font-body);
+  font-weight: 400;
+  font-size: var(--wm-fs-xs);
+  color: var(--wm-ink-soft);
+}
+
+/* Elenco "Fonti di questa pagina" in chiusura delle pagine di dettaglio */
+.wm-sources {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: var(--wm-space-2);
+  font-size: var(--wm-fs-small);
+}
+
+.wm-sources li {
+  padding-left: var(--wm-space-4);
+  border-left: 2px solid var(--wm-sand);
+  color: var(--wm-ink-soft);
+}
+
 /* ============ Footer (markup generato da js/partials.js) ============ */
 
 .site-footer {
