@@ -83,4 +83,16 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
 - **Criterio adottato:** le descrizioni architettoniche non trovate (torre colombaria di Villa Pecchioli, Cassero e torrione di Oliveto, ponte romanico di Ponticino) restano **in sospeso**. Potrebbero venire dalle schede edifici del Piano Strutturale, non caricate: da verificare con il secondo notebook.
 
 ## Prompt 6: dettagli rimanenti
+- **Altitudine del capoluogo:** Wikipedia e ToscanaNovecento dicono **500 m** ("Colline delle Lepri"), non 525. Corretti index (anche il riquadro dei numeri), geografia e civitella.
+- **Pianura:** la fonte indica una fascia di 250–350 m, non 250–270. Corretto.
+- **Vino:** è **Chianti Colli Aretini**. Tolto anche "tra le colline del Chianti" dalla home: Civitella non è nel Chianti.
+- **Cornia:** le **scope di saggina sono confermate** (1° itinerario), quindi le ho rimesse: al giro 5 le avevo tolte per errore. Confermati 560 m e cippo del 1969. Il "CAI 113" non è nelle fonti (le fonti citano il 105, vicino a Poggio Castellare): tolto il numero.
+- **Spoiano:** confermati origine romana ed edifici accorpati nel Settecento; il Comune la mette tra i nuclei di piano. Tolta la cisterna, che nelle fonti è nella piazza del capoluogo, non a Spoiano.
+- **Viciomaggio:** confermati Malpertuso, Le Fosse (abbandonati nel tardo Medioevo) e Tribbio (dal trivio romano). Arricchito il testo.
+- **Pieve al Toppo:** confermata l'origine longobarda di "Toppo"; tolto l'altorilievo di don Fortunato Bardelli.
+- **Civitella:** confermati i bombardamenti alleati sulla rocca e il Palazzo Pretorio trecentesco con gli stemmi dei podestà (aggiunti).
+- **Gebbia:** confermati la divisione "Hermann Göring", Heinz Barz e l'uccisione dei Cau. La biografia dei Cau si appoggia a Liber Liber, già in Fonti: resta.
+- **In sospeso:** Matroia (nessuna fonte nel notebook, serve il Piano Strutturale); Ponticino (Tabula Peutingeriana, stazione 1866, divisione tra tre comuni, referendum 2017); Marcia per la pace.
+
+## Prompt 7: vita locale e Novecento recente
 _in attesa_
