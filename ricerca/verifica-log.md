@@ -40,4 +40,23 @@ Notebook "Civitella – verifica fonti", con i blocchi A–D di `fonti-notebookl
 - Da verificare più avanti: la divisione "Hermann Göring", il capitano Heinz Barz, la biografia dei Cau, il cippo di Cornia del 1969, le scope di saggina, il sentiero CAI 113, Vallebuona.
 
 ## Prompt 4: affermazioni puntuali
+- **Civitella/Storia:**
+  - Tolti "Civitella del Vescovo", la ricostruzione del 1272 e la podesteria del 1348: non sono nelle fonti.
+  - Corretto con la **podesteria del 1385** (scheda SIUSA, fino al 1838) e aggiunto il castello del 1048 (Wikipedia).
+- **Badia al Pino:**
+  - Tolti il feudo di Giovanni Acuto (1384) e "Corso Italia".
+  - Restano 1441/1446 e la dedica a Martino e Lorenzo. Il notebook li segna come "contraddetti", ma la voce Wikipedia sulla chiesa di San Bartolomeo li conferma: quel titolo si è aggiunto nel Cinquecento.
+- **Oliveto:**
+  - Tolti il 1318 con Guido Tarlati, le mura rinforzate dopo il 1384 e l'autonomia fino al 1774. Rimangono le mura del XIV secolo.
+  - Muriel Spark a Oliveto resta: la fonte dice "cimitero comunale" e non lo contraddice.
+- **Pieve al Toppo:**
+  - La pieve e l'ospedale risultano documentati dal 938 e distrutti "intorno al 1500" (non nel 1502).
+  - Oratorio della Madonna del Conforto: confermato solo il 1906.
+  - Mugliano ridotto a "fattoria" senza l'origine romana. Tolti 1311/1348 e l'unione con Sant'Andrea di Oliveto.
+- **Viciomaggio:** tolta Villa Milioni; il resto è confermato.
+- **Tuori:** la chiesa diventa **Santi Giorgio e Lucia** (itinerario del Comune, e anche il file su Commons). Il Cassero e il presidio aretino non sono nelle fonti del notebook, ma vengono da ruderimedievali.altervista.org, che è in Fonti: per ora restano.
+- **Tegoleto:** tolti la "corte dell'anno 1000" e la Fattoria seicentesca. La chiesa di San Biagio del X secolo è dubbia: il notebook l'ha confusa con Ciggiano. Da verificare con l'annuario della Diocesi.
+- **"Frazione più popolosa":** la rivendicavano Tegoleto, Badia al Pino e Pieve al Toppo insieme. Tolto da tutte e tre, insieme al numero 1.531.
+
+## Prompt 5: parrocchie (annuario della Diocesi)
 _in attesa_
