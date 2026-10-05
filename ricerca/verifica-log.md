@@ -27,5 +27,17 @@ Notebook "Civitella – verifica fonti", con i blocchi A–D di `fonti-notebookl
   - Corretti geografia.html (prima citava Ciggiano, che è in collina) e albergo.html (Albergo non è tra quei centri).
   - I numeri di Pieve al Toppo (1.531), Viciomaggio (905), Spoiano (31), Matroia (~30) e Tuori (120-130) **restano da verificare** con l'ISTAT, per località al censimento 2011.
 
-## Prompt 3: Ciggiano
+## Prompt 3: Ciggiano, Cornia, Gebbia
+- **Ciggiano:**
+  - Confermati: borgo fortificato nell'XI secolo, antiche fortificazioni, pieve nel 1465, Maddalena attribuita al Sansovino. Confermato anche l'**altare Mazzeschi** (1° itinerario), che ho rimesso.
+  - Tolti perché non presenti nelle fonti: la leggenda di Noè, il cippo romano di località La Villa, la Festa dell'uva del 1952 con il carro a razzo. Si possono reintegrare se si trova una fonte.
+  - Aggiunti: la fucilazione dei partigiani Marmo e Marapitti (16 aprile 1944) e il monumento ai caduti (ToscanaNovecento).
+- **Cornia:** la lapide con 58 nomi comprende anche le frazioni vicine e San Pancrazio, fra il 29 giugno e il 16 luglio; l'Atlante elenca 32 vittime per "Cornia e dintorni". Hazbi Ismail è un partigiano di 28 anni; "albanese" non è nelle fonti ed è stato tolto.
+- **Gebbia:**
+  - L'Atlante elenca 16 nomi, l'Archivio parla di 8 uomini fucilati. La nota "4 vittime" era sbagliata.
+  - Corretti "Arrigucci Odorlindo" in Orlindo e tolto "Arrigucci Dante (49)", che non risulta tra le vittime di Gebbia.
+  - Corretto il racconto: le case non furono bruciate, gli animali furono uccisi.
+- Da verificare più avanti: la divisione "Hermann Göring", il capitano Heinz Barz, la biografia dei Cau, il cippo di Cornia del 1969, le scope di saggina, il sentiero CAI 113, Vallebuona.
+
+## Prompt 4: affermazioni puntuali
 _in attesa_
