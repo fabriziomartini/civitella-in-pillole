@@ -73,7 +73,7 @@
       '<div class="row gy-4">' +
       '<div class="col-lg-5">' +
       '<h2 class="fw-bold mb-3">Civitella in Pillole</h2>' +
-      '<p class="mb-0" style="color: rgba(255,255,255,.78);">Un progetto personale di raccolta e divulgazione dedicato a Civitella in Val di Chiana, il suo capoluogo storico e le tredici frazioni: storia, geografia, chiese, curiosita\' e tradizioni del territorio.</p>' +
+      '<p class="mb-0" style="color: rgba(255,255,255,.78);">Un progetto personale di raccolta e divulgazione dedicato a Civitella in Val di Chiana, il suo capoluogo storico e le sue frazioni: storia, geografia, chiese, curiosita\' e tradizioni del territorio.</p>' +
       "</div>" +
       '<div class="col-lg-3">' +
       '<h3 class="fw-bold mb-3">Esplora</h3>' +
