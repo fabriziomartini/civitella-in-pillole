@@ -164,3 +164,19 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
 - Gli aggregatori danno cifre in conflitto con il sito: Spoiano 112 (il sito diceva 31), Pieve al Toppo 1.635 (il sito diceva 1.531), Matroia 25. Nessuna di queste viene da una fonte primaria.
 - Tolti i numeri di Spoiano (31, anche nel sottotitolo) e di Viciomaggio (905). Resta Tuori (120-130), coerente con il dato di 129 abitanti nel 2021 (Wikipedia EN).
 - Resta solo il dato ufficiale di Ciggiano (scheda del Comune). Per reintegrare gli altri serve la tabella ISTAT "Popolazione per località abitata" (censimento 2011 o 2021).
+
+---
+
+# Notebook 2: estrazione per arricchire le pagine
+
+## Gruppo 1: Oliveto, Ciggiano, Tuori
+- **Oliveto:**
+  - Castello attestato nel XII secolo, con origini tardo-imperiali e longobarde; feudo degli Ubertini e dei Saracini; Casa del Podestà riedificata nel Seicento.
+  - Aggiunti: casa trecentesca (vincolo nazionale), ex scuola del 1896, Castellare di San Giovanni d'Oliveto con il progetto di parco archeologico, mulino dell'Infernaccio, descrizione del Centro di Documentazione.
+  - Da chiarire: il repertorio collega la "cappella ad aula del 1637" a San Giovanni / San Salvatore; sul sito resta "Cappella della Compagnia".
+- **Ciggiano:**
+  - Storia riscritta dal repertorio: vicus romano, castello con pieve nell'XI secolo, date 1250, 1307, 1381, 1385, 1431, 1554 e 1774, la dogana e la "calla" dei pastori.
+  - Aggiunti: le mura e le torri, i siti archeologici (ceramica romana nelle mura, La Cascinella), la Compagnia di Santa Croce, gli oratori di Caggiolo e San Francesco, il frantoio e il mulino.
+- **Tuori:**
+  - Corretta l'origine: è attestato dal **1021**, non "XIV secolo". Centro storico con vincolo nazionale.
+  - Aggiunti il portale ad arco policentrico del Saracino (il suo posto giusto) e la ciclabile dei borghi pedecollinari.
