@@ -95,4 +95,24 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
 - **In sospeso:** Matroia (nessuna fonte nel notebook, serve il Piano Strutturale); Ponticino (Tabula Peutingeriana, stazione 1866, divisione tra tre comuni, referendum 2017); Marcia per la pace.
 
 ## Prompt 7: vita locale e Novecento recente
-_in attesa_
+- **Confermati:**
+  - Villa Oliveto: Barbolani di Montauto, aspetto ottocentesco, parco con cedri e lecci, Centro di documentazione.
+  - Tegoleto: Giro d'Italia del 12 maggio 2004, vinto da Petacchi davanti a Del Tongo.
+  - La Marcia per la pace va da Civitella a San Pancrazio, con il comune di Bucine (corretto storia.html).
+  - Muriel Spark: sepolta nel cimitero comunale.
+- **Tolti:**
+  - Tuori, "11% di origine albanese": il dato ISTAT esiste solo per l'intero comune, quindi era attribuito alla frazione sbagliata.
+  - Oliveto, l'opera di Enzo Scatragli.
+- **In sospeso, servono fonti di cronaca o Pro Loco (notebook 3):**
+  - le sagre (Crostino, Bistecca, Cinghiale, Baccelli), la Fiera del Miele e il mercato del venerdì;
+  - la Festa Sportiva Tegoleto, il TMT, il Presepe Vivente di Oliveto;
+  - il libro di Renzetti su Spoiano;
+  - per Muriel Spark: Penelope Jardine, la cittadinanza onoraria 2005, il circolo di lettura 2023, la mostra 2024.
+- **In sospeso, serve il Piano Strutturale (notebook 2):**
+  - Pieve a Maiano: fornace di Vallimboi, ceramiche romane, Casa al Cincio;
+  - Oliveto: Cappella della Compagnia, San Rocco ottocentesco, Cassero e torrione;
+  - Spoiano: torre colombaria di Villa Pecchioli;
+  - Ponticino: ponte romanico;
+  - tutta la pagina di Matroia;
+  - Cornia: Parco faunistico e ANPIL.
+- **In sospeso, serve l'ISTAT:** la popolazione delle frazioni.
