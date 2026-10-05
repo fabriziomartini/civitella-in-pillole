@@ -31,11 +31,18 @@
 
   function renderNavbar(basePath) {
     var current = currentFile();
-    var dropdownItems = FRAZIONI.map(function (f) {
-      var file = f.slug + ".html";
+    function dropdownItem(href, label, file) {
       var activeCls = current === file ? " active" : "";
-      return '<a class="dropdown-item' + activeCls + '" href="' + basePath + "frazioni/" + file + '">' + f.nome + "</a>";
-    }).join("\n");
+      return '<a class="dropdown-item' + activeCls + '" href="' + href + '">' + label + "</a>";
+    }
+    var divider = '<div class="dropdown-divider"></div>';
+    var frazioniItems = FRAZIONI.filter(function (f) { return f.slug !== "borghi-minori"; }).map(function (f) {
+      return dropdownItem(basePath + "frazioni/" + f.slug + ".html", f.nome, f.slug + ".html");
+    });
+    var dropdownItems = [dropdownItem(basePath + "frazioni.html", "Tutte le frazioni", "frazioni.html"), divider]
+      .concat(frazioniItems)
+      .concat([divider, dropdownItem(basePath + "frazioni/borghi-minori.html", "Borghi e località minori", "borghi-minori.html")])
+      .join("\n");
 
     function navCls(file) {
       return "nav-link" + (current === file ? " active" : "");
@@ -52,13 +59,13 @@
       '<ul class="navbar-nav ms-auto mb-2 mb-lg-0">' +
       '<li class="nav-item"><a class="' + navCls("index.html") + '" href="' + basePath + 'index.html">Home</a></li>' +
       '<li class="nav-item"><a class="' + navCls("storia.html") + '" href="' + basePath + 'storia.html">Storia</a></li>' +
-      '<li class="nav-item"><a class="' + navCls("geografia.html") + '" href="' + basePath + 'geografia.html">Geografia</a></li>' +
-      '<li class="nav-item"><a class="' + navCls("amministrazione.html") + '" href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
       '<li class="nav-item dropdown">' +
       '<a class="nav-link dropdown-toggle' + (frazioniActive ? " active" : "") + '" href="' + basePath + 'frazioni.html" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Frazioni</a>' +
       '<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">' + dropdownItems + "</div>" +
       "</li>" +
       '<li class="nav-item"><a class="' + navCls("patrimonio.html") + '" href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
+      '<li class="nav-item"><a class="' + navCls("geografia.html") + '" href="' + basePath + 'geografia.html">Geografia</a></li>' +
+      '<li class="nav-item"><a class="' + navCls("amministrazione.html") + '" href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
       '<li class="nav-item"><a class="' + navCls("fonti.html") + '" href="' + basePath + 'fonti.html">Fonti</a></li>' +
       "</ul>" +
       "</div>" +
@@ -80,10 +87,11 @@
       '<h3 class="fw-bold mb-3">Esplora</h3>' +
       '<ul class="list-unstyled d-flex flex-column gap-2">' +
       '<li><a href="' + basePath + 'storia.html">Storia</a></li>' +
+      '<li><a href="' + basePath + 'frazioni.html">Le frazioni</a></li>' +
+      '<li><a href="' + basePath + 'frazioni/borghi-minori.html">Borghi e località minori</a></li>' +
+      '<li><a href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
       '<li><a href="' + basePath + 'geografia.html">Geografia</a></li>' +
       '<li><a href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
-      '<li><a href="' + basePath + 'frazioni.html">Le frazioni</a></li>' +
-      '<li><a href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
       "</ul>" +
       "</div>" +
       '<div class="col-lg-4">' +
