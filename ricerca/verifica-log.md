@@ -216,3 +216,13 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
   - Aggiunti i luoghi della memoria: Stanza della Memoria (2004) e Cappella dei Martiri; e i progetti del Piano (Rocca museo, Percorso della Memoria).
 - **Badia al Pino:** aggiunti Palazzo Santini-Paccinelli (il notebook lo attribuiva anche a Civitella, ma la scheda lo colloca in Via Roma/Via Europa a Badia), Villa del Bosco, il monumento ai caduti del 1951, le case coloniche storiche.
 - **Tegoleto:** la torre fu ricostruita dai fiorentini a fine Trecento; la Fattoria è dell'Ordine di Santo Stefano dal 1783 (non "seicentesca", come diceva il sito prima); aggiunta la storia del TMT.
+
+## Gruppo 3: Pieve a Maiano, Pieve al Toppo, Viciomaggio
+- **Pieve a Maiano:**
+  - "Maiano" è un toponimo prediale romano (da *Marius*).
+  - Aggiunti: il sito paleolitico di Podere Casella, l'insediamento romano al campo sportivo, la fornace di Vallimboi descritta, l'aureo di Claudio, la Fattoria di Maiano, il tabernacolo dell'antica pieve, la "porta" della Riserva di Ponte a Buriano e Penna.
+- **Pieve al Toppo:** la parrocchiale è moderna (progetto 1967, porticato 1977); aggiunte le fornaci di terra sigillata aretina de I Ponti e i progetti del Piano (piazza, cintura verde).
+- **Viciomaggio:**
+  - Villa Milloni descritta per intero: XVIII secolo, restauro 1868, limonaia 1836, cappella secentesca **con orologio e campanile a vela**. Quindi l'"orologio sul fianco sud" che avevo tolto era corretto: era sulla cappella. Il "Fondaccio" resta non verificato e non è stato rimesso.
+  - Aggiunti la Villa di Viciomaggio, l'urna etrusca iscritta (1872), i vasi del I secolo a.C., il monile al Museo Mecenate e il rifugio della Seconda guerra mondiale lungo il Fosso del Riolo.
+- **Ancora non verificato:** la leggenda di Annibale a Viciomaggio, presentata sul sito come leggenda.
