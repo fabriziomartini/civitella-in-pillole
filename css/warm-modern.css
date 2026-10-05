@@ -290,6 +290,16 @@ button:focus-visible {
   margin-bottom: 0;
 }
 
+/* Pagine senza foto in evidenza: l'hero non deve lasciare spazio alla foto
+   e il contenuto ha bisogno di respiro sotto la fascia colorata */
+.wm-hero--page:has(+ main) {
+  padding-bottom: var(--wm-space-7);
+}
+
+.wm-hero--page + main {
+  padding-top: var(--wm-space-7);
+}
+
 /* Foto in evidenza che "sale" sopra l'hero di pagina, motivo ricorrente warm-modern */
 
 .wm-feature-photo {
@@ -521,6 +531,10 @@ button:focus-visible {
 
 .wm-article h2:first-child { margin-top: 0; }
 
+/* Variante larga per le pagine a schede (es. Borghi e località minori) */
+.wm-article--wide { max-width: 1040px; }
+.wm-article--wide > p { max-width: 720px; }
+
 .wm-article p { color: var(--wm-ink); }
 
 .wm-article a { text-decoration: underline; text-decoration-color: var(--wm-terracotta-tint); text-underline-offset: 2px; }
@@ -622,6 +636,161 @@ button:focus-visible {
   padding-left: var(--wm-space-4);
   border-left: 2px solid var(--wm-sand);
   color: var(--wm-ink-soft);
+}
+
+/* ============ Pagine tematiche: Borghi minori e Patrimonio ============ */
+
+/* Barra di navigazione interna a "pillole" (ancore alle sezioni) */
+.wm-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--wm-space-2);
+  margin: 0 0 var(--wm-space-6);
+  padding: 0;
+  list-style: none;
+}
+
+.wm-pills a {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--wm-space-2);
+  padding: 0.45rem 0.95rem;
+  border-radius: var(--wm-radius-full);
+  background: var(--wm-white);
+  box-shadow: var(--wm-shadow-sm);
+  font-family: var(--wm-font-display);
+  font-weight: 700;
+  font-size: var(--wm-fs-small);
+  color: var(--wm-ink);
+  text-decoration: none;
+}
+
+.wm-pills a:hover { color: var(--wm-terracotta-deep); }
+
+.wm-pills a::before {
+  content: "";
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  background: var(--wm-accent, var(--wm-terracotta));
+}
+
+/* Accento per categoria: usato da pillole, schede e liste */
+.wm-accent--castelli { --wm-accent: var(--wm-terracotta); }
+.wm-accent--ville { --wm-accent: var(--wm-olive); }
+.wm-accent--mulini { --wm-accent: var(--wm-gold); }
+.wm-accent--archeologia { --wm-accent: var(--wm-ink); }
+
+.wm-section-head {
+  scroll-margin-top: var(--wm-space-5);
+  border-left: 6px solid var(--wm-accent, var(--wm-terracotta));
+  padding-left: var(--wm-space-4);
+}
+
+.wm-article .wm-section-head { margin-top: var(--wm-space-8); }
+
+[class*="wm-accent--"] .wm-feature-list li { border-left-color: var(--wm-accent); }
+
+/* Schede compatte dei luoghi minori */
+.wm-places {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--wm-space-4);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media (min-width: 768px) {
+  .wm-places { grid-template-columns: repeat(2, 1fr); }
+}
+
+.wm-place {
+  scroll-margin-top: var(--wm-space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--wm-space-2);
+  padding: var(--wm-space-5);
+  background: var(--wm-white);
+  border-radius: var(--wm-radius-md);
+  box-shadow: var(--wm-shadow-sm);
+  border-top: 4px solid var(--wm-accent, var(--wm-olive));
+}
+
+.wm-place__head {
+  display: flex;
+  align-items: center;
+  gap: var(--wm-space-3);
+}
+
+.wm-place__icon {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: var(--wm-radius-sm);
+  background: var(--wm-cream-deep);
+  color: var(--wm-accent, var(--wm-olive));
+  font-size: 1.15rem;
+}
+
+.wm-place h2,
+.wm-place h3 {
+  margin: 0;
+  font-size: var(--wm-fs-h4);
+}
+
+.wm-place p { margin: 0; font-size: var(--wm-fs-small); }
+
+.wm-place__near {
+  margin-top: auto !important;
+  padding-top: var(--wm-space-2);
+  font-size: var(--wm-fs-xs) !important;
+  color: var(--wm-ink-soft);
+}
+
+/* Linea del tempo verticale (archeologia) */
+.wm-timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 var(--wm-space-5);
+  border-left: 2px solid var(--wm-sand);
+  display: grid;
+  gap: var(--wm-space-5);
+}
+
+.wm-timeline > li { position: relative; }
+
+.wm-timeline > li::before {
+  content: "";
+  position: absolute;
+  left: calc(-1 * var(--wm-space-5) - 7px);
+  top: 0.35rem;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--wm-cream);
+  border: 3px solid var(--wm-accent, var(--wm-ink));
+}
+
+.wm-timeline__era {
+  display: block;
+  font-family: var(--wm-font-display);
+  font-size: var(--wm-fs-xs);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--wm-terracotta-deep);
+  margin-bottom: var(--wm-space-2);
+}
+
+.wm-timeline ul {
+  margin: 0;
+  padding-left: var(--wm-space-4);
+  display: grid;
+  gap: var(--wm-space-2);
 }
 
 /* ============ Footer (markup generato da js/partials.js) ============ */

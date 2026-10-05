@@ -226,3 +226,15 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
   - Villa Milloni descritta per intero: XVIII secolo, restauro 1868, limonaia 1836, cappella secentesca **con orologio e campanile a vela**. Quindi l'"orologio sul fianco sud" che avevo tolto era corretto: era sulla cappella. Il "Fondaccio" resta non verificato e non è stato rimesso.
   - Aggiunti la Villa di Viciomaggio, l'urna etrusca iscritta (1872), i vasi del I secolo a.C., il monile al Museo Mecenate e il rifugio della Seconda guerra mondiale lungo il Fosso del Riolo.
 - **Ancora non verificato:** la leggenda di Annibale a Viciomaggio, presentata sul sito come leggenda.
+
+---
+
+# Riorganizzazione del sito
+- Struttura uniforme per tutte le pagine delle frazioni: In breve, Storia, Da vedere, Archeologia e Memoria dove servono, Vita locale, Fonti di questa pagina.
+- **Gruppo 4 integrato:**
+  - Cornia: Sant'Angelo nelle decime del 1274, 292 anime nel 1833, Castellare di Sant'Angelo, parco e ANPIL.
+  - Spoiano: Villa Pecchioli, asilo nel 1928, restauro nel 1981.
+  - Oliveto: la cappella del 1637 è la Cappella della Compagnia; aggiunta San Giovanni d'Oliveto (decime 1274, ricostruita nel 1343).
+- **Matroia:** spostata nella nuova pagina `frazioni/borghi-minori.html`, insieme a Montoto, Poggio Castellare, Malpertuso e Le Fosse, Tribbio, Montarfoni e Dorna, San Martino in Poggio e Gaenne. `matroia.html` ora reindirizza lì.
+- **Nuova pagina `patrimonio.html`:** castelli e castellari, ville e fattorie, mulini, e una linea del tempo dell'archeologia.
+- **Da completare** quando il notebook si sblocca: storia e posizione di San Martino in Poggio, Montarfoni, Gaenne.

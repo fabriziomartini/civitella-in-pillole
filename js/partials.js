@@ -9,7 +9,6 @@
     { slug: "ciggiano", nome: "Ciggiano" },
     { slug: "cornia", nome: "Cornia" },
     { slug: "gebbia", nome: "Gebbia" },
-    { slug: "matroia", nome: "Matroia" },
     { slug: "oliveto", nome: "Oliveto" },
     { slug: "pieve-a-maiano", nome: "Pieve a Maiano" },
     { slug: "pieve-al-toppo", nome: "Pieve al Toppo" },
@@ -17,7 +16,8 @@
     { slug: "spoiano", nome: "Spoiano" },
     { slug: "tegoleto", nome: "Tegoleto" },
     { slug: "tuori", nome: "Tuori" },
-    { slug: "viciomaggio", nome: "Viciomaggio" }
+    { slug: "viciomaggio", nome: "Viciomaggio" },
+    { slug: "borghi-minori", nome: "Borghi e località minori" }
   ];
 
   function currentFile() {
@@ -58,6 +58,7 @@
       '<a class="nav-link dropdown-toggle' + (frazioniActive ? " active" : "") + '" href="' + basePath + 'frazioni.html" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Frazioni</a>' +
       '<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">' + dropdownItems + "</div>" +
       "</li>" +
+      '<li class="nav-item"><a class="' + navCls("patrimonio.html") + '" href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
       '<li class="nav-item"><a class="' + navCls("fonti.html") + '" href="' + basePath + 'fonti.html">Fonti</a></li>' +
       "</ul>" +
       "</div>" +
@@ -82,6 +83,7 @@
       '<li><a href="' + basePath + 'geografia.html">Geografia</a></li>' +
       '<li><a href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
       '<li><a href="' + basePath + 'frazioni.html">Le frazioni</a></li>' +
+      '<li><a href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
       "</ul>" +
       "</div>" +
       '<div class="col-lg-4">' +
