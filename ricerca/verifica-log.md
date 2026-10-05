@@ -206,3 +206,13 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
 - Pieve al Toppo **è** il centro più popoloso: l'affermazione torna, ora con la fonte.
 - Il "70% nei centri di pianura" non trova conferma: i quattro centri maggiori fanno il 56%. Sostituito con il dato ISTAT.
 - I vecchi numeri sul sito erano sbagliati: Spoiano 120 (non 31), Pieve al Toppo 1.545 (non 1.531), Viciomaggio 950 (non 905). Home: 8.814 abitanti al posto di "circa 9.000".
+
+## Gruppo 2: Civitella, Badia al Pino, Tegoleto
+- **Storia:**
+  - Tolto il legame "distruzione del XIII secolo – Dante": non ha fonte, perché Dante cita Pieve al Toppo, non Civitella.
+  - Sostituito con la storia della rocca dal repertorio: palazzo-torre nel 1182, dimora del vescovo Guglielmino degli Ubertini nel 1248, assedio aretino 1284–85.
+- **Civitella:**
+  - Aggiunti la descrizione della Rocca (Palatium-torre e cisterna), Palazzo Becattini (ospedale dal 1877, del Comune dal 1978), gli oratori (Santissima Trinità, Mercatale, Costarella), la cisterna, la Pinacoteca.
+  - Aggiunti i luoghi della memoria: Stanza della Memoria (2004) e Cappella dei Martiri; e i progetti del Piano (Rocca museo, Percorso della Memoria).
+- **Badia al Pino:** aggiunti Palazzo Santini-Paccinelli (il notebook lo attribuiva anche a Civitella, ma la scheda lo colloca in Via Roma/Via Europa a Badia), Villa del Bosco, il monumento ai caduti del 1951, le case coloniche storiche.
+- **Tegoleto:** la torre fu ricostruita dai fiorentini a fine Trecento; la Fattoria è dell'Ordine di Santo Stefano dal 1783 (non "seicentesca", come diceva il sito prima); aggiunta la storia del TMT.
