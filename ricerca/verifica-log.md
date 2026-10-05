@@ -141,3 +141,21 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
 - **Aggiunti:** il Cippo delle Giostre del Toppo (Pieve al Toppo) e la fonte-cisterna di Albergo.
 - **Confermati anche:** il TMT di Tegoleto, il Cassero di Tuori, il Saracino (casa colonica del XVI secolo), i resti del castello di Badia al Pino.
 - Esiste un **Oratorio della Madonna della Costarella nel capoluogo**: conferma che la "Santa Maria della Costarella" di Ciggiano era un'attribuzione sbagliata.
+
+---
+
+# Verifica diretta su fonti di cronaca (ricerca web, senza notebook)
+
+- **Ponticino, errore grave:**
+  - Fino al 2017 era diviso tra **Civitella, Laterina e Pergine Valdarno**, non tra Civitella, Laterina e **Bucine**. Dal 2018 è diviso tra due comuni: Civitella e Laterina Pergine Valdarno.
+  - "Da quattro a tre comuni" era sbagliato, e la spiegazione storica con la Valdambra e Bucine era inventata. Riscritta la sezione: referendum del 29–30 ottobre 2017, 53,73% di sì, decisivo il voto di Ponticino.
+  - Confermata la stazione del 1866 (Wikipedia). Tolti la Tabula Peutingeriana, lo scalo merci e lo "strada-paese".
+- **Sagre:**
+  - Confermate Crostino (Albergo, luglio), Bistecca (Badia al Pino, fine agosto–inizio settembre), Cinghiale (Pieve a Maiano, fine agosto).
+  - Baccelli: non "l'ultima domenica di maggio", ma due fine settimana di maggio; nata nel 1975.
+- **Tegoleto:** si chiama "Festa al Tegoleto" ed è organizzata dall'USD Tegoleto. Tolta la "52ª edizione nel 2026", non confermata (un articolo cita la 47ª). Tolti anche il badge "corte dell'anno 1000" e i "265 m".
+- **Pieve al Toppo:** Fiera del Miele confermata (prima domenica di ottobre, con Slow Food Valdichiana). Il **mercato del venerdì** non ha riscontro ed è stato tolto.
+- **Oliveto:** Presepe Vivente confermato (dal 2014, oltre 80 figuranti, Natività a San Rocco).
+- **Spoiano:** il libro di Renzetti è confermato; "fine 2025" è sostituito da "uscito di recente".
+- **Muriel Spark:** confermati Penelope Jardine, la morte a Oliveto nel 2006, la sepoltura nel cimitero di Sant'Andrea Apostolo, la cittadinanza onoraria (settembre 2005), il circolo di lettura e la mostra.
+- **Ancora in sospeso:** la popolazione delle frazioni (ISTAT).
