@@ -385,4 +385,6 @@ CODICI = {
     "f6b39c53": "Nn+",  # Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo
     "84a6f9e7": "-v+",  # A quale Comunità apparteneva Majano nel 1833, secondo il Repetti?
     "6030ead1": "Pv+",  # Con quale nome il Repetti distingue la Pieve a Maiano del comune di Ci
+    "bf03cb86": "Pv+",  # Da quale espressione latina deriva il nome di Montoto, secondo il Repe
+    "42bc1e10": "Pv+",  # A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello
 }

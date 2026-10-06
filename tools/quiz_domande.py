@@ -409,3 +409,7 @@ q(f,"Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo il R
 # --- Dal Repetti, voce «Majano» ---
 q(f,"A quale Comunità apparteneva Majano nel 1833, secondo il Repetti?","A quella di Arezzo",["A quella di Civitella", "A quella di Laterina", "A quella di Bucine"],"Nel 1833 i 91 abitanti di Majano erano nella Comunità di Arezzo, i 224 di Montoto in quella di Civitella; Pieve a Maiano entrò nel comune più tardi.",F+"pieve-a-maiano.html")
 q(f,"Con quale nome il Repetti distingue la Pieve a Maiano del comune di Civitella?","Majano di Valle Lunga",["Majano di Lucardo", "Majano di Fiesole", "Majano al Toppo"],"Il Repetti la chiama «Majano di Valle Lunga», nel Val d'Arno aretino, per distinguerla dagli altri Majano della Toscana.",F+"pieve-a-maiano.html")
+
+# --- Dal Repetti, voce «Montoto» ---
+q(b,"Da quale espressione latina deriva il nome di Montoto, secondo il Repetti?","Mons tutus, «monte sicuro»",["Mons altus, «monte alto»", "Mons Othonis, «monte di Ottone»", "Mons totus, «monte intero»"],"Il Repetti registra la voce come «Montoto (Mons tutus)».",F+"borghi-minori.html#montoto")
+q(b,"A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello di Montoto?","Ai Santi Flora e Lucilla",["A Santa Maria della Pieve", "A San Domenico", "A San Francesco"],"Il 2 marzo 1051 Golizo vendette all'abate Enrico dei Santi Flora e Lucilla un quarto del castello e della chiesa di San Giovanni Battista.",F+"borghi-minori.html#montoto")

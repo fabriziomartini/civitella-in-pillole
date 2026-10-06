@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 348 domande.
+Totale: 350 domande.
 
 ## Geografia (45)
 
@@ -761,7 +761,7 @@ Totale: 348 domande.
    ✔ Majano di Valle Lunga · ✘ Majano di Lucardo · Majano di Fiesole · Majano al Toppo  
    _Il Repetti la chiama «Majano di Valle Lunga», nel Val d'Arno aretino, per distinguerla dagli altri Majano della Toscana._ → `frazioni/pieve-a-maiano.html`
 
-## Borghi minori (35)
+## Borghi minori (37)
 
 1. [cd56501b] ●○○ `-d=` **Per che cosa era noto il luogo di Matroia?**  
    ✔ Per una sorgente con acque ritenute medicamentose · ✘ Per una miniera d'argento · Per un castello dei Medici · Per una fornace di vetro  
@@ -868,6 +868,12 @@ Totale: 348 domande.
 35. [1a6af485] ●●● `Pv+` **Sopra quale strada sorse il castello di Montarfoni?**  
    ✔ La strada Regia Aretina · ✘ La via Cassia · La via Francigena · La Via Vecchia Senese  
    _Il castello sorse sopra la strada Regia Aretina; ne restano la porta e tratti delle mura._ → `frazioni/borghi-minori.html#montarfoni`
+36. [bf03cb86] ●●● `Pv+` **Da quale espressione latina deriva il nome di Montoto, secondo il Repetti?**  
+   ✔ Mons tutus, «monte sicuro» · ✘ Mons altus, «monte alto» · Mons Othonis, «monte di Ottone» · Mons totus, «monte intero»  
+   _Il Repetti registra la voce come «Montoto (Mons tutus)»._ → `frazioni/borghi-minori.html#montoto`
+37. [42bc1e10] ●●● `Pv+` **A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello di Montoto?**  
+   ✔ Ai Santi Flora e Lucilla · ✘ A Santa Maria della Pieve · A San Domenico · A San Francesco  
+   _Il 2 marzo 1051 Golizo vendette all'abate Enrico dei Santi Flora e Lucilla un quarto del castello e della chiesa di San Giovanni Battista._ → `frazioni/borghi-minori.html#montoto`
 
 ## Lavoro e sapori (25)
 

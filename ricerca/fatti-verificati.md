@@ -312,6 +312,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | **Matroia:** allevamento di cavalli (centro di equitazione previsto), resti di un convento con la chiesetta di San Michele Arcangelo e una sorgente ritenuta medicamentosa | NTA art. 49, Repertorio | N | alta |
 | **Montoto:** poderi lungo via della Centrale sorti su un fortilizio longobardo; passò a Firenze nel 1385; la campana del 1358 della chiesa di Pieve a Maiano viene da qui | Repertorio | N | alta |
+| Repetti, Montoto: «(Mons tutus)»; castello con chiesa di S. Giovanni Battista, un tempo nel piviere di Laterina; atto del 2 marzo 1051: Golizo vende all'abate Enrico di SS. Flora e Lucilla di Arezzo per 50 lire d'argento la quarta parte del castello e della chiesa «constructa infra eundem castrum»; decreto vescovile del 6 ottobre 1803 che unisce la chiesa di Majano a quella di Montoto; 1833: 224 abitanti a Montoto (Civitella), 91 a Majano (Arezzo) | Repetti, voce «Montoto» | R | alta |
 | **Poggio Castellare:** a 483 m, cinta ellittica a secco spessa 1,60 m e lunga circa 300 m, datazione discussa | Repertorio (S017) | R | alta |
 | **Malpertuso e Le Fosse:** borghi medievali abbandonati nel tardo Medioevo; a Le Fosse un cippo romano in travertino | Itinerari del Comune, Repertorio | N | alta |
 | **Tribbio:** nome dal trivio; il Repertorio lo cataloga come trivio di epoca «romana?» (con il punto interrogativo, S070); pozzo storico | Itinerari del Comune, Repertorio | R | alta |

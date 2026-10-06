@@ -4873,5 +4873,33 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Il Repetti la chiama «Majano di Valle Lunga», nel Val d'Arno aretino, per distinguerla dagli altri Majano della Toscana.",
 "l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "bf03cb86",
+"c": "borghi",
+"d": 3,
+"q": "Da quale espressione latina deriva il nome di Montoto, secondo il Repetti?",
+"a": "Mons tutus, «monte sicuro»",
+"x": [
+"Mons altus, «monte alto»",
+"Mons Othonis, «monte di Ottone»",
+"Mons totus, «monte intero»"
+],
+"s": "Il Repetti registra la voce come «Montoto (Mons tutus)».",
+"l": "frazioni/borghi-minori.html#montoto"
+},
+{
+"id": "42bc1e10",
+"c": "borghi",
+"d": 3,
+"q": "A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello di Montoto?",
+"a": "Ai Santi Flora e Lucilla",
+"x": [
+"A Santa Maria della Pieve",
+"A San Domenico",
+"A San Francesco"
+],
+"s": "Il 2 marzo 1051 Golizo vendette all'abate Enrico dei Santi Flora e Lucilla un quarto del castello e della chiesa di San Giovanni Battista.",
+"l": "frazioni/borghi-minori.html#montoto"
 }
 ];
