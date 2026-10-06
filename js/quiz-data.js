@@ -4733,5 +4733,19 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Nel 1431 Piccinino prese Ciggiano e Oliveto; riconquistati, nel 1433 Firenze ordinò di smantellarli (Repetti).",
 "l": "frazioni/oliveto.html"
+},
+{
+"id": "56054fd7",
+"c": "frazioni",
+"d": 3,
+"q": "Di quale badia era il patronato su Cornia dal secolo XI, secondo il Repetti?",
+"a": "La badia di Agnano",
+"x": [
+"La Badia del Pino",
+"L'abbazia di Vallombrosa",
+"L'abbazia di Camaldoli"
+],
+"s": "Dal secolo XI Cornia era dei monaci della badia d'Agnano; nel 1350 l'abate la pose sotto l'accomandigia di Firenze.",
+"l": "frazioni/cornia.html"
 }
 ];

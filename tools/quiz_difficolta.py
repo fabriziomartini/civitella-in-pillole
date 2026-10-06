@@ -375,4 +375,5 @@ CODICI = {
     "99383471": "-d+",  # Che cosa raffigurava il sigillo dell'antico Comune di Oliveto?
     "84b5459a": "-v+",  # A chi consegnò Azzone degli Ubertini il castello di Oliveto nel settem
     "c849d496": "-n+",  # Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano,
+    "56054fd7": "Pv+",  # Di quale badia era il patronato su Cornia dal secolo XI, secondo il Repetti?
 }

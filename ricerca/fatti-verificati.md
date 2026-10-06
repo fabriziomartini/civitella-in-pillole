@@ -203,6 +203,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | Altitudine circa 560 m | Itinerari del Comune | N | alta |
 | Chiesa di Sant'Angelo (San Michele Arcangelo), nelle decime del 1274; nel 1833 contava 292 anime | Repertorio | N | alta |
+| Repetti, Cornia: sulla cresta dei colli che separano la Val di Chiana dalla Val d'Ambra; dal secolo XI di padronato dei monaci della badia d'Agnano; nel 1350 l'abate la sottopose con gli altri luoghi di Val d'Ambra all'accomandigia della Repubblica fiorentina; S. Angelo di Cornia 292 abitanti (1833) | Repetti, voce «Cornia di Civitella» | R | alta |
 | Vi esisteva un centro per la lavorazione delle scope di saggina | Itinerario 1 del Comune | N | alta |
 | Il Piano Strutturale prevede un Parco faunistico e un'ANPIL | NTA artt. 23 e 53 | N | alta |
 | L'Atlante delle stragi elenca 32 vittime per «Cornia e dintorni», tra cui il partigiano Hazbi Ismail (28 anni) | Atlante delle stragi | N | alta |

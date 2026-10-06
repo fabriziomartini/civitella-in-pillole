@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 338 domande.
+Totale: 339 domande.
 
 ## Geografia (44)
 
@@ -431,7 +431,7 @@ Totale: 338 domande.
    ✔ Il Tribunale militare di La Spezia · ✘ Il tribunale di Norimberga · La Corte d'Assise di Arezzo · Il Tribunale di Firenze  
    _Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania._ → `storia.html`
 
-## Frazioni (99)
+## Frazioni (100)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -730,6 +730,9 @@ Totale: 338 domande.
 99. [99383471] ●○○ `-d+` **Che cosa raffigurava il sigillo dell'antico Comune di Oliveto?**  
    ✔ Un olivo carico di frutti · ✘ Una torre merlata · Un leone rampante · Una croce rossa  
    _Il Repetti ricorda il sigillo del Comune di Oliveto: un olivo in pieno frutto in campo bianco e nero._ → `frazioni/oliveto.html`
+100. [56054fd7] ●●● `Pv+` **Di quale badia era il patronato su Cornia dal secolo XI, secondo il Repetti?**  
+   ✔ La badia di Agnano · ✘ La Badia del Pino · L'abbazia di Vallombrosa · L'abbazia di Camaldoli  
+   _Dal secolo XI Cornia era dei monaci della badia d'Agnano; nel 1350 l'abate la pose sotto l'accomandigia di Firenze._ → `frazioni/cornia.html`
 
 ## Borghi minori (35)
 
