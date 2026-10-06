@@ -332,7 +332,17 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 
 ## 8. Amministrazione
 
-⚠ Non ancora verificata con il notebook: servono le pagine del Comune (vedi `revisione-ridotta.md`). La pagina contiene anche un'incoerenza, perché dice «4 consiglieri di opposizione» ma ne elenca 5.
+Composizione verificata sulla pagina ufficiale del Comune «Esplora Politici» (https://www.comune.civitella-in-val-di-chiana.ar.it/EG0/EGSCHTST19.HBL?en=eg907&MESSA=PUBBLICA), incollata dall'utente il 6 ottobre 2026. Fatti su persone in carica: **esclusi dal quiz**.
+
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| Sindaco Andrea Tavarnesi; vicesindaco Gian Luca Lucchetti; assessori Ivano Capacci, Claudia Del Tongo, Serena Nardi | Comune, Esplora Politici | R | media |
+| Ginetta Menchetti è presidente del consiglio comunale | Comune, Esplora Politici | R | media |
+| Consiglieri di maggioranza: Menchetti, Donati, Fabbriciani, Lanini, Ortaggi, Randellini, Terrazzi, Zeffiri (8) | Comune, Esplora Politici | R | bassa |
+| Consiglieri di minoranza: Badii, Migliore, Moretti, Veneri (4) | Comune, Esplora Politici | R | bassa |
+| Nomi delle liste ed esiti elettorali 2021 | tuttitalia.it | W | bassa |
+
+Correzione: in precedenza il sito metteva per errore Luca Zeffiri all'opposizione.
 
 ---
 
