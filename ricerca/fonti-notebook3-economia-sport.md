@@ -159,3 +159,31 @@ Poi rispondi:
 ```
 Elenca le associazioni del comune presenti nelle fonti (Pro Loco, circoli ricreativi, APS, ODV, polisportive, associazioni culturali, Misericordia). Per ciascuna: nome, tipo, frazione, attività principali e feste che organizza.
 ```
+
+### Giro di controprova (prima di scrivere le nuove pagine)
+
+**Prompt 6: controprova punto per punto**
+```
+Per ciascuna affermazione qui sotto rispondi CONFERMATA, SMENTITA o NON PRESENTE, citando il passaggio esatto e la fonte. Non dedurre nulla dai nomi delle associazioni o delle società.
+1. CEIA è stata costituita nel 1968 e ha sede nella zona industriale di Viciomaggio; il primo brevetto è del 1962.
+2. Chimet è stata fondata nel 1974; primo stabilimento a Badia al Pino nel 1976, poi a Viciomaggio.
+3. Del Tongo è stata fondata nel 1954; è fallita nel 2018; in quale anno è stato venduto all'asta il marchio a Kico?
+4. Il Comune aderisce a Cittaslow dal luglio 2002 ed è Città dell'Olio dal 2025.
+5. Il Bianco Vergine della Valdichiana è DOC dal 1972.
+6. Edizioni: Olio Novo 28ª nel 2025; Mercato del Cacio 22ª nel 2025; Fiera del Miele 22ª nel 2026; Sagra del Crostino 51ª nel 2026; Sagra della Bistecca 46ª nel 2026; Sagra del Cinghiale 42ª nel 2026; Festa al Tegoleto 52ª nel 2025; Festa dell'uva di Ciggiano 49ª nel 2026.
+7. Sagra dei Baccelli di Spoiano: quale edizione in quale anno, e in che anno è nata? Le due informazioni sono coerenti tra loro?
+8. Giro d'Italia 2004: tappa con arrivo a Tegoleto, quale numero di tappa e chi l'ha vinta.
+9. Squadra ciclistica Del Tongo: anni di attività e vittorie principali.
+```
+
+**Prompt 7: punti aperti**
+```
+Rispondi solo con ciò che è scritto nelle fonti, citando il passaggio:
+a) "Festa Siner Week": nome esatto, luogo, periodo, organizzatore.
+b) Località Fogliarina e località La Casina: in quale frazione o vicino a quale frazione si trovano?
+c) Mercato dei Sapori e della Terra di Tegoleto: periodo, luogo, organizzatori.
+d) Cinema sotto le stelle: dove si tiene, chi lo organizza, da quando.
+e) Distretto orafo e polo artigianale: ci sono numeri (imprese, addetti) o nomi di zone?
+f) Ci sono nelle fonti aziende agricole, cantine, frantoi o agriturismi del comune citati per nome?
+g) C'è qualcosa di rilevante su economia, agricoltura, feste, sport o associazioni che NON è emerso nelle risposte precedenti di questa chat? Elencalo con la fonte.
+```
