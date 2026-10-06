@@ -4983,7 +4983,7 @@ window.QUIZ_DOMANDE = [
 "1911",
 "1948"
 ],
-"s": "La linea fu inaugurata il 3 settembre 1930; nel comune ha la stazione di Civitella-Badia al Pino e la fermata di Albergo.",
+"s": "La linea fu inaugurata il 3 settembre 1930; nel comune si ferma alle stazioni di Civitella-Badia al Pino e di Albergo.",
 "l": "storia.html"
 },
 {

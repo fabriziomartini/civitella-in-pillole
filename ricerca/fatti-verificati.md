@@ -162,7 +162,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Antico borgo, probabilmente di origine romana | Itinerario 3 del Comune | R | alta |
 | Da Albergo passava una *via municipalis* romana che si univa a un ramo della Cassia diretto in Valdarno | Itinerario 3 del Comune | R | alta |
 | Nel Medioevo vi transitava la via senese-aretina | Repertorio (N002) | R | alta |
-| Ha una stazione sulla linea Arezzo–Sinalunga | Wikipedia | R | media |
+| Ha una stazione sulla linea Arezzo–Sinalunga (km 15+368), tra Civitella-Badia al Pino e Monte San Savino. Lo schema della linea la indica come fermata, la voce della stazione come «stazione ferroviaria»: sul sito «stazione» | Wikipedia (Civitella in Val di Chiana; Stazione di Albergo; Ferrovia Arezzo-Sinalunga) | R | media |
 | Centro storico censito dal Piano Strutturale (N002), che ne prevede la valorizzazione insieme ai complessi religiosi | Repertorio, NTA art. 95 | R | alta |
 | C'è la fonte-cisterna di Albergo | Repertorio (F004) | R | alta |
 | Non ha una parrocchia propria: è solo una deduzione, perché Albergo non compare nell'annuario; tolto dal sito | — | ⚠ | bassa |
@@ -185,7 +185,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Monumento ai caduti delle due guerre nel piazzale della chiesa, inaugurato il 26 agosto 1951 | Repertorio | R | media |
 | Ha la stazione di Civitella-Badia al Pino sulla linea Arezzo–Sinalunga, al km 12+666; stazioni vicine in servizio: Arezzo Via Chiari e Albergo | Wikipedia (Stazione di Civitella-Badia al Pino; Ferrovia Arezzo-Sinalunga) | R | media |
 | Ferrovia Arezzo–Sinalunga: inaugurata il 3 settembre 1930; progettata a vapore, elettrificata (3000 V cc) su iniziativa dell'ing. Giacomo Sutter, a trazione elettrica dall'apertura; danneggiata in guerra, tratta Arezzo–Foiano riaperta l'11 aprile 1948, intera linea il 24 settembre 1950 | Wikipedia (Ferrovia Arezzo-Sinalunga), che cita Muscolino 1978 | W | alta |
-| Nello schema della linea, Viciomaggio (km 9+230) e Ciggiano (km 19+100) sono fermate dismesse (simbolo eHST); Albergo (km 15+368) fermata in servizio | Wikipedia (Ferrovia Arezzo-Sinalunga), schema delle stazioni | W | media |
+| Nello schema della linea, Viciomaggio (km 9+230) e Ciggiano (km 19+100) sono fermate dismesse (simbolo eHST); coerente con le voci delle stazioni, dove le stazioni in servizio consecutive sono Arezzo Via Chiari, Civitella-Badia al Pino, Albergo, Monte San Savino | Wikipedia (Ferrovia Arezzo-Sinalunga, schema; Stazione di Civitella-Badia al Pino; Stazione di Albergo) | W | media |
 | Nel 1976 vi aprì il primo stabilimento Chimet | Chimet | N | alta |
 
 ### Ciggiano

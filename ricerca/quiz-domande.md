@@ -345,7 +345,7 @@ Totale: 357 domande.
    _Secondo il Repetti, nella chiesa della Badia furono firmati i capitoli di concordia tra Guglielmino degli Ubertini e i cortonesi fuorusciti._ → `frazioni/badia-al-pino.html`
 63. [ede3b0e0] ●●○ `Nn=` **In quale anno fu inaugurata la ferrovia Arezzo–Sinalunga, che ha una stazione a Badia al Pino?**  
    ✔ 1930 · ✘ 1866 · 1911 · 1948  
-   _La linea fu inaugurata il 3 settembre 1930; nel comune ha la stazione di Civitella-Badia al Pino e la fermata di Albergo._ → `storia.html`
+   _La linea fu inaugurata il 3 settembre 1930; nel comune si ferma alle stazioni di Civitella-Badia al Pino e di Albergo._ → `storia.html`
 64. [4b7efa1f] ●○○ `-d+` **Con quale trazione funzionarono i treni della Arezzo–Sinalunga fin dall'apertura?**  
    ✔ Elettrica · ✘ A vapore · Diesel · A cavalli  
    _Il progetto prevedeva il vapore, ma su iniziativa dell'ingegnere Giacomo Sutter la linea fu elettrificata prima dell'apertura del 1930._ → `storia.html`

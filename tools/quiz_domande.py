@@ -424,5 +424,5 @@ q(g,"Quanti abitanti contava il comune al primo censimento dell'Italia unita, ne
 q(g,"Come cambiò la popolazione del comune tra il censimento del 1951 e quello del 1961?","Calò di quasi 1.500 abitanti",["Crebbe di quasi 1.500 abitanti", "Rimase quasi identica", "Si dimezzò"],"Si passò da 8.147 abitanti nel 1951 a 6.673 nel 1961.","geografia.html")
 
 # --- Ferrovia Arezzo-Sinalunga (Wikipedia, dal libro di Muscolino 1978) ---
-q(s,"In quale anno fu inaugurata la ferrovia Arezzo–Sinalunga, che ha una stazione a Badia al Pino?","1930",["1866", "1911", "1948"],"La linea fu inaugurata il 3 settembre 1930; nel comune ha la stazione di Civitella-Badia al Pino e la fermata di Albergo.","storia.html")
+q(s,"In quale anno fu inaugurata la ferrovia Arezzo–Sinalunga, che ha una stazione a Badia al Pino?","1930",["1866", "1911", "1948"],"La linea fu inaugurata il 3 settembre 1930; nel comune si ferma alle stazioni di Civitella-Badia al Pino e di Albergo.","storia.html")
 q(s,"Con quale trazione funzionarono i treni della Arezzo–Sinalunga fin dall'apertura?","Elettrica",["A vapore", "Diesel", "A cavalli"],"Il progetto prevedeva il vapore, ma su iniziativa dell'ingegnere Giacomo Sutter la linea fu elettrificata prima dell'apertura del 1930.","storia.html")
