@@ -132,7 +132,6 @@
     el.esito.textContent = giusta ? "Esatto!" : "Non è questa. La risposta giusta è: " + corrente.dati.a;
     el.esito.className = "wm-quiz-feedback__esito " + (giusta ? "is-correct" : "is-wrong");
     el.spiegazione.textContent = corrente.dati.s;
-    el.link.href = corrente.dati.l;
     el.feedback.hidden = false;
     el.avanti.textContent = stato.indice + 1 < stato.lunghezza ? "Avanti" : "Vedi il risultato";
     el.avanti.hidden = false;
@@ -176,8 +175,11 @@
       if (!r.giusta) li.appendChild(crea("p", "wm-quiz-review__tua", "La tua risposta: " + r.scelta));
       li.appendChild(crea("p", "wm-quiz-review__ok", "Risposta esatta: " + d.a));
       var sp = crea("p", "wm-quiz-review__s", d.s + " ");
+      // Nuova scheda: chi approfondisce non perde il riepilogo della partita.
       var a = crea("a", "", "Approfondisci");
       a.href = d.l;
+      a.target = "_blank";
+      a.rel = "noopener";
       sp.appendChild(a);
       li.appendChild(sp);
       el.riepilogo.appendChild(li);
@@ -188,7 +190,7 @@
 
   document.addEventListener("DOMContentLoaded", function () {
     ["start", "play", "result", "record", "totale", "card", "categoria", "contatore", "barra", "barraWrap",
-      "domanda", "opzioni", "feedback", "esito", "spiegazione", "link", "avanti", "punteggio", "giudizio", "riepilogo"]
+      "domanda", "opzioni", "feedback", "esito", "spiegazione", "avanti", "punteggio", "giudizio", "riepilogo"]
       .forEach(function (id) { el[id] = document.getElementById("quiz-" + id); });
     if (!el.start || !window.QUIZ_DOMANDE) return;
 
