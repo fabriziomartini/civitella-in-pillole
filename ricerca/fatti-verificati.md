@@ -146,10 +146,17 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | Sede comunale dal 1917 | Wikipedia | R | alta |
 | Parrocchia di San Bartolomeo | Annuario della Diocesi | N | alta |
-| Nata attorno all'abbazia del Pino, dedicata ai santi Martino e Lorenzo; nel Cinquecento si aggiunse il titolo di San Bartolomeo | Wikipedia (Chiesa di San Bartolomeo) | N | alta |
+| Borgo fortificato nato nell'XI secolo attorno all'abbazia benedettina del Pino; nel 1046 è detta «Badia di S. Martino e S. Lorenzo al Pino» | Comune; Repertorio (N004) | R | alta |
+| La chiesa di San Bartolomeo (dedicata ai santi Bartolomeo, Martino e Filippo) è ricordata nel X secolo e nel 1039 | Repertorio (C001), Wikipedia | R | alta |
+| Nel 1502, distrutta la pieve del Toppo, il fonte battesimale e il titolo di pieve passarono a Badia al Pino; nel 1583 vi passò il titolo di Santa Lucia a Campigliano | Repertorio (C001) | R | alta |
+| La Badia fu soppressa nel 1441 e il paese divenne un insediamento essenzialmente rurale | Comune | R | alta |
+| Restano una torre, con vincolo nazionale, e i resti di una porta del castello | Repertorio (T001), itinerario 3 | R | alta |
+| Il palazzetto settecentesco fu sede comunale dal 1917 ai primi anni Settanta; oggi è la Biblioteca comunale | Comune | R | media |
+| Palazzo Santini-Paccinelli: villa settecentesca a pianta rettangolare, simmetrica rispetto al vano scala centrale | Repertorio (A020) | R | media |
+| Villa del Bosco, con parco e filare di pini | Repertorio (V001, PG010, FI007) | R | media |
+| Monumento ai caduti delle due guerre nel piazzale della chiesa, inaugurato il 26 agosto 1951 | Repertorio | R | media |
 | Ha la stazione di Civitella-Badia al Pino sulla linea Arezzo–Sinalunga | Wikipedia | R | media |
 | Nel 1976 vi aprì il primo stabilimento Chimet | Chimet | N | alta |
-| Altri dettagli (1039, 1441/1446, vincolo della torre, palazzetto, monumento del 1951, case coloniche) | — | ⚠ | alta |
 
 ### Ciggiano
 | Fatto | Fonte | Liv. | Ril. |
@@ -333,7 +340,6 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 | Vittime del 1944 | ToscanaNovecento: 244 (115 Civitella, 58 Cornia, 71 San Pancrazio); Atlante: 146 per Civitella, Cornia e Gebbia e 58 per San Pancrazio | tutte e due le versioni, senza fare somme |
 | Ospedale di Albergo | Comune: «sorgeva»; Repertorio: «probabilmente», con una fonte attigua | tutte e due le versioni |
 | Bianco Vergine DOC | Cittaslow: 1972; Vinoway: 1970 | «dai primi anni Settanta» |
-| Soppressione dell'abbazia del Pino | 1441 o 1446 | tutte e due le date |
 | Gaenne bizantino | Comune: fortilizio bizantino nel VI secolo; Repertorio: «forse» | «forse» |
 | Poggio Castellare | etrusco o romano, medievale, dalla protostoria alla tarda antichità; Comune: bizantino poi longobardo | datazione discussa |
 | Titolo della chiesa di Tuori | Diocesi: Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
@@ -385,6 +391,11 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 
 **Aziende non rappresentative**
 - Zone Creative srl (Badia al Pino, macchinari per l'oreficeria): esiste, ma è una piccola azienda senza un ruolo riconosciuto nel territorio. Era finita sul sito e nel quiz solo perché compariva tra le fonti del notebook 3. Tolta il 6/10/2026.
+
+**Badia al Pino (revisione R1)**
+- Abbazia soppressa «nel 1446» e unita al monastero del «Paradiso a Ripoli»: non confermato da nessun notebook né dal web.
+- Titolo di San Bartolomeo «aggiunto nel Cinquecento»: non confermato. Il Repertorio dice invece che la chiesa è dedicata ai santi Bartolomeo, Martino e Filippo.
+- Case coloniche Bellavista, Casetto (Casa del Moro) e San Lorentino «intorno a Badia al Pino»: le schede le collocano a Bellavista (Dorna), Ca' del Moro e Loretino. Tolte dalla pagina, anche per la scarsa rilevanza.
 
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).

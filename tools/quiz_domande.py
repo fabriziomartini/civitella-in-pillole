@@ -76,7 +76,7 @@ q(m,"Chi era Giovanni Cau, catturato a Gebbia nel 1944?","Uno scrittore e divulg
 # --- Frazioni ---
 f='frazioni'
 q(f,"In quale frazione ha sede il Comune?","Badia al Pino",["Civitella","Tegoleto","Pieve al Toppo"],"Dal 1917 la sede comunale è a Badia al Pino.",F+"badia-al-pino.html")
-q(f,"A quali santi era dedicata l'antica abbazia del Pino?","Martino e Lorenzo",["Pietro e Paolo","Biagio e Rocco","Giorgio e Luca"],"Nel Cinquecento al titolo dei santi Martino e Lorenzo si aggiunse quello di San Bartolomeo.",F+"badia-al-pino.html")
+q(f,"A quali santi era dedicata l'antica abbazia del Pino?","Martino e Lorenzo",["Pietro e Paolo","Biagio e Rocco","Giorgio e Luca"],"Un documento del 1046 la chiama «Badia di S. Martino e S. Lorenzo al Pino».",F+"badia-al-pino.html")
 q(f,"Qual è il titolo della parrocchia di Badia al Pino?","San Bartolomeo",["San Biagio","San Martino","Sant'Andrea"],"La parrocchia di Badia al Pino è dedicata a San Bartolomeo.",F+"badia-al-pino.html")
 q(f,"Quale santo è titolare delle parrocchie sia di Ciggiano sia di Tegoleto?","San Biagio",["San Martino","Sant'Andrea","San Bartolomeo"],"Ciggiano e Tegoleto hanno entrambe una chiesa parrocchiale di San Biagio.",F+"tegoleto.html")
 q(f,"Quale santo è titolare delle parrocchie sia di Spoiano sia di Pieve al Toppo?","San Giovanni Battista",["San Biagio","San Martino","Santa Maria Assunta"],"Spoiano e Pieve al Toppo hanno entrambe la parrocchia di San Giovanni Battista.",F+"spoiano.html")

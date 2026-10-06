@@ -201,7 +201,7 @@ Totale: 169 domande.
    _Dal 1917 la sede comunale è a Badia al Pino._ → `frazioni/badia-al-pino.html`
 2. [3f92e789] **A quali santi era dedicata l'antica abbazia del Pino?**  
    ✔ Martino e Lorenzo · ✘ Pietro e Paolo · Biagio e Rocco · Giorgio e Luca  
-   _Nel Cinquecento al titolo dei santi Martino e Lorenzo si aggiunse quello di San Bartolomeo._ → `frazioni/badia-al-pino.html`
+   _Un documento del 1046 la chiama «Badia di S. Martino e S. Lorenzo al Pino»._ → `frazioni/badia-al-pino.html`
 3. [0542f44e] **Qual è il titolo della parrocchia di Badia al Pino?**  
    ✔ San Bartolomeo · ✘ San Biagio · San Martino · Sant'Andrea  
    _La parrocchia di Badia al Pino è dedicata a San Bartolomeo._ → `frazioni/badia-al-pino.html`

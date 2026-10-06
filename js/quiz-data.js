@@ -792,7 +792,7 @@ window.QUIZ_DOMANDE = [
 "Biagio e Rocco",
 "Giorgio e Luca"
 ],
-"s": "Nel Cinquecento al titolo dei santi Martino e Lorenzo si aggiunse quello di San Bartolomeo.",
+"s": "Un documento del 1046 la chiama «Badia di S. Martino e S. Lorenzo al Pino».",
 "l": "frazioni/badia-al-pino.html"
 },
 {

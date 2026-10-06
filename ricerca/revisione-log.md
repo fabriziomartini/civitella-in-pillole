@@ -64,3 +64,18 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 - **Tegoleto:** tolto "uno dei calendari più ricchi del comune", un mio giudizio.
 - **Spoiano:** tolto "e le fonti turistiche del territorio", un commento senza contenuto.
 - **Home:** "prime propaggini dell'Appennino" diventa "colline boscose, propaggine dei Preappennini toscani", come scrive Wikipedia.
+
+## Badia al Pino: blocco R1, N1 e N3 in parallelo
+- **1: PARZIALE in entrambi.** Il 1039 è la data della **chiesa** (Wikipedia, Repertorio C001: «ricordata nel X secolo e nel 1039»), non della prima menzione dell'abbazia. Il borgo è «nato nell'XI sec. intorno all'antica abbazia benedettina del Pino» (Comune). La dedica a Martino e Lorenzo è in un documento del 1046 (Repertorio N004); la chiesa è dedicata a Bartolomeo, Martino e Filippo. Riscritto; nel riquadro «In breve» l'attestazione è ora «X secolo (la chiesa)».
+- **2: PARZIALE.** Confermato il 1441 (Comune). Il «1446» e il «Paradiso a Ripoli» non sono in nessun notebook e la ricerca web non li conferma: tolti. Tolta anche la riga corrispondente da «Divergenze».
+- **3: PARZIALE.** Confermate le origini nel X secolo. Il «titolo di San Bartolomeo aggiunto nel Cinquecento» non è nelle fonti: sostituito con i fatti del Repertorio (1502 titolo di pieve dalla pieve del Toppo; 1583 titolo di Santa Lucia a Campigliano). Corretta anche la spiegazione della domanda del quiz sull'abbazia.
+- **4 vincolo della torre: CONFERMATA** (N3, Repertorio T001).
+- **5 palazzetto e Biblioteca: CONFERMATA** (N1, Comune).
+- **6 Palazzo Santini-Paccinelli: CONFERMATA** (N3, Repertorio A020).
+- **7 monumento ai caduti del 26 agosto 1951: CONFERMATA** (N3).
+- **8 case coloniche: PARZIALE.** Le schede le collocano a Bellavista (Dorna), Ca' del Moro e Loretino, non «intorno a Badia al Pino». Tolte dalla pagina, anche per la scarsa rilevanza.
+- **9 Villa del Bosco: CONFERMATA** (N3, V001, PG010, FI007).
+- **10 stazione: CONFERMATA** (Wikipedia).
+- **Fonti aggiunte alla pagina:** scheda del Comune sulla Sede comunale e itinerario 3.
+
+**Badia al Pino: revisione completata.**
