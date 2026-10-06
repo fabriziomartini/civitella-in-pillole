@@ -1,5 +1,5 @@
 // Quiz su Civitella in Val di Chiana.
-// Pesca N domande da window.QUIZ_DOMANDE alternando le categorie, mescola le risposte,
+// Pesca N domande da window.QUIZ_DOMANDE mescolando livelli e categorie, mescola le risposte,
 // mostra la correzione dopo ogni risposta e un riepilogo finale.
 (function () {
   var CATEGORIE = {
@@ -30,19 +30,71 @@
     return a;
   }
 
-  // Alterna le categorie in ordine casuale, così ogni partita tocca temi diversi.
+  // Peso di ogni categoria nella pesca: storia, geografia e frazioni escono più spesso.
+  // La probabilità di una categoria cresce con la radice del numero di domande,
+  // così le categorie piccole non si ripetono a ogni partita e quelle grandi non dominano.
+  var PESO = { storia: 1.4, geo: 1.3, frazioni: 1.2, "1944": 1.1, borghi: 1, economia: 0.7, feste: 0.7 };
+  var LIVELLI = { 1: "Facile", 2: "Media", 3: "Difficile" };
+  var CHIAVE_VISTE = "civitella-quiz-viste";
+
+  function intero(min, max) { return min + Math.floor(Math.random() * (max - min + 1)); }
+
+  // Id delle domande già uscite, dalla più vecchia alla più recente.
+  function leggiViste() {
+    try { var v = JSON.parse(localStorage.getItem(CHIAVE_VISTE)); return Array.isArray(v) ? v : []; } catch (e) { return []; }
+  }
+
+  // Ricorda circa i due terzi dell'archivio: una domanda torna solo dopo che sono uscite quasi tutte le altre.
+  function salvaViste(nuove) {
+    try {
+      var v = leggiViste().filter(function (id) { return nuove.indexOf(id) === -1; }).concat(nuove);
+      var max = Math.floor(window.QUIZ_DOMANDE.length * 0.65);
+      localStorage.setItem(CHIAVE_VISTE, JSON.stringify(v.slice(-max)));
+    } catch (e) { /* storage non disponibile: il quiz funziona lo stesso */ }
+  }
+
+  function pescaPesata(lista, peso) {
+    var pesi = lista.map(peso);
+    var totale = pesi.reduce(function (a, b) { return a + b; }, 0);
+    var r = Math.random() * totale;
+    for (var i = 0; i < lista.length; i++) { r -= pesi[i]; if (r <= 0) return lista[i]; }
+    return lista[lista.length - 1];
+  }
+
+  // Ogni partita mescola i livelli (circa un terzo facili, un terzo medie, un quarto difficili, con variazioni casuali),
+  // evita le domande uscite di recente e distribuisce le categorie senza farne prevalere una.
   function pescaDomande(n) {
-    var gruppi = {};
-    window.QUIZ_DOMANDE.forEach(function (d) {
-      (gruppi[d.c] = gruppi[d.c] || []).push(d);
+    var tutte = window.QUIZ_DOMANDE;
+    var dimensione = {};
+    tutte.forEach(function (d) { dimensione[d.c] = (dimensione[d.c] || 0) + 1; });
+    var viste = leggiViste();
+    var eta = {};
+    viste.forEach(function (id, i) { eta[id] = viste.length - i; }); // 1 = uscita nell'ultima partita
+
+    var facili = intero(4, 6), difficili = intero(3, 5);
+    var livelli = [];
+    for (var k = 0; k < n; k++) livelli.push(k < facili ? 1 : k < facili + difficili ? 3 : 2);
+
+    var prese = {}, usate = {}, scelte = [];
+    mescola(livelli).forEach(function (livello) {
+      var libere = tutte.filter(function (d) { return !prese[d.id]; });
+      var candidate = libere.filter(function (d) { return d.d === livello; });
+      if (!candidate.length) candidate = libere;
+      var mai = candidate.filter(function (d) { return !eta[d.id]; });
+      if (mai.length) candidate = mai;
+      else {
+        // Tutte già viste: si pesca nella metà uscita meno di recente.
+        candidate.sort(function (a, b) { return eta[b.id] - eta[a.id]; });
+        candidate = candidate.slice(0, Math.max(1, Math.ceil(candidate.length / 2)));
+      }
+      var d = pescaPesata(candidate, function (x) {
+        return (PESO[x.c] || 1) / Math.sqrt(dimensione[x.c]) / Math.pow(1 + (usate[x.c] || 0), 2);
+      });
+      prese[d.id] = true;
+      usate[d.c] = (usate[d.c] || 0) + 1;
+      scelte.push(d);
     });
-    Object.keys(gruppi).forEach(function (k) { gruppi[k] = mescola(gruppi[k]); });
-    var scelte = [];
-    while (scelte.length < n) {
-      var chiavi = mescola(Object.keys(gruppi).filter(function (k) { return gruppi[k].length; }));
-      if (!chiavi.length) break;
-      for (var i = 0; i < chiavi.length && scelte.length < n; i++) scelte.push(gruppi[chiavi[i]].pop());
-    }
+    salvaViste(scelte.map(function (d) { return d.id; }));
     return mescola(scelte).map(function (d) {
       return { dati: d, opzioni: mescola([d.a].concat(d.x)) };
     });
@@ -97,6 +149,8 @@
     var cat = CATEGORIE[d.c];
     el.card.className = "wm-quiz-card wm-accent--" + cat.accento;
     el.categoria.textContent = cat.nome;
+    el.livello.className = "wm-quiz-level wm-quiz-level--" + d.d;
+    el.livello.textContent = LIVELLI[d.d];
     el.contatore.textContent = "Domanda " + (stato.indice + 1) + " di " + stato.lunghezza;
     el.barra.style.width = (stato.indice / stato.lunghezza) * 100 + "%";
     el.barraWrap.setAttribute("aria-valuenow", String(stato.indice));
@@ -197,6 +251,7 @@
       icona.appendChild(crea("i", "bi " + (r.giusta ? "bi-check-lg" : "bi-x-lg")));
       testa.appendChild(icona);
       testa.appendChild(crea("span", "wm-quiz-review__cat", CATEGORIE[d.c].nome));
+      testa.appendChild(crea("span", "wm-quiz-level wm-quiz-level--" + d.d, LIVELLI[d.d]));
       li.appendChild(testa);
       li.appendChild(crea("p", "wm-quiz-review__q", (k + 1) + ". " + d.q));
       if (!r.giusta) li.appendChild(crea("p", "wm-quiz-review__tua", "La tua risposta: " + r.scelta));
@@ -217,7 +272,7 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
-    ["start", "play", "result", "record", "totale", "card", "categoria", "contatore", "barra", "barraWrap",
+    ["start", "play", "result", "record", "totale", "card", "categoria", "livello", "contatore", "barra", "barraWrap",
       "domanda", "opzioni", "feedback", "esito", "spiegazione", "avanti", "punteggio", "giudizio", "riepilogo"]
       .forEach(function (id) { el[id] = document.getElementById("quiz-" + id); });
     if (!el.start || !window.QUIZ_DOMANDE) return;
