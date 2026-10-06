@@ -487,6 +487,10 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 - 917 Berengario e Uguccione; statuti di dogana del 1461; Sala della Memoria nel 2004; Centro di Documentazione dal 2001 con fondi UE; rocca del VI-VII secolo: NON PRESENTI. Non usati.
 - Madonna «in maiolica sulla Porta Senese»: imprecisa. È una terracotta invetriata del 1522 della bottega di Giovanni della Robbia, nel tabernacolo vicino alla porta (Discover Arezzo). Aggiunta così.
 
+**Guida turistica «Alla scoperta della Val di Chiana» (ambito turistico, PDF di 11 pagine): non affidabile per la storia**
+- Scrive che Civitella fu «fondata in epoca etrusca», che «nel XII secolo viene distrutta durante la battaglia di Pieve al Toppo» (la battaglia è del 1288) e che passò a Firenze «dopo la battaglia di Campaldino nel 1289» (fu nel 1385). Mette la Madonna robbiana «all'interno della chiesa di Santa Maria» (Discover Arezzo: tabernacolo presso la Porta Senese).
+- Da verificare prima di qualsiasi uso: mura del XII secolo e cinta ellittica; Porta Senese unica porta intatta; due piazze con palazzi porticati; Palazzo Pretorio, Palazzo Becattini, la Cancelleria e Palazzo Ninci («Nenci» nella guida) ricostruiti dopo la guerra.
+
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).
 - 1948 e 1970 come anni di fondazione della Badiese e dell'USD Tegoleto: ricavati solo dal nome delle società.
