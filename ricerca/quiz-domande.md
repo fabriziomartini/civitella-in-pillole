@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 319 domande.
+Totale: 330 domande.
 
 ## Geografia (44)
 
@@ -143,7 +143,7 @@ Totale: 319 domande.
    ✔ Dal prosciugamento di un antico lago · ✘ Dal ritiro di un ghiacciaio · Da un'antica colata di lava · Dal ritiro del mare in età romana  
    _La pianura, a circa 250 metri di quota, deriva dal prosciugamento di un lago pleistocenico._ → `geografia.html`
 
-## Storia (49)
+## Storia (53)
 
 1. [fe9e42b2] ●●● `Nv=` **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -292,6 +292,18 @@ Totale: 319 domande.
 49. [3ff855bb] ●●● `Pv+` **Da quale vicariato dipendeva Civitella sotto i granduchi di Toscana?**  
    ✔ Da quello di Monte San Savino · ✘ Da quello di Arezzo · Da quello di Cortona · Da quello di Montevarchi  
    _Monte San Savino fu capoluogo di vicariato sotto i granduchi, con autorità su Civitella, Lucignano e Foiano della Chiana._ → `storia.html`
+50. [37978868] ●●● `Pv+` **Quale podestà di Arezzo assediò e rase al suolo Civitella nel 1252, secondo la Pro Loco?**  
+   ✔ Ildebrando Cacciaconti · ✘ Guido Tarlati · Buonconte da Montefeltro · Niccolò Piccinino  
+   _Nel 1252 Civitella capitolò e fu rasa al suolo; il vescovo Guglielmino la fece poi ricostruire con una doppia cerchia di mura._ → `storia.html`
+51. [fd4ef637] ●○○ `-d=` **Quale di questi comuni fu soppresso e unito a Civitella nel 1774?**  
+   ✔ Ciggiano · ✘ Monte San Savino · Lucignano · Bucine  
+   _Nel 1774 nove piccoli comuni furono aggregati a Civitella; Ciggiano è tra quelli ricordati sia dagli itinerari del Comune sia dalla Pro Loco._ → `storia.html`
+52. [79914e1e] ●○○ `-d=` **Come era chiamata Civitella per la frequente presenza dei vescovi aretini?**  
+   ✔ «Civitella del Vescovo» · ✘ «Civitella dei Medici» · «Civitella del Papa» · «Civitella dei Conti»  
+   _Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra»._ → `storia.html`
+53. [175fd5fe] ●●● `Nn+` **In quale anno fu firmata nel castello la «Pace di Civitella», secondo la Pro Loco?**  
+   ✔ 1311 · ✘ 1252 · 1385 · 1554  
+   _Il 26 marzo 1311 il vescovo Ildobrandino dei conti Guidi fece firmare la pace tra guelfi e ghibellini, alla presenza degli ambasciatori di Arrigo VII._ → `storia.html`
 
 ## Il 1944 (35)
 
@@ -401,7 +413,7 @@ Totale: 319 domande.
    ✔ Il Tribunale militare di La Spezia · ✘ Il tribunale di Norimberga · La Corte d'Assise di Arezzo · Il Tribunale di Firenze  
    _Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania._ → `storia.html`
 
-## Frazioni (94)
+## Frazioni (97)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -685,6 +697,15 @@ Totale: 319 domande.
 94. [396551e5] ●●● `Pv+` **Di quale bottega è la Madonna con il Bambino del 1522 nel tabernacolo presso la Porta Senese di Civitella?**  
    ✔ Quella di Giovanni della Robbia · ✘ Quella di Donatello · Quella di Luca Signorelli · Quella del Sansovino  
    _È una terracotta invetriata del 1522 della bottega di Giovanni della Robbia._ → `frazioni/civitella.html`
+95. [1447e0cc] ●○○ `-d=` **Che cosa raccoglie la Pinacoteca di Civitella?**  
+   ✔ Dipinti e sculture d'arte contemporanea, dagli anni Settanta a oggi · ✘ Reperti etruschi e romani · Arte sacra medievale · Attrezzi della civiltà contadina  
+   _La Pinacoteca d'arte contemporanea ospita dipinti e sculture dai primi anni Settanta alle opere degli artisti di oggi._ → `frazioni/civitella.html`
+96. [f6ac606f] ●●○ `Pv=` **Quale porta di Civitella fu distrutta dalle bombe nel 1944?**  
+   ✔ Porta Aretina · ✘ Porta Senese · Porta Fiorentina · Porta Romana  
+   _Delle due porte del XIII secolo, Porta Aretina fu distrutta nel 1944; Porta Senese è rimasta integra._ → `frazioni/civitella.html`
+97. [e8da5b98] ●●● `Pv+` **A chi donarono Palazzo Ninci i suoi proprietari nel 1917?**  
+   ✔ Alla Fraternita dei Laici · ✘ Al Comune di Civitella · Alla diocesi di Arezzo · Alla Pro Loco  
+   _Palazzo Ninci, in piazza Lazzeri, fu donato nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925._ → `frazioni/civitella.html`
 
 ## Borghi minori (35)
 
@@ -872,7 +893,7 @@ Totale: 319 domande.
    ✔ Toscano IGP · ✘ Chianti Classico DOP · Riviera Ligure DOP · Terra di Bari DOP  
    _Le varietà locali sono frantoio, leccino, moraiolo e pendolino, e l'olio è Toscano IGP._ → `lavoro-e-sapori.html`
 
-## Feste e sport (37)
+## Feste e sport (41)
 
 1. [d16bdeb0] ●●○ `-v=` **In quale frazione si tiene la Sagra della Bistecca?**  
    ✔ Badia al Pino · ✘ Tegoleto · Spoiano · Ciggiano  
@@ -985,3 +1006,15 @@ Totale: 319 domande.
 37. [4be5e12f] ●●● `Nn+` **Quale edizione dell'Olio Novo si è tenuta nel 2025?**  
    ✔ La 28ª · ✘ La 5ª · La 50ª · La 100ª  
    _Nel 2025 L'Olio Novo è arrivato alla 28ª edizione._ → `feste-e-associazioni.html`
+38. [8f738c40] ●○○ `-d-` **Che cosa sostituisce il cavallo nel Sarapino di Civitella?**  
+   ✔ L'Ape, il motocarro · ✘ Un asino · Una bicicletta · Un trattore  
+   _Il Sarapino è il Saracino corso con l'Ape, il mezzo a motore più diffuso nelle campagne del recente passato._ → `frazioni/civitella.html`
+39. [fa85de56] ●○○ `-n=` **In quale mese si corre il Sarapino a Civitella?**  
+   ✔ A giugno · ✘ A settembre · A dicembre · A febbraio, per Carnevale  
+   _Il Sarapino si corre a metà giugno in piazza Lazzeri; la Pro Loco indica la seconda domenica, nel 2026 si è corso sabato 13 giugno._ → `frazioni/civitella.html`
+40. [ef246798] ●●● `Pv+` **Come si chiama il premio che conquista il rione vincitore del Sarapino?**  
+   ✔ Il «Retribuet» · ✘ Il «Palio» · Il «Masgalano d'oro» · La «Lancia d'oro»  
+   _I quattro rioni corrono tre carriere ciascuno contro il buratto per conquistare il Retribuet; il Masgalano premia invece il portamento._ → `frazioni/civitella.html`
+41. [e65747b8] ●●● `Pv+` **Quale di questi è uno dei quattro rioni che corrono il Sarapino?**  
+   ✔ Porta Senese · ✘ Porta Crucifera · Santo Spirito · Sant'Andrea  
+   _I rioni del Sarapino sono San Francesco, Porta Aretina, Porta Senese e La Torre._ → `frazioni/civitella.html`

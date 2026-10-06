@@ -91,6 +91,13 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Nel 1385 Firenze, acquisiti Arezzo e il suo contado, staccò Civitella dalla podesteria di Valdambra e ne fece il capoluogo di una propria podesteria, durata fino al 1838 | SIUSA, Podesteria di Civitella | R | alta |
 | Nel 1774 Ciggiano, Viciomaggio, Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella. Il Repertorio conferma Montarfoni (H240a) e parla di «nove piccoli comuni» aggregati nel 1774, senza nominarli | Itinerari del Comune; Repertorio | N (R per Montarfoni e i nove comuni) | alta |
 | Monte San Savino «è stato capoluogo di vicariato sotto i granduchi, con autorità su Civitella, Lucignano e Foiano della Chiana» | PIT, ambito 19 | R | alta |
+| Nel 1774 Pietro Leopoldo soppresse i comuni di Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto e li unì a Civitella (nove, come i «nove piccoli comuni» del Repertorio); più tardi si aggiunse Pieve a Maiano | Pro Loco, «Civitella nella storia»; Repertorio (numero) | R (numero), W (nomi) | alta |
+| Fonti per i singoli nomi del 1774: Montarfoni = Repertorio H240a + Pro Loco; Ciggiano, Viciomaggio, Badia al Pino = itinerari del Comune + Pro Loco; Oliveto, Tegoleto, Tuori, Cornia, Montoto = solo Pro Loco. N3 (6/10/2026): nel Repertorio il 1774 compare solo nelle schede N007 (Civitella, «nove piccoli comuni») e H240a (Montarfoni) | N3, N1 | — | — |
+| Nel 1252 il podestà di Arezzo Ildebrando Cacciaconti assediò Civitella, che fu rasa al suolo; Guglielmino la ricostruì con una doppia cerchia di mura, lavori finiti probabilmente intorno al 1270 | Pro Loco; distruzione del 1252 anche nell'itinerario 2 del Comune | W | alta |
+| Nell'XI secolo Civitella passò al vescovo di Arezzo, capoluogo del viscontado della Valdambra, e fu ribattezzata «Civitella del Vescovo» | Wikipedia (N1), Pro Loco | R | alta |
+| Nome «Civitella di Valdambra» | Pro Loco | W | media |
+| Dopo Campaldino (1289) Civitella fu presa da Firenze; nel 1311 vi fu stipulata la pace tra il vescovo Ildebrandino Guidi di Romena e l'imperatore Enrico VII; nel 1554 fu assediata da Siena e difesa da Paolo da Castello, capitano di Cosimo I | Wikipedia (N1), Pro Loco | R | alta |
+| Solo Pro Loco: resa il 3 luglio 1289; data 26 marzo 1311 e nome «Pace di Civitella»; sottomissione a Firenze nel 1362; saccheggio del 1397 e riconquista del 1398; Piero Strozzi alla guida dei senesi nel 1554 | Pro Loco | W | media |
 | Nel 1917 la sede comunale fu trasferita a Badia al Pino per lo spopolamento delle zone collinari | Wikipedia | R | alta |
 | Un bombardamento alleato distrusse la rocca di Civitella, perché al suo interno si era installato il comando tedesco (le fonti non indicano la data) | Wikipedia, Cittaslow | R | alta |
 | Nel giugno 1940 a Villa Oliveto fu istituito un campo di internamento, soprattutto per famiglie ebree di nazionalità britannica provenienti dalla Libia; nel 1944 furono deportate a Bergen-Belsen | Regione Toscana, Storia e Memorie, Wikipedia | N | alta |
@@ -134,9 +141,15 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Il portale in bronzo della chiesa, opera di Bino Bini (1994), ricorda l'eccidio nel cinquantesimo anniversario | Wikipedia (Chiesa di Santa Maria Assunta) | R | alta |
 | La Rocca: sulla più alta delle due sommità del colle c'è il *Palatium*-torre, con il recinto d'accesso e la cisterna per l'acqua | Repertorio (T002) | R | alta |
 | Il Piano Strutturale prevede il restauro della Rocca e un «museo» come punto di riferimento per visitare castelli, castellari, rocche, torri e antichi tracciati | Piano Strutturale | R | alta |
+| Le mura risalgono al XII secolo e furono restaurate nel 1969 | Itinerario 2 del Comune | R | alta |
+| Delle due porte del XIII secolo, Porta Aretina fu distrutta dalle bombe nel 1944; Porta Senese è integra | Discover Arezzo; scheda del Comune sulla Porta Senese | R | alta |
+| Palazzo Ninci, in piazza Lazzeri: rifusione settecentesca di più edifici medievali; donato dai Ninci nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925 | Scheda del Comune su Palazzo Ninci; Discover Arezzo | R | media |
 | Palazzo Pretorio: trecentesco, con portico a cinque archi e gli stemmi dei podestà fiorentini | Discover Arezzo | R | media |
 | Palazzo Becattini: nato dalla fusione di edifici medievali e trasformato nell'Ottocento; il notaio Becattini, morto il 19 luglio 1877, lo lasciò alla Confraternita di Carità per un ospedale dei poveri; dal 1978 è del Comune | Repertorio (A007) | R | media |
 | Ci sono gli oratori della SS. Trinità e della Madonna di Mercatale, la cisterna medievale di piazza Lazzeri e la Galleria comunale d'arte contemporanea (l'oratorio della Costarella è stato tolto: la Madonna della Costarella è a Ciggiano, Repertorio E152) | Repertorio (O001, O004), Wikipedia, Discover Arezzo | R | alta |
+| La Pinacoteca d'arte contemporanea di Civitella ospita «una vasta collezione di dipinti e sculture» dai primi anni '70 agli artisti contemporanei | Guida turistica ufficiale Valdichiana Aretina (con i Comuni), letta direttamente | W | media |
+| Sarapino: i quattro rioni sono San Francesco, Porta Aretina, Porta Senese e La Torre; si corre in piazza Lazzeri; nel 2026 Veglia delle Armi sabato 6 giugno e giostra sabato 13 giugno alle 21 (la Pro Loco scrive «la seconda domenica di giugno») | Visit Tuscany, evento 2026 (incollato dall'utente) | W | media |
+| Il Sarapino: Saracino con l'Ape al posto del cavallo, idea del dopoguerra ispirata alla Giostra del Saracino di Arezzo; nome da «saracino» + «ape»; seconda domenica di giugno; quattro rioni, tre carriere ciascuno contro il buratto, premio «Retribuet»; Veglia delle Armi due giorni prima; Te Deum del rione vincitore e premio «Masgalano» la domenica successiva | Pro Loco Civitella (pagina «Il Sarapino», incollata dall'utente); citato anche nella guida turistica Valdichiana Aretina | R | media |
 | Ha sede a Civitella la condotta Slow Food Valdichiana | Cittaslow | R | media |
 | Ha sede a Civitella la Pro Loco Civitella in Val di Chiana APS | RUNTS | R | bassa |
 
@@ -393,6 +406,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 | Titolo della chiesa di Tuori | Diocesi: Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
 | Altitudine del capoluogo | 500 m (testo di Wikipedia, ToscanaNovecento), 525 m (scheda di Wikipedia), 600 m (guida turistica) | «circa 500 m» |
 | Data dell'uccisione di Mario Mannelli | ToscanaNovecento: «il 29 marzo 1944 avvenne una strage di matrice fascista»; Repertorio, scheda del monumento (ME013): «ucciso per rappresaglia fascista il 29 maggio 1944» | tutte e due le date |
+| Passaggio di Civitella a Firenze | Wikipedia: ingresso nel territorio fiorentino nel 1348; Pro Loco: custodia fiorentina dal 1344 e sottomissione degli abitanti nel 1362; SIUSA: podesteria fiorentina dal 1385; Wikipedia: presa da Firenze dopo Campaldino (1289) | sul sito: presa nel 1289, sottomissione 1362 (Pro Loco), podesteria 1385 |
 | Rocca di Civitella dopo il 1248 | Itinerario 2 del Comune: «ristrutturata dopo la distruzione del 1252»; Wikipedia: «nel 1272 Guglielmino la ricostruì»; Repertorio: nel 1248 Guglielmino ne potenziò le mura | tutte e tre, attribuite |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
 
@@ -409,7 +423,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 
 **Date sbagliate o senza fonte**
 - Podesteria del 1348 (è del 1385).
-- «Civitella del Vescovo».
+- «Civitella del Vescovo»: ora ha una fonte (Pro Loco, «Civitella nella storia»); sul sito è attribuita.
 - Ricostruzione del 1272: ora trovata in Wikipedia (giro N1 del 6/10/2026); sul sito è attribuita, vedi le divergenze.
 - Feudo di Giovanni Acuto (1384).
 - Guido Tarlati a Oliveto nel 1318.
@@ -484,6 +498,15 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 **Spunti del video del Comune cercati nelle fonti scritte (N1, 6/10/2026)**
 - 917 Berengario e Uguccione; statuti di dogana del 1461; Sala della Memoria nel 2004; Centro di Documentazione dal 2001 con fondi UE; rocca del VI-VII secolo: NON PRESENTI. Non usati.
 - Madonna «in maiolica sulla Porta Senese»: imprecisa. È una terracotta invetriata del 1522 della bottega di Giovanni della Robbia, nel tabernacolo vicino alla porta (Discover Arezzo). Aggiunta così.
+
+**Guida turistica «Alla scoperta della Val di Chiana» (ambito turistico, PDF di 11 pagine): non affidabile per la storia**
+- Scrive che Civitella fu «fondata in epoca etrusca», che «nel XII secolo viene distrutta durante la battaglia di Pieve al Toppo» (la battaglia è del 1288) e che passò a Firenze «dopo la battaglia di Campaldino nel 1289» (fu nel 1385). Mette la Madonna robbiana «all'interno della chiesa di Santa Maria» (Discover Arezzo: tabernacolo presso la Porta Senese).
+- Verificato in N1 (6/10/2026): mura del XII secolo CONFERMATE (restaurate nel 1969), ma «cinta ellittica» non presente; Porta Senese integra CONFERMATA (Porta Aretina distrutta nel 1944); «due piazze collegate da palazzi con portici» non presente (le fonti nominano piazza Lazzeri e piazza Mazzini); la «Cancelleria» e la ricostruzione postbellica dei palazzi NON PRESENTI (Palazzo Pretorio è trecentesco, Palazzo Ninci settecentesco). Usati solo i fatti confermati.
+
+**Pro Loco, «Civitella nella storia»: parti non usate**
+- Il 917 con Berengario e Uguccione «marchese del Colle», con la genealogia fino a Carlo Magno: non confermato da nessuna fonte scritta verificata.
+- Magister Rainerius «nato a Civitella», autore nel 1272 di un'«Ars Tabellionatus»: da verificare su fonti storiche.
+- Aneddoti sui vescovi Arnaldo ed Eliotto morti a Civitella e sugli «altri sette vescovi» sepolti lì.
 
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).

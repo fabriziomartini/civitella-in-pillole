@@ -4467,5 +4467,159 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "La pianura, a circa 250 metri di quota, deriva dal prosciugamento di un lago pleistocenico.",
 "l": "geografia.html"
+},
+{
+"id": "1447e0cc",
+"c": "frazioni",
+"d": 1,
+"q": "Che cosa raccoglie la Pinacoteca di Civitella?",
+"a": "Dipinti e sculture d'arte contemporanea, dagli anni Settanta a oggi",
+"x": [
+"Reperti etruschi e romani",
+"Arte sacra medievale",
+"Attrezzi della civiltà contadina"
+],
+"s": "La Pinacoteca d'arte contemporanea ospita dipinti e sculture dai primi anni Settanta alle opere degli artisti di oggi.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "8f738c40",
+"c": "feste",
+"d": 1,
+"q": "Che cosa sostituisce il cavallo nel Sarapino di Civitella?",
+"a": "L'Ape, il motocarro",
+"x": [
+"Un asino",
+"Una bicicletta",
+"Un trattore"
+],
+"s": "Il Sarapino è il Saracino corso con l'Ape, il mezzo a motore più diffuso nelle campagne del recente passato.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "fa85de56",
+"c": "feste",
+"d": 1,
+"q": "In quale mese si corre il Sarapino a Civitella?",
+"a": "A giugno",
+"x": [
+"A settembre",
+"A dicembre",
+"A febbraio, per Carnevale"
+],
+"s": "Il Sarapino si corre a metà giugno in piazza Lazzeri; la Pro Loco indica la seconda domenica, nel 2026 si è corso sabato 13 giugno.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "ef246798",
+"c": "feste",
+"d": 3,
+"q": "Come si chiama il premio che conquista il rione vincitore del Sarapino?",
+"a": "Il «Retribuet»",
+"x": [
+"Il «Palio»",
+"Il «Masgalano d'oro»",
+"La «Lancia d'oro»"
+],
+"s": "I quattro rioni corrono tre carriere ciascuno contro il buratto per conquistare il Retribuet; il Masgalano premia invece il portamento.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "37978868",
+"c": "storia",
+"d": 3,
+"q": "Quale podestà di Arezzo assediò e rase al suolo Civitella nel 1252, secondo la Pro Loco?",
+"a": "Ildebrando Cacciaconti",
+"x": [
+"Guido Tarlati",
+"Buonconte da Montefeltro",
+"Niccolò Piccinino"
+],
+"s": "Nel 1252 Civitella capitolò e fu rasa al suolo; il vescovo Guglielmino la fece poi ricostruire con una doppia cerchia di mura.",
+"l": "storia.html"
+},
+{
+"id": "fd4ef637",
+"c": "storia",
+"d": 1,
+"q": "Quale di questi comuni fu soppresso e unito a Civitella nel 1774?",
+"a": "Ciggiano",
+"x": [
+"Monte San Savino",
+"Lucignano",
+"Bucine"
+],
+"s": "Nel 1774 nove piccoli comuni furono aggregati a Civitella; Ciggiano è tra quelli ricordati sia dagli itinerari del Comune sia dalla Pro Loco.",
+"l": "storia.html"
+},
+{
+"id": "79914e1e",
+"c": "storia",
+"d": 1,
+"q": "Come era chiamata Civitella per la frequente presenza dei vescovi aretini?",
+"a": "«Civitella del Vescovo»",
+"x": [
+"«Civitella dei Medici»",
+"«Civitella del Papa»",
+"«Civitella dei Conti»"
+],
+"s": "Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra».",
+"l": "storia.html"
+},
+{
+"id": "175fd5fe",
+"c": "storia",
+"d": 3,
+"q": "In quale anno fu firmata nel castello la «Pace di Civitella», secondo la Pro Loco?",
+"a": "1311",
+"x": [
+"1252",
+"1385",
+"1554"
+],
+"s": "Il 26 marzo 1311 il vescovo Ildobrandino dei conti Guidi fece firmare la pace tra guelfi e ghibellini, alla presenza degli ambasciatori di Arrigo VII.",
+"l": "storia.html"
+},
+{
+"id": "e65747b8",
+"c": "feste",
+"d": 3,
+"q": "Quale di questi è uno dei quattro rioni che corrono il Sarapino?",
+"a": "Porta Senese",
+"x": [
+"Porta Crucifera",
+"Santo Spirito",
+"Sant'Andrea"
+],
+"s": "I rioni del Sarapino sono San Francesco, Porta Aretina, Porta Senese e La Torre.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "f6ac606f",
+"c": "frazioni",
+"d": 2,
+"q": "Quale porta di Civitella fu distrutta dalle bombe nel 1944?",
+"a": "Porta Aretina",
+"x": [
+"Porta Senese",
+"Porta Fiorentina",
+"Porta Romana"
+],
+"s": "Delle due porte del XIII secolo, Porta Aretina fu distrutta nel 1944; Porta Senese è rimasta integra.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "e8da5b98",
+"c": "frazioni",
+"d": 3,
+"q": "A chi donarono Palazzo Ninci i suoi proprietari nel 1917?",
+"a": "Alla Fraternita dei Laici",
+"x": [
+"Al Comune di Civitella",
+"Alla diocesi di Arezzo",
+"Alla Pro Loco"
+],
+"s": "Palazzo Ninci, in piazza Lazzeri, fu donato nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925.",
+"l": "frazioni/civitella.html"
 }
 ];
