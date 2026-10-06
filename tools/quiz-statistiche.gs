@@ -99,15 +99,13 @@ function prepara() {
   stat.getRange('A1:A4').setFontWeight('bold');
 
   stat.getRange('A7').setValue('Per categoria (dalla più difficile)').setFontWeight('bold');
-  stat.getRange('A8').setFormula(
-    '=IFERROR(QUERY(Risposte!D2:F,"select D, count(F), avg(F) where D is not null group by D order by avg(F) ' +
-    'label D \'Categoria\', count(F) \'Risposte\', avg(F) \'Quota giuste\'",0),"Ancora nessuna partita")');
+  stat.getRange('A8').setFormula(`=IFERROR(QUERY(Risposte!D2:F,"select D, count(F), avg(F) where D is not null group by D order by avg(F) label D 'Categoria', count(F) 'Risposte', avg(F) 'Quota giuste'",0),"Ancora nessuna partita")`);
 
   stat.getRange('A18').setValue('Per domanda (dalla più sbagliata)').setFontWeight('bold');
-  stat.getRange('A19').setFormula(
-    '=IFERROR(QUERY(Risposte!C2:F,"select C, E, D, count(F), avg(F) where C is not null group by C, E, D order by avg(F) ' +
-    'label C \'Id\', E \'Domanda\', D \'Categoria\', count(F) \'Risposte\', avg(F) \'Quota giuste\'",0),"Ancora nessuna partita")');
+  stat.getRange('A19').setFormula(`=IFERROR(QUERY(Risposte!C2:F,"select C, E, D, count(F), avg(F) where C is not null group by C, E, D order by avg(F) label C 'Id', E 'Domanda', D 'Categoria', count(F) 'Risposte', avg(F) 'Quota giuste'",0),"Ancora nessuna partita")`);
 
   stat.setColumnWidth(1, 260);
   stat.setColumnWidth(2, 420);
 }
+
+// Fine dello script: se copiando non vedi questa riga, il codice è stato tagliato.
