@@ -148,3 +148,15 @@ Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11
 - Tegoleto: aggiungere il Gruppo Teatro La Torre, che gestisce il Teatro Moderno, e il Mercato dei Sapori e della Terra.
 - Spoiano: la Sagra dei Baccelli è della Polisportiva con il Circolo MCL.
 - Pieve a Maiano: la Sagra del Cinghiale è dell'U.S. Pieve a Maiano.
+
+## Prompt 6: controprova
+- **Confermate con passaggio citato:**
+  - CEIA: brevetto nel 1962, costituzione nel 1968, sede in zona industriale a Viciomaggio (fonti: ceia.net e Assosicurezza).
+  - Chimet: fondata nel 1974, primo stabilimento a Badia al Pino nel 1976, poi Viciomaggio negli anni Ottanta (sito Chimet).
+  - Del Tongo: fondata nel 1954 (Kico) e fallita nel 2018 (saturnonotizie). **Il marchio è stato acquisito da Kico nel 2022** per 57.000 euro, quindi il punto aperto del prompt 1 è chiuso.
+  - Cittaslow dal luglio 2002 (Arezzo Notizie) e Città dell'Olio dal 2025 (La Nazione, 10/11/2025).
+  - Tutte le edizioni delle feste: Olio Novo 28ª nel 2025; Cacio 22ª nel 2025; Miele 22ª nel 2026; Crostino 51ª nel 2026 (9–19 luglio); Bistecca 46ª nel 2026; Cinghiale 42ª nel 2026; Festa al Tegoleto 52ª nel 2025 (25 giugno – 6 luglio); Uva di Ciggiano 49ª nel 2026, con la 50ª nel 2027.
+  - Giro d'Italia 2004: 4ª tappa, 12 maggio, vinta da Petacchi, con arrivo davanti allo stabilimento Del Tongo (Wikipedia).
+  - Squadra Del Tongo 1982–1991 (Wikipedia): Giro 1983 con Saronni e 1991 con Chioccioli; 29 tappe del Giro; Milano-Sanremo 1983; Lombardia 1982 e 1986; Tirreno-Adriatico e Giro di Svizzera 1982.
+- **Sagra dei Baccelli:** 48ª edizione nel 2025, quindi dal 1978, se l'edizione è stata annuale. Il "1975" **non va usato**: nessuna fonte del notebook lo riporta.
+- **Bianco Vergine DOC: le fonti non concordano.** Cittaslow dice 1972, Vinoway 1970. Sul sito scriverò "DOC dai primi anni Settanta" e citerò Cittaslow per il 1972, senza dare la data come certa.
