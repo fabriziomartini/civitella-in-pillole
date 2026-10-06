@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche.
 
-Totale: 173 domande.
+Totale: 172 domande.
 
 ## Geografia (22)
 
@@ -401,7 +401,7 @@ Totale: 173 domande.
    ✔ Travertino · ✘ Marmo di Carrara · Bronzo · Granito  
    _A Le Fosse il Repertorio registra un cippo romano in travertino._ → `frazioni/borghi-minori.html#malpertuso-le-fosse`
 
-## Lavoro e sapori (21)
+## Lavoro e sapori (20)
 
 1. [fbceb884] **Che cosa produce l'azienda CEIA di Viciomaggio?**  
    ✔ Metal detector e sistemi di ispezione · ✘ Cucine componibili · Gioielli · Macchine agricole  
@@ -448,22 +448,19 @@ Totale: 173 domande.
 15. [fbd430a4] **Quale celebre velocista esordì tra i professionisti con la maglia Del Tongo?**  
    ✔ Mario Cipollini · ✘ Alessandro Petacchi · Mark Cavendish · Erik Zabel  
    _Mario Cipollini esordì tra i professionisti con la Del Tongo._ → `lavoro-e-sapori.html#del-tongo`
-16. [185f38ca] **Che cosa costruisce l'azienda Zone Creative di Badia al Pino?**  
-   ✔ Macchinari per l'oreficeria · ✘ Biciclette · Cucine · Metal detector  
-   _Zone Creative è legata al distretto orafo aretino._ → `lavoro-e-sapori.html#industria`
-17. [32697d3d] **Quante nuove aree industriali prevede il Piano Operativo del 2023?**  
+16. [32697d3d] **Quante nuove aree industriali prevede il Piano Operativo del 2023?**  
    ✔ Nessuna, perché il territorio è considerato saturo · ✘ Tre nuove aree · Una grande zona industriale a Cornia · Dieci nuove aree  
    _Il Piano Operativo non prevede nuova edificazione industriale._ → `lavoro-e-sapori.html#industria`
-18. [5ea5e45a] **Quale di queste è una varietà tradizionale di olivo del territorio?**  
+17. [5ea5e45a] **Quale di queste è una varietà tradizionale di olivo del territorio?**  
    ✔ Moraiolo · ✘ Nocellara · Taggiasca · Coratina  
    _Le varietà tradizionali sono frantoio, leccino, moraiolo e pendolino._ → `lavoro-e-sapori.html#campi`
-19. [a04d9971] **A quale Strada del Vino appartiene il Comune di Civitella?**  
+18. [a04d9971] **A quale Strada del Vino appartiene il Comune di Civitella?**  
    ✔ Strada del Vino Terre di Arezzo · ✘ Strada del Vino Nobile di Montepulciano · Strada del Chianti Classico · Strada del Vino della Costa degli Etruschi  
    _Il Comune è socio della Strada del Vino Terre di Arezzo._ → `lavoro-e-sapori.html#campi`
-20. [92190992] **Dove ha sede la condotta Slow Food Valdichiana?**  
+19. [92190992] **Dove ha sede la condotta Slow Food Valdichiana?**  
    ✔ A Civitella · ✘ A Montepulciano · A Cortona · A Siena  
    _Slow Food Valdichiana ha sede a Civitella in Val di Chiana._ → `lavoro-e-sapori.html#slow-food`
-21. [fd5f1067] **Come si chiama il progetto di educazione alimentare che Slow Food porta nelle scuole del comune?**  
+20. [fd5f1067] **Come si chiama il progetto di educazione alimentare che Slow Food porta nelle scuole del comune?**  
    ✔ Orto in Condotta · ✘ Scuola in Fattoria · Mangia Sano · Cuochi in Classe  
    _Orto in Condotta si svolge nelle scuole dell'Istituto comprensivo Martiri di Civitella._ → `lavoro-e-sapori.html#slow-food`
 

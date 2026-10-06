@@ -12,6 +12,7 @@ Questo file è la base certa del sito (e del futuro quiz): un fatto per riga, co
 **Regole**
 - Per il quiz si usano solo fatti di livello R, N o W, e mai quelli elencati in «Divergenze tra fonti».
 - Un fatto «non presente» in un notebook non è falso. Si toglie solo se nessuna fonte lo conferma (vedi la regola in `revisione-ridotta.md`).
+- **Aziende:** sul sito e nel quiz si nominano solo aziende con un ruolo riconosciuto nel territorio (grandi aziende come CEIA e Chimet, aziende storiche come la Del Tongo, o aziende citate nei documenti del Comune o del Piano). Non basta che compaiano in una fonte.
 
 Ultimo aggiornamento: 6 ottobre 2026.
 
@@ -278,7 +279,6 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Chimet: fondata nel 1974; primo stabilimento a Badia al Pino nel 1976, secondo a Viciomaggio negli anni Ottanta; recupera e affina metalli preziosi | chimet.com | N |
 | Del Tongo: fondata nel 1954 dai fratelli Stefano e Pasquale Del Tongo; fallita nel 2018; marchio acquisito da Kico nel 2022 | Kico, Saturno Notizie | N |
 | Squadra ciclistica Del Tongo (1982–1991): Giro d'Italia 1983 (Saronni) e 1991 (Chioccioli), 29 tappe del Giro, Milano-Sanremo 1983, Giro di Lombardia 1982 e 1986 | Wikipedia | N |
-| Zone Creative, a Badia al Pino, costruisce macchinari per l'oreficeria | Confartigianato Arezzo | N |
 | Il Piano Operativo 2023 non prevede nuova edificazione industriale, perché il territorio è «saturo» | Relazione del Piano Operativo | N |
 | Il Comune è socio della Strada del Vino Terre di Arezzo | Vinoway, Vetrina Toscana | N |
 | Olio: varietà frantoio, leccino, moraiolo e pendolino; Toscano IGP | Città dell'Olio | N |
@@ -377,6 +377,9 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 - «Ai piedi dell'Appennino».
 - «Fascia 250–350 m».
 - Dettagli del podere Spedaluccio (1198, statale 69, un chilometro oltre Pieve a Maiano): in attesa del blocco di Pieve a Maiano.
+
+**Aziende non rappresentative**
+- Zone Creative srl (Badia al Pino, macchinari per l'oreficeria): esiste, ma è una piccola azienda senza un ruolo riconosciuto nel territorio. Era finita sul sito e nel quiz solo perché compariva tra le fonti del notebook 3. Tolta il 6/10/2026.
 
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).
