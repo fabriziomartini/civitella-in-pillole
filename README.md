@@ -1,6 +1,6 @@
 # Civitella in Pillole
 
-Sito informativo personale dedicato al Comune di Civitella in Val di Chiana (provincia di Arezzo, Toscana): storia, geografia e una pagina per ciascuna delle tredici frazioni e per il capoluogo storico, una pagina dedicata ai borghi minori e una al patrimonio storico del territorio.
+Sito informativo personale dedicato al Comune di Civitella in Val di Chiana (provincia di Arezzo, Toscana): storia, geografia e una pagina per ciascuna delle tredici frazioni e per il capoluogo storico, una pagina dedicata ai borghi minori, una al patrimonio storico del territorio, una all'economia e ai prodotti locali (Lavoro e sapori) e una al calendario delle feste, alle associazioni e allo sport (Feste e associazioni).
 
 Nota sulle frazioni: l'infobox di Wikipedia elenca ufficialmente 13 frazioni includendo **Gebbia** (non Ponticino, che è frazione del comune di Laterina Pergine Valdarno). Il sito include comunque anche **Ponticino**, perché una porzione del suo abitato ricade nel territorio di Civitella in Val di Chiana &mdash; ha quindi una pagina propria che ne spiega la particolarità di frazione condivisa tra tre comuni. Le frazioni trattate sul sito sono perciò 14 in totale (le 13 ufficiali + Ponticino).
 
@@ -14,6 +14,9 @@ storia.html          Storia del comune
 geografia.html       Geografia e territorio
 frazioni.html        Indice di tutte le frazioni
 frazioni/*.html       Una pagina per ciascuna frazione (+ capoluogo)
+patrimonio.html       Patrimonio: castelli, ville, mulini, archeologia
+lavoro-e-sapori.html  Economia, agricoltura, Slow Food
+feste-e-associazioni.html  Calendario delle feste, associazioni, sport
 fonti.html            Fonti e bibliografia usate
 css/styles.css        Bootstrap 5.3.8 (compilato)
 css/civitella.css     Palette e font custom

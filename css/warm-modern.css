@@ -170,7 +170,13 @@ button:focus-visible {
   color: rgba(255, 255, 255, 0.82);
   padding: 0.5rem 0.9rem !important;
   border-radius: var(--wm-radius-full);
+  white-space: nowrap;
   transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+/* Con nove voci il menu orizzontale va stretto tra 1200 e 1400 px */
+@media (max-width: 1399.98px) {
+  .navbar-dark .navbar-nav .nav-link { padding: 0.5rem 0.7rem !important; }
 }
 
 .navbar-dark .navbar-nav .nav-link:hover,
@@ -798,6 +804,150 @@ button:focus-visible {
   display: grid;
   gap: var(--wm-space-2);
 }
+
+/* ============ Pagine "Lavoro e sapori" e "Feste e associazioni" ============ */
+
+/* Accenti aggiuntivi per categoria */
+.wm-accent--industria { --wm-accent: var(--wm-terracotta); }
+.wm-accent--memoria { --wm-accent: var(--wm-ink); }
+.wm-accent--campi { --wm-accent: var(--wm-olive); }
+.wm-accent--reti { --wm-accent: var(--wm-gold); }
+.wm-accent--sagra { --wm-accent: var(--wm-terracotta); }
+.wm-accent--mercato { --wm-accent: var(--wm-olive); }
+.wm-accent--cultura { --wm-accent: var(--wm-gold); }
+
+/* Calendario dell'anno: una scheda per mese, colonne su schermi larghi */
+.wm-calendar {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--wm-space-4);
+}
+
+@media (min-width: 768px) {
+  .wm-calendar { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 1200px) {
+  .wm-calendar { grid-template-columns: repeat(3, 1fr); }
+}
+
+.wm-month {
+  background: var(--wm-white);
+  border-radius: var(--wm-radius-md);
+  box-shadow: var(--wm-shadow-sm);
+  padding: var(--wm-space-5);
+  scroll-margin-top: var(--wm-space-5);
+}
+
+.wm-month__name {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin: 0 0 var(--wm-space-3);
+  padding-bottom: var(--wm-space-2);
+  border-bottom: 2px solid var(--wm-cream-deep);
+  font-size: var(--wm-fs-h4);
+}
+
+.wm-month__name span {
+  font-size: var(--wm-fs-xs);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--wm-ink-soft);
+}
+
+.wm-events {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: var(--wm-space-3);
+}
+
+.wm-event {
+  padding-left: var(--wm-space-3);
+  border-left: 4px solid var(--wm-accent, var(--wm-terracotta));
+  font-size: var(--wm-fs-small);
+  line-height: 1.5;
+}
+
+.wm-event strong {
+  display: block;
+  font-family: var(--wm-font-display);
+  font-size: 1rem;
+  color: var(--wm-ink);
+}
+
+.wm-event__meta { display: block; color: var(--wm-ink-soft); }
+.wm-event__note { display: block; font-size: var(--wm-fs-xs); color: var(--wm-ink-soft); }
+
+/* Legenda dei colori */
+.wm-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--wm-space-2) var(--wm-space-5);
+  margin: 0 0 var(--wm-space-5);
+  padding: 0;
+  list-style: none;
+  font-size: var(--wm-fs-small);
+  color: var(--wm-ink-soft);
+}
+
+.wm-legend li { display: inline-flex; align-items: center; gap: var(--wm-space-2); }
+
+.wm-legend li::before {
+  content: "";
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 3px;
+  background: var(--wm-accent);
+}
+
+/* Etichetta del tipo di associazione */
+.wm-tag {
+  display: inline-block;
+  margin-right: var(--wm-space-1);
+  padding: 0.1rem 0.5rem;
+  border-radius: var(--wm-radius-full);
+  background: var(--wm-cream-deep);
+  font-family: var(--wm-font-display);
+  font-size: var(--wm-fs-xs);
+  font-weight: 700;
+  color: var(--wm-ink-soft);
+  vertical-align: 0.1em;
+}
+
+.wm-place ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: var(--wm-space-2);
+  font-size: var(--wm-fs-small);
+}
+
+/* Riquadro "storia chiusa" (Del Tongo): toni scuri, distinto dalle aziende attive */
+.wm-closed {
+  margin-top: var(--wm-space-5);
+  padding: var(--wm-space-5) var(--wm-space-6);
+  border-radius: var(--wm-radius-md);
+  background: var(--wm-ink);
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.wm-closed h3 { color: var(--wm-white); font-size: var(--wm-fs-h4); margin-bottom: var(--wm-space-3); }
+.wm-closed p { color: inherit; }
+.wm-closed p:last-child { margin-bottom: 0; }
+.wm-closed .wm-timeline { border-left-color: rgba(255, 255, 255, 0.25); }
+.wm-closed .wm-timeline > li::before { background: var(--wm-ink); border-color: var(--wm-gold); }
+.wm-closed .wm-timeline__era { color: var(--wm-gold); }
+.wm-closed a { color: var(--wm-white); text-decoration-color: rgba(255, 255, 255, 0.5); }
+
+.wm-timeline--compact { gap: var(--wm-space-3); }
+.wm-timeline--compact p { margin: 0; font-size: var(--wm-fs-small); }
 
 /* ============ Footer (markup generato da js/partials.js) ============ */
 
