@@ -1,4 +1,5 @@
-// Navbar e footer condivisi, iniettati via JS in ogni pagina.
+// Navbar condivisa, iniettata via JS in ogni pagina.
+// Il footer invece è scritto nell'HTML da tools/genera_seo.py, così lo leggono anche i crawler senza JavaScript.
 // Nessun fetch: funziona anche aprendo i file HTML direttamente dal filesystem.
 // Ogni pagina imposta <body data-base-path="..."> con "" in root e "../" dentro frazioni/.
 (function () {
@@ -77,50 +78,11 @@
     );
   }
 
-  function renderFooter(basePath) {
-    return (
-      '<footer class="site-footer py-5">' +
-      '<div class="container px-lg-5">' +
-      '<div class="row gy-4">' +
-      '<div class="col-lg-5">' +
-      '<h2 class="fw-bold mb-3">Civitella in Pillole</h2>' +
-      '<p class="mb-0" style="color: rgba(255,255,255,.78);">Un progetto personale di raccolta e divulgazione dedicato a Civitella in Val di Chiana, il suo capoluogo storico e le sue frazioni: storia, geografia, chiese, curiosita\' e tradizioni del territorio.</p>' +
-      "</div>" +
-      '<div class="col-lg-3">' +
-      '<h3 class="fw-bold mb-3">Esplora</h3>' +
-      '<ul class="list-unstyled d-flex flex-column gap-2">' +
-      '<li><a href="' + basePath + 'storia.html">Storia</a></li>' +
-      '<li><a href="' + basePath + 'geografia.html">Geografia</a></li>' +
-      '<li><a href="' + basePath + 'frazioni.html">Le frazioni</a></li>' +
-      '<li><a href="' + basePath + 'frazioni/borghi-minori.html">Borghi e località minori</a></li>' +
-      '<li><a href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
-      '<li><a href="' + basePath + 'lavoro-e-sapori.html">Lavoro e sapori</a></li>' +
-      '<li><a href="' + basePath + 'feste-e-associazioni.html">Feste e associazioni</a></li>' +
-      '<li><a href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
-      '<li><a href="' + basePath + 'quiz.html">Mettiti alla prova: il quiz</a></li>' +
-      "</ul>" +
-      "</div>" +
-      '<div class="col-lg-4">' +
-      '<h3 class="fw-bold mb-3">Trasparenza</h3>' +
-      '<p class="mb-2" style="color: rgba(255,255,255,.78);">Non e\' un sito istituzionale del Comune. Tutte le fonti usate sono elencate pubblicamente.</p>' +
-      '<a href="' + basePath + 'fonti.html">Vedi le fonti <i class="bi bi-arrow-right"></i></a>' +
-      "</div>" +
-      "</div>" +
-      '<div class="footer-bottom mt-4 pt-4 text-center">Civitella in Pillole &mdash; progetto personale, non affiliato al Comune di Civitella in Val di Chiana</div>' +
-      "</div>" +
-      "</footer>"
-    );
-  }
-
   document.addEventListener("DOMContentLoaded", function () {
     var basePath = document.body.getAttribute("data-base-path") || "";
     var navPlaceholder = document.getElementById("navbar-placeholder");
-    var footerPlaceholder = document.getElementById("footer-placeholder");
     if (navPlaceholder) {
       navPlaceholder.innerHTML = renderNavbar(basePath);
-    }
-    if (footerPlaceholder) {
-      footerPlaceholder.innerHTML = renderFooter(basePath);
     }
   });
 })();

@@ -1,0 +1,40 @@
+# Civitella in Pillole
+
+> Sito divulgativo su Civitella in Val di Chiana (provincia di Arezzo, Toscana): storia, geografia, frazioni, patrimonio, economia, feste e memoria dell'eccidio del 29 giugno 1944. Ideato e curato da Fabrizio Martini. Progetto personale, non affiliato al Comune.
+
+Ogni fatto del sito viene da una fonte scritta, elencata nella pagina Fonti e in fondo a ogni pagina. Quando un fatto ha una sola fonte, il testo la nomina («secondo la Pro Loco», «secondo il Repetti»); quando le fonti non concordano, il sito riporta tutte le versioni. Dati demografici: ISTAT, censimento 2021.
+
+## Pagine principali
+
+- [Civitella in Pillole · Civitella in Val di Chiana](https://fabriziomartini.github.io/civitella-in-pillole/index.html): Civitella in Pillole: storia, geografia e frazioni del Comune di Civitella in Val di Chiana (AR), Toscana.
+- [Storia](https://fabriziomartini.github.io/civitella-in-pillole/storia.html): Storia del Comune di Civitella in Val di Chiana: dalle origini etrusco-romane all'eccidio del 1944.
+- [Geografia](https://fabriziomartini.github.io/civitella-in-pillole/geografia.html): Geografia e territorio del Comune di Civitella in Val di Chiana: collina, pianura, coltivazioni tipiche.
+- [Frazioni](https://fabriziomartini.github.io/civitella-in-pillole/frazioni.html): Le tredici frazioni del Comune di Civitella in Val di Chiana, oltre al capoluogo storico.
+- [Patrimonio](https://fabriziomartini.github.io/civitella-in-pillole/patrimonio.html): Il patrimonio di Civitella in Val di Chiana: castelli e castellari, ville e fattorie, mulini e una linea del tempo dei ritrovamenti archeologici.
+- [Lavoro e sapori](https://fabriziomartini.github.io/civitella-in-pillole/lavoro-e-sapori.html): Economia e prodotti di Civitella in Val di Chiana: le industrie della piana, la storia della Del Tongo, olio e vino delle colline, Slow Food e Cittaslow.
+- [Feste e associazioni](https://fabriziomartini.github.io/civitella-in-pillole/feste-e-associazioni.html): Il calendario delle feste e delle sagre di Civitella in Val di Chiana mese per mese, le associazioni di ogni frazione e le società sportive.
+- [Amministrazione](https://fabriziomartini.github.io/civitella-in-pillole/amministrazione.html): Amministrazione del Comune di Civitella in Val di Chiana: sindaco, giunta, consiglio comunale e storico elettorale.
+- [Fonti](https://fabriziomartini.github.io/civitella-in-pillole/fonti.html): Tutte le fonti scritte usate da Civitella in Pillole: Dizionario del Repetti, Piano Strutturale del Comune, Atlante delle stragi, dati ISTAT, Wikipedia e altre.
+- [Quiz](https://fabriziomartini.github.io/civitella-in-pillole/quiz.html): Quanto conosci Civitella in Val di Chiana? Un quiz a risposta multipla su storia, frazioni, memoria del 1944, economia e feste del comune.
+
+## Frazioni e località
+
+- [Civitella in Val di Chiana (capoluogo)](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/civitella.html): Civitella in Val di Chiana, il borgo storico capoluogo del comune: la Rocca, la chiesa di Santa Maria Assunta, l'eccidio del 1944.
+- [Albergo](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/albergo.html): Albergo, frazione di pianura di Civitella in Val di Chiana, con la sua stazione sulla linea ferroviaria Arezzo–Sinalunga.
+- [Badia al Pino](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/badia-al-pino.html): Badia al Pino, sede comunale di Civitella in Val di Chiana, nata nell'XI secolo attorno all'antica abbazia benedettina del Pino.
+- [Ciggiano](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/ciggiano.html): Ciggiano, borgo collinare di Civitella in Val di Chiana, già «castello con pieve» nell'XI secolo, con la chiesa di San Biagio e la Madonna della Costarella.
+- [Cornia](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/cornia.html): Cornia, frazione collinare di Civitella in Val di Chiana, colpita insieme al capoluogo dall'eccidio del 29 giugno 1944.
+- [Gebbia](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/gebbia.html): Gebbia, piccola frazione collinare di Civitella in Val di Chiana, colpita anch'essa dall'eccidio del 29 giugno 1944.
+- [Oliveto](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/oliveto.html): Oliveto, frazione di Civitella in Val di Chiana: il campo di internamento del 1940 a Villa Oliveto e l'ultima dimora della scrittrice Muriel Spark.
+- [Pieve a Maiano](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/pieve-a-maiano.html): Pieve a Maiano, frazione rurale di Civitella in Val di Chiana: strumenti in pietra del Paleolitico, la campana del 1358 e la Sagra del Cinghiale.
+- [Pieve al Toppo](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/pieve-al-toppo.html): Pieve al Toppo, frazione di Civitella in Val di Chiana famosa per la battaglia del 1288 citata da Dante nell'Inferno.
+- [Ponticino](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/ponticino.html): Ponticino, frazione divisa tra Civitella in Val di Chiana e Laterina Pergine Valdarno, con una stazione sulla Firenze-Roma aperta nel 1866.
+- [Spoiano](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/spoiano.html): Spoiano, piccola frazione panoramica di Civitella in Val di Chiana, sede della Sagra dei Baccelli e di Villa Pecchioli.
+- [Tegoleto](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/tegoleto.html): Tegoleto, frazione di pianura di Civitella in Val di Chiana, con la sua torre medievale e il Teatro Moderno Tegoleto.
+- [Tuori](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/tuori.html): Tuori, frazione collinare di Civitella in Val di Chiana, ricordata dal 1021, con il cassero, la chiesa e il cimitero tutelati da vincolo nazionale.
+- [Viciomaggio](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/viciomaggio.html): Viciomaggio, frazione di Civitella in Val di Chiana ricordata fin dal 1024, il cui nome viene dal latino vicus maior.
+- [Borghi e località minori](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/borghi-minori.html): Borghi e località minori di Civitella in Val di Chiana: Matroia, Montoto, Poggio Castellare, Malpertuso, Tribbio, Montarfoni, Dorna, San Martino in Poggio e il castello di Gaenne.
+
+## Optional
+
+- [Base dei fatti verificati](https://github.com/fabriziomartini/civitella-in-pillole/blob/main/ricerca/fatti-verificati.md): un fatto per riga, con fonte e livello di verifica, divergenze tra fonti ed esclusi

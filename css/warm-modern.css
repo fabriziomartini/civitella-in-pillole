@@ -1311,6 +1311,9 @@ button:focus-visible {
 
 .site-footer a:hover { color: var(--wm-gold); text-decoration: underline; }
 
+.site-footer .site-footer__autore { color: rgba(255, 255, 255, 0.9) !important; }
+.site-footer .site-footer__autore strong { color: var(--wm-white); }
+
 .site-footer .footer-bottom {
   border-top: 1px solid rgba(255, 255, 255, 0.14);
   color: rgba(255, 255, 255, 0.55);
