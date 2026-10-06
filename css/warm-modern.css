@@ -1359,3 +1359,44 @@ button:focus-visible {
   .wm-feature-photo { margin-top: calc(-1 * var(--wm-space-7)); }
   .wm-hero--page { padding-bottom: calc(var(--wm-space-8) + var(--wm-space-3)); }
 }
+
+/* Grafico della popolazione ai censimenti (geografia.html) */
+.wm-pop {
+  margin: 0 0 var(--wm-space-6);
+  padding: var(--wm-space-5);
+  background: var(--wm-white);
+  border-radius: var(--wm-radius-md);
+  box-shadow: var(--wm-shadow-sm);
+}
+.wm-pop__titolo {
+  font-family: var(--wm-font-display);
+  font-weight: 700;
+  margin-bottom: var(--wm-space-4);
+}
+.wm-pop__lista { list-style: none; margin: 0; padding: 0; }
+.wm-pop__lista li {
+  display: grid;
+  grid-template-columns: 3rem 1fr 3.5rem;
+  align-items: center;
+  gap: var(--wm-space-3);
+  font-size: var(--wm-fs-small);
+  font-variant-numeric: tabular-nums;
+  padding: 2px 0;
+}
+.wm-pop__anno { color: var(--wm-ink-soft); }
+.wm-pop__valore { text-align: right; }
+.wm-pop__barra {
+  display: block;
+  height: 0.9rem;
+  width: var(--v);
+  background: var(--wm-sand);
+  border-radius: var(--wm-radius-full);
+}
+.wm-pop__lista .is-alto .wm-pop__barra { background: var(--wm-olive); }
+.wm-pop__lista .is-alto .wm-pop__valore { font-weight: 700; }
+.wm-pop__lista .is-oggi .wm-pop__barra { background: var(--wm-terracotta); }
+.wm-pop__nota {
+  margin: var(--wm-space-4) 0 0;
+  font-size: var(--wm-fs-xs);
+  color: var(--wm-ink-soft);
+}

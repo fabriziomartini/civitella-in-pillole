@@ -4929,5 +4929,75 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Era un'eredità della donazione del 1181, con cui Rolandino di Mambilia lasciò al capitolo i suoi beni nel castello di Dorna.",
 "l": "frazioni/borghi-minori.html#dorna"
+},
+{
+"id": "cc3c0e44",
+"c": "geo",
+"d": 3,
+"q": "In quale anno di censimento il comune ha contato più abitanti?",
+"a": "2011, con 9.111",
+"x": [
+"1951, con 8.147",
+"2021, con 8.814",
+"1936, con 8.126"
+],
+"s": "Al censimento del 2011 il comune contava 9.111 abitanti, il valore più alto della serie ISTAT dal 1861.",
+"l": "geografia.html"
+},
+{
+"id": "2a62011f",
+"c": "geo",
+"d": 2,
+"q": "Quanti abitanti contava il comune al primo censimento dell'Italia unita, nel 1861?",
+"a": "5.777",
+"x": [
+"2.777",
+"8.814",
+"12.500"
+],
+"s": "Nel 1861 il comune contava 5.777 abitanti; nel 2021 erano 8.814.",
+"l": "geografia.html"
+},
+{
+"id": "60dff0f2",
+"c": "geo",
+"d": 1,
+"q": "Come cambiò la popolazione del comune tra il censimento del 1951 e quello del 1961?",
+"a": "Calò di quasi 1.500 abitanti",
+"x": [
+"Crebbe di quasi 1.500 abitanti",
+"Rimase quasi identica",
+"Si dimezzò"
+],
+"s": "Si passò da 8.147 abitanti nel 1951 a 6.673 nel 1961.",
+"l": "geografia.html"
+},
+{
+"id": "ede3b0e0",
+"c": "storia",
+"d": 2,
+"q": "In quale anno fu inaugurata la ferrovia Arezzo–Sinalunga, che ha una stazione a Badia al Pino?",
+"a": "1930",
+"x": [
+"1866",
+"1911",
+"1948"
+],
+"s": "La linea fu inaugurata il 3 settembre 1930; nel comune si ferma alle stazioni di Civitella-Badia al Pino e di Albergo.",
+"l": "storia.html"
+},
+{
+"id": "4b7efa1f",
+"c": "storia",
+"d": 1,
+"q": "Con quale trazione funzionarono i treni della Arezzo–Sinalunga fin dall'apertura?",
+"a": "Elettrica",
+"x": [
+"A vapore",
+"Diesel",
+"A cavalli"
+],
+"s": "Il progetto prevedeva il vapore, ma su iniziativa dell'ingegnere Giacomo Sutter la linea fu elettrificata prima dell'apertura del 1930.",
+"l": "storia.html"
 }
 ];

@@ -417,3 +417,12 @@ q(b,"A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello di M
 # --- Dal Repetti: Montarfoni, Dorna, Gaenna, San Martino in Poggio ---
 q(b,"In quale privilegio del 1356 il castello di Gaenne è ricordato tra quelli del contado aretino?","In quello dell'imperatore Carlo IV alla città di Arezzo",["Nella bolla di papa Eugenio IV", "Negli statuti della Repubblica di Siena", "Nel catasto del granduca Pietro Leopoldo"],"Il Repetti ricorda Gaenna tra i castelletti del contado aretino nel privilegio di Carlo IV del 1356.",F+"borghi-minori.html#gaenne")
 q(b,"A chi pagava ancora un canone annuo, nell'Ottocento, il proprietario della tenuta di Dorna?","Al capitolo della cattedrale di Arezzo",["Al Comune di Civitella", "Al granduca di Toscana", "Ai monaci di Camaldoli"],"Era un'eredità della donazione del 1181, con cui Rolandino di Mambilia lasciò al capitolo i suoi beni nel castello di Dorna.",F+"borghi-minori.html#dorna")
+
+# --- Abitanti ai censimenti ISTAT 1861-2021 (Wikipedia, «Evoluzione demografica») ---
+q(g,"In quale anno di censimento il comune ha contato più abitanti?","2011, con 9.111",["1951, con 8.147", "2021, con 8.814", "1936, con 8.126"],"Al censimento del 2011 il comune contava 9.111 abitanti, il valore più alto della serie ISTAT dal 1861.","geografia.html")
+q(g,"Quanti abitanti contava il comune al primo censimento dell'Italia unita, nel 1861?","5.777",["2.777", "8.814", "12.500"],"Nel 1861 il comune contava 5.777 abitanti; nel 2021 erano 8.814.","geografia.html")
+q(g,"Come cambiò la popolazione del comune tra il censimento del 1951 e quello del 1961?","Calò di quasi 1.500 abitanti",["Crebbe di quasi 1.500 abitanti", "Rimase quasi identica", "Si dimezzò"],"Si passò da 8.147 abitanti nel 1951 a 6.673 nel 1961.","geografia.html")
+
+# --- Ferrovia Arezzo-Sinalunga (Wikipedia, dal libro di Muscolino 1978) ---
+q(s,"In quale anno fu inaugurata la ferrovia Arezzo–Sinalunga, che ha una stazione a Badia al Pino?","1930",["1866", "1911", "1948"],"La linea fu inaugurata il 3 settembre 1930; nel comune si ferma alle stazioni di Civitella-Badia al Pino e di Albergo.","storia.html")
+q(s,"Con quale trazione funzionarono i treni della Arezzo–Sinalunga fin dall'apertura?","Elettrica",["A vapore", "Diesel", "A cavalli"],"Il progetto prevedeva il vapore, ma su iniziativa dell'ingegnere Giacomo Sutter la linea fu elettrificata prima dell'apertura del 1930.","storia.html")

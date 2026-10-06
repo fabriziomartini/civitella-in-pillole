@@ -6,9 +6,9 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 352 domande.
+Totale: 357 domande.
 
-## Geografia (45)
+## Geografia (48)
 
 1. [5a86694d] ●●● `Nv=` **Quanti residenti contava il comune al censimento ISTAT del 2021?**  
    ✔ 8.814 · ✘ 6.512 · 11.230 · 15.400  
@@ -145,8 +145,17 @@ Totale: 352 domande.
 45. [97b3e142] ●○○ `-d+` **Che cosa accadeva alle acque della Chiana presso il Toppo nell'XI secolo, secondo il Repetti?**  
    ✔ Ristagnavano quasi ferme, divise tra il Valdarno e il Tevere · ✘ Formavano una grande cascata · Scorrevano tutte verso il mare di Livorno · Erano già state bonificate dai Medici  
    _Nell'XI secolo le acque della Chiana presso il Toppo «bilicavano»: una parte andava verso il Valdarno aretino, una parte con il Paglia verso il Tevere._ → `frazioni/pieve-al-toppo.html`
+46. [cc3c0e44] ●●● `Nv=` **In quale anno di censimento il comune ha contato più abitanti?**  
+   ✔ 2011, con 9.111 · ✘ 1951, con 8.147 · 2021, con 8.814 · 1936, con 8.126  
+   _Al censimento del 2011 il comune contava 9.111 abitanti, il valore più alto della serie ISTAT dal 1861._ → `geografia.html`
+47. [2a62011f] ●●○ `Nd=` **Quanti abitanti contava il comune al primo censimento dell'Italia unita, nel 1861?**  
+   ✔ 5.777 · ✘ 2.777 · 8.814 · 12.500  
+   _Nel 1861 il comune contava 5.777 abitanti; nel 2021 erano 8.814._ → `geografia.html`
+48. [60dff0f2] ●○○ `-n=` **Come cambiò la popolazione del comune tra il censimento del 1951 e quello del 1961?**  
+   ✔ Calò di quasi 1.500 abitanti · ✘ Crebbe di quasi 1.500 abitanti · Rimase quasi identica · Si dimezzò  
+   _Si passò da 8.147 abitanti nel 1951 a 6.673 nel 1961._ → `geografia.html`
 
-## Storia (62)
+## Storia (64)
 
 1. [fe9e42b2] ●●● `Nv=` **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -334,6 +343,12 @@ Totale: 352 domande.
 62. [a4e2efc3] ●●○ `-v+` **Che cosa fu firmato il 20 aprile 1261 nella chiesa della Badia al Pino?**  
    ✔ La concordia tra il vescovo Guglielmino e i cortonesi fuorusciti · ✘ La pace tra Arezzo e Siena · Lo statuto del comune di Civitella · La resa di Civitella ai fiorentini  
    _Secondo il Repetti, nella chiesa della Badia furono firmati i capitoli di concordia tra Guglielmino degli Ubertini e i cortonesi fuorusciti._ → `frazioni/badia-al-pino.html`
+63. [ede3b0e0] ●●○ `Nn=` **In quale anno fu inaugurata la ferrovia Arezzo–Sinalunga, che ha una stazione a Badia al Pino?**  
+   ✔ 1930 · ✘ 1866 · 1911 · 1948  
+   _La linea fu inaugurata il 3 settembre 1930; nel comune si ferma alle stazioni di Civitella-Badia al Pino e di Albergo._ → `storia.html`
+64. [4b7efa1f] ●○○ `-d+` **Con quale trazione funzionarono i treni della Arezzo–Sinalunga fin dall'apertura?**  
+   ✔ Elettrica · ✘ A vapore · Diesel · A cavalli  
+   _Il progetto prevedeva il vapore, ma su iniziativa dell'ingegnere Giacomo Sutter la linea fu elettrificata prima dell'apertura del 1930._ → `storia.html`
 
 ## Il 1944 (35)
 

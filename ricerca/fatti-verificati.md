@@ -48,6 +48,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | La sede comunale è a Badia al Pino dal 1917; il comune ha mantenuto il nome dell'antico borgo | Wikipedia | R | alta |
 | Il comune è gemellato con Kämpfelbach | Arezzo Notizie, Wikipedia | R | media |
 | Il comune è gemellato anche con Ain Beda (Sahara Occidentale) | Wikipedia | W | bassa |
+| Abitanti ai censimenti: 1861 5.777; 1871 6.306; 1881 6.073; 1901 6.641; 1911 7.049; 1921 7.479; 1931 7.924; 1936 8.126; 1951 8.147; 1961 6.673; 1971 6.683; 1981 7.224; 1991 7.649; 2001 8.687; 2011 9.111; 2021 8.814 (censimento permanente al 31/12). Massimo nel 2011; tra 1951 e 1961 quasi 1.500 in meno | Wikipedia, sezione «Evoluzione demografica», che cita ISTAT (Censimenti 1861–1991 ed esploradati); valori letti dal grafico; il 2021 coincide con il file ISTAT per località | W | alta |
 | Cittaslow dal luglio 2002 | Arezzo Notizie | N | media |
 | Città dell'Olio dal 2025 | La Nazione (10/11/2025) | N | media |
 
@@ -161,7 +162,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Antico borgo, probabilmente di origine romana | Itinerario 3 del Comune | R | alta |
 | Da Albergo passava una *via municipalis* romana che si univa a un ramo della Cassia diretto in Valdarno | Itinerario 3 del Comune | R | alta |
 | Nel Medioevo vi transitava la via senese-aretina | Repertorio (N002) | R | alta |
-| Ha una stazione sulla linea Arezzo–Sinalunga | Wikipedia | R | media |
+| Ha una stazione sulla linea Arezzo–Sinalunga (km 15+368), tra Civitella-Badia al Pino e Monte San Savino. Lo schema della linea la indica come fermata, la voce della stazione come «stazione ferroviaria»: sul sito «stazione» | Wikipedia (Civitella in Val di Chiana; Stazione di Albergo; Ferrovia Arezzo-Sinalunga) | R | media |
 | Centro storico censito dal Piano Strutturale (N002), che ne prevede la valorizzazione insieme ai complessi religiosi | Repertorio, NTA art. 95 | R | alta |
 | C'è la fonte-cisterna di Albergo | Repertorio (F004) | R | alta |
 | Non ha una parrocchia propria: è solo una deduzione, perché Albergo non compare nell'annuario; tolto dal sito | — | ⚠ | bassa |
@@ -182,7 +183,9 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Palazzo Santini-Paccinelli: villa settecentesca a pianta rettangolare, simmetrica rispetto al vano scala centrale | Repertorio (A020) | R | media |
 | Villa del Bosco, con parco e filare di pini | Repertorio (V001, PG010, FI007) | R | media |
 | Monumento ai caduti delle due guerre nel piazzale della chiesa, inaugurato il 26 agosto 1951 | Repertorio | R | media |
-| Ha la stazione di Civitella-Badia al Pino sulla linea Arezzo–Sinalunga | Wikipedia | R | media |
+| Ha la stazione di Civitella-Badia al Pino sulla linea Arezzo–Sinalunga, al km 12+666; stazioni vicine in servizio: Arezzo Via Chiari e Albergo | Wikipedia (Stazione di Civitella-Badia al Pino; Ferrovia Arezzo-Sinalunga) | R | media |
+| Ferrovia Arezzo–Sinalunga: inaugurata il 3 settembre 1930; progettata a vapore, elettrificata (3000 V cc) su iniziativa dell'ing. Giacomo Sutter, a trazione elettrica dall'apertura; danneggiata in guerra, tratta Arezzo–Foiano riaperta l'11 aprile 1948, intera linea il 24 settembre 1950 | Wikipedia (Ferrovia Arezzo-Sinalunga), che cita Muscolino 1978 | W | alta |
+| Nello schema della linea, Viciomaggio (km 9+230) e Ciggiano (km 19+100) sono fermate dismesse (simbolo eHST); coerente con le voci delle stazioni, dove le stazioni in servizio consecutive sono Arezzo Via Chiari, Civitella-Badia al Pino, Albergo, Monte San Savino | Wikipedia (Ferrovia Arezzo-Sinalunga, schema; Stazione di Civitella-Badia al Pino; Stazione di Albergo) | W | media |
 | Nel 1976 vi aprì il primo stabilimento Chimet | Chimet | N | alta |
 
 ### Ciggiano
@@ -423,6 +426,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 | Rocca di Civitella dopo il 1248 | Itinerario 2 del Comune: «ristrutturata dopo la distruzione del 1252»; Wikipedia: «nel 1272 Guglielmino la ricostruì»; Repertorio: nel 1248 Guglielmino ne potenziò le mura | tutte e tre, attribuite |
 | Prima memoria della pieve del Toppo | Repertorio: confermata nel 938 tra i possedimenti del Capitolo di Arezzo; Repetti: corti donate ai canonici nel 939 dai re Ugo e Lotario, diploma di Ottone I del 963 (in un'altra voce «983») | sul sito resta il 938 del Repertorio |
 | Chiesa di San Martino in Poggio | Repertorio: costruita nel 1690 con il patrimonio del nobile fiorentino Carlo Casini; Repetti: edificata nel 1700, fondatore Carlo di Paolo Casini, nobile senese | tutte e due le versioni |
+| Nome «Civitella in Val di Chiana» | Wikipedia: nome cambiato nel 1862 (senza nota); stessa voce: lo stemma del 1936 è registrato dall'Archivio Centrale dello Stato come «Civitella della Chiana» | non usato |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
 
 ---
