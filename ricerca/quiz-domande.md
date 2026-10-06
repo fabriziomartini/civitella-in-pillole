@@ -6,9 +6,9 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche.
 
-Totale: 169 domande.
+Totale: 198 domande.
 
-## Geografia (21)
+## Geografia (27)
 
 1. [5a86694d] **Quanti residenti contava il comune al censimento ISTAT del 2021?**  
    ✔ 8.814 · ✘ 6.512 · 11.230 · 15.400  
@@ -73,8 +73,26 @@ Totale: 169 domande.
 21. [f5a0d8d3] **In quale anno Civitella è entrata nell'associazione Città dell'Olio?**  
    ✔ 2025 · ✘ 1998 · 2008 · 2016  
    _Civitella fa parte delle Città dell'Olio dal 2025._ → `lavoro-e-sapori.html`
+22. [38fd6d61] **Che cosa è stato trovato nel 2004 in località La Cascinella, presso Ciggiano?**  
+   ✔ Tracce di un insediamento etrusco e romano · ✘ Una nave medievale · Un tesoro di monete d'oro · Un mosaico bizantino  
+   _Frammenti di macine etrusche, tegole e vasellame romani della prima età imperiale._ → `frazioni/ciggiano.html`
+23. [c7eef4ea] **Secondo Visit Tuscany, che cosa è stato trovato nella chiesa di San Pietro a Ciggiano?**  
+   ✔ Reperti con iscrizioni etrusche · ✘ Un affresco di Giotto · Una nave romana · Un codice miniato  
+   _Secondo il portale turistico della Regione, i reperti etruschi di Viciomaggio e di San Pietro a Ciggiano attestano un abitato antico._ → `frazioni/ciggiano.html`
+24. [eab967e7] **Fino a che spessore arrivano i muri del Castellare di Sant'Angelo, presso Cornia?**  
+   ✔ Circa un metro e mezzo · ✘ Circa dieci centimetri · Circa cinque metri · Circa dieci metri  
+   _I muri di pietra, forse resti di un vicus romano rioccupato in età longobarda, sono spessi fino a un metro e mezzo._ → `frazioni/cornia.html`
+25. [1526724b] **Su segnalazione di chi furono scoperte le fornaci romane in località I Ponti, a Pieve al Toppo?**  
+   ✔ Del Gruppo Archeologico del Dopolavoro Ferroviario di Arezzo · ✘ Di un parroco del paese · Della Soprintendenza di Firenze durante un restauro · Di una scuola elementare  
+   _Le strutture, a circa 1,60 m di profondità, sono interpretate come fornaci per la terra sigillata aretina._ → `frazioni/pieve-al-toppo.html`
+26. [5b8c6dd0] **Quale reperto da Viciomaggio è conservato al Museo Archeologico Nazionale di Arezzo?**  
+   ✔ Un cammeo di diaspro · ✘ Un'anfora greca · Una statua di bronzo · Un elmo longobardo  
+   _Al Museo «Gaio Cilnio Mecenate» è conservato il cammeo; i vasi del I secolo a.C. sono invece in luogo sconosciuto._ → `frazioni/viciomaggio.html`
+27. [dc640362] **Che cosa prevede il Piano Strutturale per l'area di Cornia?**  
+   ✔ Un parco faunistico e un'area naturale protetta · ✘ Una zona industriale · Un aeroporto · Una diga  
+   _Il Piano prevede il Parco Faunistico Naturalistico, l'ANPIL di Cornia e un centro servizi negli edifici inutilizzati del borgo._ → `frazioni/cornia.html`
 
-## Storia (23)
+## Storia (33)
 
 1. [fe9e42b2] **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -145,8 +163,38 @@ Totale: 169 domande.
 23. [bb0a87e4] **Da che cosa prende il nome Tribbio?**  
    ✔ Da un trivio romano, un incrocio di tre strade · ✘ Da una tribù etrusca · Da un tribunale medievale · Da un torrente  
    _Tribbio sorse in età romana attorno a un trivium._ → `frazioni/borghi-minori.html#tribbio`
+24. [410b1cb5] **In quale anno il titolo di pieve e il fonte battesimale passarono dalla Pieve al Toppo a Badia al Pino?**  
+   ✔ 1502 · ✘ 1288 · 1774 · 1917  
+   _Nel 1502, distrutta la pieve del Toppo, il titolo di pieve passò alla chiesa di Badia al Pino._ → `frazioni/badia-al-pino.html`
+25. [c87b3b73] **In quale anno fu soppressa la Badia del Pino?**  
+   ✔ 1441 · ✘ 1288 · 1774 · 1917  
+   _Dopo la soppressione della Badia, nel 1441, il paese divenne un insediamento essenzialmente rurale._ → `frazioni/badia-al-pino.html`
+26. [7a384985] **In quale anno furono distrutti la pieve e l'ospedale per i pellegrini di Pieve al Toppo?**  
+   ✔ 1502 · ✘ 1288 · 1385 · 1944  
+   _Chiesa e ospedale furono distrutti nel 1502; sul sito sorse poi l'Oratorio della Madonna del Conforto._ → `frazioni/pieve-al-toppo.html`
+27. [cb2abf6f] **Sotto quali valichi si trova Ciggiano, che ne fecero un nodo strategico?**  
+   ✔ Palazzuolo e San Pancrazio · ✘ La Futa e la Raticosa · L'Abetone e la Cisa · I Mandrioli e la Scheggia  
+   _La posizione sotto i valichi di Palazzuolo e San Pancrazio fece di Ciggiano una tappa obbligata della dogana fiorentina._ → `frazioni/ciggiano.html`
+28. [96a6f855] **Che cos'era la «calla» che i pastori facevano a Ciggiano?**  
+   ✔ La conta degli animali, con il pagamento della gabella · ✘ Una festa per la fine della transumanza · Un mercato della lana · Una gara di tosatura  
+   _Gli statuti di dogana fiorentini indicavano Ciggiano come tappa obbligata: qui si faceva la calla e si pagava la gabella._ → `frazioni/ciggiano.html`
+29. [523cea0b] **Le truppe di quale condottiero assediarono e saccheggiarono Ciggiano nel 1431?**  
+   ✔ Niccolò Piccinino · ✘ Giovanni Acuto · Castruccio Castracani · Federico da Montefeltro  
+   _Nel 1431 Ciggiano fu assediato e saccheggiato dalle truppe di Niccolò Piccinino; nel 1554 subì un altro assedio._ → `frazioni/ciggiano.html`
+30. [01491e5c] **Quale granduca soppresse nel 1783 la Compagnia di Santa Croce di Ciggiano?**  
+   ✔ Pietro Leopoldo · ✘ Cosimo I de' Medici · Ferdinando III · Napoleone Bonaparte  
+   _La Compagnia fu soppressa da Pietro Leopoldo nel 1783 e ripristinata nel 1794._ → `frazioni/ciggiano.html`
+31. [f4c98a78] **Quali famiglie, tornate proprietarie del feudo, riedificarono nel Seicento la Casa del Podestà di Oliveto?**  
+   ✔ Ubertini e Saracini · ✘ Medici e Pazzi · Guidi e Tarlati · Strozzi e Rucellai  
+   _La Casa del Podestà fu riedificata nella prima metà del Seicento dalle famiglie aretine Ubertini e Saracini._ → `frazioni/oliveto.html`
+32. [4fcbea87] **Che cosa diventò all'inizio dell'Ottocento la piazza d'armi del castello di Oliveto?**  
+   ✔ Un vigneto e oliveto · ✘ Un mercato coperto · Un cimitero · Un giardino all'italiana  
+   _Il palazzo del Podestà divenne casa colonica e granaio, e la piazza fu trasformata in vigneto e oliveto._ → `frazioni/oliveto.html`
+33. [f8e908eb] **Che funzione aveva il castello di Tuori nel Medioevo?**  
+   ✔ Era sede di guarnigioni a presidio di Arezzo · ✘ Era la residenza estiva dei Medici · Era un convento fortificato · Era una dogana senese  
+   _Tuori divenne un castello sede di guarnigioni militari a presidio della città di Arezzo; ne resta il cassero._ → `frazioni/tuori.html`
 
-## Il 1944 (15)
+## Il 1944 (16)
 
 1. [3e37b695] **In quale data avvenne la strage nazista di Civitella?**  
    ✔ 29 giugno 1944 · ✘ 25 aprile 1945 · 8 settembre 1943 · 4 giugno 1944  
@@ -193,8 +241,11 @@ Totale: 169 domande.
 15. [24c8d8bd] **Chi era Giovanni Cau, catturato a Gebbia nel 1944?**  
    ✔ Un insegnante di scienze naturali e autore di testi scolastici · ✘ Il parroco del paese · Un comandante partigiano · Il podestà di Civitella  
    _Giovanni Cau e la moglie Helga Elmqvist furono catturati a Gebbia e uccisi il 2 luglio 1944._ → `frazioni/gebbia.html`
+16. [dad49b73] **Che cosa raccoglie la Sala della Memoria allestita a Civitella dall'associazione «Civitella Ricorda»?**  
+   ✔ Reperti delle vittime, fotografie e testimonianze sull'eccidio · ✘ Opere d'arte rinascimentali · Attrezzi della civiltà contadina · Reperti etruschi  
+   _Ci sono i reperti rinvenuti sulle vittime, fotografie del paese prima e dopo la distruzione, testimonianze, libri e residuati bellici._ → `frazioni/civitella.html`
 
-## Frazioni (51)
+## Frazioni (63)
 
 1. [a6b8c90b] **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -349,6 +400,42 @@ Totale: 169 domande.
 51. [bdf6b86c] **Chi costruì il Saracino, la casa colonica cinquecentesca presso Tuori?**  
    ✔ La Fraternita dei Laici di Arezzo · ✘ I Medici · Il vescovo di Arezzo · L'Ordine di Santo Stefano  
    _Il Saracino fu costruito dalla Fraternita dei Laici di Arezzo._ → `frazioni/tuori.html`
+52. [8bc58b2b] **In quale frazione si trova Palazzo Santini-Paccinelli, villa settecentesca simmetrica rispetto alla scala centrale?**  
+   ✔ Badia al Pino · ✘ Oliveto · Tuori · Spoiano  
+   _Il palazzo sorge ai margini del nucleo medievale di Badia al Pino._ → `frazioni/badia-al-pino.html`
+53. [19907f55] **Quale reliquia custodisce la chiesa della Compagnia di Santa Croce a Ciggiano?**  
+   ✔ Una reliquia della Croce · ✘ Il velo della Madonna · Il mantello di San Martino · Un osso di San Biagio  
+   _La reliquia veniva esposta nei giorni della festa, il 3 maggio e il 14 settembre._ → `frazioni/ciggiano.html`
+54. [43d14c27] **Quale pittore dipinse la Madonna del Rosario conservata nella chiesa di Sant'Andrea a Oliveto?**  
+   ✔ Orazio Porta · ✘ Piero della Francesca · Giorgio Vasari · Luca Signorelli  
+   _La chiesa di Sant'Andrea, documentata dal 1300, conserva una Madonna del Rosario di Orazio Porta._ → `frazioni/oliveto.html`
+55. [b4c51f53] **In quale anno Villa Oliveto fu ceduta al Comune di Civitella?**  
+   ✔ 1980 · ✘ 1940 · 1960 · 2005  
+   _Ceduta al Comune nel 1980, la villa ospita il Centro di Documentazione sui campi di internamento._ → `frazioni/oliveto.html`
+56. [4bfffd85] **Chi fuse nel 1358 la campana oggi nel campanile della chiesa di Pieve a Maiano?**  
+   ✔ Neri d'Arezzo · ✘ Giambologna · Benvenuto Cellini · Lorenzo Ghiberti  
+   _La campana apparteneva alla distrutta chiesa di San Giovanni Battista a Montoto._ → `frazioni/pieve-a-maiano.html`
+57. [1f3abaaa] **Che cos'era anticamente il podere Spedaluccio, vicino a Pieve a Maiano?**  
+   ✔ Un ospizio per viandanti · ✘ Un mulino ad acqua · Un convento femminile · Una fornace romana  
+   _La casa colonica dello Spedaluccio è tutto ciò che resta di un antico ospizio per viandanti._ → `frazioni/pieve-a-maiano.html`
+58. [21e2abd1] **Da quale anno è documentato l'antico ospizio dello Spedaluccio?**  
+   ✔ 1198 · ✘ 1048 · 1385 · 1774  
+   _L'itinerario del Comune ricorda l'ospizio «documentato fino dal 1198»._ → `frazioni/pieve-a-maiano.html`
+59. [388b792d] **Su che cosa sorge l'Oratorio della Madonna del Conforto a Pieve al Toppo?**  
+   ✔ Sul sito dell'antica pieve · ✘ Sui resti di un tempio etrusco · Su un'antica fornace · Sulle mura del castello  
+   _Fu edificato nel Cinquecento sui resti dell'antica pieve e dedicato alla Madonna del Conforto nel 1906._ → `frazioni/pieve-al-toppo.html`
+60. [0ff18981] **Che cos'era all'inizio, nel 1960, il Teatro Moderno di Tegoleto?**  
+   ✔ Un cinema · ✘ Una chiesa · Una fabbrica · Una scuola  
+   _Nato per volontà di alcuni parrocchiani, fu cinema fino agli anni Ottanta e dal 1997 è sala polifunzionale._ → `frazioni/tegoleto.html`
+61. [c5767706] **Che cosa c'è nel recinto d'accesso al Palatium-torre della Rocca di Civitella?**  
+   ✔ La cisterna per la raccolta dell'acqua · ✘ Una cappella affrescata · Le prigioni · Un forno per il pane  
+   _Il Palatium è formato dalla torre vera e propria e dal recinto d'accesso con la cisterna._ → `frazioni/civitella.html`
+62. [99db94ce] **Quale via medievale transitava da Albergo?**  
+   ✔ La via senese-aretina · ✘ La via Francigena · La via Emilia · La via Flaminia  
+   _Dall'antico borgo transitava in epoca medievale la via senese-aretina._ → `frazioni/albergo.html`
+63. [a6b92165] **Quale bene è tutelato da vincolo nazionale a Badia al Pino?**  
+   ✔ La torre dell'antico castello · ✘ La stazione ferroviaria · Il palazzetto dello sport · Il monumento ai caduti  
+   _La torre fa parte di ciò che resta, con la porta, dell'antico castello sorto intorno all'abbazia._ → `frazioni/badia-al-pino.html`
 
 ## Borghi minori (15)
 

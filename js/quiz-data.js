@@ -2198,5 +2198,382 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Organizza corsi di avviamento al ciclismo per bambini e ragazzi.",
 "l": "feste-e-associazioni.html#ass-albergo-oliveto"
+},
+{
+"id": "410b1cb5",
+"c": "storia",
+"q": "In quale anno il titolo di pieve e il fonte battesimale passarono dalla Pieve al Toppo a Badia al Pino?",
+"a": "1502",
+"x": [
+"1288",
+"1774",
+"1917"
+],
+"s": "Nel 1502, distrutta la pieve del Toppo, il titolo di pieve passò alla chiesa di Badia al Pino.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "c87b3b73",
+"c": "storia",
+"q": "In quale anno fu soppressa la Badia del Pino?",
+"a": "1441",
+"x": [
+"1288",
+"1774",
+"1917"
+],
+"s": "Dopo la soppressione della Badia, nel 1441, il paese divenne un insediamento essenzialmente rurale.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "7a384985",
+"c": "storia",
+"q": "In quale anno furono distrutti la pieve e l'ospedale per i pellegrini di Pieve al Toppo?",
+"a": "1502",
+"x": [
+"1288",
+"1385",
+"1944"
+],
+"s": "Chiesa e ospedale furono distrutti nel 1502; sul sito sorse poi l'Oratorio della Madonna del Conforto.",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "cb2abf6f",
+"c": "storia",
+"q": "Sotto quali valichi si trova Ciggiano, che ne fecero un nodo strategico?",
+"a": "Palazzuolo e San Pancrazio",
+"x": [
+"La Futa e la Raticosa",
+"L'Abetone e la Cisa",
+"I Mandrioli e la Scheggia"
+],
+"s": "La posizione sotto i valichi di Palazzuolo e San Pancrazio fece di Ciggiano una tappa obbligata della dogana fiorentina.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "96a6f855",
+"c": "storia",
+"q": "Che cos'era la «calla» che i pastori facevano a Ciggiano?",
+"a": "La conta degli animali, con il pagamento della gabella",
+"x": [
+"Una festa per la fine della transumanza",
+"Un mercato della lana",
+"Una gara di tosatura"
+],
+"s": "Gli statuti di dogana fiorentini indicavano Ciggiano come tappa obbligata: qui si faceva la calla e si pagava la gabella.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "523cea0b",
+"c": "storia",
+"q": "Le truppe di quale condottiero assediarono e saccheggiarono Ciggiano nel 1431?",
+"a": "Niccolò Piccinino",
+"x": [
+"Giovanni Acuto",
+"Castruccio Castracani",
+"Federico da Montefeltro"
+],
+"s": "Nel 1431 Ciggiano fu assediato e saccheggiato dalle truppe di Niccolò Piccinino; nel 1554 subì un altro assedio.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "01491e5c",
+"c": "storia",
+"q": "Quale granduca soppresse nel 1783 la Compagnia di Santa Croce di Ciggiano?",
+"a": "Pietro Leopoldo",
+"x": [
+"Cosimo I de' Medici",
+"Ferdinando III",
+"Napoleone Bonaparte"
+],
+"s": "La Compagnia fu soppressa da Pietro Leopoldo nel 1783 e ripristinata nel 1794.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "f4c98a78",
+"c": "storia",
+"q": "Quali famiglie, tornate proprietarie del feudo, riedificarono nel Seicento la Casa del Podestà di Oliveto?",
+"a": "Ubertini e Saracini",
+"x": [
+"Medici e Pazzi",
+"Guidi e Tarlati",
+"Strozzi e Rucellai"
+],
+"s": "La Casa del Podestà fu riedificata nella prima metà del Seicento dalle famiglie aretine Ubertini e Saracini.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "4fcbea87",
+"c": "storia",
+"q": "Che cosa diventò all'inizio dell'Ottocento la piazza d'armi del castello di Oliveto?",
+"a": "Un vigneto e oliveto",
+"x": [
+"Un mercato coperto",
+"Un cimitero",
+"Un giardino all'italiana"
+],
+"s": "Il palazzo del Podestà divenne casa colonica e granaio, e la piazza fu trasformata in vigneto e oliveto.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "f8e908eb",
+"c": "storia",
+"q": "Che funzione aveva il castello di Tuori nel Medioevo?",
+"a": "Era sede di guarnigioni a presidio di Arezzo",
+"x": [
+"Era la residenza estiva dei Medici",
+"Era un convento fortificato",
+"Era una dogana senese"
+],
+"s": "Tuori divenne un castello sede di guarnigioni militari a presidio della città di Arezzo; ne resta il cassero.",
+"l": "frazioni/tuori.html"
+},
+{
+"id": "8bc58b2b",
+"c": "frazioni",
+"q": "In quale frazione si trova Palazzo Santini-Paccinelli, villa settecentesca simmetrica rispetto alla scala centrale?",
+"a": "Badia al Pino",
+"x": [
+"Oliveto",
+"Tuori",
+"Spoiano"
+],
+"s": "Il palazzo sorge ai margini del nucleo medievale di Badia al Pino.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "19907f55",
+"c": "frazioni",
+"q": "Quale reliquia custodisce la chiesa della Compagnia di Santa Croce a Ciggiano?",
+"a": "Una reliquia della Croce",
+"x": [
+"Il velo della Madonna",
+"Il mantello di San Martino",
+"Un osso di San Biagio"
+],
+"s": "La reliquia veniva esposta nei giorni della festa, il 3 maggio e il 14 settembre.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "43d14c27",
+"c": "frazioni",
+"q": "Quale pittore dipinse la Madonna del Rosario conservata nella chiesa di Sant'Andrea a Oliveto?",
+"a": "Orazio Porta",
+"x": [
+"Piero della Francesca",
+"Giorgio Vasari",
+"Luca Signorelli"
+],
+"s": "La chiesa di Sant'Andrea, documentata dal 1300, conserva una Madonna del Rosario di Orazio Porta.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "b4c51f53",
+"c": "frazioni",
+"q": "In quale anno Villa Oliveto fu ceduta al Comune di Civitella?",
+"a": "1980",
+"x": [
+"1940",
+"1960",
+"2005"
+],
+"s": "Ceduta al Comune nel 1980, la villa ospita il Centro di Documentazione sui campi di internamento.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "4bfffd85",
+"c": "frazioni",
+"q": "Chi fuse nel 1358 la campana oggi nel campanile della chiesa di Pieve a Maiano?",
+"a": "Neri d'Arezzo",
+"x": [
+"Giambologna",
+"Benvenuto Cellini",
+"Lorenzo Ghiberti"
+],
+"s": "La campana apparteneva alla distrutta chiesa di San Giovanni Battista a Montoto.",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "1f3abaaa",
+"c": "frazioni",
+"q": "Che cos'era anticamente il podere Spedaluccio, vicino a Pieve a Maiano?",
+"a": "Un ospizio per viandanti",
+"x": [
+"Un mulino ad acqua",
+"Un convento femminile",
+"Una fornace romana"
+],
+"s": "La casa colonica dello Spedaluccio è tutto ciò che resta di un antico ospizio per viandanti.",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "21e2abd1",
+"c": "frazioni",
+"q": "Da quale anno è documentato l'antico ospizio dello Spedaluccio?",
+"a": "1198",
+"x": [
+"1048",
+"1385",
+"1774"
+],
+"s": "L'itinerario del Comune ricorda l'ospizio «documentato fino dal 1198».",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "388b792d",
+"c": "frazioni",
+"q": "Su che cosa sorge l'Oratorio della Madonna del Conforto a Pieve al Toppo?",
+"a": "Sul sito dell'antica pieve",
+"x": [
+"Sui resti di un tempio etrusco",
+"Su un'antica fornace",
+"Sulle mura del castello"
+],
+"s": "Fu edificato nel Cinquecento sui resti dell'antica pieve e dedicato alla Madonna del Conforto nel 1906.",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "0ff18981",
+"c": "frazioni",
+"q": "Che cos'era all'inizio, nel 1960, il Teatro Moderno di Tegoleto?",
+"a": "Un cinema",
+"x": [
+"Una chiesa",
+"Una fabbrica",
+"Una scuola"
+],
+"s": "Nato per volontà di alcuni parrocchiani, fu cinema fino agli anni Ottanta e dal 1997 è sala polifunzionale.",
+"l": "frazioni/tegoleto.html"
+},
+{
+"id": "c5767706",
+"c": "frazioni",
+"q": "Che cosa c'è nel recinto d'accesso al Palatium-torre della Rocca di Civitella?",
+"a": "La cisterna per la raccolta dell'acqua",
+"x": [
+"Una cappella affrescata",
+"Le prigioni",
+"Un forno per il pane"
+],
+"s": "Il Palatium è formato dalla torre vera e propria e dal recinto d'accesso con la cisterna.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "99db94ce",
+"c": "frazioni",
+"q": "Quale via medievale transitava da Albergo?",
+"a": "La via senese-aretina",
+"x": [
+"La via Francigena",
+"La via Emilia",
+"La via Flaminia"
+],
+"s": "Dall'antico borgo transitava in epoca medievale la via senese-aretina.",
+"l": "frazioni/albergo.html"
+},
+{
+"id": "a6b92165",
+"c": "frazioni",
+"q": "Quale bene è tutelato da vincolo nazionale a Badia al Pino?",
+"a": "La torre dell'antico castello",
+"x": [
+"La stazione ferroviaria",
+"Il palazzetto dello sport",
+"Il monumento ai caduti"
+],
+"s": "La torre fa parte di ciò che resta, con la porta, dell'antico castello sorto intorno all'abbazia.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "dad49b73",
+"c": "1944",
+"q": "Che cosa raccoglie la Sala della Memoria allestita a Civitella dall'associazione «Civitella Ricorda»?",
+"a": "Reperti delle vittime, fotografie e testimonianze sull'eccidio",
+"x": [
+"Opere d'arte rinascimentali",
+"Attrezzi della civiltà contadina",
+"Reperti etruschi"
+],
+"s": "Ci sono i reperti rinvenuti sulle vittime, fotografie del paese prima e dopo la distruzione, testimonianze, libri e residuati bellici.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "38fd6d61",
+"c": "geo",
+"q": "Che cosa è stato trovato nel 2004 in località La Cascinella, presso Ciggiano?",
+"a": "Tracce di un insediamento etrusco e romano",
+"x": [
+"Una nave medievale",
+"Un tesoro di monete d'oro",
+"Un mosaico bizantino"
+],
+"s": "Frammenti di macine etrusche, tegole e vasellame romani della prima età imperiale.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "c7eef4ea",
+"c": "geo",
+"q": "Secondo Visit Tuscany, che cosa è stato trovato nella chiesa di San Pietro a Ciggiano?",
+"a": "Reperti con iscrizioni etrusche",
+"x": [
+"Un affresco di Giotto",
+"Una nave romana",
+"Un codice miniato"
+],
+"s": "Secondo il portale turistico della Regione, i reperti etruschi di Viciomaggio e di San Pietro a Ciggiano attestano un abitato antico.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "eab967e7",
+"c": "geo",
+"q": "Fino a che spessore arrivano i muri del Castellare di Sant'Angelo, presso Cornia?",
+"a": "Circa un metro e mezzo",
+"x": [
+"Circa dieci centimetri",
+"Circa cinque metri",
+"Circa dieci metri"
+],
+"s": "I muri di pietra, forse resti di un vicus romano rioccupato in età longobarda, sono spessi fino a un metro e mezzo.",
+"l": "frazioni/cornia.html"
+},
+{
+"id": "1526724b",
+"c": "geo",
+"q": "Su segnalazione di chi furono scoperte le fornaci romane in località I Ponti, a Pieve al Toppo?",
+"a": "Del Gruppo Archeologico del Dopolavoro Ferroviario di Arezzo",
+"x": [
+"Di un parroco del paese",
+"Della Soprintendenza di Firenze durante un restauro",
+"Di una scuola elementare"
+],
+"s": "Le strutture, a circa 1,60 m di profondità, sono interpretate come fornaci per la terra sigillata aretina.",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "5b8c6dd0",
+"c": "geo",
+"q": "Quale reperto da Viciomaggio è conservato al Museo Archeologico Nazionale di Arezzo?",
+"a": "Un cammeo di diaspro",
+"x": [
+"Un'anfora greca",
+"Una statua di bronzo",
+"Un elmo longobardo"
+],
+"s": "Al Museo «Gaio Cilnio Mecenate» è conservato il cammeo; i vasi del I secolo a.C. sono invece in luogo sconosciuto.",
+"l": "frazioni/viciomaggio.html"
+},
+{
+"id": "dc640362",
+"c": "geo",
+"q": "Che cosa prevede il Piano Strutturale per l'area di Cornia?",
+"a": "Un parco faunistico e un'area naturale protetta",
+"x": [
+"Una zona industriale",
+"Un aeroporto",
+"Una diga"
+],
+"s": "Il Piano prevede il Parco Faunistico Naturalistico, l'ANPIL di Cornia e un centro servizi negli edifici inutilizzati del borgo.",
+"l": "frazioni/cornia.html"
 }
 ];
