@@ -25,3 +25,19 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 - **Da ricontrollare in N3 (Repertorio):**
   - **16–17:** Palazzo Becattini, non presente in N1;
   - **18:** gli oratori della Santissima Trinità e della Madonna della Costarella. Confermati la Madonna di Mercatale, la cisterna e la Galleria comunale d'arte contemporanea.
+
+## Civitella: seconda passata in N3 (frasi 7, 10, 16–18, 24–27)
+- **7 Castello del 1048: le fonti divergono.**
+  - Wikipedia (N1) dice "eretto nel 1048".
+  - Il Repertorio (schede T002, N007 e S027) dice che nel 1048 "dovevano esservi già le strutture di un castello", "menzionato per la prima volta nel 1048", quando il vescovo Immone vi teneva giudizio.
+  - Scelta la formulazione più prudente, "ricordato per la prima volta nel 1048", su civitella.html, storia.html e patrimonio.html e nel riquadro "In breve".
+  - Confermati dal Repertorio (T002): i vescovi-conti aretini dall'XI secolo, il palazzo-torrione nel 1182, il 1248 come dimora di Guglielmino e il potenziamento delle mura.
+- **10 Palatium-torre: CONFERMATA** (Repertorio, T002).
+- **16–17 Palazzo Becattini: CONFERMATE** (Repertorio, A007: il notaio morto il 19 luglio 1877; proprietà del Comune dal 1978).
+- **18 Oratori della SS. Trinità e della Madonna della Costarella: CONFERMATI** (Repertorio, O001 e O004; NTA art. 95).
+- **24: PARZIALE.** "Cuore delle iniziative" non è nelle fonti. Ora: "A Civitella ha sede la condotta Slow Food Valdichiana, che con il Comune organizza diversi appuntamenti nel borgo" (Cittaslow, Arezzo24).
+- **25: PARZIALE.** "In Germania" non è nella fonte dell'articolo: tolto. Confermati maggio, piazza Lazzeri, 22ª edizione nel 2025 e Kämpfelbach (Arezzo Notizie).
+- **26 Calici sotto la Torre e 27 Pro Loco: CONFERMATE.** Aggiunti RUNTS e Cittaslow alle fonti della pagina.
+- **Lezione:** la seconda passata in N3 ha recuperato 5 frasi che per N1 erano NON PRESENTE o PARZIALE. Un NON PRESENTE in un solo notebook non basta per togliere una frase.
+
+**Civitella: revisione completata.**
