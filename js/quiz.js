@@ -113,7 +113,9 @@
     });
     el.feedback.hidden = true;
     el.avanti.hidden = true;
-    el.domanda.focus();
+    // Niente scorrimento automatico: si torna su solo se la nuova domanda è fuori schermo.
+    el.domanda.focus({ preventScroll: true });
+    if (el.card.getBoundingClientRect().top < 0) el.play.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   function rispondi(i) {
@@ -136,7 +138,7 @@
     el.feedback.hidden = false;
     el.avanti.textContent = stato.indice + 1 < stato.lunghezza ? "Avanti" : "Vedi il risultato";
     el.avanti.hidden = false;
-    el.avanti.focus();
+    el.avanti.focus({ preventScroll: true });
   }
 
   function avanti() {
@@ -210,7 +212,8 @@
       el.riepilogo.appendChild(li);
     });
     mostra("result");
-    el.punteggio.focus();
+    el.punteggio.focus({ preventScroll: true });
+    el.result.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   document.addEventListener("DOMContentLoaded", function () {
