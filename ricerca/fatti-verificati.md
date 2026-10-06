@@ -332,7 +332,7 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 
 ## 8. Amministrazione
 
-Composizione verificata sulla pagina ufficiale del Comune «Esplora Politici» (https://www.comune.civitella-in-val-di-chiana.ar.it/EG0/EGSCHTST19.HBL?en=eg907&MESSA=PUBBLICA), incollata dall'utente il 6 ottobre 2026. Fatti su persone in carica: **esclusi dal quiz**.
+Composizione verificata sulla pagina ufficiale del Comune «Esplora Politici» (https://www.comune.civitella-in-val-di-chiana.ar.it/EG0/EGSCHTST19.HBL?en=eg907&MESSA=PUBBLICA), incollata dall'utente il 6 ottobre 2026. Confermata dalla pagina «Organi di governo → Consiglio comunale» (https://www.comune.civitella-in-val-di-chiana.ar.it/amministrazione/organi_di_governo/Organo_di_governo_1.html, aggiornata il 17-02-2025), con gli stessi 12 nomi e gli stessi ruoli. Fatti su persone in carica: **esclusi dal quiz**.
 
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
