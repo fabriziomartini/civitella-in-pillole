@@ -202,3 +202,12 @@ Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11
   - Pagina Facebook: facebook.com/cinemategoleto.
   - Conferma l'attribuzione del prompt 5 e smentisce il "non presente" del prompt 7.
 - **Fiera del Fiore / Festa delle Palme:** nessun riferimento trovato nemmeno dall'utente. **Esclusa**, come la Festa Siner Week.
+
+## Correzione dopo la pubblicazione (6/10/2026)
+- **"Caserosse":** le NTA (art. 92) elencano "le tre zone industriali isolate Del Tongo, Chimet e Caserosse" senza spiegare il nome. La pagina Lavoro e sapori diceva che le tre zone "portano il nome delle aziende che le hanno occupate": per Caserosse era una deduzione senza fonte, probabilmente sbagliata, perché sembra il nome di una località (Case Rosse). Ora il testo dice solo che il Piano la chiama così. Da chiarire se si trova una fonte.
+- **Aggiornamento:** l'utente ha cercato "Le Caserosse" nella mappa interattiva degli Schemi direttori del Piano Strutturale (tav. C4.4, civitellavaldichiana.ldpgis.it, mappa ps_c4_4). **Le Caserosse è una località**, con una via delle Caserosse, nella pianura. Sulla mappa si leggono anche le scritte Albereto, Riolo, Arezzo, Sole e cimitero, e una grande area in blu. "Caserosse" quindi non è un'azienda: è la zona industriale isolata in quella località. Il testo del sito ora dice "una terza in località Le Caserosse, nella pianura". La frazione più vicina e il significato del colore blu (va controllata la legenda) restano da confermare: per ora non li scriviamo.
+- **Prompt Caserosse (notebook 3, dopo aver caricato la C1.1 Relazione generale e la tav. C4.4 Schemi direttori): CHIARITO.**
+  - **Dove si trova:** le NTA (art. 92, p. 54) parlano di "località Caserosse (fra Viciomaggio e Pieve al Toppo)", per la futura fermata ferroviaria con parcheggio scambiatore. Lo stesso articolo (p. 53) cita "via delle Caserosse" come tratto esistente della SP21, a cui arriva la Variante SP21 dal casello autostradale.
+  - **Sul sito:** "una terza in località Le Caserosse, nella pianura tra Viciomaggio e Pieve al Toppo".
+  - **Aziende insediate:** non presenti nelle fonti.
+  - **Non usato sul sito:** la fermata ferroviaria e la variante sono solo previsioni del Piano; che il comparto Del Tongo sia "a Tegoleto" è una deduzione del notebook dall'indirizzo di via Aretina Nord (il collegamento tra Del Tongo e Tegoleto è già documentato da Wikipedia); la zona isolata Chimet non viene localizzata con precisione.
