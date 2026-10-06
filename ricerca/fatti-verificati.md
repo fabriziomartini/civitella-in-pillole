@@ -137,6 +137,8 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Palazzo Pretorio: trecentesco, con portico a cinque archi e gli stemmi dei podestà fiorentini | Discover Arezzo | R | media |
 | Palazzo Becattini: nato dalla fusione di edifici medievali e trasformato nell'Ottocento; il notaio Becattini, morto il 19 luglio 1877, lo lasciò alla Confraternita di Carità per un ospedale dei poveri; dal 1978 è del Comune | Repertorio (A007) | R | media |
 | Ci sono gli oratori della SS. Trinità e della Madonna di Mercatale, la cisterna medievale di piazza Lazzeri e la Galleria comunale d'arte contemporanea (l'oratorio della Costarella è stato tolto: la Madonna della Costarella è a Ciggiano, Repertorio E152) | Repertorio (O001, O004), Wikipedia, Discover Arezzo | R | alta |
+| La Pinacoteca d'arte contemporanea di Civitella ospita «una vasta collezione di dipinti e sculture» dai primi anni '70 agli artisti contemporanei | Guida turistica ufficiale Valdichiana Aretina (con i Comuni), letta direttamente | W | media |
+| La guida cita «il Sarapino di Civitella in Val di Chiana» tra le feste tradizionali più antiche della regione; dettagli (giostra con l'Ape, rioni, data) da verificare sulla pagina della Pro Loco | Guida turistica Valdichiana Aretina | W (dettagli ⚠) | media |
 | Ha sede a Civitella la condotta Slow Food Valdichiana | Cittaslow | R | media |
 | Ha sede a Civitella la Pro Loco Civitella in Val di Chiana APS | RUNTS | R | bassa |
 

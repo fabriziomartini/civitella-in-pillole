@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 319 domande.
+Totale: 320 domande.
 
 ## Geografia (44)
 
@@ -401,7 +401,7 @@ Totale: 319 domande.
    ✔ Il Tribunale militare di La Spezia · ✘ Il tribunale di Norimberga · La Corte d'Assise di Arezzo · Il Tribunale di Firenze  
    _Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania._ → `storia.html`
 
-## Frazioni (94)
+## Frazioni (95)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -685,6 +685,9 @@ Totale: 319 domande.
 94. [396551e5] ●●● `Pv+` **Di quale bottega è la Madonna con il Bambino del 1522 nel tabernacolo presso la Porta Senese di Civitella?**  
    ✔ Quella di Giovanni della Robbia · ✘ Quella di Donatello · Quella di Luca Signorelli · Quella del Sansovino  
    _È una terracotta invetriata del 1522 della bottega di Giovanni della Robbia._ → `frazioni/civitella.html`
+95. [1447e0cc] ●○○ `-d=` **Che cosa raccoglie la Pinacoteca di Civitella?**  
+   ✔ Dipinti e sculture d'arte contemporanea, dagli anni Settanta a oggi · ✘ Reperti etruschi e romani · Arte sacra medievale · Attrezzi della civiltà contadina  
+   _La Pinacoteca d'arte contemporanea ospita dipinti e sculture dai primi anni Settanta alle opere degli artisti di oggi._ → `frazioni/civitella.html`
 
 ## Borghi minori (35)
 

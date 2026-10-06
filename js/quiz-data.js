@@ -4467,5 +4467,19 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "La pianura, a circa 250 metri di quota, deriva dal prosciugamento di un lago pleistocenico.",
 "l": "geografia.html"
+},
+{
+"id": "1447e0cc",
+"c": "frazioni",
+"d": 1,
+"q": "Che cosa raccoglie la Pinacoteca di Civitella?",
+"a": "Dipinti e sculture d'arte contemporanea, dagli anni Settanta a oggi",
+"x": [
+"Reperti etruschi e romani",
+"Arte sacra medievale",
+"Attrezzi della civiltà contadina"
+],
+"s": "La Pinacoteca d'arte contemporanea ospita dipinti e sculture dai primi anni Settanta alle opere degli artisti di oggi.",
+"l": "frazioni/civitella.html"
 }
 ];

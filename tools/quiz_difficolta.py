@@ -356,4 +356,5 @@ CODICI = {
     "3ff855bb": "Pv+",  # Da quale vicariato dipendeva Civitella sotto i granduchi di Toscana?
     "2368801b": "-v=",  # Secondo il piano paesaggistico regionale, che cosa separa il monte di 
     "cb9f19ff": "-d=",  # Da che cosa deriva la pianura della Val di Chiana?
+    "1447e0cc": "-d=",  # Che cosa raccoglie la Pinacoteca di Civitella?
 }
