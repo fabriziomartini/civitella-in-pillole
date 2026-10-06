@@ -1035,7 +1035,7 @@ window.QUIZ_DOMANDE = [
 "Virginia Woolf",
 "Jane Austen"
 ],
-"s": "Muriel Spark visse a Oliveto dagli anni Settanta e vi morì nel 2006.",
+"s": "Muriel Spark visse a Oliveto con Penelope Jardine; morta nel 2006, è sepolta nel cimitero di Sant'Andrea Apostolo.",
 "l": "frazioni/oliveto.html"
 },
 {
@@ -2631,7 +2631,7 @@ window.QUIZ_DOMANDE = [
 "Circa cinque metri",
 "Circa dieci metri"
 ],
-"s": "I muri di pietra, forse resti di un vicus romano rioccupato in età longobarda, sono spessi fino a un metro e mezzo.",
+"s": "Il Repertorio del Piano Strutturale descrive i muri del Castellare di Sant'Angelo, spessi fino a un metro e mezzo.",
 "l": "frazioni/cornia.html"
 },
 {
@@ -3167,17 +3167,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/viciomaggio.html"
 },
 {
-"id": "f6883e41",
+"id": "be3e83c9",
 "c": "1944",
 "d": 2,
-"q": "Chi era Hazbi Ismail, tra le vittime elencate dall'Atlante per «Cornia e dintorni»?",
+"q": "Chi era Ismail Harbi, tra le vittime elencate dall'Atlante per «Cornia e dintorni»?",
 "a": "Un partigiano di 28 anni",
 "x": [
 "Il parroco di Cornia",
 "Un soldato tedesco",
 "Il maestro del paese"
 ],
-"s": "L'Atlante delle stragi elenca tra le vittime il partigiano Hazbi Ismail, di 28 anni.",
+"s": "L'Atlante delle stragi elenca tra le vittime il partigiano Ismail Harbi, di 28 anni; sulla lapide dei decorati è scritto «Hasbi Ismaili».",
 "l": "frazioni/cornia.html"
 },
 {
@@ -4763,15 +4763,15 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/pieve-a-maiano.html"
 },
 {
-"id": "bf03cb86",
+"id": "f5c1d25c",
 "c": "borghi",
 "d": 3,
-"q": "Da quale espressione latina deriva il nome di Montoto, secondo il Repetti?",
-"a": "Mons tutus, «monte sicuro»",
+"q": "Con quale nome latino il Repetti registra Montoto?",
+"a": "Mons tutus",
 "x": [
-"Mons altus, «monte alto»",
-"Mons Othonis, «monte di Ottone»",
-"Mons totus, «monte intero»"
+"Mons altus",
+"Mons Othonis",
+"Mons totus"
 ],
 "s": "Il Repetti registra la voce come «Montoto (Mons tutus)».",
 "l": "frazioni/borghi-minori.html#montoto"
@@ -4887,5 +4887,19 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Il progetto prevedeva il vapore, ma su iniziativa dell'ingegnere Giacomo Sutter la linea fu elettrificata prima dell'apertura del 1930.",
 "l": "storia.html"
+},
+{
+"id": "bfaeeba1",
+"c": "storia",
+"d": 2,
+"q": "Che funzione aveva nel Medioevo il castello di Tuori, secondo il Repertorio del Piano Strutturale?",
+"a": "Era sede di guarnigioni a presidio di Arezzo",
+"x": [
+"Era la residenza estiva dei Medici",
+"Era un convento fortificato",
+"Era una dogana senese"
+],
+"s": "Secondo il Repertorio, Tuori, ricordato dal 1021, divenne un castello sede di guarnigioni militari a presidio della città di Arezzo; ne resta il cassero.",
+"l": "frazioni/tuori.html"
 }
 ];

@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 349 domande.
+Totale: 350 domande.
 
 ## Geografia (47)
 
@@ -78,7 +78,7 @@ Totale: 349 domande.
    _Secondo Visit Tuscany, nella chiesa di San Pietro a Ciggiano, di origine medievale, sono stati trovati reperti con iscrizioni etrusche._ → `frazioni/ciggiano.html`
 23. [eab967e7] ●●○ `Nd+` **Fino a che spessore arrivano i muri del Castellare di Sant'Angelo, presso Cornia?**  
    ✔ Circa un metro e mezzo · ✘ Circa dieci centimetri · Circa cinque metri · Circa dieci metri  
-   _I muri di pietra, forse resti di un vicus romano rioccupato in età longobarda, sono spessi fino a un metro e mezzo._ → `frazioni/cornia.html`
+   _Il Repertorio del Piano Strutturale descrive i muri del Castellare di Sant'Angelo, spessi fino a un metro e mezzo._ → `frazioni/cornia.html`
 24. [1526724b] ●●○ `Pn+` **Su segnalazione di chi furono scoperte le fornaci romane in località I Ponti, a Pieve al Toppo?**  
    ✔ Del Gruppo Archeologico del Dopolavoro Ferroviario di Arezzo · ✘ Di un parroco del paese · Della Soprintendenza di Firenze durante un restauro · Di una scuola elementare  
    _Le strutture, a circa 1,60 m di profondità, sono interpretate come fornaci per la terra sigillata aretina._ → `frazioni/pieve-al-toppo.html`
@@ -152,7 +152,7 @@ Totale: 349 domande.
    ✔ Calò di quasi 1.500 abitanti · ✘ Crebbe di quasi 1.500 abitanti · Rimase quasi identica · Si dimezzò  
    _Si passò da 8.147 abitanti nel 1951 a 6.673 nel 1961._ → `geografia.html`
 
-## Storia (61)
+## Storia (62)
 
 1. [db28ef0d] ●○○ `-d-` **Che cosa era il colle di Civitella in epoca longobarda?**  
    ✔ Una roccaforte a controllo del territorio · ✘ Un porto fluviale · Un monastero femminile · Una zecca  
@@ -337,6 +337,9 @@ Totale: 349 domande.
 61. [4b7efa1f] ●○○ `-d+` **Con quale trazione funzionarono i treni della Arezzo–Sinalunga fin dall'apertura?**  
    ✔ Elettrica · ✘ A vapore · Diesel · A cavalli  
    _Il progetto prevedeva il vapore, ma su iniziativa dell'ingegnere Giacomo Sutter la linea fu elettrificata prima dell'apertura del 1930._ → `storia.html`
+62. [bfaeeba1] ●●○ `-n+` **Che funzione aveva nel Medioevo il castello di Tuori, secondo il Repertorio del Piano Strutturale?**  
+   ✔ Era sede di guarnigioni a presidio di Arezzo · ✘ Era la residenza estiva dei Medici · Era un convento fortificato · Era una dogana senese  
+   _Secondo il Repertorio, Tuori, ricordato dal 1021, divenne un castello sede di guarnigioni militari a presidio della città di Arezzo; ne resta il cassero._ → `frazioni/tuori.html`
 
 ## Il 1944 (34)
 
@@ -409,9 +412,9 @@ Totale: 349 domande.
 23. [d69a35d2] ●●○ `-v+` **Dove si rifugiavano durante la guerra gli abitanti di Viciomaggio?**  
    ✔ In un cunicolo con una stanza sotterranea lungo il Fosso del Riolo · ✘ Nelle cantine della villa · In una galleria ferroviaria · Nel campanile della chiesa  
    _Il rifugio era un cunicolo con una stanza sotterranea lungo il Fosso del Riolo, verso Malpertuso._ → `frazioni/viciomaggio.html`
-24. [f6883e41] ●●○ `-n+` **Chi era Hazbi Ismail, tra le vittime elencate dall'Atlante per «Cornia e dintorni»?**  
+24. [be3e83c9] ●●○ `-n+` **Chi era Ismail Harbi, tra le vittime elencate dall'Atlante per «Cornia e dintorni»?**  
    ✔ Un partigiano di 28 anni · ✘ Il parroco di Cornia · Un soldato tedesco · Il maestro del paese  
-   _L'Atlante delle stragi elenca tra le vittime il partigiano Hazbi Ismail, di 28 anni._ → `frazioni/cornia.html`
+   _L'Atlante delle stragi elenca tra le vittime il partigiano Ismail Harbi, di 28 anni; sulla lapide dei decorati è scritto «Hasbi Ismaili»._ → `frazioni/cornia.html`
 25. [cdce2f79] ●○○ `-d=` **Che cosa ricorda il portale in bronzo di Bino Bini nella chiesa di Civitella?**  
    ✔ L'eccidio del 1944, nel cinquantesimo anniversario · ✘ La battaglia del Toppo · La fondazione del priorato · La visita di un papa  
    _Il portale del 1994 ricorda l'eccidio nel cinquantesimo anniversario._ → `frazioni/civitella.html`
@@ -498,7 +501,7 @@ Totale: 349 domande.
    _Villa Oliveto fu dimora dei conti Barbolani di Montauto._ → `frazioni/oliveto.html`
 18. [782eea04] ●○○ `Pd-` **Quale scrittrice scozzese visse a Oliveto ed è sepolta nel suo cimitero?**  
    ✔ Muriel Spark · ✘ Agatha Christie · Virginia Woolf · Jane Austen  
-   _Muriel Spark visse a Oliveto dagli anni Settanta e vi morì nel 2006._ → `frazioni/oliveto.html`
+   _Muriel Spark visse a Oliveto con Penelope Jardine; morta nel 2006, è sepolta nel cimitero di Sant'Andrea Apostolo._ → `frazioni/oliveto.html`
 19. [f98ae568] ●○○ `Pd-` **Quale romanzo ha scritto Muriel Spark, che visse a Oliveto?**  
    ✔ Gli anni fulgenti di Miss Brodie · ✘ Gita al faro · Orgoglio e pregiudizio · Assassinio sull'Orient Express  
    _Muriel Spark è l'autrice de «Gli anni fulgenti di Miss Brodie»._ → `frazioni/oliveto.html`
@@ -862,8 +865,8 @@ Totale: 349 domande.
 34. [1a6af485] ●●● `Pv+` **Sopra quale strada sorse il castello di Montarfoni?**  
    ✔ La strada Regia Aretina · ✘ La via Aurelia · La via Francigena · La Via Vecchia Senese  
    _Il castello sorse sopra la strada Regia Aretina; ne restano la porta e tratti delle mura._ → `frazioni/borghi-minori.html#montarfoni`
-35. [bf03cb86] ●●● `Pv+` **Da quale espressione latina deriva il nome di Montoto, secondo il Repetti?**  
-   ✔ Mons tutus, «monte sicuro» · ✘ Mons altus, «monte alto» · Mons Othonis, «monte di Ottone» · Mons totus, «monte intero»  
+35. [f5c1d25c] ●●● `Pv+` **Con quale nome latino il Repetti registra Montoto?**  
+   ✔ Mons tutus · ✘ Mons altus · Mons Othonis · Mons totus  
    _Il Repetti registra la voce come «Montoto (Mons tutus)»._ → `frazioni/borghi-minori.html#montoto`
 36. [42bc1e10] ●●● `Pv+` **A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello di Montoto?**  
    ✔ Ai Santi Flora e Lucilla · ✘ A Santa Maria della Pieve · A San Domenico · A San Francesco  
