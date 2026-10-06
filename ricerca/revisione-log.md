@@ -131,3 +131,15 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 - **Gebbia a 3,5 km dal capoluogo: CONFERMATO dall'utente** (misura su Google Maps, livello U). Resta nel riquadro «In breve».
 - **San Pietro a Ciggiano:** l'utente non la conosce. La ricerca web trova **Visit Tuscany** (portale turistico ufficiale della Regione): nomina «la chiesa di San Pietro a Ciggiano», dove sono stati trovati reperti con iscrizioni etrusche. Con Discover Arezzo sono due fonti indipendenti: **resta**. Aggiunti i reperti etruschi, attribuiti a Visit Tuscany, e la fonte sulla pagina.
 - **Oratorio della Costarella nel borgo di Civitella:** l'utente non lo conosce e il web non dà riscontri; il Repertorio colloca la Madonna della Costarella a Ciggiano. **Tolto** da civitella.html.
+
+## Pieve a Maiano e Ponticino: blocco R5, N1 e N3 in parallelo
+- **4 Spedaluccio: CONFERMATA** (N1, itinerario 2 del Comune): «Dopo circa un chilometro lasciata Pieve a Maiano, lungo la statale 69 [...] podere Spedaluccio [...] antico ospizio per viandanti, documentato fina dal 1198». Chiuso il punto da cui era partita la verifica.
+- **Confermate:**
+  - 1: Marius (Repertorio);
+  - 3: chiesa ottocentesca con la campana del 1358 da Montoto (itinerario 2). Aggiunti dal Repertorio: costruita dopo il 1824, ampliata nel 1865, campana di Neri d'Arezzo, già della chiesa di San Giovanni Battista a Montoto;
+  - 6: aureo di Claudio di circa 18 g (Repertorio S008);
+  - 10: parrocchia di Ponticino a Laterina Pergine Valdarno (annuario della Diocesi).
+- **2: PARZIALE.** Il Podere Casella è confermato (Paleolitico medio e superiore, S002), ma «le testimonianze più antiche dell'intero comune» non ha fonte. Tolto anche da patrimonio.html.
+- **5 Fattoria di Maiano con vincolo nazionale: SMENTITA** (Repertorio: campo del vincolo nazionale vuoto). Corretta su pieve-a-maiano.html e patrimonio.html.
+- **7 stazione 1866 e 8 referendum 2017:** non sono nei notebook, ma erano già stati verificati sul web (Wikipedia, Stazione di Ponticino; Tuttitalia), livello W. Restano.
+- **9 «maggior parte del territorio di Ponticino»: SMENTITA da N1** (l'itinerario esce dal territorio comunale presso Ponticino), NON PRESENTE in N3. Tolta.

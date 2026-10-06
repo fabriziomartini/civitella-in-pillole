@@ -204,10 +204,10 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | Parrocchia di Santa Maria Assunta | Annuario della Diocesi | N | alta |
 | «Maiano» è un toponimo prediale romano (da *Marius*) | Repertorio | N | alta |
-| Strumenti paleolitici al Podere Casella | Repertorio | N | alta |
+| Strumenti del Paleolitico medio e superiore al Podere Casella | Repertorio (S002) | R | alta |
 | Insediamento romano al campo sportivo (I–II secolo d.C.) e fornace di Vallimboi | Repertorio | N | alta |
 | Moneta d'oro dell'imperatore Claudio (41–54 d.C.) | Repertorio | N | alta |
-| Il podere Spedaluccio è nei pressi di Pieve a Maiano, non ad Albergo | Relazione generale del PS, p. 60 | R | alta |
+| Il podere Spedaluccio si trova circa un chilometro dopo Pieve a Maiano, lungo la statale 69: è ciò che resta di un antico ospizio per viandanti documentato dal 1198 (non è ad Albergo) | Itinerario 2 del Comune; Relazione generale del PS, p. 60 | R | alta |
 | Sagra del Cinghiale (U.S. Pieve a Maiano): 42ª edizione nel 2026 | Sagre Toscane | N | media |
 
 ### Pieve al Toppo
@@ -392,13 +392,17 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 - «Crostini neri al vinsanto».
 - «Ai piedi dell'Appennino».
 - «Fascia 250–350 m».
-- Dettagli del podere Spedaluccio (1198, statale 69, un chilometro oltre Pieve a Maiano): in attesa del blocco di Pieve a Maiano.
 
 **Aziende non rappresentative**
 - Zone Creative srl (Badia al Pino, macchinari per l'oreficeria): esiste, ma è una piccola azienda senza un ruolo riconosciuto nel territorio. Era finita sul sito e nel quiz solo perché compariva tra le fonti del notebook 3. Tolta il 6/10/2026.
 
 **Civitella**
 - Oratorio della Madonna della Costarella «nel capoluogo»: non confermato. Il Repertorio (E152) colloca la Madonna della Costarella fuori dal castello di Ciggiano, l'utente non lo conosce nel borgo e il web non dà riscontri. Tolto da civitella.html. Correggeva una conclusione sbagliata dei primi giri (`verifica-log.md`).
+
+**Pieve a Maiano e Ponticino (revisione R5)**
+- Fattoria di Maiano «tutelata da vincolo nazionale»: SMENTITA. Nella scheda del Repertorio il vincolo nazionale non è notificato. Ora è «censita nel Repertorio».
+- Paleolitico del Podere Casella come «le testimonianze più antiche del comune»: il superlativo non ha fonte. Tolto.
+- Civitella «comprende la maggior parte del territorio di Ponticino»: non confermato. L'itinerario del Comune dice che presso Ponticino si esce brevemente dal territorio comunale, e l'ISTAT attribuisce il centro abitato a Laterina Pergine Valdarno. Tolto.
 
 **Badia al Pino (revisione R1)**
 - Abbazia soppressa «nel 1446» e unita al monastero del «Paradiso a Ripoli»: non confermato da nessun notebook né dal web.
