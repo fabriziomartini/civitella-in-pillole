@@ -1697,17 +1697,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/borghi-minori.html#san-martino-in-poggio"
 },
 {
-"id": "f59b9207",
+"id": "d3a07030",
 "c": "borghi",
 "d": 1,
-"q": "Come descrisse Firenze il castello di Gaenne prima di ordinarne la distruzione?",
+"q": "Come descrissero i fiorentini il castello di Gaenne, passato sotto il loro dominio nel 1385?",
 "a": "«Un forte castello di sito e di muro»",
 "x": [
 "«La più bella rocca di Toscana»",
 "«Un castello senza difese»",
 "«Il nido dei ghibellini»"
 ],
-"s": "Firenze lo descrisse così e ne ordinò la distruzione dopo il 1385.",
+"s": "Nel 1385 Gaenne passò a Firenze, che lo descrisse come «un forte castello di sito e di muro».",
 "l": "frazioni/borghi-minori.html#gaenne"
 },
 {
@@ -4131,5 +4131,61 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Nel 2025 L'Olio Novo è arrivato alla 28ª edizione.",
 "l": "feste-e-associazioni.html"
+},
+{
+"id": "748416c9",
+"c": "storia",
+"d": 2,
+"q": "Da chi fu assediata la rocca di Civitella tra il 1284 e il 1285?",
+"a": "Dagli aretini",
+"x": [
+"Dai fiorentini",
+"Dai senesi",
+"Dai pisani"
+],
+"s": "Tra il 1284 e il 1285 la rocca fu assediata dagli stessi aretini che nel 1288 vinsero la battaglia del Toppo.",
+"l": "storia.html"
+},
+{
+"id": "4fe3b32c",
+"c": "storia",
+"d": 3,
+"q": "Quanti piccoli comuni furono aggregati alla Comunità di Civitella nel 1774, secondo il Repertorio del Piano Strutturale?",
+"a": "Nove",
+"x": [
+"Tre",
+"Quindici",
+"Venti"
+],
+"s": "Il Repertorio parla di nove piccoli comuni aggregati nel 1774; tra questi gli itinerari del Comune ricordano Ciggiano, Viciomaggio e Badia al Pino.",
+"l": "storia.html"
+},
+{
+"id": "67e04d32",
+"c": "1944",
+"d": 1,
+"q": "Perché la rocca di Civitella fu bombardata dagli Alleati?",
+"a": "Perché al suo interno si era installato il comando tedesco",
+"x": [
+"Per errore, scambiandola per un ponte",
+"Perché era un deposito di munizioni italiano",
+"Per colpire la ferrovia vicina"
+],
+"s": "La rocca, da secoli simbolo del paese, fu distrutta da un bombardamento alleato perché vi si era installato il comando tedesco.",
+"l": "storia.html"
+},
+{
+"id": "1af9c0f0",
+"c": "borghi",
+"d": 2,
+"q": "Quanto è spessa, all'incirca, la cinta muraria a secco di Poggio Castellare?",
+"a": "Circa 1,60 metri",
+"x": [
+"Circa 16 centimetri",
+"Circa 6 metri",
+"Circa 16 metri"
+],
+"s": "La cinta ellittica a secco è spessa 1,60 metri e lunga circa 300.",
+"l": "frazioni/borghi-minori.html#poggio-castellare"
 }
 ];

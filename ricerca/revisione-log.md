@@ -172,3 +172,19 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
   - **7, «Villa Milloni»: nome non confermato** (non è nel Repertorio né sul web). La descrizione è quella della «Villa di Viciomaggio» (L282), che il sito elencava due volte: ora c'è una sola voce, aggiornata anche in Patrimonio e nel quiz.
   - **9, vasi del I secolo a.C.: «luogo sconosciuto».** Al Museo Mecenate c'è solo il cammeo di diaspro (S020): corretto.
   - **10, leggenda di Annibale: non presente.** Tolta, anche dal sottotitolo della pagina.
+
+
+## R8 · Storia e borghi minori (N3)
+
+| N | Esito | Azione |
+|---|---|---|
+| 1 | CONFERMATA (Repertorio, centro storico e T002) | assedio 1284-85 da ⚠ a R |
+| 2 | PARZIALE: il Repertorio dice «nove piccoli comuni» senza nomi; conferma Montarfoni (H240a) | testo invariato (i nomi vengono dagli itinerari del Comune); aggiunti i «nove piccoli comuni» in storia.html |
+| 3 | PARZIALE: «uno degli episodi più gravi … in Toscana» non è nelle fonti | frase tolta da storia.html |
+| 4 | PARZIALE: nessuna data per il bombardamento; motivo: il comando tedesco nella rocca (Cittaslow, Wikipedia) | «negli stessi mesi» tolto; aggiunto il motivo in storia.html e civitella.html |
+| 5 | CONFERMATA (S017) | Poggio Castellare a R |
+| 6 | CONFERMATA (H240a) | Montarfoni a R |
+| 7 | CONFERMATA (A001a, A001d) | Dorna a R |
+| 8 | CONFERMATA (H241b) | San Martino in Poggio a R |
+| 9 | PARZIALE: l'ordine di distruzione non è nel Repertorio | in borghi-minori.html attribuito alla scheda del Comune; riformulata la domanda del quiz |
+| 10 | CONFERMATA: «M011 L'Infernaccio del mulino di Oliveto» | rimesso nella pagina di Oliveto con il nome della scheda; corretto in Patrimonio |

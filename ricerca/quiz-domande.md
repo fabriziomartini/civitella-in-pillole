@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 295 domande.
+Totale: 299 domande.
 
 ## Geografia (42)
 
@@ -137,7 +137,7 @@ Totale: 295 domande.
    ✔ I Preappennini toscani · ✘ Le Alpi Apuane · Il Monte Amiata · Le Colline Metallifere  
    _La parte collinare e di bassa montagna, coperta di boschi, è una propaggine dei Preappennini toscani._ → `index.html`
 
-## Storia (46)
+## Storia (48)
 
 1. [fe9e42b2] ●●● `Nv=` **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -277,8 +277,14 @@ Totale: 295 domande.
 46. [3fa9492f] ●●● `Nv+` **In quale mese del 1940 fu istituito il campo di internamento di Villa Oliveto?**  
    ✔ Giugno · ✘ Gennaio · Settembre · Dicembre  
    _Il campo fu istituito nel giugno 1940._ → `frazioni/oliveto.html`
+47. [748416c9] ●●○ `-v=` **Da chi fu assediata la rocca di Civitella tra il 1284 e il 1285?**  
+   ✔ Dagli aretini · ✘ Dai fiorentini · Dai senesi · Dai pisani  
+   _Tra il 1284 e il 1285 la rocca fu assediata dagli stessi aretini che nel 1288 vinsero la battaglia del Toppo._ → `storia.html`
+48. [4fe3b32c] ●●● `Nv+` **Quanti piccoli comuni furono aggregati alla Comunità di Civitella nel 1774, secondo il Repertorio del Piano Strutturale?**  
+   ✔ Nove · ✘ Tre · Quindici · Venti  
+   _Il Repertorio parla di nove piccoli comuni aggregati nel 1774; tra questi gli itinerari del Comune ricordano Ciggiano, Viciomaggio e Badia al Pino._ → `storia.html`
 
-## Il 1944 (26)
+## Il 1944 (27)
 
 1. [3e37b695] ●●○ `Nv-` **In quale data avvenne la strage nazista di Civitella?**  
    ✔ 29 giugno 1944 · ✘ 25 aprile 1945 · 8 settembre 1943 · 4 giugno 1944  
@@ -358,6 +364,9 @@ Totale: 295 domande.
 26. [cdce2f79] ●○○ `-d=` **Che cosa ricorda il portale in bronzo di Bino Bini nella chiesa di Civitella?**  
    ✔ L'eccidio del 1944, nel cinquantesimo anniversario · ✘ La battaglia del Toppo · La fondazione del priorato · La visita di un papa  
    _Il portale del 1994 ricorda l'eccidio nel cinquantesimo anniversario._ → `frazioni/civitella.html`
+27. [67e04d32] ●○○ `-n=` **Perché la rocca di Civitella fu bombardata dagli Alleati?**  
+   ✔ Perché al suo interno si era installato il comando tedesco · ✘ Per errore, scambiandola per un ponte · Perché era un deposito di munizioni italiano · Per colpire la ferrovia vicina  
+   _La rocca, da secoli simbolo del paese, fu distrutta da un bombardamento alleato perché vi si era installato il comando tedesco._ → `storia.html`
 
 ## Frazioni (93)
 
@@ -641,7 +650,7 @@ Totale: 295 domande.
    ✔ 1868 · ✘ 1768 · 1836 · 1968  
    _La villa è settecentesca; la parte posteriore fu restaurata nel 1868, la limonaia è del 1836._ → `frazioni/viciomaggio.html`
 
-## Borghi minori (26)
+## Borghi minori (27)
 
 1. [cd56501b] ●○○ `-d=` **Per che cosa era noto il luogo di Matroia?**  
    ✔ Per una sorgente con acque ritenute medicamentose · ✘ Per una miniera d'argento · Per un castello dei Medici · Per una fornace di vetro  
@@ -676,9 +685,9 @@ Totale: 295 domande.
 11. [ff97d330] ●●● `Pv+` **Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?**  
    ✔ Il nobile fiorentino Carlo Casini · ✘ Il vescovo Guglielmino degli Ubertini · La famiglia Pecchioli · Il notaio Becattini  
    _La chiesa fu costruita con il patrimonio donato da Carlo Casini._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
-12. [f59b9207] ●○○ `-n=` **Come descrisse Firenze il castello di Gaenne prima di ordinarne la distruzione?**  
+12. [d3a07030] ●○○ `-n=` **Come descrissero i fiorentini il castello di Gaenne, passato sotto il loro dominio nel 1385?**  
    ✔ «Un forte castello di sito e di muro» · ✘ «La più bella rocca di Toscana» · «Un castello senza difese» · «Il nido dei ghibellini»  
-   _Firenze lo descrisse così e ne ordinò la distruzione dopo il 1385._ → `frazioni/borghi-minori.html#gaenne`
+   _Nel 1385 Gaenne passò a Firenze, che lo descrisse come «un forte castello di sito e di muro»._ → `frazioni/borghi-minori.html#gaenne`
 13. [0aeb1238] ●●○ `Pv=` **A chi apparteneva il castello di Gaenne nel 1069?**  
    ✔ Ai longobardi di Dorna · ✘ Ai Medici · Ai vescovi di Siena · Ai conti Guidi  
    _Nel 1069 apparteneva ai longobardi di Dorna, poi passò ai Tarlati._ → `frazioni/borghi-minori.html#gaenne`
@@ -721,6 +730,9 @@ Totale: 295 domande.
 26. [e834399c] ●●○ `Nd+` **Quanto è lunga, all'incirca, la cinta muraria a secco di Poggio Castellare?**  
    ✔ Circa 300 metri · ✘ Circa 30 metri · Circa 3 chilometri · Circa 10 metri  
    _Sulla cima resta una cinta ellittica a secco di circa 300 metri; la datazione è discussa._ → `frazioni/borghi-minori.html#poggio-castellare`
+27. [1af9c0f0] ●●○ `Nd+` **Quanto è spessa, all'incirca, la cinta muraria a secco di Poggio Castellare?**  
+   ✔ Circa 1,60 metri · ✘ Circa 16 centimetri · Circa 6 metri · Circa 16 metri  
+   _La cinta ellittica a secco è spessa 1,60 metri e lunga circa 300._ → `frazioni/borghi-minori.html#poggio-castellare`
 
 ## Lavoro e sapori (25)
 

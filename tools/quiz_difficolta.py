@@ -158,7 +158,7 @@ CODICI = {
     "961f484f": "-n=",  # Che cosa è la torre di Dorna, ricordata dal 1198?
     "7591d2bd": "Pv+",  # A chi è dedicata la chiesa di San Martino in Poggio costruita nel 1690
     "ff97d330": "Pv+",  # Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?
-    "f59b9207": "-n=",  # Come descrisse Firenze il castello di Gaenne prima di ordinarne la dis
+    "d3a07030": "-n=",  # Come descrissero i fiorentini il castello di Gaenne, passato sotto il 
     "0aeb1238": "Pv=",  # A chi apparteneva il castello di Gaenne nel 1069?
     "b8b3b4f1": "-v=",  # Tra quali frazioni si trova la località Le Caserosse?
     "e4fa556c": "Pv+",  # In quale materiale è il cippo romano trovato a Le Fosse?
@@ -332,4 +332,8 @@ CODICI = {
     "7f7108c7": "-v+",  # In quale giorno della settimana si tengono le proiezioni di Cinema sot
     "f146f2ed": "Nv+",  # Da quale anno si tiene Cinema sotto le Stelle a Tegoleto?
     "4be5e12f": "Nn+",  # Quale edizione dell'Olio Novo si è tenuta nel 2025?
+    "748416c9": "-v=",  # Da chi fu assediata la rocca di Civitella tra il 1284 e il 1285?
+    "4fe3b32c": "Nv+",  # Quanti piccoli comuni furono aggregati alla Comunità di Civitella nel 
+    "67e04d32": "-n=",  # Perché la rocca di Civitella fu bombardata dagli Alleati?
+    "1af9c0f0": "Nd+",  # Quanto è spessa, all'incirca, la cinta muraria a secco di Poggio Caste
 }

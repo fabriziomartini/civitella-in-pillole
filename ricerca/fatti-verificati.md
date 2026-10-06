@@ -81,13 +81,13 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Dall'XI secolo sul colle di Civitella sorgevano strutture a presidio dei vescovi-conti aretini | Repertorio (T002) | R | alta |
 | Nel 1182 la rocca aveva già l'aspetto di un palazzo-torrione | Repertorio (T002) | R | alta |
 | Nel 1248 il vescovo Guglielmino degli Ubertini scelse la rocca come dimora e ne potenziò le mura | Repertorio (T002) | R | alta |
-| Tra il 1284 e il 1285 la rocca di Civitella fu assediata dagli aretini | Repertorio | N ⚠ (nella revisione ridotta) | alta |
+| Tra il 1284 e il 1285 la rocca di Civitella fu assediata dagli aretini | Repertorio (centro storico di Civitella, T002) | R | alta |
 | La battaglia di Pieve al Toppo fu combattuta il 26 giugno 1288: gli aretini ghibellini sconfissero i senesi guelfi | Wikipedia (Giostre del Toppo) | N | alta |
 | Dante la ricorda nel XIII canto dell'Inferno come le «giostre del Toppo»; tra gli scialacquatori c'è Lano da Siena, caduto in quella battaglia | Wikipedia (Giostre del Toppo, Lano da Siena) | N | alta |
 | Nel 1385 Firenze, acquisiti Arezzo e il suo contado, staccò Civitella dalla podesteria di Valdambra e ne fece il capoluogo di una propria podesteria, durata fino al 1838 | SIUSA, Podesteria di Civitella | R | alta |
-| Nel 1774 Ciggiano, Viciomaggio, Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella | Itinerari del Comune | N | alta |
+| Nel 1774 Ciggiano, Viciomaggio, Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella. Il Repertorio conferma Montarfoni (H240a) e parla di «nove piccoli comuni» aggregati nel 1774, senza nominarli | Itinerari del Comune; Repertorio | N (R per Montarfoni e i nove comuni) | alta |
 | Nel 1917 la sede comunale fu trasferita a Badia al Pino per lo spopolamento delle zone collinari | Wikipedia | R | alta |
-| Un bombardamento alleato distrusse la rocca di Civitella (la fonte non indica l'anno) | Wikipedia | R | alta |
+| Un bombardamento alleato distrusse la rocca di Civitella, perché al suo interno si era installato il comando tedesco (le fonti non indicano la data) | Wikipedia, Cittaslow | R | alta |
 | Nel giugno 1940 a Villa Oliveto fu istituito un campo di internamento, soprattutto per famiglie ebree di nazionalità britannica provenienti dalla Libia; nel 1944 furono deportate a Bergen-Belsen | Regione Toscana, Storia e Memorie, Wikipedia | N | alta |
 
 ---
@@ -197,6 +197,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | San Giovanni d'Oliveto: nelle decime del 1274, ricostruita nel 1343 | Repertorio | N | alta |
 | Villa Oliveto, già Villa Mazzi: dei conti Barbolani di Montauto, parco con cedri e lecci, oggi Centro di Documentazione | Regione Toscana, Wikipedia | N | alta |
 | Muriel Spark visse a Oliveto con Penelope Jardine, ebbe la cittadinanza onoraria nel settembre 2005, morì nel 2006 ed è sepolta nel cimitero di Sant'Andrea Apostolo | Wikipedia (EN), Arezzo Notizie, Rete Documentaria Aretina | W | media |
+| Il Repertorio censisce «L'Infernaccio» del mulino di Oliveto (scheda M011) | Repertorio | R | bassa |
 | Presepe Vivente: dal 2014, oltre 80 figuranti, la Natività nella chiesetta di San Rocco; lo organizza la parrocchia | Sito del Presepe | W | media |
 
 ### Pieve a Maiano
@@ -276,13 +277,13 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | **Matroia:** allevamento di cavalli (centro di equitazione previsto), resti di un convento con la chiesetta di San Michele Arcangelo e una sorgente ritenuta medicamentosa | NTA art. 49, Repertorio | N | alta |
 | **Montoto:** poderi lungo via della Centrale sorti su un fortilizio longobardo; passò a Firenze nel 1385; la campana del 1358 della chiesa di Pieve a Maiano viene da qui | Repertorio | N | alta |
-| **Poggio Castellare:** a 483 m, cinta ellittica a secco di circa 300 m, datazione discussa | Repertorio | N | alta |
+| **Poggio Castellare:** a 483 m, cinta ellittica a secco spessa 1,60 m e lunga circa 300 m, datazione discussa | Repertorio (S017) | R | alta |
 | **Malpertuso e Le Fosse:** borghi medievali abbandonati nel tardo Medioevo; a Le Fosse un cippo romano in travertino | Itinerari del Comune, Repertorio | N | alta |
 | **Tribbio:** nome dal trivio romano, con un pozzo storico | Itinerari del Comune, Repertorio | N | alta |
-| **Montarfoni:** nome da «Monte di Arfo»; castello aggregato a Civitella nel 1774; borgo-fattoria con villa seicentesca e limonaia | Itinerari del Comune, Repertorio | N | alta |
-| **Dorna:** castello longobardo (VIII–X secolo); *castrum Durna* nel 1181; torre ricordata dal 1198; chiesa dei Santi Vito e Nicola (1182); dei Riccardi nel XVIII secolo e delle suore Montalve dal 1814 | Repertorio | N | alta |
-| **San Martino in Poggio:** a circa 540 m; chiesa dei Santi Maria e Carlo del 1690 (patrimonio di Carlo Casini), ampliata nel 1726, parrocchia dal 1814; 317 abitanti nel 1845 | Itinerari del Comune, Repertorio | N | alta |
-| **Gaenne:** castello dei longobardi di Dorna nel 1069, poi dei Tarlati; Firenze lo descrisse come «un forte castello di sito e di muro» e ne ordinò la distruzione dopo il 1385 | Repertorio, scheda del Comune | N | alta |
+| **Montarfoni:** nome da «Monte di Arfo», antico proprietario germanico; castello aggregato a Civitella nel 1774; borgo-fattoria con villa seicentesca e limonaia | Itinerari del Comune, Repertorio (H240a) | R | alta |
+| **Dorna:** castello longobardo (VIII–X secolo); *castrum Durna* nel 1181; torre ricordata dal 1198; chiesa dei Santi Vito e Nicola (1182); dei Riccardi nel XVIII secolo e delle suore Montalve dal 1814 | Repertorio (A001a, A001d); date confermate in R8 | R | alta |
+| **San Martino in Poggio:** a circa 540 m; chiesa dei Santi Maria e Carlo del 1690 (patrimonio di Carlo Casini), ampliata nel 1726, parrocchia dal 1814; 317 abitanti nel 1845 | Itinerari del Comune, Repertorio (H241b) | R | alta |
+| **Gaenne:** castello dei longobardi di Dorna nel 1069, poi dei Tarlati; nel 1385 passò a Firenze, che lo descrisse come «un forte castello di sito e di muro» (Repertorio S023, R). L'ordine di distruzione è solo nella scheda del Comune: sul sito è attribuito | Repertorio, scheda del Comune | R (distruzione: N) | alta |
 | **Le Caserosse:** località tra Viciomaggio e Pieve al Toppo, sede di una delle tre «zone industriali isolate» del Piano (con Del Tongo e Chimet) | NTA art. 92, tav. C4.4 | N | alta |
 
 ---
@@ -442,6 +443,10 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 - Abbazia soppressa «nel 1446» e unita al monastero del «Paradiso a Ripoli»: non confermato da nessun notebook né dal web.
 - Titolo di San Bartolomeo «aggiunto nel Cinquecento»: non confermato. Il Repertorio dice invece che la chiesa è dedicata ai santi Bartolomeo, Martino e Filippo.
 - Case coloniche Bellavista, Casetto (Casa del Moro) e San Lorentino «intorno a Badia al Pino»: le schede le collocano a Bellavista (Dorna), Ca' del Moro e Loretino. Tolte dalla pagina, anche per la scarsa rilevanza.
+
+**Storia e borghi (revisione R8)**
+- Eccidio «uno degli episodi più gravi delle stragi naziste in Toscana»: la formula non è nelle fonti. Tolta da storia.html.
+- Rocca distrutta «negli stessi mesi» dell'eccidio: le fonti non danno la data del bombardamento. Corretto con il motivo documentato (il comando tedesco nella rocca).
 
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).
