@@ -126,3 +126,8 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 - **9 Muriel Spark e 10 Presepe Vivente:** nei notebook c'è solo una parte (la tomba nel cimitero; il Presepe dal 2014). Gli altri dettagli restano: erano già stati verificati sul web nel giro di cronaca (Wikipedia EN, Arezzo Notizie, Rete Documentaria Aretina, sito del Presepe, livello W).
 
 **Oliveto: revisione completata.**
+
+## Risposte dell'utente sulle tre domande sospese
+- **Gebbia a 3,5 km dal capoluogo: CONFERMATO dall'utente** (misura su Google Maps, livello U). Resta nel riquadro «In breve».
+- **San Pietro a Ciggiano:** l'utente non la conosce. La ricerca web trova **Visit Tuscany** (portale turistico ufficiale della Regione): nomina «la chiesa di San Pietro a Ciggiano», dove sono stati trovati reperti con iscrizioni etrusche. Con Discover Arezzo sono due fonti indipendenti: **resta**. Aggiunti i reperti etruschi, attribuiti a Visit Tuscany, e la fonte sulla pagina.
+- **Oratorio della Costarella nel borgo di Civitella:** l'utente non lo conosce e il web non dà riscontri; il Repertorio colloca la Madonna della Costarella a Ciggiano. **Tolto** da civitella.html.

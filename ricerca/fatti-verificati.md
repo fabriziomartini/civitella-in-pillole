@@ -125,7 +125,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Il Piano Strutturale prevede il restauro della Rocca e un «museo» come punto di riferimento per visitare castelli, castellari, rocche, torri e antichi tracciati | Piano Strutturale | R | alta |
 | Palazzo Pretorio: trecentesco, con portico a cinque archi e gli stemmi dei podestà fiorentini | Discover Arezzo | R | media |
 | Palazzo Becattini: nato dalla fusione di edifici medievali e trasformato nell'Ottocento; il notaio Becattini, morto il 19 luglio 1877, lo lasciò alla Confraternita di Carità per un ospedale dei poveri; dal 1978 è del Comune | Repertorio (A007) | R | media |
-| Ci sono gli oratori della SS. Trinità e della Madonna di Mercatale, la cisterna medievale di piazza Lazzeri e la Galleria comunale d'arte contemporanea (l'oratorio della Costarella è ⚠: il Repertorio E152 colloca la Madonna della Costarella a Ciggiano) | Repertorio (O001, O004), Wikipedia, Discover Arezzo | R | alta |
+| Ci sono gli oratori della SS. Trinità e della Madonna di Mercatale, la cisterna medievale di piazza Lazzeri e la Galleria comunale d'arte contemporanea (l'oratorio della Costarella è stato tolto: la Madonna della Costarella è a Ciggiano, Repertorio E152) | Repertorio (O001, O004), Wikipedia, Discover Arezzo | R | alta |
 | Ha sede a Civitella la condotta Slow Food Valdichiana | Cittaslow | R | media |
 | Ha sede a Civitella la Pro Loco Civitella in Val di Chiana APS | RUNTS | R | bassa |
 
@@ -167,7 +167,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | La chiesa della Madonna della Costarella (detta anche di Santa Maria), fuori dal castello di Ciggiano, fu terminata nel 1635 con le elemosine dei pastori della via vecchia senese; il loggiato è settecentesco | Repertorio (E152), Discover Arezzo | R | alta |
 | Ciggiano è «sotto i valichi di Palazzuolo e San Pancrazio»; tappa obbligata della dogana fiorentina, con la «calla» dei pastori | Repertorio (N001) | R | alta |
 | Nel 1431 fu assediato e saccheggiato dalle truppe di Niccolò Piccinino; nel 1554 subì un altro assedio | Repertorio (N001) | R | alta |
-| Chiesa di San Pietro, con un intervento eclettico del 1836 | solo Discover Arezzo | ⚠ (da confermare con l'utente) | media |
+| Chiesa di San Pietro a Ciggiano, di origine medievale, con un intervento eclettico del 1836; vi sono stati trovati reperti con iscrizioni etrusche | Discover Arezzo, Visit Tuscany | W | media |
 | Parrocchia di San Biagio | Annuario della Diocesi | N | alta |
 | Festa dell'uva, del vino e dell'olio, organizzata dalla Pro Loco di Ciggiano: 49ª edizione nel 2026 | ArezzoTv, Sagre Toscane | N | media |
 | Ha una banda, la Società Filarmonica Ciggiano APS | RUNTS | N | media |
@@ -184,6 +184,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 ### Gebbia
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
+| Gebbia dista 3,5 km dal borgo di Civitella | Google Maps, misurato dall'utente | U | bassa |
 | L'Atlante elenca 16 vittime per «Gebbia e dintorni»; l'Archivio della Memoria parla di 8 uomini fucilati | Atlante, Archivio della Memoria | N | alta |
 
 ### Oliveto
@@ -395,6 +396,9 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 
 **Aziende non rappresentative**
 - Zone Creative srl (Badia al Pino, macchinari per l'oreficeria): esiste, ma è una piccola azienda senza un ruolo riconosciuto nel territorio. Era finita sul sito e nel quiz solo perché compariva tra le fonti del notebook 3. Tolta il 6/10/2026.
+
+**Civitella**
+- Oratorio della Madonna della Costarella «nel capoluogo»: non confermato. Il Repertorio (E152) colloca la Madonna della Costarella fuori dal castello di Ciggiano, l'utente non lo conosce nel borgo e il web non dà riscontri. Tolto da civitella.html. Correggeva una conclusione sbagliata dei primi giri (`verifica-log.md`).
 
 **Badia al Pino (revisione R1)**
 - Abbazia soppressa «nel 1446» e unita al monastero del «Paradiso a Ripoli»: non confermato da nessun notebook né dal web.
