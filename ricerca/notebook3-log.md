@@ -165,3 +165,17 @@ Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11
 - **"Festa Siner Week" (Pieve al Toppo): ESCLUSA.** Compare solo sulla scheda cittaslow.it/citta/civitella-val-di-chiana. Una ricerca web del 6/10/2026 non ha trovato altri riscontri e l'utente, che vive in zona, non l'ha mai sentita. Probabile refuso o evento non più attivo. Torna sul sito solo con una seconda fonte indipendente.
 - **Stessa regola per la "Fiera del Fiore e delle sementi / Festa delle Palme" (Civitella):** anche questa viene solo dalla scheda Cittaslow e la ricerca web non dà altri riscontri. **Sospesa** finché non c'è una seconda fonte (sito del Comune, stampa locale o Pro Loco).
 - **Regola generale per le nuove pagine:** un evento o un dato che compare in una sola fonte di tipo "scheda promozionale" (Cittaslow, portali turistici) va sul sito solo se un'altra fonte indipendente lo conferma.
+
+## Prompt 7: punti aperti
+- **a) Festa Siner Week:** il notebook la ritrova, ma **sempre e solo sulla scheda Cittaslow**, che riporta anche nome e telefono di un referente; probabilmente è una scheda vecchia. Nessuna seconda fonte, quindi **resta esclusa**.
+- **Fiera del Fiore / Festa delle Palme (punto g2):** anche questa solo dalla scheda Cittaslow, quindi **resta sospesa**.
+- **b) Fogliarina e La Casina:** le NTA (art. 49, ambito V5.1) le citano solo come "località" con centri di equitazione. La posizione "tra Badia al Pino, Tegoleto e Pieve al Toppo" è una deduzione del notebook senza passaggio citato, quindi **non va usata**. Sul sito: "località Fogliarina" e "località La Casina".
+- **c) Mercato dei Sapori e della Terra:** si tiene a Tegoleto, lo organizzano il Comune e Slow Food Valdichiana, ogni anno (Arezzo24). Il **periodo non è indicato**, quindi va nella sezione Slow Food e non nel calendario per mese.
+- **d) Cinema sotto le stelle:** c'è solo un titolo di articolo. Organizzatore e anno di inizio non sono presenti, e il prompt 5 lo attribuiva a Comunità & Tegoleto: le due risposte non concordano. **Lo lasciamo fuori.**
+- **e) Distretto orafo:** non ci sono numeri. Ci sono i nomi delle zone produttive (NTA art. 92, già registrati al prompt 1) e la frase di Cittaslow su "numerose imprese artigianali... oreficeria, falegnameria, calzature".
+- **f) Aziende agricole citate per nome (NTA art. 95):** è un elenco urbanistico di poderi e fattorie e non dice se siano aziende attive oggi. **Sul sito non pubblichiamo nomi di aziende private.** Mulini e fattorie storiche sono già nella pagina Patrimonio.
+- **g) Altri elementi:**
+  - **Mercatale sulla via Vecchia Senese:** è solo una previsione del Piano Strutturale, non sappiamo se sia stato realizzato. Al massimo va citato come "previsto"; **per ora lo lasciamo fuori**.
+  - **Gemellaggio con Kämpfelbach (Germania): CONFERMATO.** Arezzo Notizie dice che i rappresentanti partecipano al Mercato del Cacio; Wikipedia conferma il gemellaggio e aggiunge Ain Beda (Sahara Occidentale). **Si può aggiungere.**
+  - **Ottobre musicale – Il pullman della musica:** viene solo dal Repertorio (scheda TE001), che non dice se la rassegna sia ancora attiva. Si può citare al passato come attività ospitata dal Teatro Moderno, oppure lasciarla fuori.
+  - **Porta in bronzo di Bino Bini nella chiesa di Santa Maria Assunta a Civitella: CONFERMATA** dal Repertorio e da una guida turistica (summerinitaly.com). **Da aggiungere** alla pagina di Civitella, che oggi non la cita.
