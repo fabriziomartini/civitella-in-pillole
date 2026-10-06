@@ -1836,19 +1836,6 @@ window.QUIZ_DOMANDE = [
 "l": "lavoro-e-sapori.html#del-tongo"
 },
 {
-"id": "185f38ca",
-"c": "economia",
-"q": "Che cosa costruisce l'azienda Zone Creative di Badia al Pino?",
-"a": "Macchinari per l'oreficeria",
-"x": [
-"Biciclette",
-"Cucine",
-"Metal detector"
-],
-"s": "Zone Creative è legata al distretto orafo aretino.",
-"l": "lavoro-e-sapori.html#industria"
-},
-{
 "id": "32697d3d",
 "c": "economia",
 "q": "Quante nuove aree industriali prevede il Piano Operativo del 2023?",
