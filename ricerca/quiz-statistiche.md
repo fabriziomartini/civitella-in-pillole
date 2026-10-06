@@ -47,3 +47,12 @@ A fine partita il quiz invia in forma anonima il punteggio e l'esito di ogni dom
   - disattiva il deployment da «Gestisci deployment»;
   - oppure chiedi a Claude di svuotare `STATISTICHE_URL`.
 - **Se una domanda viene riformulata,** cambia il suo id e le sue statistiche ripartono da zero (vedi `tools/genera_quiz.py`).
+
+## Correggere la difficoltà con i dati
+
+Il livello di ogni domanda (facile, media, difficile) nasce da una regola scritta in `tools/quiz_difficolta.py`. Quando le partite sono abbastanza, lo correggono le risposte vere:
+
+1. Nel foglio apri la scheda **Risposte** e scegli **File → Scarica → Valori separati da virgola (.csv)**.
+2. Passa il file a Claude, oppure lancia `python3 tools/calibra_difficolta.py Risposte.csv` e poi `python3 tools/genera_quiz.py`.
+
+Le domande con almeno 20 risposte prendono il livello dai dati: oltre il 75% di risposte giuste diventano facili, sotto il 40% difficili. Le altre restano con il livello della regola.
