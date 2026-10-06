@@ -31,7 +31,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Residenti al censimento 2021: 8.814 | ISTAT, censimento 2021 per località (file della Regione Toscana) | W | alta |
 | Si trova 15 km a sud-ovest di Arezzo | Wikipedia | N | alta |
 | Confina con Arezzo, Bucine, Laterina Pergine Valdarno e Monte San Savino | Wikipedia, Cittaslow | N | media |
-| Zona climatica E, 2.269 gradi giorno | Wikipedia | N | bassa |
+| Zona climatica E, 2.269 gradi giorno (tolta dal sito il 6/10/2026: dato tecnico poco comprensibile) | Wikipedia | N | bassa |
 | Il capoluogo storico sorge sulle Colline delle Lepri, a circa 500 m | Wikipedia, ToscanaNovecento | R | alta |
 | Il colle di Civitella sta tra Valdambra e Valdichiana | Repertorio (scheda T002) | R | alta |
 | I centri abitati si trovano tra circa 300 e 600 m | Cittaslow | N | media |
