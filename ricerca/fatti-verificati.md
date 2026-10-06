@@ -331,6 +331,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | **Montarfoni:** nome da «Monte di Arfo», antico proprietario germanico; castello aggregato a Civitella nel 1774; borgo-fattoria con villa seicentesca e limonaia | Itinerari del Comune, Repertorio (H240a) | R | alta |
 | **Dorna:** castello longobardo (VIII–X secolo); *castrum Durna* nel 1181; torre ricordata dal 1198; chiesa dei Santi Vito e Nicola (1182); dei Riccardi nel XVIII secolo e delle suore Montalve dal 1814 | Repertorio (A001a, A001d); date confermate in R8 | R | alta |
 | **San Martino in Poggio:** a circa 540 m; chiesa dei Santi Maria e Carlo del 1690 (patrimonio di Carlo Casini), ampliata nel 1726, parrocchia dal 1814; 317 abitanti nel 1845 | Itinerari del Comune, Repertorio (H241b) | R | alta |
+| Repetti, borghi: Montarfoni, chiesa di S. Andrea unita a SS. Jacopo e Cristofano d'Impiano con decreto vescovile del 10 giugno 1388; Dorna, canone annuo ancora pagato dal proprietario al capitolo di Arezzo (donazione del 1181 di Rolandino di Mambilia), «Fratta di Durna» della badia di Nasciano nel 1227; Gaenna, castello distrutto, parrocchia di S. Maria a Gajenna nel piviere del Toppo, ricordato nel privilegio di Carlo IV ad Arezzo del 1356; S. Martino in Poggio, decreto vescovile del 30 maggio 1814, giuspadronato del marchese Riccardi-Vernaccia, 259 abitanti (1833) | Repetti, voci «Mont'Arfone», «Dorna», «Gaenna», «Martino (S.) in Poggio» | R | media |
 | **Gaenne:** castello dei longobardi di Dorna nel 1069, poi dei Tarlati; nel 1385 passò a Firenze, che lo descrisse come «un forte castello di sito e di muro» (Repertorio S023, R). L'ordine di distruzione è solo nella scheda del Comune: sul sito è attribuito | Repertorio, scheda del Comune | R (distruzione: N) | alta |
 | **Le Caserosse:** località tra Viciomaggio e Pieve al Toppo, sede di una delle tre «zone industriali isolate» del Piano (con Del Tongo e Chimet) | NTA art. 92, tav. C4.4 | N | alta |
 
@@ -421,6 +422,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 | Passaggio di Civitella a Firenze | Wikipedia: ingresso nel territorio fiorentino nel 1348; Pro Loco: custodia fiorentina dal 1344 e sottomissione degli abitanti nel 1362; SIUSA: podesteria fiorentina dal 1385; Wikipedia: presa da Firenze dopo Campaldino (1289) | sul sito: presa nel 1289, sottomissione 1362 (Pro Loco), podesteria 1385 |
 | Rocca di Civitella dopo il 1248 | Itinerario 2 del Comune: «ristrutturata dopo la distruzione del 1252»; Wikipedia: «nel 1272 Guglielmino la ricostruì»; Repertorio: nel 1248 Guglielmino ne potenziò le mura | tutte e tre, attribuite |
 | Prima memoria della pieve del Toppo | Repertorio: confermata nel 938 tra i possedimenti del Capitolo di Arezzo; Repetti: corti donate ai canonici nel 939 dai re Ugo e Lotario, diploma di Ottone I del 963 (in un'altra voce «983») | sul sito resta il 938 del Repertorio |
+| Chiesa di San Martino in Poggio | Repertorio: costruita nel 1690 con il patrimonio del nobile fiorentino Carlo Casini; Repetti: edificata nel 1700, fondatore Carlo di Paolo Casini, nobile senese | tutte e due le versioni |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
 
 ---
@@ -520,6 +522,8 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 - Il 917 con Berengario e Uguccione «marchese del Colle», con la genealogia fino a Carlo Magno: non confermato da nessuna fonte scritta verificata.
 - Magister Rainerius «nato a Civitella», autore nel 1272 di un'«Ars Tabellionatus»: da verificare su fonti storiche.
 - Aneddoti sui vescovi Arnaldo ed Eliotto morti a Civitella e sugli «altri sette vescovi» sepolti lì.
+
+**Repetti online (dizionario-repetti.it): ricerca completata il 6/10/2026 su 21 località.** Voci trovate e usate: Civitella, Oliveto, Cornia, Tuori, Tegoleto, Ciggiano, Viciomaggio, Badia al Pino, Pieve al Toppo (due voci), Majano, Montoto, Montarfoni, Dorna, Gaenna, San Martino in Poggio. Nessuna voce per Spoiano, Albergo, Gebbia, Ponticino, Matroia, Tribbio, Malpertuso.
 
 **Repetti: divergenze con la Pro Loco**
 - Morte del vescovo Eliotto a Civitella: Repetti 1182, Pro Loco 1186. Non usata.

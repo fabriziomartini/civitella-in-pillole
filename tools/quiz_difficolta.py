@@ -156,8 +156,8 @@ CODICI = {
     "d9e63c28": "-d=",  # Che cosa conserva oggi Montarfoni, oltre alla villa seicentesca?
     "d6eaf7ca": "Pv+",  # Da chi fu acquistata nel 1814 la villa-fattoria di Dorna?
     "961f484f": "-n=",  # Che cosa è la torre di Dorna, ricordata dal 1198?
-    "7591d2bd": "Pv+",  # A chi è dedicata la chiesa di San Martino in Poggio costruita nel 1690
-    "ff97d330": "Pv+",  # Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?
+    "144d50be": "Pv+",  # A chi è dedicata l'attuale chiesa di San Martino in Poggio?
+    "b4f36db1": "Pv+",  # Grazie al patrimonio di chi fu costruita la chiesa dei Santi Maria e C
     "d3a07030": "-n=",  # Come descrissero i fiorentini il castello di Gaenne, passato sotto il 
     "0aeb1238": "Pv=",  # A chi apparteneva il castello di Gaenne nel 1069?
     "b8b3b4f1": "-v=",  # Tra quali frazioni si trova la località Le Caserosse?
@@ -387,4 +387,6 @@ CODICI = {
     "6030ead1": "Pv+",  # Con quale nome il Repetti distingue la Pieve a Maiano del comune di Ci
     "bf03cb86": "Pv+",  # Da quale espressione latina deriva il nome di Montoto, secondo il Repe
     "42bc1e10": "Pv+",  # A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello
+    "ccb2628a": "Pv+",  # In quale privilegio del 1356 il castello di Gaenne è ricordato tra que
+    "3cb5660e": "-v+",  # A chi pagava ancora un canone annuo, nell'Ottocento, il proprietario d
 }

@@ -1669,25 +1669,25 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/borghi-minori.html#dorna"
 },
 {
-"id": "7591d2bd",
+"id": "144d50be",
 "c": "borghi",
 "d": 3,
-"q": "A chi è dedicata la chiesa di San Martino in Poggio costruita nel 1690?",
+"q": "A chi è dedicata l'attuale chiesa di San Martino in Poggio?",
 "a": "Ai Santi Maria e Carlo",
 "x": [
 "A San Martino e San Rocco",
 "A San Biagio",
 "A Sant'Andrea"
 ],
-"s": "Il titolo ricorda il nobile fiorentino Carlo Casini, che la finanziò.",
+"s": "Il titolo ricorda il nobile Carlo Casini, che la finanziò.",
 "l": "frazioni/borghi-minori.html#san-martino-in-poggio"
 },
 {
-"id": "ff97d330",
+"id": "b4f36db1",
 "c": "borghi",
 "d": 3,
-"q": "Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?",
-"a": "Il nobile fiorentino Carlo Casini",
+"q": "Grazie al patrimonio di chi fu costruita la chiesa dei Santi Maria e Carlo a San Martino in Poggio?",
+"a": "Il nobile Carlo Casini",
 "x": [
 "Il vescovo Guglielmino degli Ubertini",
 "La famiglia Pecchioli",
@@ -3845,11 +3845,11 @@ window.QUIZ_DOMANDE = [
 "q": "Da quale anno San Martino in Poggio è parrocchia?",
 "a": "1814",
 "x": [
-"1690",
+"1700",
 "1726",
 "1917"
 ],
-"s": "La chiesa del 1690 fu ampliata nel 1726 e divenne parrocchia nel 1814.",
+"s": "La chiesa dei Santi Maria e Carlo fu ampliata nel 1726 e divenne parrocchia con un decreto del vescovo del 30 maggio 1814.",
 "l": "frazioni/borghi-minori.html#san-martino-in-poggio"
 },
 {
@@ -4255,7 +4255,7 @@ window.QUIZ_DOMANDE = [
 "Di un organo",
 "Di un portico a tre archi"
 ],
-"s": "La chiesa dei Santi Maria e Carlo, costruita nel 1690, fu ampliata nel 1726 con due nuovi altari.",
+"s": "La chiesa dei Santi Maria e Carlo fu ampliata nel 1726 con due nuovi altari.",
 "l": "frazioni/borghi-minori.html#san-martino-in-poggio"
 },
 {
@@ -4901,5 +4901,33 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Il 2 marzo 1051 Golizo vendette all'abate Enrico dei Santi Flora e Lucilla un quarto del castello e della chiesa di San Giovanni Battista.",
 "l": "frazioni/borghi-minori.html#montoto"
+},
+{
+"id": "ccb2628a",
+"c": "borghi",
+"d": 3,
+"q": "In quale privilegio del 1356 il castello di Gaenne è ricordato tra quelli del contado aretino?",
+"a": "In quello dell'imperatore Carlo IV alla città di Arezzo",
+"x": [
+"Nella bolla di papa Eugenio IV",
+"Negli statuti della Repubblica di Siena",
+"Nel catasto del granduca Pietro Leopoldo"
+],
+"s": "Il Repetti ricorda Gaenna tra i castelletti del contado aretino nel privilegio di Carlo IV del 1356.",
+"l": "frazioni/borghi-minori.html#gaenne"
+},
+{
+"id": "3cb5660e",
+"c": "borghi",
+"d": 2,
+"q": "A chi pagava ancora un canone annuo, nell'Ottocento, il proprietario della tenuta di Dorna?",
+"a": "Al capitolo della cattedrale di Arezzo",
+"x": [
+"Al Comune di Civitella",
+"Al granduca di Toscana",
+"Ai monaci di Camaldoli"
+],
+"s": "Era un'eredità della donazione del 1181, con cui Rolandino di Mambilia lasciò al capitolo i suoi beni nel castello di Dorna.",
+"l": "frazioni/borghi-minori.html#dorna"
 }
 ];

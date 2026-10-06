@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 350 domande.
+Totale: 352 domande.
 
 ## Geografia (45)
 
@@ -761,7 +761,7 @@ Totale: 350 domande.
    ✔ Majano di Valle Lunga · ✘ Majano di Lucardo · Majano di Fiesole · Majano al Toppo  
    _Il Repetti la chiama «Majano di Valle Lunga», nel Val d'Arno aretino, per distinguerla dagli altri Majano della Toscana._ → `frazioni/pieve-a-maiano.html`
 
-## Borghi minori (37)
+## Borghi minori (39)
 
 1. [cd56501b] ●○○ `-d=` **Per che cosa era noto il luogo di Matroia?**  
    ✔ Per una sorgente con acque ritenute medicamentose · ✘ Per una miniera d'argento · Per un castello dei Medici · Per una fornace di vetro  
@@ -790,11 +790,11 @@ Totale: 350 domande.
 9. [961f484f] ●○○ `-n=` **Che cosa è la torre di Dorna, ricordata dal 1198?**  
    ✔ La parte più antica rimasta integra del castello · ✘ Un campanile ottocentesco · Una torre dell'acquedotto · Un faro  
    _La torre è la parte più antica rimasta integra dell'insediamento longobardo._ → `frazioni/borghi-minori.html#dorna`
-10. [7591d2bd] ●●● `Pv+` **A chi è dedicata la chiesa di San Martino in Poggio costruita nel 1690?**  
+10. [144d50be] ●●● `Pv+` **A chi è dedicata l'attuale chiesa di San Martino in Poggio?**  
    ✔ Ai Santi Maria e Carlo · ✘ A San Martino e San Rocco · A San Biagio · A Sant'Andrea  
-   _Il titolo ricorda il nobile fiorentino Carlo Casini, che la finanziò._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
-11. [ff97d330] ●●● `Pv+` **Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?**  
-   ✔ Il nobile fiorentino Carlo Casini · ✘ Il vescovo Guglielmino degli Ubertini · La famiglia Pecchioli · Il notaio Becattini  
+   _Il titolo ricorda il nobile Carlo Casini, che la finanziò._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
+11. [b4f36db1] ●●● `Pv+` **Grazie al patrimonio di chi fu costruita la chiesa dei Santi Maria e Carlo a San Martino in Poggio?**  
+   ✔ Il nobile Carlo Casini · ✘ Il vescovo Guglielmino degli Ubertini · La famiglia Pecchioli · Il notaio Becattini  
    _La chiesa fu costruita con il patrimonio donato da Carlo Casini._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
 12. [d3a07030] ●○○ `-n=` **Come descrissero i fiorentini il castello di Gaenne, passato sotto il loro dominio nel 1385?**  
    ✔ «Un forte castello di sito e di muro» · ✘ «La più bella rocca di Toscana» · «Un castello senza difese» · «Il nido dei ghibellini»  
@@ -833,8 +833,8 @@ Totale: 350 domande.
    ✔ I Tarlati · ✘ Gli Ubertini · I Medici · I conti Guidi  
    _Nel 1069 Gaenne apparteneva ai longobardi di Dorna, poi passò ai Tarlati._ → `frazioni/borghi-minori.html#gaenne`
 24. [0574409f] ●●● `Nv+` **Da quale anno San Martino in Poggio è parrocchia?**  
-   ✔ 1814 · ✘ 1690 · 1726 · 1917  
-   _La chiesa del 1690 fu ampliata nel 1726 e divenne parrocchia nel 1814._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
+   ✔ 1814 · ✘ 1700 · 1726 · 1917  
+   _La chiesa dei Santi Maria e Carlo fu ampliata nel 1726 e divenne parrocchia con un decreto del vescovo del 30 maggio 1814._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
 25. [a085dfa8] ●●○ `Nd+` **A che altitudine si trova, all'incirca, San Martino in Poggio?**  
    ✔ Circa 540 metri · ✘ Circa 140 metri · Circa 940 metri · Circa 1.240 metri  
    _San Martino in Poggio si trova a circa 540 metri._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
@@ -858,7 +858,7 @@ Totale: 350 domande.
    _Il borgo-fattoria è organizzato come un piccolo paese, con piazzetta, chiesa, cantina e frantoio-mulino._ → `frazioni/borghi-minori.html#montarfoni`
 32. [2e9fd6ab] ●●○ `-v+` **Di che cosa fu dotata la chiesa di San Martino in Poggio quando fu ampliata nel 1726?**  
    ✔ Di due nuovi altari · ✘ Di un campanile a vela · Di un organo · Di un portico a tre archi  
-   _La chiesa dei Santi Maria e Carlo, costruita nel 1690, fu ampliata nel 1726 con due nuovi altari._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
+   _La chiesa dei Santi Maria e Carlo fu ampliata nel 1726 con due nuovi altari._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
 33. [585551af] ●●○ `-v=` **Quale altro luogo è destinato a diventare un parco archeologico insieme a Poggio Castellare?**  
    ✔ Il castello di Gaenne · ✘ Matroia · Tribbio · Dorna  
    _Il Piano Strutturale prevede un parco archeologico con campo scuola di scavo a Poggio Castellare e Gaenne._ → `frazioni/borghi-minori.html#poggio-castellare`
@@ -874,6 +874,12 @@ Totale: 350 domande.
 37. [42bc1e10] ●●● `Pv+` **A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello di Montoto?**  
    ✔ Ai Santi Flora e Lucilla · ✘ A Santa Maria della Pieve · A San Domenico · A San Francesco  
    _Il 2 marzo 1051 Golizo vendette all'abate Enrico dei Santi Flora e Lucilla un quarto del castello e della chiesa di San Giovanni Battista._ → `frazioni/borghi-minori.html#montoto`
+38. [ccb2628a] ●●● `Pv+` **In quale privilegio del 1356 il castello di Gaenne è ricordato tra quelli del contado aretino?**  
+   ✔ In quello dell'imperatore Carlo IV alla città di Arezzo · ✘ Nella bolla di papa Eugenio IV · Negli statuti della Repubblica di Siena · Nel catasto del granduca Pietro Leopoldo  
+   _Il Repetti ricorda Gaenna tra i castelletti del contado aretino nel privilegio di Carlo IV del 1356._ → `frazioni/borghi-minori.html#gaenne`
+39. [3cb5660e] ●●○ `-v+` **A chi pagava ancora un canone annuo, nell'Ottocento, il proprietario della tenuta di Dorna?**  
+   ✔ Al capitolo della cattedrale di Arezzo · ✘ Al Comune di Civitella · Al granduca di Toscana · Ai monaci di Camaldoli  
+   _Era un'eredità della donazione del 1181, con cui Rolandino di Mambilia lasciò al capitolo i suoi beni nel castello di Dorna._ → `frazioni/borghi-minori.html#dorna`
 
 ## Lavoro e sapori (25)
 
