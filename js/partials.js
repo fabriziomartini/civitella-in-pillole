@@ -66,6 +66,7 @@
       '<li class="nav-item"><a class="' + navCls("patrimonio.html") + '" href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
       '<li class="nav-item"><a class="' + navCls("lavoro-e-sapori.html") + '" href="' + basePath + 'lavoro-e-sapori.html" title="Lavoro e sapori">Economia</a></li>' +
       '<li class="nav-item"><a class="' + navCls("feste-e-associazioni.html") + '" href="' + basePath + 'feste-e-associazioni.html" title="Feste e associazioni">Feste</a></li>' +
+      '<li class="nav-item"><a class="' + navCls("quiz.html") + '" href="' + basePath + 'quiz.html">Quiz</a></li>' +
       '<li class="nav-item"><a class="' + navCls("geografia.html") + '" href="' + basePath + 'geografia.html">Geografia</a></li>' +
       '<li class="nav-item"><a class="' + navCls("amministrazione.html") + '" href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
       '<li class="nav-item"><a class="' + navCls("fonti.html") + '" href="' + basePath + 'fonti.html">Fonti</a></li>' +
@@ -94,6 +95,7 @@
       '<li><a href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
       '<li><a href="' + basePath + 'lavoro-e-sapori.html">Lavoro e sapori</a></li>' +
       '<li><a href="' + basePath + 'feste-e-associazioni.html">Feste e associazioni</a></li>' +
+      '<li><a href="' + basePath + 'quiz.html">Quiz</a></li>' +
       '<li><a href="' + basePath + 'geografia.html">Geografia</a></li>' +
       '<li><a href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
       "</ul>" +

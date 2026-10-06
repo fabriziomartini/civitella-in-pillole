@@ -17,6 +17,7 @@ frazioni/*.html       Una pagina per ciascuna frazione (+ capoluogo)
 patrimonio.html       Patrimonio: castelli, ville, mulini, archeologia
 lavoro-e-sapori.html  Economia, agricoltura, Slow Food
 feste-e-associazioni.html  Calendario delle feste, associazioni, sport
+quiz.html             Quiz a risposta multipla (domande in js/quiz-data.js)
 fonti.html            Fonti e bibliografia usate
 css/styles.css        Bootstrap 5.3.8 (compilato)
 css/civitella.css     Palette e font custom
