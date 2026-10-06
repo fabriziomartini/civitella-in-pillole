@@ -19,7 +19,7 @@ Questo file è la base certa del sito (e del futuro quiz): un fatto per riga, co
 - Un fatto «non presente» in un notebook non è falso. Si toglie solo se nessuna fonte lo conferma (vedi la regola in `revisione-ridotta.md`).
 - **Aziende:** sul sito e nel quiz si nominano solo aziende con un ruolo riconosciuto nel territorio (grandi aziende come CEIA e Chimet, aziende storiche come la Del Tongo, o aziende citate nei documenti del Comune o del Piano). Non basta che compaiano in una fonte.
 
-Ultimo aggiornamento: 6 ottobre 2026.
+Ultimo aggiornamento: 6 ottobre 2026 (verifica sistematica del quiz: aggiunti i dati già confermati nei registri di revisione).
 
 ---
 
@@ -46,7 +46,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Il piano riconosce valori storico-architettonici al borgo di Badia al Pino, «godibile dall'Autostrada del Sole, dalla strada provinciale Arezzo-Siena», e valore «estetico e tradizionale» all'abitato di Civitella «assise sulla piccola altura ricca di oliveti» | PIT, ambito 19 | R | media |
 | Pieve a Maiano è la «porta d'accesso» meridionale alla Riserva di Ponte a Buriano e Penna | Piano Strutturale | N | alta |
 | La sede comunale è a Badia al Pino dal 1917; il comune ha mantenuto il nome dell'antico borgo | Wikipedia | R | alta |
-| Il comune è gemellato con Kämpfelbach | Arezzo Notizie, Wikipedia | R | media |
+| Il comune è gemellato con Kämpfelbach (Germania), i cui rappresentanti partecipano al Mercato del Cacio | Arezzo Notizie, Wikipedia | R | media |
 | Il comune è gemellato anche con Ain Beda (Sahara Occidentale) | Wikipedia | W | bassa |
 | Abitanti ai censimenti: 1861 5.777; 1871 6.306; 1881 6.073; 1901 6.641; 1911 7.049; 1921 7.479; 1931 7.924; 1936 8.126; 1951 8.147; 1961 6.673; 1971 6.683; 1981 7.224; 1991 7.649; 2001 8.687; 2011 9.111; 2021 8.814 (censimento permanente al 31/12). Massimo nel 2011; tra 1951 e 1961 quasi 1.500 in meno | Wikipedia, sezione «Evoluzione demografica», che cita ISTAT (Censimenti 1861–1991 ed esploradati); valori letti dal grafico; il 2021 coincide con il file ISTAT per località | W | alta |
 | Cittaslow dal luglio 2002 | Arezzo Notizie | N | media |
@@ -117,6 +117,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | A Gebbia operò la Feldgendarmerie del capitano Heinz Barz | Archivio della Memoria | N | media |
 | A Gebbia donne e bambini non furono toccati né le case bruciate, ma i tedeschi uccisero tutti gli animali; otto uomini furono fucilati presso il Podere Valle, vicino a San Pancrazio | Archivio della Memoria | N | alta |
 | Giovanni Cau e la moglie Helga Elmqvist furono catturati a Gebbia e uccisi il 2 luglio 1944 | Archivio della Memoria, Liber Liber | N | media |
+| Giovanni Cau era nato a Cagliari, insegnava scienze naturali a Firenze ed era autore di testi scolastici | ricerca web (revisione R3, punto 10) | W | media |
 | Il 16 aprile 1944 le SS fucilarono a Ciggiano i partigiani Giovanni Marmo e Mario Marapitti | ToscanaNovecento | N | alta |
 | La lastra di Cornia riporta 58 nomi di caduti di Cornia e delle località vicine, compreso San Pancrazio, uccisi fra il 29 giugno e il 16 luglio 1944 | ToscanaNovecento | N | alta |
 | Il cippo dell'eccidio di Cornia fu eretto nel 1969 | Itinerari del Comune | N | alta |
@@ -196,6 +197,10 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | San Biagio custodisce l'altare Mazzeschi e una Santa Maria Maddalena attribuita ad Andrea Sansovino | Itinerario 1 del Comune | N | alta |
 | La chiesa della Madonna della Costarella (detta anche di Santa Maria), fuori dal castello di Ciggiano, fu terminata nel 1635 con le elemosine dei pastori della via vecchia senese; il loggiato è settecentesco | Repertorio (E152), Discover Arezzo | R | alta |
 | Ciggiano è «sotto i valichi di Palazzuolo e San Pancrazio»; tappa obbligata della dogana fiorentina, con la «calla» dei pastori | Repertorio (N001) | R | alta |
+| Colle di circa 360 m tra le valli del Gargaiolo e dell'Esse (la scheda del Comune indica 359 m); gli statuti di dogana fiorentini ne facevano una tappa obbligata per i mercanti tra Siena e Firenze, e la «calla» era la conta degli animali con il pagamento della gabella | Repertorio (N001), revisione R2, punti 1 e 3 | R | alta |
+| Nel 1250 alleato del vescovo Guglielmino; nel 1307 di parte guelfa; nel 1381 degli Ubertini; nel 1385 passò a Firenze | Repertorio (N001), revisione R2, punto 4 | R | alta |
+| Chiesa della Compagnia di Santa Croce: custodisce una reliquia della Croce, esposta il 3 maggio e il 14 settembre; documentata dal 1558, soppressa nel 1783 e ripristinata nel 1794 | Repertorio (O005), revisione R2, punto 7 | R | media |
+| Ricognizioni del 2004: ceramica romana nelle mura; alla Cascinella frammenti di macine etrusche, tegole e vasellame romani | Repertorio (S058, S059), revisione R2, punto 9 | R | alta |
 | Repetti, Ciggiano: nel 1307 vi si accampò un esercito della lega guelfa toscana; 1431 preso da Piccinino (con Oliveto e Battifolle), 1433 Firenze ordina di smantellare quei castelli (voce Oliveto); S. Biagio 634 abitanti | Repetti, voci «Ciggiano» e «Oliveto di Civitella» | R | alta |
 | Nel 1431 fu assediato e saccheggiato dalle truppe di Niccolò Piccinino; nel 1554 subì un altro assedio | Repertorio (N001) | R | alta |
 | Chiesa di San Pietro a Ciggiano, di origine medievale, con un intervento eclettico del 1836; vi sono stati trovati reperti con iscrizioni etrusche | Discover Arezzo, Visit Tuscany | W | media |
@@ -210,7 +215,8 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Chiesa di Sant'Angelo (San Michele Arcangelo), nelle decime del 1274; nel 1833 contava 292 anime | Repertorio | N | alta |
 | Repetti, Cornia: sulla cresta dei colli che separano la Val di Chiana dalla Val d'Ambra; dal secolo XI di padronato dei monaci della badia d'Agnano; nel 1350 l'abate la sottopose con gli altri luoghi di Val d'Ambra all'accomandigia della Repubblica fiorentina; S. Angelo di Cornia 292 abitanti (1833) | Repetti, voce «Cornia di Civitella» | R | alta |
 | Vi esisteva un centro per la lavorazione delle scope di saggina | Itinerario 1 del Comune | N | alta |
-| Il Piano Strutturale prevede un Parco faunistico e un'ANPIL | NTA artt. 23 e 53 | N | alta |
+| Il Piano Strutturale prevede un Parco faunistico e un'ANPIL, con un centro servizi negli edifici inutilizzati del borgo | NTA artt. 23 e 53, Relazione generale (revisione R3, punto 3) | R | alta |
+| I muri del Castellare di Sant'Angelo, presso Cornia, sono spessi fino a un metro e mezzo | Repertorio (S033), revisione R3, punto 2 | R | alta |
 | L'Atlante delle stragi elenca 32 vittime per «Cornia e dintorni», tra cui il partigiano Hazbi Ismail (28 anni) | Atlante delle stragi | N | alta |
 
 ### Gebbia
@@ -225,11 +231,15 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Parrocchia di Sant'Andrea Apostolo | Annuario della Diocesi | N | alta |
 | Castello ricordato nel XII secolo, con origini tardo-imperiali e longobarde; feudo di Ubertini e Saracini | Repertorio | N | alta |
 | Restano il cassero (oggi abitazione), la porta e tratti di mura; la Casa del Podestà fu riedificata nel Seicento | Repertorio | N | media |
+| Ubertini e Saracini riedificarono nella prima metà del Seicento la Casa del Podestà sulla piazza d'armi; all'inizio dell'Ottocento la casa divenne casa colonica e granaio e la piazza d'armi fu trasformata in vigneto e oliveto | Repertorio (T003, T004), revisione R4, punti 2 e 3 | R | media |
+| Chiesa di Sant'Andrea documentata per la prima volta nel 1300 (sul 1933 le fonti divergono: vedi sezione 9) | Repertorio (C022) | R | alta |
+| Nella chiesa di Sant'Andrea c'è una Madonna del Rosario di Orazio Porta | Wikipedia, voce del comune (cita A. Nesi, «Orazio Porta», 2023); revisione R4, punto 4 | W | media |
 | Repetti, Oliveto: signoria degli Ubertini; Azzone di Franceschino degli Ubertini in accomandigia a Firenze il 16 giugno 1385, consegna del castello l'8 settembre 1385; Firenze lo fece «precingere e fortificare di torri» (Manni); 1431 preso da Niccolò Piccinino con Ciggiano e Battivolle, 1433 Firenze ordina di smantellarli; Comune a sé fino al motuproprio del 14 novembre 1774; sigillo con un olivo in pieno frutto; 1833: S. Andrea al Castello 257 abitanti, S. Giovan Battista al Villaggio 279 | Repetti, voce «Oliveto di Civitella» (testo incollato dall'utente) | R | alta |
-| Cappella della Compagnia (1637) e Oratorio di San Rocco (tabernacolo diventato cappella nell'Ottocento) | Repertorio | N | media |
+| Cappella della Compagnia (rifatta attorno al 1637, revisione R4, punto 7) e Oratorio di San Rocco (tabernacolo diventato cappella nell'Ottocento) | Repertorio | N | media |
 | San Giovanni d'Oliveto: nelle decime del 1274, ricostruita nel 1343 | Repertorio | N | alta |
-| Villa Oliveto, già Villa Mazzi: dei conti Barbolani di Montauto, parco con cedri e lecci, oggi Centro di Documentazione | Regione Toscana, Wikipedia | N | alta |
+| Villa Oliveto, già Villa Mazzi: dei conti Barbolani di Montauto, parco di ispirazione romantica con cedri e lecci, ceduta al Comune nel 1980, oggi Centro di Documentazione | Regione Toscana, Wikipedia; revisione R4, punti 6 e 8 | R | alta |
 | Muriel Spark visse a Oliveto con Penelope Jardine, ebbe la cittadinanza onoraria nel settembre 2005, morì nel 2006 ed è sepolta nel cimitero di Sant'Andrea Apostolo | Wikipedia (EN), Arezzo Notizie, Rete Documentaria Aretina | W | media |
+| Muriel Spark, scrittrice scozzese, è l'autrice de «Gli anni fulgenti di Miss Brodie» | Wikipedia (EN) | W | media |
 | Il Repertorio censisce «L'Infernaccio» del mulino di Oliveto (scheda M011) | Repertorio | R | bassa |
 | Presepe Vivente: dal 2014, oltre 80 figuranti, la Natività nella chiesetta di San Rocco; lo organizza la parrocchia | Sito del Presepe | W | media |
 
@@ -241,6 +251,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Strumenti del Paleolitico medio e superiore al Podere Casella | Repertorio (S002) | R | alta |
 | Insediamento romano al campo sportivo (I–II secolo d.C.) e fornace di Vallimboi | Repertorio | N | alta |
 | Moneta d'oro dell'imperatore Claudio (41–54 d.C.) | Repertorio | N | alta |
+| Chiesa di Santa Maria Assunta: costruita dopo il 1824, ampliata nel 1865; la campana del 1358, fusa da Neri d'Arezzo, viene dalla chiesa di San Giovanni Battista a Montoto | Repertorio, itinerario 2 del Comune (revisione R5, punto 3) | R | media |
 | Repetti, Majano: «Majano di Valle Lunga» nel Val d'Arno aretino, sulla strada regia aretina davanti alla gola dell'Imbuto; pieve di S. Maria soppressa e unita a S. Giovanni Battista a Montoto; sette cappelle filiali (tra cui S. Andrea a Montarfone e S. Michele a Pergine); nell'XI secolo la badia di Prataglia vi possedeva beni (contratto dell'agosto 1056); nel 1833 parrocchia di Majano e Montoto 315 abitanti, 91 a Majano nella Comunità di Arezzo e 224 a Montoto in quella di Civitella | Repetti, voce «Majano» | R | alta |
 | Il podere Spedaluccio si trova circa un chilometro dopo Pieve a Maiano, lungo la statale 69: è ciò che resta di un antico ospizio per viandanti documentato dal 1198 (non è ad Albergo) | Itinerario 2 del Comune; Relazione generale del PS, p. 60 | R | alta |
 | Sagra del Cinghiale (U.S. Pieve a Maiano): 42ª edizione nel 2026 | Sagre Toscane | N | media |
@@ -252,7 +263,8 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | La pieve, con un ospedale per i pellegrini, fu confermata nel 938 tra i possedimenti del Capitolo di Arezzo; chiesa e ospedale furono distrutti nel 1502 | Repertorio (B024) | R | alta |
 | Repetti, Pieve al Toppo: detta volgarmente «all'Intoppo»; pieve guastata nella guerra della ribellione di Arezzo del 1502, rendite ai canonici della Pieve di Arezzo, fonte battesimale alla Badia al Pino; aveva 24 chiese dipendenti; nell'XI secolo le acque della Chiana presso il Toppo «bilicavano» tra il Valdarno e il Tevere; battaglia del 1288 ricordata anche da Malespini e Villani | Repetti, voci «Toppo (Pieve al)» e «Pieve al Toppo» | R | alta |
 | «Toppo» è di origine longobarda | Repertorio | N | alta |
-| Oratorio della Madonna del Conforto, con questa dedica dal 1906 | Repertorio | N | media |
+| Oratorio della Madonna del Conforto: sorge sul sito dell'antica pieve, con questa dedica dal 1906 | Repertorio (B024), revisione R6, punto 3 | R | media |
+| Fornaci per la terra sigillata in località I Ponti, trovate a circa 1,60 m di profondità su segnalazione del Gruppo Archeologico del Dopolavoro Ferroviario di Arezzo | Repertorio (S028), revisione R6, punto 5 | R | alta |
 | Parrocchiale di San Giovanni Battista: progetto del 1967, porticato del 1977 | Repertorio | N | media |
 | Fornaci di terra sigillata aretina in località I Ponti | Repertorio | N | alta |
 | Fiera del Miele: prima domenica di ottobre, nel piazzale del Circolo ricreativo, organizzata dal Comune con Slow Food; 22ª edizione nel 2026 | Centritalia News | N | media |
@@ -283,7 +295,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Repetti, Tegoleto: corte del capitolo della cattedrale di Arezzo, ricordata nei privilegi di Federico I (1163), Filippo duca di Toscana (1196), Ottone IV (1209); grano raccolto dal 1300; nel 1442 canone annuo di 160 staia di grano; il popolo si sottomise a Firenze il 29 marzo 1385; S. Biagio 683 abitanti (1833) | Repetti, voce «Tegoleto» | R | alta |
 | La torre fu ricostruita dai fiorentini alla fine del Trecento | Repertorio | N | alta |
 | La fattoria passò all'Ordine dei Cavalieri di Santo Stefano nel 1783 | Repertorio | N | alta |
-| Teatro Moderno (TMT): nato nel 1960, gestito dal Gruppo Teatro La Torre, stagione da ottobre a marzo | Repertorio (TE001) | N | media |
+| Teatro Moderno (TMT): nato nel 1960 come cinema per iniziativa di alcuni parrocchiani, sala polifunzionale dal 1997, gestito dal Gruppo Teatro La Torre, stagione da ottobre a marzo | Repertorio (TE001), revisione R6, punto 11 | R | media |
 | Il 12 maggio 2004 vi arrivò la 4ª tappa del Giro d'Italia, vinta da Alessandro Petacchi davanti allo stabilimento Del Tongo | Wikipedia | N | media |
 | Festa al Tegoleto (U.S.D. Tegoleto con Comunità & Tegoleto): fine giugno–inizio luglio, 52ª edizione nel 2025 | U.S.D. Tegoleto, Sagre Toscane | N | media |
 
@@ -304,6 +316,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Villa di Viciomaggio: villa padronale settecentesca, restauro della parte posteriore nel 1868 con decorazioni pittoriche, limonaia del 1836, cappella secentesca con orologio e campanile a vela | Repertorio (L282) | R | alta |
 | Repetti, Viciomaggio: «Vicione Maggio» per distinguerlo da Vicione Piccolo (Battifolle); nel novembre 1024 fu rogato «nella villa di Vicione maggiore» un istrumento della cattedrale di Arezzo; S. Martino 670 abitanti (1833) | Repetti, voce «Vicio Maggio, o Vico Maggiore» | R | alta |
 | Nel 1872 vi fu trovata un'urna etrusca ellenistica con l'iscrizione *l. prastn[a] nerinal* | Repertorio | N | alta |
+| Al Museo Archeologico Nazionale «Gaio Cilnio Mecenate» di Arezzo è conservato un cammeo di diaspro da Viciomaggio; i vasi del I secolo a.C. sono in luogo sconosciuto | Repertorio (S020), revisione R7, punto 9 | R | media |
 | Nella zona industriale hanno sede CEIA e uno stabilimento Chimet (anni Ottanta) | CEIA, Chimet | N | alta |
 | Festa della Rosa, organizzata dall'A.S.D. Viciomaggio: nel 2026 dal 23 aprile al 3 maggio | Sagre Toscane | W | media |
 
@@ -331,9 +344,9 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | **Civitella:** presso Porta Senese un tabernacolo accoglie una «Madonna con il Bambino» del 1522, terracotta invetriata della bottega di Giovanni della Robbia | Discover Arezzo | W | media |
 | **Gaenne:** «Nel 1385 finì sotto il dominio di Firenze che ne ordinò la distruzione» | Itinerario 1 del Comune | R | media |
 | **Parchi archeologici** (NTA art. 49, ambito V5.2): Castellare di Oliveto, Poggio Castellare e Gaenne | NTA | R | media |
-| **Montarfoni:** nome da «Monte di Arfo», antico proprietario germanico; castello aggregato a Civitella nel 1774; borgo-fattoria con villa seicentesca e limonaia | Itinerari del Comune, Repertorio (H240a) | R | alta |
+| **Montarfoni:** nome da «Monte di Arfo», antico proprietario germanico; castello aggregato a Civitella nel 1774; borgo-fattoria con piazzetta, chiesa, cantina e frantoio-mulino; villa seicentesca con limonaia | Itinerari del Comune, Repertorio (H240a); notebook 2 | R | alta |
 | **Dorna:** castello longobardo (VIII–X secolo); *castrum Durna* nel 1181; torre ricordata dal 1198; chiesa dei Santi Vito e Nicola (1182); dei Riccardi nel XVIII secolo e delle suore Montalve dal 1814 | Repertorio (A001a, A001d); date confermate in R8 | R | alta |
-| **San Martino in Poggio:** a circa 540 m; chiesa dei Santi Maria e Carlo del 1690 (patrimonio di Carlo Casini), ampliata nel 1726, parrocchia dal 1814; 317 abitanti nel 1845 | Itinerari del Comune, Repertorio (H241b) | R | alta |
+| **San Martino in Poggio:** a circa 540 m; chiesa dei Santi Maria e Carlo del 1690 (costruita con il patrimonio di Carlo Casini, «da cui il titolo»), ampliata nel 1726, parrocchia dal 1814; 317 abitanti nel 1845 | Itinerari del Comune, Repertorio (H241b) | R | alta |
 | Repetti, borghi: Montarfoni, chiesa di S. Andrea unita a SS. Jacopo e Cristofano d'Impiano con decreto vescovile del 10 giugno 1388; Dorna, canone annuo ancora pagato dal proprietario al capitolo di Arezzo (donazione del 1181 di Rolandino di Mambilia), «Fratta di Durna» della badia di Nasciano nel 1227; Gaenna, castello distrutto, parrocchia di S. Maria a Gajenna nel piviere del Toppo, ricordato nel privilegio di Carlo IV ad Arezzo del 1356; S. Martino in Poggio, decreto vescovile del 30 maggio 1814, giuspadronato del marchese Riccardi-Vernaccia, 259 abitanti (1833) | Repetti, voci «Mont'Arfone», «Dorna», «Gaenna», «Martino (S.) in Poggio» | R | media |
 | **Gaenne:** castello dei longobardi di Dorna nel 1069, poi dei Tarlati; nel 1385 passò a Firenze, che lo descrisse come «un forte castello di sito e di muro» (Repertorio S023, R). L'ordine di distruzione è solo nella scheda del Comune: sul sito è attribuito | Repertorio, scheda del Comune | R (distruzione: N) | alta |
 | **Le Caserosse:** località tra Viciomaggio e Pieve al Toppo, sede di una delle tre «zone industriali isolate» del Piano (con Del Tongo e Chimet) | NTA art. 92, tav. C4.4 | N | alta |
@@ -346,10 +359,11 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | CEIA: brevetto del metal detector per l'industria tessile nel 1962, costituzione della società nel 1968, metal detector per aeroporti dal 1975; sede a Viciomaggio | ceia.net, Assosicurezza | N | alta |
 | Chimet: fondata nel 1974; primo stabilimento a Badia al Pino nel 1976, secondo a Viciomaggio negli anni Ottanta; recupera e affina metalli preziosi | chimet.com | N | alta |
-| Del Tongo: fondata nel 1954 dai fratelli Stefano e Pasquale Del Tongo; fallita nel 2018; marchio acquisito da Kico nel 2022 | Kico, Saturno Notizie | N | media |
-| Squadra ciclistica Del Tongo (1982–1991): Giro d'Italia 1983 (Saronni) e 1991 (Chioccioli), 29 tappe del Giro, Milano-Sanremo 1983, Giro di Lombardia 1982 e 1986 | Wikipedia | N | media |
+| Del Tongo: fondata nel 1954 a Tegoleto dai fratelli Stefano e Pasquale Del Tongo, produceva cucine componibili vendute in tutto il mondo; fallita nel 2018; marchio acquisito da Kico nel 2022 | Kico, Saturno Notizie, notebook 3 | N | media |
+| Squadra ciclistica Del Tongo (1982–1991): Giro d'Italia 1983 (Saronni) e 1991 (Chioccioli), 29 tappe del Giro, Milano-Sanremo 1983, Giro di Lombardia 1982 e 1986; vi esordì tra i professionisti Mario Cipollini | Wikipedia, notebook 3 | N | media |
 | Il Piano Operativo 2023 non prevede nuova edificazione industriale, perché il territorio è «saturo» | Relazione del Piano Operativo | N | bassa |
 | Il Comune è socio della Strada del Vino Terre di Arezzo | Vinoway, Vetrina Toscana | N | media |
+| Slow Food porta nelle scuole dell'Istituto comprensivo Martiri di Civitella il progetto Orto in Condotta | notebook 3 (Slow Food Val di Chiana) | N | media |
 | Olio: varietà frantoio, leccino, moraiolo e pendolino; Toscano IGP | Città dell'Olio | N | media |
 
 ---
@@ -361,22 +375,22 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 | Festa | Luogo | Organizzatore | Dato verificato | Liv. | Ril. |
 |---|---|---|---|---|---|
 | Festa della Rosa | Viciomaggio | A.S.D. Viciomaggio | fine aprile–inizio maggio | W | media |
-| Mercato dei Sapori e della Terra | Tegoleto | Comune e Slow Food, con C&T | aprile, 5ª edizione nel 2024 | W | media |
-| Sagra dei Baccelli | Spoiano | Polisportiva Spoiano | 48ª nel 2025 | N | media |
-| Mercato del Cacio | Civitella | Comune e Slow Food | maggio, 22ª nel 2025 | R | media |
+| Mercato dei Sapori e della Terra | Tegoleto | Comune e Slow Food, con C&T | aprile, in piazza della Chiesa, 5ª edizione nel 2024 | W | media |
+| Sagra dei Baccelli | Spoiano | Polisportiva Spoiano | due fine settimana di maggio, 48ª nel 2025 | N | media |
+| Mercato del Cacio | Civitella | Comune e Slow Food | maggio, in piazza Lazzeri, 22ª nel 2025 | R | media |
 | Festa al Tegoleto | Tegoleto | U.S.D. Tegoleto | 52ª nel 2025 | N | media |
 | Marcia per la pace | Civitella → San Pancrazio | Comune, con Bucine | 29 giugno | R | media |
-| Sagra del Crostino | Albergo | Polisportiva Albergo Oliveto | luglio, 51ª nel 2026 | R | media |
-| Cinema sotto le Stelle | Tegoleto | Comunità & Tegoleto | dal 2018, mercoledì di luglio, IX edizione nel 2026 | W | media |
-| Calici sotto la Torre | Civitella | Comune e Slow Food | agosto, vini della Strada del Vino | R | media |
-| Sagra del Cinghiale | Pieve a Maiano | U.S. Pieve a Maiano | 42ª nel 2026 | N | media |
-| Sagra della Bistecca | Badia al Pino | Circolo Ricreativo Olinto Paccinelli | 46ª nel 2026 | N | media |
-| Festa dell'uva, del vino e dell'olio | Ciggiano | Pro Loco di Ciggiano | 49ª nel 2026 | N | media |
-| Sagra della Pesca (il frutto) | Pieve al Toppo | ARCI Pieve al Toppo | fine estate | W | media |
-| RioFest | Tegoleto | Comunità & Tegoleto | 1ª edizione nel 2025 | N | media |
+| Sagra del Crostino | Albergo | Polisportiva Albergo Oliveto (che fa anche ciclismo giovanile) | luglio, al campo sportivo, 51ª nel 2026 | R | media |
+| Cinema sotto le Stelle | Tegoleto | Comunità & Tegoleto | dal 2018, mercoledì sera di luglio, in piazza della Chiesa, gratuito, IX edizione nel 2026 | W | media |
+| Calici sotto la Torre | Civitella | Comune e Slow Food | agosto, vini della Strada del Vino, con l'AIS | R | media |
+| Sagra del Cinghiale | Pieve a Maiano | U.S. Pieve a Maiano | fine agosto, 42ª nel 2026 | N | media |
+| Sagra della Bistecca | Badia al Pino | Circolo Ricreativo Olinto Paccinelli | fine agosto – inizio settembre, 46ª nel 2026 | N | media |
+| Festa dell'uva, del vino e dell'olio | Ciggiano | Pro Loco di Ciggiano | settembre, 49ª nel 2026 | N | media |
+| Sagra della Pesca (il frutto) | Pieve al Toppo | ARCI Pieve al Toppo | settembre; l'ultimo giorno il motoraduno «Peach and Bikers» | W | media |
+| RioFest | Tegoleto | Comunità & Tegoleto | festival di musica, incontri e spettacoli; 1ª edizione il 20 settembre 2025 | N | media |
 | Fiera del Miele | Pieve al Toppo | Comune e Slow Food | prima domenica di ottobre, 22ª nel 2026 | N | media |
-| L'Olio Novo | varie frazioni | Comune e Slow Food | 28ª nel 2025 | N | media |
-| Presepe Vivente | Oliveto | Parrocchia | dal 2014 | W | media |
+| L'Olio Novo | varie frazioni | Comune e Slow Food | 16 novembre – 8 dicembre 2025, 28ª edizione | N | media |
+| Presepe Vivente | Oliveto | Parrocchia | dal 2014; oltre 80 figuranti, Natività nella chiesetta di San Rocco | W | media |
 
 - **Associazioni:** l'elenco dei 20 enti iscritti al RUNTS e delle 11 società della Consulta dello Sport è in `runts-civitella.md`.
 - **Consulta comunale dello Sport:** istituita con la delibera del Consiglio n. 3 del 29/03/2022.
@@ -434,6 +448,8 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 ## 10. Esclusi: non confermati o smentiti (da non reintrodurre senza una fonte)
 
 **Attribuzioni sbagliate**
+- Tuori «sede di guarnigioni militari a presidio della città di Arezzo», cassero «presidio aretino d'altura», chiesa «del XIII secolo» e Tuori «abitato del piviere di Santa Maria al Toppo» nel 1021: venivano da ruderimedievali.altervista.org e non sono confermati (il Repetti mette la parrocchia di S. Giorgio nel piviere di Battifolle). Tolti dal sito e dal quiz nella verifica sistematica del 6/10/2026.
+- Domande del quiz tolte nella verifica sistematica del 6/10/2026 perché toccano temi della sezione 9: altitudine del capoluogo, castello «nel 1048», pieve del Toppo «dal 938», 115 vittime a Civitella, Guglielmino che nel 1248 «potenziò le mura».
 - Podere Spedaluccio ad Albergo: si trova presso Pieve a Maiano.
 - Chiese di Santa Maria e di San Pietro ad Albergo: sono di Ciggiano.
 - Portale ad arco policentrico a Spoiano: appartiene al Saracino di Tuori.

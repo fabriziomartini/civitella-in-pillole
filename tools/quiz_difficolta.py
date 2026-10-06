@@ -45,7 +45,6 @@ CODICI = {
     "b23a93db": "-v=",  # Con quale di questi comuni confina Civitella in Val di Chiana?
     "e3946457": "-v=",  # Quale di questi comuni NON confina con Civitella in Val di Chiana?
     "4746e93c": "Pd=",  # Su quali colline sorge il capoluogo storico, secondo Wikipedia e Tosca
-    "fea6dfb9": "Nd=",  # A quale altitudine sorge, all'incirca, il borgo di Civitella?
     "f2064462": "Pd-",  # Tra quali valli si trova il colle di Civitella?
     "75a8fc8f": "Pd=",  # Quale di questi torrenti scorre nel territorio comunale?
     "e2f25241": "Pn=",  # Una parte del territorio comunale rientra in quale riserva naturale?
@@ -58,7 +57,6 @@ CODICI = {
     "7a620330": "Pn+",  # Con quale comune tedesco è gemellato Civitella in Val di Chiana?
     "608e57f8": "Nn=",  # Da quando Civitella fa parte della rete Cittaslow?
     "f5a0d8d3": "Nn+",  # In quale anno Civitella è entrata nell'associazione Città dell'Olio?
-    "fe9e42b2": "Nv=",  # A quale anno risale la prima notizia del castello di Civitella?
     "db28ef0d": "-d-",  # Che cosa era il colle di Civitella in epoca longobarda?
     "3dd6026e": "Pv=",  # Quale vescovo di Arezzo scelse nel 1248 la rocca di Civitella come pro
     "d6478a7e": "-d+",  # Che aspetto aveva la rocca di Civitella nel 1182, secondo il Repertori
@@ -73,7 +71,7 @@ CODICI = {
     "571968bf": "Pn-",  # Quale poeta ricorda la battaglia di Pieve al Toppo come le «giostre de
     "1230b87b": "Nv+",  # In quale canto dell'Inferno Dante ricorda le «giostre del Toppo»?
     "a95227b3": "Pv+",  # Quale personaggio, caduto nella battaglia di Pieve al Toppo, compare n
-    "a7c46ad1": "-d-",  # Che cosa distrusse la rocca di Civitella?
+    "224669b9": "-d-",  # Che cosa distrusse la rocca di Civitella durante la seconda guerra mon
     "fb55e686": "Nv=",  # In quale anno a Villa Oliveto fu istituito un campo di internamento?
     "b5f15efd": "-n=",  # Chi era internato soprattutto nel campo di Villa Oliveto?
     "71ecaade": "Pv=",  # Dove furono deportate nel 1944 le famiglie internate a Villa Oliveto?
@@ -84,7 +82,6 @@ CODICI = {
     "3e37b695": "Nv-",  # In quale data avvenne la strage nazista di Civitella?
     "75f82986": "Pv=",  # Quale festa si celebrava a Civitella il giorno della strage del 1944?
     "3440c37a": "-v=",  # Quale di queste località NON fu colpita dalla strage del 29 giugno 194
-    "f4da425c": "Nd=",  # Quante vittime ci furono nel solo paese di Civitella, secondo ToscanaN
     "e98abd07": "Pv=",  # Quale reparto tedesco compì le stragi del 29 giugno 1944?
     "ae2d129c": "-v=",  # Di quale comune fa parte San Pancrazio, colpito dalla strage del 1944?
     "d650b33d": "-v=",  # Dove arriva la Marcia per la pace che parte da Civitella?
@@ -103,12 +100,11 @@ CODICI = {
     "a36520a9": "Pv+",  # Quale santo è titolare delle parrocchie sia di Spoiano sia di Pieve al
     "120e1846": "Pv=",  # A quale santo è dedicata la parrocchia di Viciomaggio?
     "f2907c6a": "Pv=",  # A quale santo è dedicata la parrocchia di Oliveto?
-    "1b1b61a6": "Nn+",  # In quale anno Tuori compare per la prima volta nei documenti?
-    "b24d9f73": "Nn+",  # Da quale anno è documentata l'antica pieve di Pieve al Toppo?
+    "080e4e41": "Nn+",  # In quale anno è già attestato Tuori, secondo il Repertorio?
     "c686859b": "Nn+",  # In quale anno fu progettata la moderna chiesa parrocchiale di Pieve al
     "c2c65bab": "Nn+",  # In quale anno la chiesa di San Biagio a Ciggiano fu elevata a pieve?
     "b555e58c": "Pv=",  # A quale scultore è attribuita la Santa Maria Maddalena della chiesa di
-    "c31940bf": "-v=",  # In quale frazione si trova la chiesa della Madonna della Costarella, c
+    "d971761e": "-v=",  # In quale frazione si trova la chiesa della Madonna della Costarella, t
     "8d375aa0": "-v+",  # Quale borgo collinare si trova a circa 360 metri, su un colle tra le v
     "264f4207": "-n=",  # Quale attività artigianale esisteva un tempo a Cornia?
     "7460edf6": "Pn=",  # A quale santo è dedicata la chiesa di Cornia, detta di Sant'Angelo?
@@ -137,7 +133,7 @@ CODICI = {
     "7c7d8c24": "Nn=",  # In quale anno a Tegoleto arrivò una tappa del Giro d'Italia?
     "c1817196": "Pv=",  # Chi vinse la tappa del Giro d'Italia arrivata a Tegoleto nel 2004?
     "d7a4e134": "Nn+",  # In quale anno fu trovata a Viciomaggio un'urna cineraria etrusca con i
-    "a06601d7": "-v=",  # In quale frazione si trova la villa-fattoria settecentesca con una lim
+    "8b92c31b": "-v=",  # In quale frazione si trova la villa padronale settecentesca con una li
     "1d45bdf1": "Pv=",  # Su quale linea ferroviaria si trova la stazione di Albergo?
     "daf0e244": "-d=",  # Quale strada romana passava da Albergo, secondo l'itinerario del Comun
     "cc15f4f6": "-v=",  # A quale ordine religioso apparteneva il priorato da cui nacque la chie
@@ -146,16 +142,15 @@ CODICI = {
     "dedef337": "-n=",  # Per quale scopo il notaio Becattini lasciò il suo palazzo alla Confrat
     "8a7414cd": "Nn+",  # Da quale anno Palazzo Becattini è di proprietà del Comune?
     "4881de19": "Pd=",  # In quale piazza di Civitella si trova la cisterna medievale?
-    "bdf6b86c": "Pv+",  # Chi costruì il Saracino, la casa colonica cinquecentesca presso Tuori?
+    "584e621e": "Pv+",  # A quale ente apparteneva il Saracino, la casa colonica cinquecentesca 
     "cd56501b": "-d=",  # Per che cosa era noto il luogo di Matroia?
     "e4363716": "-d+",  # Che cosa c'è oggi a Matroia, secondo il Piano Strutturale?
     "dbcd5fc3": "-v=",  # Dove si trova oggi la campana del 1358 proveniente da Montoto?
-    "ec3b56a5": "Nv=",  # In quale anno il castello di Montoto passò da Arezzo a Firenze?
+    "0ea02fda": "Nv=",  # In quale anno il castello di Montoto passò a Firenze?
     "ba3dff5e": "-d=",  # Che cosa resta sulla cima di Poggio Castellare?
     "f06a2f2d": "-n=",  # Da che cosa deriva il nome di Montarfoni?
     "d9e63c28": "-d=",  # Che cosa conserva oggi Montarfoni, oltre alla villa seicentesca?
-    "d6eaf7ca": "Pv+",  # Da chi fu acquistata nel 1814 la villa-fattoria di Dorna?
-    "961f484f": "-n=",  # Che cosa è la torre di Dorna, ricordata dal 1198?
+    "5356e1c0": "Pv+",  # A chi appartenne Dorna a partire dal 1814?
     "144d50be": "Pv+",  # A chi è dedicata l'attuale chiesa di San Martino in Poggio?
     "b4f36db1": "Pv+",  # Grazie al patrimonio di chi fu costruita la chiesa dei Santi Maria e C
     "d3a07030": "-n=",  # Come descrissero i fiorentini il castello di Gaenne, passato sotto il 
@@ -205,7 +200,6 @@ CODICI = {
     "20356cbe": "-v=",  # In quale frazione si tiene il Presepe Vivente?
     "87a41003": "Pv+",  # Chi organizza la Festa al Tegoleto?
     "2f520af4": "-v=",  # In quale frazione ha sede la Società Filarmonica, la banda del paese?
-    "909f8526": "-d=",  # Di quale sport si occupa la Polisportiva Albergo Oliveto con i più gio
     "410b1cb5": "Nn=",  # In quale anno il titolo di pieve e il fonte battesimale passarono dall
     "c87b3b73": "Nn+",  # In quale anno fu soppressa la Badia del Pino?
     "7a384985": "Nn=",  # In quale anno furono distrutti la pieve e l'ospedale per i pellegrini 
@@ -215,7 +209,6 @@ CODICI = {
     "01491e5c": "Pv=",  # Quale granduca soppresse nel 1783 la Compagnia di Santa Croce di Ciggi
     "f4c98a78": "Pv+",  # Quali famiglie, tornate proprietarie del feudo, riedificarono nel Seic
     "4fcbea87": "-d+",  # Che cosa diventò all'inizio dell'Ottocento la piazza d'armi del castel
-    "f8e908eb": "-d=",  # Che funzione aveva il castello di Tuori nel Medioevo?
     "8bc58b2b": "-v+",  # In quale frazione si trova Palazzo Santini-Paccinelli, villa settecent
     "19907f55": "-n=",  # Quale reliquia custodisce la chiesa della Compagnia di Santa Croce a C
     "43d14c27": "Pv+",  # Quale pittore dipinse la Madonna del Rosario conservata nella chiesa d
@@ -254,14 +247,13 @@ CODICI = {
     "18947b6d": "-v=",  # Di quale parte erano i senesi sconfitti al Toppo nel 1288?
     "4497e778": "-d=",  # In quali epoche fu frequentato il colle di Civitella, prima di diventa
     "4c4023b6": "Pv=",  # A presidio di chi sorgevano, dall'XI secolo, le strutture sul colle di
-    "0a7ac152": "-d=",  # Che cosa fece alla rocca di Civitella il vescovo Guglielmino degli Ube
     "6869ff95": "Pv-",  # Quale città acquisì Arezzo e il suo contado prima di fare di Civitella
     "cf547452": "Pv+",  # Quale castello fu aggregato alla Comunità di Civitella nel 1774, insie
     "6a7032b1": "Nv+",  # In quale anno Ciggiano subì un altro assedio, dopo il saccheggio di Ni
     "5ff357cf": "Pv+",  # Quale altro titolo, oltre a quello di pieve, passò a Badia al Pino nel
     "d1c40d05": "Nv+",  # In quale anno un documento chiama l'abbazia «Badia di S. Martino e S. 
     "572b6b97": "-n=",  # Che cosa c'era accanto all'antica pieve del Toppo?
-    "12a183b1": "Pv+",  # Tra i possedimenti di chi fu confermata nel 938 la pieve del Toppo?
+    "7d7a33f9": "Pv+",  # A chi apparteneva anticamente la pieve del Toppo, con il suo ospedale 
     "3fa9492f": "Nv+",  # In quale mese del 1940 fu istituito il campo di internamento di Villa 
     "4dc5acd4": "Pv+",  # Quale reparto operò a Gebbia il 29 giugno 1944, insieme alla divisione
     "5c286059": "-n+",  # Secondo l'Archivio della Memoria, che cosa uccisero i tedeschi a Gebbi
@@ -288,7 +280,7 @@ CODICI = {
     "eccf0f3a": "-v+",  # In quali registri compare già nel 1274 la chiesa di Sant'Angelo a Corn
     "d4b4fda3": "Nv+",  # In quale anno fu ricostruita la chiesa di San Giovanni d'Oliveto?
     "2c46b6c8": "-d+",  # Che cos'era in origine l'Oratorio di San Rocco, a Oliveto?
-    "1ee31880": "Nv+",  # Attorno a quale anno fu rifatta la Cappella della Compagnia di Oliveto
+    "0c33c206": "Nv+",  # Attorno a quale anno fu rifatta la Cappella della Compagnia di Oliveto
     "49446c6c": "-d=",  # Di quali alberi è ricco il parco di Villa Oliveto?
     "498b0966": "Nv=",  # In quale anno morì Muriel Spark, che visse a Oliveto?
     "3bd4c74d": "Nv+",  # In quale anno fu ampliata la chiesa di Santa Maria Assunta a Pieve a M
@@ -341,7 +333,7 @@ CODICI = {
     "de37df18": "-n+",  # Che cosa è stato trovato a Le Fosse, oltre a un cippo romano in traver
     "ff1c509f": "-d+",  # Che cosa prevede il Piano Strutturale per il borgo-fattoria e la villa
     "2e9fd6ab": "-v+",  # Di che cosa fu dotata la chiesa di San Martino in Poggio quando fu amp
-    "585551af": "-v=",  # Quale altro luogo è destinato a diventare un parco archeologico insiem
+    "8624b548": "-v=",  # Quale di questi luoghi, insieme a Poggio Castellare, è previsto come p
     "d46d4a3e": "-n+",  # Come morì Mario Mannelli, ricordato da un monumento a Viciomaggio?
     "dc8e4d56": "Pv+",  # Quale Madonna era venerata a Matroia, legata al culto delle acque?
     "1a6af485": "Pv+",  # Sopra quale strada sorse il castello di Montarfoni?
@@ -354,7 +346,7 @@ CODICI = {
     "6060fc7e": "Pv+",  # Verso quale località furono spinte le donne e i bambini di Civitella i
     "c840099b": "Pv+",  # Quale tribunale condannò all'ergastolo, nel 2006, il sergente tedesco 
     "3ff855bb": "Pv+",  # Da quale vicariato dipendeva Civitella sotto i granduchi di Toscana?
-    "2368801b": "-v=",  # Secondo il piano paesaggistico regionale, che cosa separa il monte di 
+    "2dab9df8": "-v=",  # Secondo il piano paesaggistico regionale, il monte di Civitella segna 
     "cb9f19ff": "-d=",  # Da che cosa deriva la pianura della Val di Chiana?
     "1447e0cc": "-d=",  # Che cosa raccoglie la Pinacoteca di Civitella?
     "8f738c40": "-d-",  # Che cosa sostituisce il cavallo nel Sarapino di Civitella?
@@ -362,19 +354,19 @@ CODICI = {
     "ef246798": "Pv+",  # Come si chiama il premio che conquista il rione vincitore del Sarapino
     "37978868": "Pv+",  # Quale podestà di Arezzo assediò e rase al suolo Civitella nel 1252, se
     "fd4ef637": "-d=",  # Quale di questi comuni fu soppresso e unito a Civitella nel 1774?
-    "79914e1e": "-d=",  # Come era chiamata Civitella per la frequente presenza dei vescovi aret
-    "175fd5fe": "Nn+",  # In quale anno fu firmata nel castello la «Pace di Civitella», secondo 
+    "274cd667": "-d=",  # Con quale nome fu ribattezzata Civitella quando, nell'XI secolo, passò
+    "8885f433": "Nn+",  # In quale anno fu firmata a Civitella la «Pace di Civitella», secondo l
     "e65747b8": "Pv+",  # Quale di questi è uno dei quattro rioni che corrono il Sarapino?
     "f6ac606f": "Pv=",  # Quale porta di Civitella fu distrutta dalle bombe nel 1944?
     "e8da5b98": "Pv+",  # A chi donarono Palazzo Ninci i suoi proprietari nel 1917?
     "ccfe4a64": "Nv+",  # In quale giorno del 1774 fu emanato il provvedimento che assegnò nove 
-    "f262764e": "Pv+",  # Quale comune fu staccato dalla Comunità di Civitella nel 1774 e passò 
+    "42c23bec": "Pv+",  # Secondo il Repetti, quale comune con il riordino del 1774 passò alla C
     "41b02c31": "Pv=",  # Chi difese Civitella nel 1554 dall'assalto delle truppe senesi di Pier
     "7f8563ab": "Nv+",  # Quanti abitanti contava la Comunità di Civitella nel 1833, secondo il 
     "d1b0f93f": "Pv+",  # A quale monastero fiorentino furono incorporate nel 1441 le chiese di 
     "99383471": "-d+",  # Che cosa raffigurava il sigillo dell'antico Comune di Oliveto?
     "84b5459a": "-v+",  # A chi consegnò Azzone degli Ubertini il castello di Oliveto nel settem
-    "c849d496": "-n+",  # Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano,
+    "094fa249": "-n+",  # Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano,
     "56054fd7": "Pv+",  # Di quale badia era il patronato su Cornia dal secolo XI, secondo il Repetti?
     "a4286437": "Nv+",  # In quale data il popolo di Tegoleto si sottomise alla Repubblica fiore
     "418b0da7": "-v+",  # Chi si accampò a Ciggiano nel 1307, secondo il Repetti?
@@ -382,12 +374,12 @@ CODICI = {
     "a4e2efc3": "-v+",  # Che cosa fu firmato il 20 aprile 1261 nella chiesa della Badia al Pino
     "97b3e142": "-d+",  # Che cosa accadeva alle acque della Chiana presso il Toppo nell'XI seco
     "65c7e281": "-v+",  # Con quale nome popolare era chiamata la Pieve al Toppo, secondo il Rep
-    "f6b39c53": "Nn+",  # Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo
+    "4fc570fa": "Nn+",  # Quante chiese dipendevano dalla pieve del Toppo, secondo il Repetti?
     "84a6f9e7": "-v+",  # A quale Comunità apparteneva Majano nel 1833, secondo il Repetti?
-    "6030ead1": "Pv+",  # Con quale nome il Repetti distingue la Pieve a Maiano del comune di Ci
+    "845faf36": "Pv+",  # Con quale nome il Repetti chiama la Pieve a Maiano del comune di Civit
     "bf03cb86": "Pv+",  # Da quale espressione latina deriva il nome di Montoto, secondo il Repe
     "42bc1e10": "Pv+",  # A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello
-    "ccb2628a": "Pv+",  # In quale privilegio del 1356 il castello di Gaenne è ricordato tra que
+    "3bf8e1f2": "Pv+",  # In quale privilegio del 1356 è ricordato il castello di Gaenne?
     "3cb5660e": "-v+",  # A chi pagava ancora un canone annuo, nell'Ottocento, il proprietario d
     "cc3c0e44": "Nv=",  # In quale anno di censimento il comune ha contato più abitanti?
     "2a62011f": "Nd=",  # Quanti abitanti contava il comune al primo censimento dell'Italia uni
