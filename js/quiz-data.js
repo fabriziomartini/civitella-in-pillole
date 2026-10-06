@@ -4327,5 +4327,103 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "È una terracotta invetriata del 1522 della bottega di Giovanni della Robbia.",
 "l": "frazioni/civitella.html"
+},
+{
+"id": "34e88f74",
+"c": "1944",
+"d": 1,
+"q": "Chi era don Alcide Lazzeri, ucciso il 29 giugno 1944?",
+"a": "Il parroco di Civitella",
+"x": [
+"Il podestà di Civitella",
+"Il maestro elementare",
+"Il medico condotto"
+],
+"s": "Tra le vittime c'erano il parroco, don Alcide Lazzeri, e il podestà, Guido Mammoli.",
+"l": "storia.html"
+},
+{
+"id": "68125a92",
+"c": "1944",
+"d": 2,
+"q": "Quale incarico aveva Guido Mammoli, ucciso nell'eccidio del 29 giugno 1944?",
+"a": "Podestà di Civitella",
+"x": [
+"Parroco di Civitella",
+"Maresciallo dei carabinieri",
+"Capo della formazione partigiana"
+],
+"s": "Tra le vittime c'erano il parroco, don Alcide Lazzeri, e il podestà, Guido Mammoli.",
+"l": "storia.html"
+},
+{
+"id": "0b47361b",
+"c": "1944",
+"d": 2,
+"q": "Quale onorificenza ricevette nel 1963 la comunità di Civitella?",
+"a": "La Medaglia d'Oro al Valor Civile",
+"x": [
+"La Medaglia d'Oro al Valor Militare",
+"La Croce di guerra",
+"Il titolo di Città della Pace"
+],
+"s": "Nel 1963 la comunità ricevette la Medaglia d'Oro al Valor Civile, conferita anche alla memoria di don Alcide Lazzeri.",
+"l": "storia.html"
+},
+{
+"id": "f1973bd5",
+"c": "1944",
+"d": 1,
+"q": "A chi è intitolata la piazza centrale di Civitella?",
+"a": "A don Alcide Lazzeri, il parroco ucciso nel 1944",
+"x": [
+"A Dante Alighieri",
+"Al notaio Becattini",
+"Ai santi Pietro e Paolo"
+],
+"s": "La piazza centrale è intitolata al parroco don Alcide Lazzeri; lì si trova anche la «Porta della Pace».",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "53ade602",
+"c": "1944",
+"d": 3,
+"q": "Come si chiamava la formazione partigiana che il 18 giugno 1944 tese un agguato ai soldati tedeschi nel dopolavoro di Civitella?",
+"a": "«Renzino»",
+"x": [
+"«Stella Rossa»",
+"«Lupo»",
+"«Monte Rosa»"
+],
+"s": "La formazione «Renzino» era guidata dal giovane Edoardo Succhielli; l'agguato fu uno dei pretesti della rappresaglia.",
+"l": "storia.html"
+},
+{
+"id": "6060fc7e",
+"c": "1944",
+"d": 3,
+"q": "Verso quale località furono spinte le donne e i bambini di Civitella il 29 giugno 1944?",
+"a": "Verso Poggiali",
+"x": [
+"Verso Cornia",
+"Verso Badia al Pino",
+"Verso Arezzo"
+],
+"s": "Le donne e i bambini furono spinti fuori dal paese, verso Poggiali; gli uomini furono uccisi a gruppi di cinque.",
+"l": "storia.html"
+},
+{
+"id": "c840099b",
+"c": "1944",
+"d": 3,
+"q": "Quale tribunale condannò all'ergastolo, nel 2006, il sergente tedesco Max Josef Milde per l'eccidio di Civitella?",
+"a": "Il Tribunale militare di La Spezia",
+"x": [
+"Il tribunale di Norimberga",
+"La Corte d'Assise di Arezzo",
+"Il Tribunale di Firenze"
+],
+"s": "Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania.",
+"l": "storia.html"
 }
 ];

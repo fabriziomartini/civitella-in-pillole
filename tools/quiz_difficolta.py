@@ -346,4 +346,11 @@ CODICI = {
     "dc8e4d56": "Pv+",  # Quale Madonna era venerata a Matroia, legata al culto delle acque?
     "1a6af485": "Pv+",  # Sopra quale strada sorse il castello di Montarfoni?
     "396551e5": "Pv+",  # Di quale bottega è la Madonna con il Bambino del 1522 nel tabernacolo 
+    "34e88f74": "-n=",  # Chi era don Alcide Lazzeri, ucciso il 29 giugno 1944?
+    "68125a92": "-v+",  # Quale incarico aveva Guido Mammoli, ucciso nell'eccidio del 29 giugno 
+    "0b47361b": "-v=",  # Quale onorificenza ricevette nel 1963 la comunità di Civitella?
+    "f1973bd5": "-d=",  # A chi è intitolata la piazza centrale di Civitella?
+    "53ade602": "Pv+",  # Come si chiamava la formazione partigiana che il 18 giugno 1944 tese u
+    "6060fc7e": "Pv+",  # Verso quale località furono spinte le donne e i bambini di Civitella i
+    "c840099b": "Pv+",  # Quale tribunale condannò all'ergastolo, nel 2006, il sergente tedesco 
 }
