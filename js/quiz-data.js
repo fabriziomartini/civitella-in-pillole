@@ -926,16 +926,16 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/ciggiano.html"
 },
 {
-"id": "ef7b3974",
+"id": "c31940bf",
 "c": "frazioni",
-"q": "In quale frazione si trovano le chiese di Santa Maria (1635) e di San Pietro (1836)?",
+"q": "In quale frazione si trova la chiesa della Madonna della Costarella, costruita nel 1635 con le elemosine dei pastori della transumanza?",
 "a": "Ciggiano",
 "x": [
 "Albergo",
 "Spoiano",
 "Tuori"
 ],
-"s": "Sono due chiese di Ciggiano; in passato erano state attribuite per errore ad Albergo.",
+"s": "Sorge fuori dal castello di Ciggiano, lungo la via vecchia senese percorsa dalle greggi.",
 "l": "frazioni/ciggiano.html"
 },
 {

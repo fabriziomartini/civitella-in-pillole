@@ -96,3 +96,8 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
   - se coincide con l'oratorio della Costarella del capoluogo (O004);
   - a quale paese si riferisce il passaggio di Discover Arezzo.
 - **Da verificare insieme:** «sotto i valichi di Palazzuolo e San Pancrazio».
+- **Prompt mirato su Ciggiano (N1 e N3):**
+  - **Chiesa del 1635:** N3 (Repertorio E152, «Località: Ciggiano») la chiama «Chiesa posta fuora del Castello di Ciggiano, detta la Chiesa della Madonna della Costarella», con la data sull'architrave «DEIPARAE VIRGINI DICATUM 1635» e le elemosine dei pastori della via vecchia senese. Il loggiato a tre archi è settecentesco. N1 conferma che il passaggio di Discover Arezzo sulla «Chiesa di Santa Maria del 1635» si riferisce a Ciggiano: è lo stesso edificio. Pagina riscritta con il nome del Repertorio; nel quiz la domanda ora riguarda la Costarella.
+  - **ATTENZIONE, conclusione dei primi giri da rivedere:** in `verifica-log.md` avevamo scritto che l'Oratorio della Costarella era nel capoluogo e che la «Costarella di Ciggiano» era un errore. Ora N3 dice che E152 è a Ciggiano e che l'oratorio O004 è lo stesso edificio, mentre in un giro precedente lo aveva collocato «in Località Civitella». Il capoluogo ha anche una via della Costarella. Da chiarire con l'utente se nel borgo di Civitella esiste un oratorio della Costarella; per ora la menzione su civitella.html resta, segnata ⚠.
+  - **Chiesa di San Pietro (1836):** la cita solo Discover Arezzo. Il Repertorio ha soltanto un'edicola dei Santi Pietro e Caterina in località La Villa. Da confermare con l'utente.
+  - **«Sotto i valichi di Palazzuolo e San Pancrazio»: CONFERMATO** (Repertorio N001).

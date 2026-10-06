@@ -232,9 +232,9 @@ Totale: 169 domande.
 12. [b555e58c] **A quale scultore è attribuita la Santa Maria Maddalena della chiesa di San Biagio a Ciggiano?**  
    ✔ Andrea Sansovino · ✘ Michelangelo · Donatello · Giambologna  
    _La scultura del primo Cinquecento è attribuita ad Andrea Sansovino._ → `frazioni/ciggiano.html`
-13. [ef7b3974] **In quale frazione si trovano le chiese di Santa Maria (1635) e di San Pietro (1836)?**  
+13. [c31940bf] **In quale frazione si trova la chiesa della Madonna della Costarella, costruita nel 1635 con le elemosine dei pastori della transumanza?**  
    ✔ Ciggiano · ✘ Albergo · Spoiano · Tuori  
-   _Sono due chiese di Ciggiano; in passato erano state attribuite per errore ad Albergo._ → `frazioni/ciggiano.html`
+   _Sorge fuori dal castello di Ciggiano, lungo la via vecchia senese percorsa dalle greggi._ → `frazioni/ciggiano.html`
 14. [8d375aa0] **Quale borgo collinare si trova a circa 360 metri, su un colle tra le valli del Gargaiolo e dell'Esse?**  
    ✔ Ciggiano · ✘ Tegoleto · Albergo · Badia al Pino  
    _La scheda del Comune indica per Ciggiano un'altitudine di 359 metri._ → `frazioni/ciggiano.html`

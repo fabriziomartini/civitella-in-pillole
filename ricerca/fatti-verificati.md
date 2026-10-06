@@ -125,7 +125,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Il Piano Strutturale prevede il restauro della Rocca e un «museo» come punto di riferimento per visitare castelli, castellari, rocche, torri e antichi tracciati | Piano Strutturale | R | alta |
 | Palazzo Pretorio: trecentesco, con portico a cinque archi e gli stemmi dei podestà fiorentini | Discover Arezzo | R | media |
 | Palazzo Becattini: nato dalla fusione di edifici medievali e trasformato nell'Ottocento; il notaio Becattini, morto il 19 luglio 1877, lo lasciò alla Confraternita di Carità per un ospedale dei poveri; dal 1978 è del Comune | Repertorio (A007) | R | media |
-| Ci sono gli oratori della SS. Trinità, della Madonna di Mercatale e della Madonna della Costarella, la cisterna medievale di piazza Lazzeri e la Galleria comunale d'arte contemporanea | Repertorio (O001, O004), Wikipedia, Discover Arezzo | R | alta |
+| Ci sono gli oratori della SS. Trinità e della Madonna di Mercatale, la cisterna medievale di piazza Lazzeri e la Galleria comunale d'arte contemporanea (l'oratorio della Costarella è ⚠: il Repertorio E152 colloca la Madonna della Costarella a Ciggiano) | Repertorio (O001, O004), Wikipedia, Discover Arezzo | R | alta |
 | Ha sede a Civitella la condotta Slow Food Valdichiana | Cittaslow | R | media |
 | Ha sede a Civitella la Pro Loco Civitella in Val di Chiana APS | RUNTS | R | bassa |
 
@@ -164,7 +164,10 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Altitudine 359 m; 634 abitanti nel 1833, 508 nel 2001, 610 nel 2011 | Scheda del Comune | N | alta |
 | Borgo fortificato con pieve già nell'XI secolo; San Biagio elevata a pieve nel 1465 | Itinerario 1 del Comune, Repertorio | N | alta |
 | San Biagio custodisce l'altare Mazzeschi e una Santa Maria Maddalena attribuita ad Andrea Sansovino | Itinerario 1 del Comune | N | alta |
-| Le chiese di Santa Maria (1635) e di San Pietro (1836) sono a Ciggiano, non ad Albergo | Discover Arezzo | N | alta |
+| La chiesa della Madonna della Costarella (detta anche di Santa Maria), fuori dal castello di Ciggiano, fu terminata nel 1635 con le elemosine dei pastori della via vecchia senese; il loggiato è settecentesco | Repertorio (E152), Discover Arezzo | R | alta |
+| Ciggiano è «sotto i valichi di Palazzuolo e San Pancrazio»; tappa obbligata della dogana fiorentina, con la «calla» dei pastori | Repertorio (N001) | R | alta |
+| Nel 1431 fu assediato e saccheggiato dalle truppe di Niccolò Piccinino; nel 1554 subì un altro assedio | Repertorio (N001) | R | alta |
+| Chiesa di San Pietro, con un intervento eclettico del 1836 | solo Discover Arezzo | ⚠ (da confermare con l'utente) | media |
 | Parrocchia di San Biagio | Annuario della Diocesi | N | alta |
 | Festa dell'uva, del vino e dell'olio, organizzata dalla Pro Loco di Ciggiano: 49ª edizione nel 2026 | ArezzoTv, Sagre Toscane | N | media |
 | Ha una banda, la Società Filarmonica Ciggiano APS | RUNTS | N | media |
