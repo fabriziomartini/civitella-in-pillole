@@ -6,9 +6,9 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 330 domande.
+Totale: 352 domande.
 
-## Geografia (44)
+## Geografia (45)
 
 1. [5a86694d] ●●● `Nv=` **Quanti residenti contava il comune al censimento ISTAT del 2021?**  
    ✔ 8.814 · ✘ 6.512 · 11.230 · 15.400  
@@ -142,8 +142,11 @@ Totale: 330 domande.
 44. [cb9f19ff] ●○○ `-d=` **Da che cosa deriva la pianura della Val di Chiana?**  
    ✔ Dal prosciugamento di un antico lago · ✘ Dal ritiro di un ghiacciaio · Da un'antica colata di lava · Dal ritiro del mare in età romana  
    _La pianura, a circa 250 metri di quota, deriva dal prosciugamento di un lago pleistocenico._ → `geografia.html`
+45. [97b3e142] ●○○ `-d+` **Che cosa accadeva alle acque della Chiana presso il Toppo nell'XI secolo, secondo il Repetti?**  
+   ✔ Ristagnavano quasi ferme, divise tra il Valdarno e il Tevere · ✘ Formavano una grande cascata · Scorrevano tutte verso il mare di Livorno · Erano già state bonificate dai Medici  
+   _Nell'XI secolo le acque della Chiana presso il Toppo «bilicavano»: una parte andava verso il Valdarno aretino, una parte con il Paglia verso il Tevere._ → `frazioni/pieve-al-toppo.html`
 
-## Storia (53)
+## Storia (62)
 
 1. [fe9e42b2] ●●● `Nv=` **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -297,13 +300,40 @@ Totale: 330 domande.
    _Nel 1252 Civitella capitolò e fu rasa al suolo; il vescovo Guglielmino la fece poi ricostruire con una doppia cerchia di mura._ → `storia.html`
 51. [fd4ef637] ●○○ `-d=` **Quale di questi comuni fu soppresso e unito a Civitella nel 1774?**  
    ✔ Ciggiano · ✘ Monte San Savino · Lucignano · Bucine  
-   _Nel 1774 nove piccoli comuni furono aggregati a Civitella; Ciggiano è tra quelli ricordati sia dagli itinerari del Comune sia dalla Pro Loco._ → `storia.html`
+   _Il 14 novembre 1774 alla Comunità di Civitella furono assegnati nove comuni: Civitella, Oliveto, Viciomaggio con Tuori, Tegoleto, Badia al Pino, Ciggiano, Cornia, Montarfoni e Montoto (Repetti)._ → `storia.html`
 52. [79914e1e] ●○○ `-d=` **Come era chiamata Civitella per la frequente presenza dei vescovi aretini?**  
    ✔ «Civitella del Vescovo» · ✘ «Civitella dei Medici» · «Civitella del Papa» · «Civitella dei Conti»  
    _Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra»._ → `storia.html`
 53. [175fd5fe] ●●● `Nn+` **In quale anno fu firmata nel castello la «Pace di Civitella», secondo la Pro Loco?**  
    ✔ 1311 · ✘ 1252 · 1385 · 1554  
    _Il 26 marzo 1311 il vescovo Ildobrandino dei conti Guidi fece firmare la pace tra guelfi e ghibellini, alla presenza degli ambasciatori di Arrigo VII._ → `storia.html`
+54. [ccfe4a64] ●●● `Nv+` **In quale giorno del 1774 fu emanato il provvedimento che assegnò nove comuni alla Comunità di Civitella?**  
+   ✔ Il 14 novembre · ✘ Il 29 giugno · Il 1° gennaio · Il 25 marzo  
+   _Con un provvedimento del 14 novembre 1774 alla Comunità di Civitella furono assegnati nove comuni preesistenti (Repetti)._ → `storia.html`
+55. [f262764e] ●●● `Pv+` **Quale comune fu staccato dalla Comunità di Civitella nel 1774 e passò a Monte San Savino?**  
+   ✔ Montagnano · ✘ Montarfoni · Montoto · Ciggiano  
+   _Secondo il Repetti, con la legge del 1774 il comune di Montagnano fu unito alla Comunità di Monte San Savino._ → `storia.html`
+56. [41b02c31] ●●○ `Pv=` **Chi difese Civitella nel 1554 dall'assalto delle truppe senesi di Piero Strozzi?**  
+   ✔ Paolo da Castello · ✘ Giovanni dalle Bande Nere · Niccolò Piccinino · Buonconte da Montefeltro  
+   _Paolo da Castello, capitano al servizio di Cosimo I de' Medici, difese Civitella e la fortificò con nuove mura._ → `storia.html`
+57. [7f8563ab] ●●● `Nv+` **Quanti abitanti contava la Comunità di Civitella nel 1833, secondo il Repetti?**  
+   ✔ 4.883 · ✘ 1.883 · 8.814 · 14.883  
+   _Nel 1833 la Comunità contava 4.883 abitanti; al censimento del 2021 il comune ne contava 8.814._ → `storia.html`
+58. [84b5459a] ●●○ `-v+` **A chi consegnò Azzone degli Ubertini il castello di Oliveto nel settembre 1385?**  
+   ✔ Alla Repubblica di Firenze · ✘ Alla Repubblica di Siena · Al vescovo di Arezzo · Ai Visconti di Milano  
+   _Ricevuto in accomandigia da Firenze nel giugno 1385, l'8 settembre Azzone consegnò il castello, che i fiorentini fortificarono di torri._ → `frazioni/oliveto.html`
+59. [c849d496] ●●○ `-n+` **Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano, ripresi dopo l'invasione di Niccolò Piccinino?**  
+   ✔ Di smantellarli · ✘ Di ricostruirli più grandi · Di venderli ai senesi · Di affidarli al vescovo di Arezzo  
+   _Nel 1431 Piccinino prese Ciggiano e Oliveto; riconquistati, nel 1433 Firenze ordinò di smantellarli (Repetti)._ → `frazioni/oliveto.html`
+60. [a4286437] ●●● `Nv+` **In quale data il popolo di Tegoleto si sottomise alla Repubblica fiorentina?**  
+   ✔ Il 29 marzo 1385 · ✘ Il 26 giugno 1288 · Il 14 novembre 1774 · Il 2 agosto 1554  
+   _Secondo il Repetti il popolo di Tegoleto si sottomise a Firenze il 29 marzo 1385._ → `frazioni/tegoleto.html`
+61. [418b0da7] ●●○ `-v+` **Chi si accampò a Ciggiano nel 1307, secondo il Repetti?**  
+   ✔ Un esercito della lega guelfa toscana · ✘ Le truppe di Niccolò Piccinino · L'esercito imperiale di Arrigo VII · I ghibellini di Arezzo  
+   _Nel 1307 Ciggiano era di parte guelfa e vi si accampò un esercito della lega guelfa toscana._ → `frazioni/ciggiano.html`
+62. [a4e2efc3] ●●○ `-v+` **Che cosa fu firmato il 20 aprile 1261 nella chiesa della Badia al Pino?**  
+   ✔ La concordia tra il vescovo Guglielmino e i cortonesi fuorusciti · ✘ La pace tra Arezzo e Siena · Lo statuto del comune di Civitella · La resa di Civitella ai fiorentini  
+   _Secondo il Repetti, nella chiesa della Badia furono firmati i capitoli di concordia tra Guglielmino degli Ubertini e i cortonesi fuorusciti._ → `frazioni/badia-al-pino.html`
 
 ## Il 1944 (35)
 
@@ -413,7 +443,7 @@ Totale: 330 domande.
    ✔ Il Tribunale militare di La Spezia · ✘ Il tribunale di Norimberga · La Corte d'Assise di Arezzo · Il Tribunale di Firenze  
    _Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania._ → `storia.html`
 
-## Frazioni (97)
+## Frazioni (105)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -706,8 +736,32 @@ Totale: 330 domande.
 97. [e8da5b98] ●●● `Pv+` **A chi donarono Palazzo Ninci i suoi proprietari nel 1917?**  
    ✔ Alla Fraternita dei Laici · ✘ Al Comune di Civitella · Alla diocesi di Arezzo · Alla Pro Loco  
    _Palazzo Ninci, in piazza Lazzeri, fu donato nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925._ → `frazioni/civitella.html`
+98. [d1b0f93f] ●●● `Pv+` **A quale monastero fiorentino furono incorporate nel 1441 le chiese di Civitella e della Badia al Pino?**  
+   ✔ Il monastero di Santa Brigida · ✘ L'abbazia di Vallombrosa · Il convento di San Marco · La basilica di Santa Croce  
+   _Una bolla di papa Eugenio IV del 17 novembre 1441 le incorporò nel monastero di Santa Brigida presso Firenze (Repetti)._ → `frazioni/badia-al-pino.html`
+99. [99383471] ●○○ `-d+` **Che cosa raffigurava il sigillo dell'antico Comune di Oliveto?**  
+   ✔ Un olivo carico di frutti · ✘ Una torre merlata · Un leone rampante · Una croce rossa  
+   _Il Repetti ricorda il sigillo del Comune di Oliveto: un olivo in pieno frutto in campo bianco e nero._ → `frazioni/oliveto.html`
+100. [56054fd7] ●●● `Pv+` **Di quale badia era il patronato su Cornia dal secolo XI, secondo il Repetti?**  
+   ✔ La badia di Agnano · ✘ La Badia del Pino · L'abbazia di Vallombrosa · L'abbazia di Camaldoli  
+   _Dal secolo XI Cornia era dei monaci della badia d'Agnano; nel 1350 l'abate la pose sotto l'accomandigia di Firenze._ → `frazioni/cornia.html`
+101. [d3c01c7d] ●●○ `-v+` **Da quale località vicina doveva distinguersi «Vicione Maggiore», l'antico nome di Viciomaggio?**  
+   ✔ Da Vicione Piccolo, cioè Battifolle · ✘ Da Vicchio di Mugello · Da Vicopisano · Da Vico d'Elsa  
+   _Il Repetti spiega che Vicione Maggio si chiamava così per distinguerlo dal vicino Vicione Piccolo, cioè Battifolle._ → `frazioni/viciomaggio.html`
+102. [65c7e281] ●●○ `-v+` **Con quale nome popolare era chiamata la Pieve al Toppo, secondo il Repetti?**  
+   ✔ Pieve all'Intoppo · ✘ Pieve del Poggio · Pieve della Chiana · Pieve dei Pellegrini  
+   _Il Repetti la registra come «Pieve al Toppo, volgarmente detta all'Intoppo»._ → `frazioni/pieve-al-toppo.html`
+103. [f6b39c53] ●●● `Nn+` **Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo il Repetti?**  
+   ✔ 24 · ✘ 4 · 12 · 50  
+   _Prima della rovina del 1502 la pieve aveva 24 chiese dipendenti, tra cui quelle di Civitella, Tegoleto, Oliveto, Viciomaggio, Ciggiano e Cornia._ → `frazioni/pieve-al-toppo.html`
+104. [84a6f9e7] ●●○ `-v+` **A quale Comunità apparteneva Majano nel 1833, secondo il Repetti?**  
+   ✔ A quella di Arezzo · ✘ A quella di Civitella · A quella di Laterina · A quella di Bucine  
+   _Nel 1833 i 91 abitanti di Majano erano nella Comunità di Arezzo, i 224 di Montoto in quella di Civitella; Pieve a Maiano entrò nel comune più tardi._ → `frazioni/pieve-a-maiano.html`
+105. [6030ead1] ●●● `Pv+` **Con quale nome il Repetti distingue la Pieve a Maiano del comune di Civitella?**  
+   ✔ Majano di Valle Lunga · ✘ Majano di Lucardo · Majano di Fiesole · Majano al Toppo  
+   _Il Repetti la chiama «Majano di Valle Lunga», nel Val d'Arno aretino, per distinguerla dagli altri Majano della Toscana._ → `frazioni/pieve-a-maiano.html`
 
-## Borghi minori (35)
+## Borghi minori (39)
 
 1. [cd56501b] ●○○ `-d=` **Per che cosa era noto il luogo di Matroia?**  
    ✔ Per una sorgente con acque ritenute medicamentose · ✘ Per una miniera d'argento · Per un castello dei Medici · Per una fornace di vetro  
@@ -736,11 +790,11 @@ Totale: 330 domande.
 9. [961f484f] ●○○ `-n=` **Che cosa è la torre di Dorna, ricordata dal 1198?**  
    ✔ La parte più antica rimasta integra del castello · ✘ Un campanile ottocentesco · Una torre dell'acquedotto · Un faro  
    _La torre è la parte più antica rimasta integra dell'insediamento longobardo._ → `frazioni/borghi-minori.html#dorna`
-10. [7591d2bd] ●●● `Pv+` **A chi è dedicata la chiesa di San Martino in Poggio costruita nel 1690?**  
+10. [144d50be] ●●● `Pv+` **A chi è dedicata l'attuale chiesa di San Martino in Poggio?**  
    ✔ Ai Santi Maria e Carlo · ✘ A San Martino e San Rocco · A San Biagio · A Sant'Andrea  
-   _Il titolo ricorda il nobile fiorentino Carlo Casini, che la finanziò._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
-11. [ff97d330] ●●● `Pv+` **Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?**  
-   ✔ Il nobile fiorentino Carlo Casini · ✘ Il vescovo Guglielmino degli Ubertini · La famiglia Pecchioli · Il notaio Becattini  
+   _Il titolo ricorda il nobile Carlo Casini, che la finanziò._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
+11. [b4f36db1] ●●● `Pv+` **Grazie al patrimonio di chi fu costruita la chiesa dei Santi Maria e Carlo a San Martino in Poggio?**  
+   ✔ Il nobile Carlo Casini · ✘ Il vescovo Guglielmino degli Ubertini · La famiglia Pecchioli · Il notaio Becattini  
    _La chiesa fu costruita con il patrimonio donato da Carlo Casini._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
 12. [d3a07030] ●○○ `-n=` **Come descrissero i fiorentini il castello di Gaenne, passato sotto il loro dominio nel 1385?**  
    ✔ «Un forte castello di sito e di muro» · ✘ «La più bella rocca di Toscana» · «Un castello senza difese» · «Il nido dei ghibellini»  
@@ -779,8 +833,8 @@ Totale: 330 domande.
    ✔ I Tarlati · ✘ Gli Ubertini · I Medici · I conti Guidi  
    _Nel 1069 Gaenne apparteneva ai longobardi di Dorna, poi passò ai Tarlati._ → `frazioni/borghi-minori.html#gaenne`
 24. [0574409f] ●●● `Nv+` **Da quale anno San Martino in Poggio è parrocchia?**  
-   ✔ 1814 · ✘ 1690 · 1726 · 1917  
-   _La chiesa del 1690 fu ampliata nel 1726 e divenne parrocchia nel 1814._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
+   ✔ 1814 · ✘ 1700 · 1726 · 1917  
+   _La chiesa dei Santi Maria e Carlo fu ampliata nel 1726 e divenne parrocchia con un decreto del vescovo del 30 maggio 1814._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
 25. [a085dfa8] ●●○ `Nd+` **A che altitudine si trova, all'incirca, San Martino in Poggio?**  
    ✔ Circa 540 metri · ✘ Circa 140 metri · Circa 940 metri · Circa 1.240 metri  
    _San Martino in Poggio si trova a circa 540 metri._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
@@ -804,7 +858,7 @@ Totale: 330 domande.
    _Il borgo-fattoria è organizzato come un piccolo paese, con piazzetta, chiesa, cantina e frantoio-mulino._ → `frazioni/borghi-minori.html#montarfoni`
 32. [2e9fd6ab] ●●○ `-v+` **Di che cosa fu dotata la chiesa di San Martino in Poggio quando fu ampliata nel 1726?**  
    ✔ Di due nuovi altari · ✘ Di un campanile a vela · Di un organo · Di un portico a tre archi  
-   _La chiesa dei Santi Maria e Carlo, costruita nel 1690, fu ampliata nel 1726 con due nuovi altari._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
+   _La chiesa dei Santi Maria e Carlo fu ampliata nel 1726 con due nuovi altari._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
 33. [585551af] ●●○ `-v=` **Quale altro luogo è destinato a diventare un parco archeologico insieme a Poggio Castellare?**  
    ✔ Il castello di Gaenne · ✘ Matroia · Tribbio · Dorna  
    _Il Piano Strutturale prevede un parco archeologico con campo scuola di scavo a Poggio Castellare e Gaenne._ → `frazioni/borghi-minori.html#poggio-castellare`
@@ -814,6 +868,18 @@ Totale: 330 domande.
 35. [1a6af485] ●●● `Pv+` **Sopra quale strada sorse il castello di Montarfoni?**  
    ✔ La strada Regia Aretina · ✘ La via Cassia · La via Francigena · La Via Vecchia Senese  
    _Il castello sorse sopra la strada Regia Aretina; ne restano la porta e tratti delle mura._ → `frazioni/borghi-minori.html#montarfoni`
+36. [bf03cb86] ●●● `Pv+` **Da quale espressione latina deriva il nome di Montoto, secondo il Repetti?**  
+   ✔ Mons tutus, «monte sicuro» · ✘ Mons altus, «monte alto» · Mons Othonis, «monte di Ottone» · Mons totus, «monte intero»  
+   _Il Repetti registra la voce come «Montoto (Mons tutus)»._ → `frazioni/borghi-minori.html#montoto`
+37. [42bc1e10] ●●● `Pv+` **A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello di Montoto?**  
+   ✔ Ai Santi Flora e Lucilla · ✘ A Santa Maria della Pieve · A San Domenico · A San Francesco  
+   _Il 2 marzo 1051 Golizo vendette all'abate Enrico dei Santi Flora e Lucilla un quarto del castello e della chiesa di San Giovanni Battista._ → `frazioni/borghi-minori.html#montoto`
+38. [ccb2628a] ●●● `Pv+` **In quale privilegio del 1356 il castello di Gaenne è ricordato tra quelli del contado aretino?**  
+   ✔ In quello dell'imperatore Carlo IV alla città di Arezzo · ✘ Nella bolla di papa Eugenio IV · Negli statuti della Repubblica di Siena · Nel catasto del granduca Pietro Leopoldo  
+   _Il Repetti ricorda Gaenna tra i castelletti del contado aretino nel privilegio di Carlo IV del 1356._ → `frazioni/borghi-minori.html#gaenne`
+39. [3cb5660e] ●●○ `-v+` **A chi pagava ancora un canone annuo, nell'Ottocento, il proprietario della tenuta di Dorna?**  
+   ✔ Al capitolo della cattedrale di Arezzo · ✘ Al Comune di Civitella · Al granduca di Toscana · Ai monaci di Camaldoli  
+   _Era un'eredità della donazione del 1181, con cui Rolandino di Mambilia lasciò al capitolo i suoi beni nel castello di Dorna._ → `frazioni/borghi-minori.html#dorna`
 
 ## Lavoro e sapori (25)
 

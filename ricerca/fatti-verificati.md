@@ -92,11 +92,13 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Nel 1774 Ciggiano, Viciomaggio, Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella. Il Repertorio conferma Montarfoni (H240a) e parla di «nove piccoli comuni» aggregati nel 1774, senza nominarli | Itinerari del Comune; Repertorio | N (R per Montarfoni e i nove comuni) | alta |
 | Monte San Savino «è stato capoluogo di vicariato sotto i granduchi, con autorità su Civitella, Lucignano e Foiano della Chiana» | PIT, ambito 19 | R | alta |
 | Nel 1774 Pietro Leopoldo soppresse i comuni di Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto e li unì a Civitella (nove, come i «nove piccoli comuni» del Repertorio); più tardi si aggiunse Pieve a Maiano | Pro Loco, «Civitella nella storia»; Repertorio (numero) | R (numero), W (nomi) | alta |
-| Fonti per i singoli nomi del 1774: Montarfoni = Repertorio H240a + Pro Loco; Ciggiano, Viciomaggio, Badia al Pino = itinerari del Comune + Pro Loco; Oliveto, Tegoleto, Tuori, Cornia, Montoto = solo Pro Loco. N3 (6/10/2026): nel Repertorio il 1774 compare solo nelle schede N007 (Civitella, «nove piccoli comuni») e H240a (Montarfoni) | N3, N1 | — | — |
+| **Repetti, voce Civitella:** «Alla Comunità di Civitella con provvedimento speciale del 14 novembre 1774 vennero assegnati nove preesistenti Comuni. 1. Civitella; 2. Oliveto; 3. Viccio Maggio e Tuori; 4. Tegoleto; 5. Badia al Pino; 6. Ciggiano; 7. Cornia; 8. Montarfone; 9 Montoto»; Montagnano passò alla Comunità di Monte San Savino. Tutti i nomi ora hanno due fonti (Repetti e Pro Loco); il conteggio è quello del Repetti | Repetti (dizionario-repetti.it, testo incollato dall'utente) | R | alta |
+| Fonti per i singoli nomi del 1774 (prima del Repetti): Montarfoni = Repertorio H240a + Pro Loco; Ciggiano, Viciomaggio, Badia al Pino = itinerari del Comune + Pro Loco; Oliveto, Tegoleto, Tuori, Cornia, Montoto = solo Pro Loco. N3 (6/10/2026): nel Repertorio il 1774 compare solo nelle schede N007 (Civitella, «nove piccoli comuni») e H240a (Montarfoni) | N3, N1 | — | — |
 | Nel 1252 il podestà di Arezzo Ildebrando Cacciaconti assediò Civitella, che fu rasa al suolo; Guglielmino la ricostruì con una doppia cerchia di mura, lavori finiti probabilmente intorno al 1270 | Pro Loco; distruzione del 1252 anche nell'itinerario 2 del Comune | W | alta |
 | Nell'XI secolo Civitella passò al vescovo di Arezzo, capoluogo del viscontado della Valdambra, e fu ribattezzata «Civitella del Vescovo» | Wikipedia (N1), Pro Loco | R | alta |
 | Nome «Civitella di Valdambra» | Pro Loco | W | media |
 | Dopo Campaldino (1289) Civitella fu presa da Firenze; nel 1311 vi fu stipulata la pace tra il vescovo Ildebrandino Guidi di Romena e l'imperatore Enrico VII; nel 1554 fu assediata da Siena e difesa da Paolo da Castello, capitano di Cosimo I | Wikipedia (N1), Pro Loco | R | alta |
+| Repetti conferma: «Civitella del Vescovo», capoluogo del viscontado di Val d'Ambra; nel 1311 nel palazzo vescovile Ildebrandino accolse gli ambasciatori di Arrigo VII (il vescovo di Butrinto e Pandolfo Savelli), che vi aprirono tribunale per il giuramento di fedeltà; dopo Campaldino il castello fu presidiato dai fiorentini; nel 1554 fu assalito dalle genti di Pietro Strozzi e difeso da Paolo da Castello, che lo fortificò con nuove mura; nel 1280 Guglielmino vi decretò l'unione dei capitoli; la parrocchia di S. Maria fu priorato della Badia al Pino per una donazione del 1046 del vescovo Immone; bolla di Eugenio IV del 17 novembre 1441 che incorporò le chiese di Civitella e della Badia al Pino nel monastero di S. Brigida presso Firenze (confermata nel 1447); nel 1833 la Comunità aveva 4.883 abitanti e la parrocchia di Civitella 654 (779 nel 1551); a Civitella un potestà di terza classe dipendente dal vicario di Monte S. Savino | Repetti | R | alta |
 | Solo Pro Loco: resa il 3 luglio 1289; data 26 marzo 1311 e nome «Pace di Civitella»; sottomissione a Firenze nel 1362; saccheggio del 1397 e riconquista del 1398; Piero Strozzi alla guida dei senesi nel 1554 | Pro Loco | W | media |
 | Nel 1917 la sede comunale fu trasferita a Badia al Pino per lo spopolamento delle zone collinari | Wikipedia | R | alta |
 | Un bombardamento alleato distrusse la rocca di Civitella, perché al suo interno si era installato il comando tedesco (le fonti non indicano la data) | Wikipedia, Cittaslow | R | alta |
@@ -175,6 +177,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Nel 1502, distrutta la pieve del Toppo, il fonte battesimale e il titolo di pieve passarono a Badia al Pino; nel 1583 vi passò il titolo di Santa Lucia a Campigliano | Repertorio (C001) | R | alta |
 | La Badia fu soppressa nel 1441 e il paese divenne un insediamento essenzialmente rurale | Comune | R | alta |
 | Restano una torre, con vincolo nazionale, e i resti di una porta del castello | Repertorio (T001), itinerario 3 | R | alta |
+| Repetti, Badia al Pino: badia di S. Bartolomeo trasferita da una più antica S. Martino al Pino; nel 1075 dipendeva dall'abate dei SS. Flora e Lucilla; 20 aprile 1261 capitoli di concordia tra Guglielmino degli Ubertini e i cortonesi fuorusciti firmati nella chiesa della Badia; sotto Guido Tarlati le fu aggregata la chiesa di S. Filippo di Civitella; dichiarata plebana dopo la soppressione della Pieve al Toppo; 581 abitanti (1833) | Repetti, voce «Pino (Badia al)» | R | alta |
 | Il palazzetto settecentesco fu sede comunale dal 1917 ai primi anni Settanta; oggi è la Biblioteca comunale | Comune | R | media |
 | Palazzo Santini-Paccinelli: villa settecentesca a pianta rettangolare, simmetrica rispetto al vano scala centrale | Repertorio (A020) | R | media |
 | Villa del Bosco, con parco e filare di pini | Repertorio (V001, PG010, FI007) | R | media |
@@ -190,6 +193,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | San Biagio custodisce l'altare Mazzeschi e una Santa Maria Maddalena attribuita ad Andrea Sansovino | Itinerario 1 del Comune | N | alta |
 | La chiesa della Madonna della Costarella (detta anche di Santa Maria), fuori dal castello di Ciggiano, fu terminata nel 1635 con le elemosine dei pastori della via vecchia senese; il loggiato è settecentesco | Repertorio (E152), Discover Arezzo | R | alta |
 | Ciggiano è «sotto i valichi di Palazzuolo e San Pancrazio»; tappa obbligata della dogana fiorentina, con la «calla» dei pastori | Repertorio (N001) | R | alta |
+| Repetti, Ciggiano: nel 1307 vi si accampò un esercito della lega guelfa toscana; 1431 preso da Piccinino (con Oliveto e Battifolle), 1433 Firenze ordina di smantellare quei castelli (voce Oliveto); S. Biagio 634 abitanti | Repetti, voci «Ciggiano» e «Oliveto di Civitella» | R | alta |
 | Nel 1431 fu assediato e saccheggiato dalle truppe di Niccolò Piccinino; nel 1554 subì un altro assedio | Repertorio (N001) | R | alta |
 | Chiesa di San Pietro a Ciggiano, di origine medievale, con un intervento eclettico del 1836; vi sono stati trovati reperti con iscrizioni etrusche | Discover Arezzo, Visit Tuscany | W | media |
 | Parrocchia di San Biagio | Annuario della Diocesi | N | alta |
@@ -201,6 +205,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | Altitudine circa 560 m | Itinerari del Comune | N | alta |
 | Chiesa di Sant'Angelo (San Michele Arcangelo), nelle decime del 1274; nel 1833 contava 292 anime | Repertorio | N | alta |
+| Repetti, Cornia: sulla cresta dei colli che separano la Val di Chiana dalla Val d'Ambra; dal secolo XI di padronato dei monaci della badia d'Agnano; nel 1350 l'abate la sottopose con gli altri luoghi di Val d'Ambra all'accomandigia della Repubblica fiorentina; S. Angelo di Cornia 292 abitanti (1833) | Repetti, voce «Cornia di Civitella» | R | alta |
 | Vi esisteva un centro per la lavorazione delle scope di saggina | Itinerario 1 del Comune | N | alta |
 | Il Piano Strutturale prevede un Parco faunistico e un'ANPIL | NTA artt. 23 e 53 | N | alta |
 | L'Atlante delle stragi elenca 32 vittime per «Cornia e dintorni», tra cui il partigiano Hazbi Ismail (28 anni) | Atlante delle stragi | N | alta |
@@ -217,6 +222,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Parrocchia di Sant'Andrea Apostolo | Annuario della Diocesi | N | alta |
 | Castello ricordato nel XII secolo, con origini tardo-imperiali e longobarde; feudo di Ubertini e Saracini | Repertorio | N | alta |
 | Restano il cassero (oggi abitazione), la porta e tratti di mura; la Casa del Podestà fu riedificata nel Seicento | Repertorio | N | media |
+| Repetti, Oliveto: signoria degli Ubertini; Azzone di Franceschino degli Ubertini in accomandigia a Firenze il 16 giugno 1385, consegna del castello l'8 settembre 1385; Firenze lo fece «precingere e fortificare di torri» (Manni); 1431 preso da Niccolò Piccinino con Ciggiano e Battivolle, 1433 Firenze ordina di smantellarli; Comune a sé fino al motuproprio del 14 novembre 1774; sigillo con un olivo in pieno frutto; 1833: S. Andrea al Castello 257 abitanti, S. Giovan Battista al Villaggio 279 | Repetti, voce «Oliveto di Civitella» (testo incollato dall'utente) | R | alta |
 | Cappella della Compagnia (1637) e Oratorio di San Rocco (tabernacolo diventato cappella nell'Ottocento) | Repertorio | N | media |
 | San Giovanni d'Oliveto: nelle decime del 1274, ricostruita nel 1343 | Repertorio | N | alta |
 | Villa Oliveto, già Villa Mazzi: dei conti Barbolani di Montauto, parco con cedri e lecci, oggi Centro di Documentazione | Regione Toscana, Wikipedia | N | alta |
@@ -232,6 +238,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Strumenti del Paleolitico medio e superiore al Podere Casella | Repertorio (S002) | R | alta |
 | Insediamento romano al campo sportivo (I–II secolo d.C.) e fornace di Vallimboi | Repertorio | N | alta |
 | Moneta d'oro dell'imperatore Claudio (41–54 d.C.) | Repertorio | N | alta |
+| Repetti, Majano: «Majano di Valle Lunga» nel Val d'Arno aretino, sulla strada regia aretina davanti alla gola dell'Imbuto; pieve di S. Maria soppressa e unita a S. Giovanni Battista a Montoto; sette cappelle filiali (tra cui S. Andrea a Montarfone e S. Michele a Pergine); nell'XI secolo la badia di Prataglia vi possedeva beni (contratto dell'agosto 1056); nel 1833 parrocchia di Majano e Montoto 315 abitanti, 91 a Majano nella Comunità di Arezzo e 224 a Montoto in quella di Civitella | Repetti, voce «Majano» | R | alta |
 | Il podere Spedaluccio si trova circa un chilometro dopo Pieve a Maiano, lungo la statale 69: è ciò che resta di un antico ospizio per viandanti documentato dal 1198 (non è ad Albergo) | Itinerario 2 del Comune; Relazione generale del PS, p. 60 | R | alta |
 | Sagra del Cinghiale (U.S. Pieve a Maiano): 42ª edizione nel 2026 | Sagre Toscane | N | media |
 
@@ -240,6 +247,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | È il centro abitato più popoloso del comune (1.545 residenti nel 2021) | ISTAT | W | alta |
 | La pieve, con un ospedale per i pellegrini, fu confermata nel 938 tra i possedimenti del Capitolo di Arezzo; chiesa e ospedale furono distrutti nel 1502 | Repertorio (B024) | R | alta |
+| Repetti, Pieve al Toppo: detta volgarmente «all'Intoppo»; pieve guastata nella guerra della ribellione di Arezzo del 1502, rendite ai canonici della Pieve di Arezzo, fonte battesimale alla Badia al Pino; aveva 24 chiese dipendenti; nell'XI secolo le acque della Chiana presso il Toppo «bilicavano» tra il Valdarno e il Tevere; battaglia del 1288 ricordata anche da Malespini e Villani | Repetti, voci «Toppo (Pieve al)» e «Pieve al Toppo» | R | alta |
 | «Toppo» è di origine longobarda | Repertorio | N | alta |
 | Oratorio della Madonna del Conforto, con questa dedica dal 1906 | Repertorio | N | media |
 | Parrocchiale di San Giovanni Battista: progetto del 1967, porticato del 1977 | Repertorio | N | media |
@@ -269,6 +277,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
 | Parrocchia di San Biagio; la chiesa esisteva già nel X secolo, fu ristrutturata nel XII e ne restano i resti dell'abside | Annuario della Diocesi, itinerario 3 del Comune | N | alta |
+| Repetti, Tegoleto: corte del capitolo della cattedrale di Arezzo, ricordata nei privilegi di Federico I (1163), Filippo duca di Toscana (1196), Ottone IV (1209); grano raccolto dal 1300; nel 1442 canone annuo di 160 staia di grano; il popolo si sottomise a Firenze il 29 marzo 1385; S. Biagio 683 abitanti (1833) | Repetti, voce «Tegoleto» | R | alta |
 | La torre fu ricostruita dai fiorentini alla fine del Trecento | Repertorio | N | alta |
 | La fattoria passò all'Ordine dei Cavalieri di Santo Stefano nel 1783 | Repertorio | N | alta |
 | Teatro Moderno (TMT): nato nel 1960, gestito dal Gruppo Teatro La Torre, stagione da ottobre a marzo | Repertorio (TE001) | N | media |
@@ -280,6 +289,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | Attestato nel 1021 | Repertorio | N | alta |
 | Parrocchia dei Santi Giorgio e Luca (titolo ufficiale della Diocesi; il Comune scrive «Giorgio e Lucia») | Annuario della Diocesi, itinerario del Comune | N | alta |
+| Repetti, Tuori: parrocchia di S. Giorgio nel piviere di Battifolle; «non esisteva nel 1551»; 196 abitanti (1833); nel 1774 unita a Civitella insieme a Viciomaggio, come un solo comune | Repetti, voci «Tuori» e «Civitella» | R | media |
 | Vincolo nazionale su cassero, chiesa e cimitero (non sul centro storico) | Repertorio (N017) | R | alta |
 | Il Saracino: casa colonica del XVI secolo della Fraternita dei Laici, con portico a tre archi a tutto sesto e loggia ad arco policentrico ribassato | Repertorio (M308) | R | media |
 
@@ -289,6 +299,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Parrocchia di San Martino | Annuario della Diocesi | N | alta |
 | Il nome viene da *vicus maior* | Itinerari del Comune | N | alta |
 | Villa di Viciomaggio: villa padronale settecentesca, restauro della parte posteriore nel 1868 con decorazioni pittoriche, limonaia del 1836, cappella secentesca con orologio e campanile a vela | Repertorio (L282) | R | alta |
+| Repetti, Viciomaggio: «Vicione Maggio» per distinguerlo da Vicione Piccolo (Battifolle); nel novembre 1024 fu rogato «nella villa di Vicione maggiore» un istrumento della cattedrale di Arezzo; S. Martino 670 abitanti (1833) | Repetti, voce «Vicio Maggio, o Vico Maggiore» | R | alta |
 | Nel 1872 vi fu trovata un'urna etrusca ellenistica con l'iscrizione *l. prastn[a] nerinal* | Repertorio | N | alta |
 | Nella zona industriale hanno sede CEIA e uno stabilimento Chimet (anni Ottanta) | CEIA, Chimet | N | alta |
 | Festa della Rosa, organizzata dall'A.S.D. Viciomaggio: nel 2026 dal 23 aprile al 3 maggio | Sagre Toscane | W | media |
@@ -301,6 +312,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | **Matroia:** allevamento di cavalli (centro di equitazione previsto), resti di un convento con la chiesetta di San Michele Arcangelo e una sorgente ritenuta medicamentosa | NTA art. 49, Repertorio | N | alta |
 | **Montoto:** poderi lungo via della Centrale sorti su un fortilizio longobardo; passò a Firenze nel 1385; la campana del 1358 della chiesa di Pieve a Maiano viene da qui | Repertorio | N | alta |
+| Repetti, Montoto: «(Mons tutus)»; castello con chiesa di S. Giovanni Battista, un tempo nel piviere di Laterina; atto del 2 marzo 1051: Golizo vende all'abate Enrico di SS. Flora e Lucilla di Arezzo per 50 lire d'argento la quarta parte del castello e della chiesa «constructa infra eundem castrum»; decreto vescovile del 6 ottobre 1803 che unisce la chiesa di Majano a quella di Montoto; 1833: 224 abitanti a Montoto (Civitella), 91 a Majano (Arezzo) | Repetti, voce «Montoto» | R | alta |
 | **Poggio Castellare:** a 483 m, cinta ellittica a secco spessa 1,60 m e lunga circa 300 m, datazione discussa | Repertorio (S017) | R | alta |
 | **Malpertuso e Le Fosse:** borghi medievali abbandonati nel tardo Medioevo; a Le Fosse un cippo romano in travertino | Itinerari del Comune, Repertorio | N | alta |
 | **Tribbio:** nome dal trivio; il Repertorio lo cataloga come trivio di epoca «romana?» (con il punto interrogativo, S070); pozzo storico | Itinerari del Comune, Repertorio | R | alta |
@@ -319,6 +331,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | **Montarfoni:** nome da «Monte di Arfo», antico proprietario germanico; castello aggregato a Civitella nel 1774; borgo-fattoria con villa seicentesca e limonaia | Itinerari del Comune, Repertorio (H240a) | R | alta |
 | **Dorna:** castello longobardo (VIII–X secolo); *castrum Durna* nel 1181; torre ricordata dal 1198; chiesa dei Santi Vito e Nicola (1182); dei Riccardi nel XVIII secolo e delle suore Montalve dal 1814 | Repertorio (A001a, A001d); date confermate in R8 | R | alta |
 | **San Martino in Poggio:** a circa 540 m; chiesa dei Santi Maria e Carlo del 1690 (patrimonio di Carlo Casini), ampliata nel 1726, parrocchia dal 1814; 317 abitanti nel 1845 | Itinerari del Comune, Repertorio (H241b) | R | alta |
+| Repetti, borghi: Montarfoni, chiesa di S. Andrea unita a SS. Jacopo e Cristofano d'Impiano con decreto vescovile del 10 giugno 1388; Dorna, canone annuo ancora pagato dal proprietario al capitolo di Arezzo (donazione del 1181 di Rolandino di Mambilia), «Fratta di Durna» della badia di Nasciano nel 1227; Gaenna, castello distrutto, parrocchia di S. Maria a Gajenna nel piviere del Toppo, ricordato nel privilegio di Carlo IV ad Arezzo del 1356; S. Martino in Poggio, decreto vescovile del 30 maggio 1814, giuspadronato del marchese Riccardi-Vernaccia, 259 abitanti (1833) | Repetti, voci «Mont'Arfone», «Dorna», «Gaenna», «Martino (S.) in Poggio» | R | media |
 | **Gaenne:** castello dei longobardi di Dorna nel 1069, poi dei Tarlati; nel 1385 passò a Firenze, che lo descrisse come «un forte castello di sito e di muro» (Repertorio S023, R). L'ordine di distruzione è solo nella scheda del Comune: sul sito è attribuito | Repertorio, scheda del Comune | R (distruzione: N) | alta |
 | **Le Caserosse:** località tra Viciomaggio e Pieve al Toppo, sede di una delle tre «zone industriali isolate» del Piano (con Del Tongo e Chimet) | NTA art. 92, tav. C4.4 | N | alta |
 
@@ -403,11 +416,13 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 | Gaenne bizantino | Comune: fortilizio bizantino nel VI secolo; Repertorio: «forse» | «forse» |
 | Poggio Castellare | etrusco o romano, medievale, dalla protostoria alla tarda antichità; Comune: bizantino poi longobardo | datazione discussa |
 | Chiesa di Sant'Andrea a Oliveto, 1933 | Discover Arezzo: chiesa «rifatta nel 1933 in stile neomedievale»; Repertorio: «il campanile è del 1933» | tutte e due le versioni |
-| Titolo della chiesa di Tuori | Diocesi: Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
+| Titolo della chiesa di Tuori | Diocesi e Repetti (1833): Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
 | Altitudine del capoluogo | 500 m (testo di Wikipedia, ToscanaNovecento), 525 m (scheda di Wikipedia), 600 m (guida turistica) | «circa 500 m» |
 | Data dell'uccisione di Mario Mannelli | ToscanaNovecento: «il 29 marzo 1944 avvenne una strage di matrice fascista»; Repertorio, scheda del monumento (ME013): «ucciso per rappresaglia fascista il 29 maggio 1944» | tutte e due le date |
 | Passaggio di Civitella a Firenze | Wikipedia: ingresso nel territorio fiorentino nel 1348; Pro Loco: custodia fiorentina dal 1344 e sottomissione degli abitanti nel 1362; SIUSA: podesteria fiorentina dal 1385; Wikipedia: presa da Firenze dopo Campaldino (1289) | sul sito: presa nel 1289, sottomissione 1362 (Pro Loco), podesteria 1385 |
 | Rocca di Civitella dopo il 1248 | Itinerario 2 del Comune: «ristrutturata dopo la distruzione del 1252»; Wikipedia: «nel 1272 Guglielmino la ricostruì»; Repertorio: nel 1248 Guglielmino ne potenziò le mura | tutte e tre, attribuite |
+| Prima memoria della pieve del Toppo | Repertorio: confermata nel 938 tra i possedimenti del Capitolo di Arezzo; Repetti: corti donate ai canonici nel 939 dai re Ugo e Lotario, diploma di Ottone I del 963 (in un'altra voce «983») | sul sito resta il 938 del Repertorio |
+| Chiesa di San Martino in Poggio | Repertorio: costruita nel 1690 con il patrimonio del nobile fiorentino Carlo Casini; Repetti: edificata nel 1700, fondatore Carlo di Paolo Casini, nobile senese | tutte e due le versioni |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
 
 ---
@@ -467,7 +482,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 - Tuori nel «terzo anello difensivo dello Stato aretino», «vigilava sulla Val di Chiana e sulla Valdambra», cassero «punto di comunicazione visiva con la Val di Chiana senese»: non confermati dal Repertorio. Venivano da ruderimedievali.altervista.org. Tolti.
 - «Centro storico di Tuori tutelato da vincolo nazionale»: SMENTITO. Il vincolo è su cassero, chiesa e cimitero.
 - Patrono di Tuori San Giorgio «23 aprile»: non confermato. Tolto dal riquadro «In breve».
-- Viciomaggio «ricordato in un atto notarile del 1024»: l'atto notarile non c'è. Resta «fin dal 1024».
+- Viciomaggio «ricordato in un atto notarile del 1024»: l'atto notarile non c'è. Resta «fin dal 1024». Aggiornamento: il Repetti cita un istrumento della cattedrale di Arezzo del novembre 1024 rogato «nella villa di Vicione maggiore»; ora è sul sito con la fonte.
 - «Villa Milloni»: il nome non compare né nel Repertorio né sul web. Per il Repertorio è la «Villa di Viciomaggio» (L282), e il sito la elencava due volte. Ora c'è una sola voce, «Villa di Viciomaggio» (anche in Patrimonio e nel quiz).
 - Vasi del I secolo a.C. «al Museo di Arezzo»: il Repertorio dice «luogo sconosciuto». Al museo c'è solo il cammeo di diaspro.
 - Leggenda di Annibale a Viciomaggio: non è in nessuna fonte. Tolta.
@@ -507,6 +522,12 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 - Il 917 con Berengario e Uguccione «marchese del Colle», con la genealogia fino a Carlo Magno: non confermato da nessuna fonte scritta verificata.
 - Magister Rainerius «nato a Civitella», autore nel 1272 di un'«Ars Tabellionatus»: da verificare su fonti storiche.
 - Aneddoti sui vescovi Arnaldo ed Eliotto morti a Civitella e sugli «altri sette vescovi» sepolti lì.
+
+**Repetti online (dizionario-repetti.it): ricerca completata il 6/10/2026 su 21 località.** Voci trovate e usate: Civitella, Oliveto, Cornia, Tuori, Tegoleto, Ciggiano, Viciomaggio, Badia al Pino, Pieve al Toppo (due voci), Majano, Montoto, Montarfoni, Dorna, Gaenna, San Martino in Poggio. Nessuna voce per Spoiano, Albergo, Gebbia, Ponticino, Matroia, Tribbio, Malpertuso.
+
+**Repetti: divergenze con la Pro Loco**
+- Morte del vescovo Eliotto a Civitella: Repetti 1182, Pro Loco 1186. Non usata.
+- Pieve a Maiano «aggregata più tardi» (Pro Loco): in un primo momento tolta, perché la voce Civitella elenca la parrocchia di «Montoto e Majano». La voce «Majano» chiarisce invece che nel 1833 i 91 abitanti di Majano erano nella Comunità di Arezzo e solo i 224 di Montoto in quella di Civitella: la frase della Pro Loco è coerente ed è tornata sul sito, attribuita.
 
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).

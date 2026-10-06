@@ -156,8 +156,8 @@ CODICI = {
     "d9e63c28": "-d=",  # Che cosa conserva oggi Montarfoni, oltre alla villa seicentesca?
     "d6eaf7ca": "Pv+",  # Da chi fu acquistata nel 1814 la villa-fattoria di Dorna?
     "961f484f": "-n=",  # Che cosa è la torre di Dorna, ricordata dal 1198?
-    "7591d2bd": "Pv+",  # A chi è dedicata la chiesa di San Martino in Poggio costruita nel 1690
-    "ff97d330": "Pv+",  # Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?
+    "144d50be": "Pv+",  # A chi è dedicata l'attuale chiesa di San Martino in Poggio?
+    "b4f36db1": "Pv+",  # Grazie al patrimonio di chi fu costruita la chiesa dei Santi Maria e C
     "d3a07030": "-n=",  # Come descrissero i fiorentini il castello di Gaenne, passato sotto il 
     "0aeb1238": "Pv=",  # A chi apparteneva il castello di Gaenne nel 1069?
     "b8b3b4f1": "-v=",  # Tra quali frazioni si trova la località Le Caserosse?
@@ -367,4 +367,26 @@ CODICI = {
     "e65747b8": "Pv+",  # Quale di questi è uno dei quattro rioni che corrono il Sarapino?
     "f6ac606f": "Pv=",  # Quale porta di Civitella fu distrutta dalle bombe nel 1944?
     "e8da5b98": "Pv+",  # A chi donarono Palazzo Ninci i suoi proprietari nel 1917?
+    "ccfe4a64": "Nv+",  # In quale giorno del 1774 fu emanato il provvedimento che assegnò nove 
+    "f262764e": "Pv+",  # Quale comune fu staccato dalla Comunità di Civitella nel 1774 e passò 
+    "41b02c31": "Pv=",  # Chi difese Civitella nel 1554 dall'assalto delle truppe senesi di Pier
+    "7f8563ab": "Nv+",  # Quanti abitanti contava la Comunità di Civitella nel 1833, secondo il 
+    "d1b0f93f": "Pv+",  # A quale monastero fiorentino furono incorporate nel 1441 le chiese di 
+    "99383471": "-d+",  # Che cosa raffigurava il sigillo dell'antico Comune di Oliveto?
+    "84b5459a": "-v+",  # A chi consegnò Azzone degli Ubertini il castello di Oliveto nel settem
+    "c849d496": "-n+",  # Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano,
+    "56054fd7": "Pv+",  # Di quale badia era il patronato su Cornia dal secolo XI, secondo il Repetti?
+    "a4286437": "Nv+",  # In quale data il popolo di Tegoleto si sottomise alla Repubblica fiore
+    "418b0da7": "-v+",  # Chi si accampò a Ciggiano nel 1307, secondo il Repetti?
+    "d3c01c7d": "-v+",  # Da quale località vicina doveva distinguersi «Vicione Maggiore», l'ant
+    "a4e2efc3": "-v+",  # Che cosa fu firmato il 20 aprile 1261 nella chiesa della Badia al Pino
+    "97b3e142": "-d+",  # Che cosa accadeva alle acque della Chiana presso il Toppo nell'XI seco
+    "65c7e281": "-v+",  # Con quale nome popolare era chiamata la Pieve al Toppo, secondo il Rep
+    "f6b39c53": "Nn+",  # Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo
+    "84a6f9e7": "-v+",  # A quale Comunità apparteneva Majano nel 1833, secondo il Repetti?
+    "6030ead1": "Pv+",  # Con quale nome il Repetti distingue la Pieve a Maiano del comune di Ci
+    "bf03cb86": "Pv+",  # Da quale espressione latina deriva il nome di Montoto, secondo il Repe
+    "42bc1e10": "Pv+",  # A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello
+    "ccb2628a": "Pv+",  # In quale privilegio del 1356 il castello di Gaenne è ricordato tra que
+    "3cb5660e": "-v+",  # A chi pagava ancora un canone annuo, nell'Ottocento, il proprietario d
 }

@@ -1669,25 +1669,25 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/borghi-minori.html#dorna"
 },
 {
-"id": "7591d2bd",
+"id": "144d50be",
 "c": "borghi",
 "d": 3,
-"q": "A chi è dedicata la chiesa di San Martino in Poggio costruita nel 1690?",
+"q": "A chi è dedicata l'attuale chiesa di San Martino in Poggio?",
 "a": "Ai Santi Maria e Carlo",
 "x": [
 "A San Martino e San Rocco",
 "A San Biagio",
 "A Sant'Andrea"
 ],
-"s": "Il titolo ricorda il nobile fiorentino Carlo Casini, che la finanziò.",
+"s": "Il titolo ricorda il nobile Carlo Casini, che la finanziò.",
 "l": "frazioni/borghi-minori.html#san-martino-in-poggio"
 },
 {
-"id": "ff97d330",
+"id": "b4f36db1",
 "c": "borghi",
 "d": 3,
-"q": "Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?",
-"a": "Il nobile fiorentino Carlo Casini",
+"q": "Grazie al patrimonio di chi fu costruita la chiesa dei Santi Maria e Carlo a San Martino in Poggio?",
+"a": "Il nobile Carlo Casini",
 "x": [
 "Il vescovo Guglielmino degli Ubertini",
 "La famiglia Pecchioli",
@@ -3845,11 +3845,11 @@ window.QUIZ_DOMANDE = [
 "q": "Da quale anno San Martino in Poggio è parrocchia?",
 "a": "1814",
 "x": [
-"1690",
+"1700",
 "1726",
 "1917"
 ],
-"s": "La chiesa del 1690 fu ampliata nel 1726 e divenne parrocchia nel 1814.",
+"s": "La chiesa dei Santi Maria e Carlo fu ampliata nel 1726 e divenne parrocchia con un decreto del vescovo del 30 maggio 1814.",
 "l": "frazioni/borghi-minori.html#san-martino-in-poggio"
 },
 {
@@ -4255,7 +4255,7 @@ window.QUIZ_DOMANDE = [
 "Di un organo",
 "Di un portico a tre archi"
 ],
-"s": "La chiesa dei Santi Maria e Carlo, costruita nel 1690, fu ampliata nel 1726 con due nuovi altari.",
+"s": "La chiesa dei Santi Maria e Carlo fu ampliata nel 1726 con due nuovi altari.",
 "l": "frazioni/borghi-minori.html#san-martino-in-poggio"
 },
 {
@@ -4549,7 +4549,7 @@ window.QUIZ_DOMANDE = [
 "Lucignano",
 "Bucine"
 ],
-"s": "Nel 1774 nove piccoli comuni furono aggregati a Civitella; Ciggiano è tra quelli ricordati sia dagli itinerari del Comune sia dalla Pro Loco.",
+"s": "Il 14 novembre 1774 alla Comunità di Civitella furono assegnati nove comuni: Civitella, Oliveto, Viciomaggio con Tuori, Tegoleto, Badia al Pino, Ciggiano, Cornia, Montarfoni e Montoto (Repetti).",
 "l": "storia.html"
 },
 {
@@ -4621,5 +4621,313 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Palazzo Ninci, in piazza Lazzeri, fu donato nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925.",
 "l": "frazioni/civitella.html"
+},
+{
+"id": "ccfe4a64",
+"c": "storia",
+"d": 3,
+"q": "In quale giorno del 1774 fu emanato il provvedimento che assegnò nove comuni alla Comunità di Civitella?",
+"a": "Il 14 novembre",
+"x": [
+"Il 29 giugno",
+"Il 1° gennaio",
+"Il 25 marzo"
+],
+"s": "Con un provvedimento del 14 novembre 1774 alla Comunità di Civitella furono assegnati nove comuni preesistenti (Repetti).",
+"l": "storia.html"
+},
+{
+"id": "f262764e",
+"c": "storia",
+"d": 3,
+"q": "Quale comune fu staccato dalla Comunità di Civitella nel 1774 e passò a Monte San Savino?",
+"a": "Montagnano",
+"x": [
+"Montarfoni",
+"Montoto",
+"Ciggiano"
+],
+"s": "Secondo il Repetti, con la legge del 1774 il comune di Montagnano fu unito alla Comunità di Monte San Savino.",
+"l": "storia.html"
+},
+{
+"id": "41b02c31",
+"c": "storia",
+"d": 2,
+"q": "Chi difese Civitella nel 1554 dall'assalto delle truppe senesi di Piero Strozzi?",
+"a": "Paolo da Castello",
+"x": [
+"Giovanni dalle Bande Nere",
+"Niccolò Piccinino",
+"Buonconte da Montefeltro"
+],
+"s": "Paolo da Castello, capitano al servizio di Cosimo I de' Medici, difese Civitella e la fortificò con nuove mura.",
+"l": "storia.html"
+},
+{
+"id": "7f8563ab",
+"c": "storia",
+"d": 3,
+"q": "Quanti abitanti contava la Comunità di Civitella nel 1833, secondo il Repetti?",
+"a": "4.883",
+"x": [
+"1.883",
+"8.814",
+"14.883"
+],
+"s": "Nel 1833 la Comunità contava 4.883 abitanti; al censimento del 2021 il comune ne contava 8.814.",
+"l": "storia.html"
+},
+{
+"id": "d1b0f93f",
+"c": "frazioni",
+"d": 3,
+"q": "A quale monastero fiorentino furono incorporate nel 1441 le chiese di Civitella e della Badia al Pino?",
+"a": "Il monastero di Santa Brigida",
+"x": [
+"L'abbazia di Vallombrosa",
+"Il convento di San Marco",
+"La basilica di Santa Croce"
+],
+"s": "Una bolla di papa Eugenio IV del 17 novembre 1441 le incorporò nel monastero di Santa Brigida presso Firenze (Repetti).",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "99383471",
+"c": "frazioni",
+"d": 1,
+"q": "Che cosa raffigurava il sigillo dell'antico Comune di Oliveto?",
+"a": "Un olivo carico di frutti",
+"x": [
+"Una torre merlata",
+"Un leone rampante",
+"Una croce rossa"
+],
+"s": "Il Repetti ricorda il sigillo del Comune di Oliveto: un olivo in pieno frutto in campo bianco e nero.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "84b5459a",
+"c": "storia",
+"d": 2,
+"q": "A chi consegnò Azzone degli Ubertini il castello di Oliveto nel settembre 1385?",
+"a": "Alla Repubblica di Firenze",
+"x": [
+"Alla Repubblica di Siena",
+"Al vescovo di Arezzo",
+"Ai Visconti di Milano"
+],
+"s": "Ricevuto in accomandigia da Firenze nel giugno 1385, l'8 settembre Azzone consegnò il castello, che i fiorentini fortificarono di torri.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "c849d496",
+"c": "storia",
+"d": 2,
+"q": "Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano, ripresi dopo l'invasione di Niccolò Piccinino?",
+"a": "Di smantellarli",
+"x": [
+"Di ricostruirli più grandi",
+"Di venderli ai senesi",
+"Di affidarli al vescovo di Arezzo"
+],
+"s": "Nel 1431 Piccinino prese Ciggiano e Oliveto; riconquistati, nel 1433 Firenze ordinò di smantellarli (Repetti).",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "56054fd7",
+"c": "frazioni",
+"d": 3,
+"q": "Di quale badia era il patronato su Cornia dal secolo XI, secondo il Repetti?",
+"a": "La badia di Agnano",
+"x": [
+"La Badia del Pino",
+"L'abbazia di Vallombrosa",
+"L'abbazia di Camaldoli"
+],
+"s": "Dal secolo XI Cornia era dei monaci della badia d'Agnano; nel 1350 l'abate la pose sotto l'accomandigia di Firenze.",
+"l": "frazioni/cornia.html"
+},
+{
+"id": "a4286437",
+"c": "storia",
+"d": 3,
+"q": "In quale data il popolo di Tegoleto si sottomise alla Repubblica fiorentina?",
+"a": "Il 29 marzo 1385",
+"x": [
+"Il 26 giugno 1288",
+"Il 14 novembre 1774",
+"Il 2 agosto 1554"
+],
+"s": "Secondo il Repetti il popolo di Tegoleto si sottomise a Firenze il 29 marzo 1385.",
+"l": "frazioni/tegoleto.html"
+},
+{
+"id": "418b0da7",
+"c": "storia",
+"d": 2,
+"q": "Chi si accampò a Ciggiano nel 1307, secondo il Repetti?",
+"a": "Un esercito della lega guelfa toscana",
+"x": [
+"Le truppe di Niccolò Piccinino",
+"L'esercito imperiale di Arrigo VII",
+"I ghibellini di Arezzo"
+],
+"s": "Nel 1307 Ciggiano era di parte guelfa e vi si accampò un esercito della lega guelfa toscana.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "d3c01c7d",
+"c": "frazioni",
+"d": 2,
+"q": "Da quale località vicina doveva distinguersi «Vicione Maggiore», l'antico nome di Viciomaggio?",
+"a": "Da Vicione Piccolo, cioè Battifolle",
+"x": [
+"Da Vicchio di Mugello",
+"Da Vicopisano",
+"Da Vico d'Elsa"
+],
+"s": "Il Repetti spiega che Vicione Maggio si chiamava così per distinguerlo dal vicino Vicione Piccolo, cioè Battifolle.",
+"l": "frazioni/viciomaggio.html"
+},
+{
+"id": "a4e2efc3",
+"c": "storia",
+"d": 2,
+"q": "Che cosa fu firmato il 20 aprile 1261 nella chiesa della Badia al Pino?",
+"a": "La concordia tra il vescovo Guglielmino e i cortonesi fuorusciti",
+"x": [
+"La pace tra Arezzo e Siena",
+"Lo statuto del comune di Civitella",
+"La resa di Civitella ai fiorentini"
+],
+"s": "Secondo il Repetti, nella chiesa della Badia furono firmati i capitoli di concordia tra Guglielmino degli Ubertini e i cortonesi fuorusciti.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "97b3e142",
+"c": "geo",
+"d": 1,
+"q": "Che cosa accadeva alle acque della Chiana presso il Toppo nell'XI secolo, secondo il Repetti?",
+"a": "Ristagnavano quasi ferme, divise tra il Valdarno e il Tevere",
+"x": [
+"Formavano una grande cascata",
+"Scorrevano tutte verso il mare di Livorno",
+"Erano già state bonificate dai Medici"
+],
+"s": "Nell'XI secolo le acque della Chiana presso il Toppo «bilicavano»: una parte andava verso il Valdarno aretino, una parte con il Paglia verso il Tevere.",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "65c7e281",
+"c": "frazioni",
+"d": 2,
+"q": "Con quale nome popolare era chiamata la Pieve al Toppo, secondo il Repetti?",
+"a": "Pieve all'Intoppo",
+"x": [
+"Pieve del Poggio",
+"Pieve della Chiana",
+"Pieve dei Pellegrini"
+],
+"s": "Il Repetti la registra come «Pieve al Toppo, volgarmente detta all'Intoppo».",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "f6b39c53",
+"c": "frazioni",
+"d": 3,
+"q": "Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo il Repetti?",
+"a": "24",
+"x": [
+"4",
+"12",
+"50"
+],
+"s": "Prima della rovina del 1502 la pieve aveva 24 chiese dipendenti, tra cui quelle di Civitella, Tegoleto, Oliveto, Viciomaggio, Ciggiano e Cornia.",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "84a6f9e7",
+"c": "frazioni",
+"d": 2,
+"q": "A quale Comunità apparteneva Majano nel 1833, secondo il Repetti?",
+"a": "A quella di Arezzo",
+"x": [
+"A quella di Civitella",
+"A quella di Laterina",
+"A quella di Bucine"
+],
+"s": "Nel 1833 i 91 abitanti di Majano erano nella Comunità di Arezzo, i 224 di Montoto in quella di Civitella; Pieve a Maiano entrò nel comune più tardi.",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "6030ead1",
+"c": "frazioni",
+"d": 3,
+"q": "Con quale nome il Repetti distingue la Pieve a Maiano del comune di Civitella?",
+"a": "Majano di Valle Lunga",
+"x": [
+"Majano di Lucardo",
+"Majano di Fiesole",
+"Majano al Toppo"
+],
+"s": "Il Repetti la chiama «Majano di Valle Lunga», nel Val d'Arno aretino, per distinguerla dagli altri Majano della Toscana.",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "bf03cb86",
+"c": "borghi",
+"d": 3,
+"q": "Da quale espressione latina deriva il nome di Montoto, secondo il Repetti?",
+"a": "Mons tutus, «monte sicuro»",
+"x": [
+"Mons altus, «monte alto»",
+"Mons Othonis, «monte di Ottone»",
+"Mons totus, «monte intero»"
+],
+"s": "Il Repetti registra la voce come «Montoto (Mons tutus)».",
+"l": "frazioni/borghi-minori.html#montoto"
+},
+{
+"id": "42bc1e10",
+"c": "borghi",
+"d": 3,
+"q": "A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello di Montoto?",
+"a": "Ai Santi Flora e Lucilla",
+"x": [
+"A Santa Maria della Pieve",
+"A San Domenico",
+"A San Francesco"
+],
+"s": "Il 2 marzo 1051 Golizo vendette all'abate Enrico dei Santi Flora e Lucilla un quarto del castello e della chiesa di San Giovanni Battista.",
+"l": "frazioni/borghi-minori.html#montoto"
+},
+{
+"id": "ccb2628a",
+"c": "borghi",
+"d": 3,
+"q": "In quale privilegio del 1356 il castello di Gaenne è ricordato tra quelli del contado aretino?",
+"a": "In quello dell'imperatore Carlo IV alla città di Arezzo",
+"x": [
+"Nella bolla di papa Eugenio IV",
+"Negli statuti della Repubblica di Siena",
+"Nel catasto del granduca Pietro Leopoldo"
+],
+"s": "Il Repetti ricorda Gaenna tra i castelletti del contado aretino nel privilegio di Carlo IV del 1356.",
+"l": "frazioni/borghi-minori.html#gaenne"
+},
+{
+"id": "3cb5660e",
+"c": "borghi",
+"d": 2,
+"q": "A chi pagava ancora un canone annuo, nell'Ottocento, il proprietario della tenuta di Dorna?",
+"a": "Al capitolo della cattedrale di Arezzo",
+"x": [
+"Al Comune di Civitella",
+"Al granduca di Toscana",
+"Ai monaci di Camaldoli"
+],
+"s": "Era un'eredità della donazione del 1181, con cui Rolandino di Mambilia lasciò al capitolo i suoi beni nel castello di Dorna.",
+"l": "frazioni/borghi-minori.html#dorna"
 }
 ];
