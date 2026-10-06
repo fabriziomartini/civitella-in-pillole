@@ -16,3 +16,12 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
   - **7:** 1182 palazzo-torre, 1248 dimora di Guglielmino, "vescovi-conti". N1 conferma solo il 1048, il passaggio al vescovo nell'XI secolo e le nuove fortificazioni di Guglielmino nella seconda metà del XIII secolo.
   - **10:** "Palatium-torre" sulla più alta delle due sommità, recinto con cisterna.
   - Queste informazioni venivano dal Repertorio (scheda T002), che N1 non contiene.
+
+## Civitella: frasi 16–23, notebook N1
+- **Confermate:** 19 (115 vittime a Civitella; anche Cornia, Gebbia e San Pancrazio) e 23 (Marcia per la pace con Bucine).
+- **20 Cifre delle vittime: PARZIALE.** "204" era una somma fatta da me e "bilancio più citato" un mio giudizio. Riscritta con i numeri come li riportano le fonti: 244 secondo ToscanaNovecento (115 + 58 + 71); per l'Atlante 146 tra Civitella, Cornia e Gebbia e 58 a San Pancrazio. Ora è coerente con storia.html.
+- **21 Stanza della Memoria: PARZIALE.** Il 2004 e gli "atti giudiziari" non sono nelle fonti. Riscritta: "Sala della Memoria" allestita dall'associazione «Civitella Ricorda» in via Martiri di Civitella, con reperti, fotografie, testimonianze, libri, videocassette e residuati bellici (ToscanaNovecento).
+- **22 Cappella dei Martiri: confermata.** La "lapide sul luogo dell'eccidio" non ha una citazione diretta: sostituita con il monumento «Pietà del giugno 1944», sul muro accanto alla chiesa (ToscanaNovecento).
+- **Da ricontrollare in N3 (Repertorio):**
+  - **16–17:** Palazzo Becattini, non presente in N1;
+  - **18:** gli oratori della Santissima Trinità e della Madonna della Costarella. Confermati la Madonna di Mercatale, la cisterna e la Galleria comunale d'arte contemporanea.
