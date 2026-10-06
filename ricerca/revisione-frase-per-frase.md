@@ -2,20 +2,47 @@
 
 Ogni prompt contiene **tutte** le frasi di una pagina del sito, numerate ed estratte automaticamente dall'HTML. Le pagine lunghe sono divise in più parti, di 35 frasi al massimo.
 
-## Cosa c'è in ciascun notebook
+## Cosa c'è in ciascun notebook (inventario confermato il 6/10/2026)
 
-Ricostruito dai registri di questa ricerca. Prima di iniziare conviene confermarlo con il prompt di inventario qui sotto.
+**N1, "Civitella – verifica fonti" (42 fonti):**
+- annuari 2022 della Diocesi (parrocchie e aggregazioni territoriali);
+- Wikipedia: Civitella (due copie), Chiesa di Santa Maria Assunta, Villa Oliveto, Giostre del Toppo, Lano da Siena;
+- Discover Arezzo;
+- sito del Comune:
+  - itinerari 1, 2 e 3;
+  - schede di Badia al Pino, Castello di Gaenne, Ciggiano, Cornia, Montarfoni, Oliveto, Pieve a Maiano, Pieve al Toppo, Spoiano, Tegoleto e Viciomaggio;
+  - schede di Palazzo Ninci, Percorso Rosa, Porta Senese, Via della Costarella e Sede comunale;
+- Archivio della Memoria (Gebbia, luoghi della strage);
+- ToscanaNovecento;
+- SIUSA (Podesteria 1385–1838);
+- Villa Oliveto (Regione Toscana, Storia e Memorie);
+- schedature del Piano per Viciomaggio, Pieve al Toppo e Tuori;
+- Atlante delle stragi (Civitella e San Pancrazio).
 
-| Notebook | Contenuto | Serve per |
-|---|---|---|
-| **N1** "Civitella – verifica fonti" (42 fonti, blocchi A–D di `fonti-notebooklm.md`) | Schede «Luoghi» e itinerari del Comune; vecchio portale Halleyweb; annuario delle parrocchie della Diocesi; SIUSA; Archivio della Memoria; Atlante delle stragi; ToscanaNovecento; Villa Oliveto (Regione, Storia e Memorie); Discover Arezzo; Wikipedia (Civitella, Badia al Pino, Villa Oliveto) | Frazioni, Borghi, Storia, Patrimonio, Home |
-| **N2** Piano Strutturale | Solo **Norme Tecniche di Attuazione** e **Repertorio dei beni storici** | Non serve più: gli stessi due PDF sono anche in N3 |
-| **N3** economia e feste | Cittaslow; CEIA, Chimet, Del Tongo e Kico; Slow Food, Città dell'Olio, Strada del Vino; sagre e feste (Sagre Toscane, Arezzo Notizie, La Nazione, Arezzo24); RioFest; sport; elenco RUNTS e lettera della Consulta dello Sport; PDF del Piano (**NTA**, **Repertorio**, **C1.1 Relazione generale**, tav. C4.4, B8.6.6, B8.1.4b, relazione del Piano Operativo); Wikipedia (Civitella, squadra Del Tongo) | Geografia, Lavoro e sapori, Feste e associazioni; seconda passata per tutte le altre pagine |
+**N3, economia e feste (49 fonti su 50):**
+- Piano: Relazione del Piano Operativo 2023, NTA, Repertorio, C1.1 Relazione generale, C4.4, B8.1.4b, B8.6.6;
+- Wikipedia: Civitella e squadra Del Tongo;
+- Cittaslow;
+- aziende: CEIA (sito, Assosicurezza, testo della storia), Chimet, Kico e Del Tongo (Saturno Notizie), Zone Creative;
+- Città dell'Olio, Strada del Vino (Vinoway, Vetrina Toscana), Slow Food;
+- feste: Sagre Toscane (Crostino, Bistecca, Cinghiale, Baccelli, Pesca, Uva, Festa al Tegoleto), USD Tegoleto, Presepe di Oliveto, Fiera del Miele, Calici sotto la Torre (Arezzo24), RioFest, Festa dell'Uva (ArezzoTv);
+- sport: aree sportive (Centritalia), Polisportiva Pieve al Toppo 06;
+- RUNTS e lettera della Consulta dello Sport (TMPL989131_ass.pdf);
+- articoli di Arezzo Notizie e La Nazione incollati come testo.
 
-**Prompt di inventario** (lancialo in N1 e in N3 e incollami le due risposte):
-```
-Elenca tutte le fonti di questo notebook, una per riga, con il titolo esatto e il tipo (sito web, PDF, testo copiato). Indica anche il numero totale.
-```
+**N2:** contiene solo NTA e Repertorio, che sono **già in N3**. Non serve più.
+
+**Nota su N3:** queste fonti usate dal sito **non** sono in N3, che ha un solo posto libero:
+- Festa della Rosa;
+- Cinema sotto le Stelle;
+- Calici sotto la Torre 2026 (La Nazione);
+- Mercato dei Sapori e della Terra;
+- Sagra della Pesca (La Nazione);
+- Riserva di Ponte a Buriano e Penna (Parks.it);
+- Tuttitalia (superficie);
+- Firenze Post (Del Tongo).
+
+Per queste frasi è normale che N3 risponda NON PRESENTE. Le abbiamo già verificate sul web o sui testi che hai incollato tu.
 
 ## Come procedere
 1. **Pagine di frazioni, Borghi, Storia, Patrimonio, Home, Amministrazione:** lancia il prompt prima in **N1**. Poi incollami la risposta: per le frasi NON PRESENTE o PARZIALE ti preparo un secondo prompt, breve e mirato, da lanciare in **N3**, che ha il Piano Strutturale e la Relazione generale.
