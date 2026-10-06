@@ -296,7 +296,7 @@ Totale: 330 domande.
    ✔ Ildebrando Cacciaconti · ✘ Guido Tarlati · Buonconte da Montefeltro · Niccolò Piccinino  
    _Nel 1252 Civitella capitolò e fu rasa al suolo; il vescovo Guglielmino la fece poi ricostruire con una doppia cerchia di mura._ → `storia.html`
 51. [fd4ef637] ●○○ `-d=` **Quale di questi comuni fu soppresso e unito a Civitella nel 1774?**  
-   ✔ Tuori · ✘ Monte San Savino · Lucignano · Bucine  
+   ✔ Ciggiano · ✘ Monte San Savino · Lucignano · Bucine  
    _Nel 1774 Pietro Leopoldo unì a Civitella nove piccoli comuni: Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto._ → `storia.html`
 52. [79914e1e] ●○○ `-d=` **Come era chiamata Civitella per la frequente presenza dei vescovi aretini?**  
    ✔ «Civitella del Vescovo» · ✘ «Civitella dei Medici» · «Civitella del Papa» · «Civitella dei Conti»  

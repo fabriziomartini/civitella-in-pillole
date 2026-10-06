@@ -4543,7 +4543,7 @@ window.QUIZ_DOMANDE = [
 "c": "storia",
 "d": 1,
 "q": "Quale di questi comuni fu soppresso e unito a Civitella nel 1774?",
-"a": "Tuori",
+"a": "Ciggiano",
 "x": [
 "Monte San Savino",
 "Lucignano",
