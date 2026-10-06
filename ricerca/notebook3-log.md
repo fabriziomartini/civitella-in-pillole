@@ -202,3 +202,6 @@ Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11
   - Pagina Facebook: facebook.com/cinemategoleto.
   - Conferma l'attribuzione del prompt 5 e smentisce il "non presente" del prompt 7.
 - **Fiera del Fiore / Festa delle Palme:** nessun riferimento trovato nemmeno dall'utente. **Esclusa**, come la Festa Siner Week.
+
+## Correzione dopo la pubblicazione (6/10/2026)
+- **"Caserosse":** le NTA (art. 92) elencano "le tre zone industriali isolate Del Tongo, Chimet e Caserosse" senza spiegare il nome. La pagina Lavoro e sapori diceva che le tre zone "portano il nome delle aziende che le hanno occupate": per Caserosse era una deduzione senza fonte, probabilmente sbagliata, perché sembra il nome di una località (Case Rosse). Ora il testo dice solo che il Piano la chiama così. Da chiarire se si trova una fonte.
