@@ -659,8 +659,8 @@ Le 25 pagine sono state confrontate frase per frase con questo file. I dettagli 
 | Nel referendum del 2017 sulla fusione tra Laterina e Pergine Valdarno fu decisivo il voto di Ponticino | Tuttitalia (verifica-log, verifica web) | W | media |
 
 ### Da chiarire (non usati per ora)
-- Villa di Viciomaggio: nella risposta di N3 la scheda L282, che il sito descrive, si intitola «Villa Milloni (Fattoria di Viciomaggio)» (V013), mentre «Villa di Viciomaggio» sarebbe un'altra scheda (V014). Da controllare sul PDF del Repertorio.
-- Fattoria di Maiano, vincolo nazionale: due risposte di N3 si contraddicono («esistente» nell'estrazione per frazioni, campi vuoti nella risposta al blocco R5). Il sito dice solo «censita». Da controllare sulla scheda V006.
+- ~~Villa di Viciomaggio~~ **Chiarito il 6/10/2026 (N3, citazioni dal Repertorio):** nell'elenco delle ville ci sono due schede distinte, V013 «Villa Milloni (Fattoria di Viciomaggio)» e V014 «Villa di Viciomaggio». La scheda descrittiva L282 (restauro 1868, limonaia 1836, cappella con orologio e campanile a vela) chiama l'edificio solo «la villa padronale» e non nomina Villa Milloni; N3 la collega una volta a V013 e una volta a V014. Sul sito ora si chiama «Villa padronale di Viciomaggio», come nella scheda L282.
+- ~~Fattoria di Maiano~~ **Chiarito il 6/10/2026 (N3):** vincolo nazionale e regionale assenti sia nell'elenco (V006) sia nella scheda monografica; nell'elenco V006 i vincoli provinciale e comunale risultano «esistente», nella scheda monografica i campi sono vuoti. Sul sito resta «censita nel Repertorio».
 - Gebbia «collinare»: confermato dall'utente il 6/10/2026 («è su in collina e non in pianura»); vedi la riga U nella sezione Gebbia.
 - Pieve del Toppo: la scheda B024a del Repertorio scrive «983», la B024 «938» (probabile refuso).
 
@@ -749,7 +749,7 @@ Le 25 pagine sono state confrontate frase per frase con questo file. I dettagli 
 - «Centro storico di Tuori tutelato da vincolo nazionale»: SMENTITO. Il vincolo è su cassero, chiesa e cimitero.
 - Patrono di Tuori San Giorgio «23 aprile»: non confermato. Tolto dal riquadro «In breve».
 - Viciomaggio «ricordato in un atto notarile del 1024»: l'atto notarile non c'è. Resta «fin dal 1024». Aggiornamento: il Repetti cita un istrumento della cattedrale di Arezzo del novembre 1024 rogato «nella villa di Vicione maggiore»; ora è sul sito con la fonte.
-- «Villa Milloni»: il nome non compare né nel Repertorio né sul web (⚠ ma vedi «Da chiarire» in fondo alla sezione 8c: in N3 la scheda L282 si intitola «Villa Milloni (Fattoria di Viciomaggio)»). Per il Repertorio è la «Villa di Viciomaggio» (L282), e il sito la elencava due volte. Ora c'è una sola voce, «Villa di Viciomaggio» (anche in Patrimonio e nel quiz).
+- «Villa Milloni» come nome della villa descritta sul sito: il nome compare nel Repertorio solo nell'elenco delle ville (V013, «Villa Milloni (Fattoria di Viciomaggio)»), non nella scheda L282 usata dal sito; non si usa. La villa è chiamata «Villa padronale di Viciomaggio».
 - Vasi del I secolo a.C. «al Museo di Arezzo»: il Repertorio dice «luogo sconosciuto». Al museo c'è solo il cammeo di diaspro.
 - Leggenda di Annibale a Viciomaggio: non è in nessuna fonte. Tolta.
 
