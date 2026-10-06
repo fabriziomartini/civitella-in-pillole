@@ -255,15 +255,15 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | Attestato nel 1021 | Repertorio | N | alta |
 | Parrocchia dei Santi Giorgio e Luca (titolo ufficiale della Diocesi; il Comune scrive «Giorgio e Lucia») | Annuario della Diocesi, itinerario del Comune | N | alta |
-| Centro storico con vincolo nazionale | Repertorio | N | alta |
-| Il Saracino: casa colonica del XVI secolo della Fraternita dei Laici, con portale ad arco policentrico | Repertorio | N | media |
+| Vincolo nazionale su cassero, chiesa e cimitero (non sul centro storico) | Repertorio (N017) | R | alta |
+| Il Saracino: casa colonica del XVI secolo della Fraternita dei Laici, con portico a tre archi a tutto sesto e loggia ad arco policentrico ribassato | Repertorio (M308) | R | media |
 
 ### Viciomaggio
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
 | Parrocchia di San Martino | Annuario della Diocesi | N | alta |
 | Il nome viene da *vicus maior* | Itinerari del Comune | N | alta |
-| Villa Milloni: settecentesca, decorazioni del 1868, limonaia del 1836, cappella secentesca con orologio e campanile a vela | Repertorio | N | alta |
+| Villa di Viciomaggio: villa padronale settecentesca, restauro della parte posteriore nel 1868 con decorazioni pittoriche, limonaia del 1836, cappella secentesca con orologio e campanile a vela | Repertorio (L282) | R | alta |
 | Nel 1872 vi fu trovata un'urna etrusca ellenistica con l'iscrizione *l. prastn[a] nerinal* | Repertorio | N | alta |
 | Nella zona industriale hanno sede CEIA e uno stabilimento Chimet (anni Ottanta) | CEIA, Chimet | N | alta |
 | Festa della Rosa, organizzata dall'A.S.D. Viciomaggio: nel 2026 dal 23 aprile al 3 maggio | Sagre Toscane | W | media |
@@ -403,6 +403,15 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 - Fattoria di Maiano «tutelata da vincolo nazionale»: SMENTITA. Nella scheda del Repertorio il vincolo nazionale non è notificato. Ora è «censita nel Repertorio».
 - Paleolitico del Podere Casella come «le testimonianze più antiche del comune»: il superlativo non ha fonte. Tolto.
 - Civitella «comprende la maggior parte del territorio di Ponticino»: non confermato. L'itinerario del Comune dice che presso Ponticino si esce brevemente dal territorio comunale, e l'ISTAT attribuisce il centro abitato a Laterina Pergine Valdarno. Tolto.
+
+**Tuori e Viciomaggio (revisione R7)**
+- Tuori nel «terzo anello difensivo dello Stato aretino», «vigilava sulla Val di Chiana e sulla Valdambra», cassero «punto di comunicazione visiva con la Val di Chiana senese»: non confermati dal Repertorio. Venivano da ruderimedievali.altervista.org. Tolti.
+- «Centro storico di Tuori tutelato da vincolo nazionale»: SMENTITO. Il vincolo è su cassero, chiesa e cimitero.
+- Patrono di Tuori San Giorgio «23 aprile»: non confermato. Tolto dal riquadro «In breve».
+- Viciomaggio «ricordato in un atto notarile del 1024»: l'atto notarile non c'è. Resta «fin dal 1024».
+- «Villa Milloni»: il nome non compare né nel Repertorio né sul web. Per il Repertorio è la «Villa di Viciomaggio» (L282), e il sito la elencava due volte. Ora c'è una sola voce, «Villa di Viciomaggio» (anche in Patrimonio e nel quiz).
+- Vasi del I secolo a.C. «al Museo di Arezzo»: il Repertorio dice «luogo sconosciuto». Al museo c'è solo il cammeo di diaspro.
+- Leggenda di Annibale a Viciomaggio: non è in nessuna fonte. Tolta.
 
 **Pieve al Toppo, Spoiano, Tegoleto (revisione R6)**
 - Pieve «distrutta intorno al 1500 da eventi bellici»: il Repertorio dà la data esatta, 1502, e non parla di eventi bellici. Corretto. (Il Repertorio riporta in un'altra scheda «983» invece di 938: probabile refuso, sul sito resta il 938.)

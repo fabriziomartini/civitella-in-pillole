@@ -157,3 +157,18 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 - **6: PARZIALE nella sostanza.** I lavori del campetto in via dei Boschi sono «in corso»: corretto il testo, che lo dava per fatto.
 - **8: fave con olio, pecorino o finocchiona: NON PRESENTE.** Tolto.
 - **9 San Biagio a Tegoleto: N3 si confonde con Ciggiano** e dice che la parrocchia di Tegoleto è San Michele Arcangelo. È smentito dall'annuario della Diocesi (San Biagio) e dall'itinerario 3 del Comune (X secolo, ristrutturata nel XII, resti dell'abside), già verificati in N1. Resta.
+
+## Tuori e Viciomaggio: blocco R7, solo N3
+- **Confermate:**
+  - 4: cassero «forse costruito nel XIV secolo», in parte abitato e in parte abbandonato (S052);
+  - 8: urna etrusca del 1872 con iscrizione (S019).
+- **Tuori:**
+  - **1, «terzo anello»: non presente.** Tolto, insieme a «vigilava su Val di Chiana e Valdambra» e alla «comunicazione visiva con la Val di Chiana senese» (venivano da ruderimedievali, non confermati).
+  - **2, vincolo sul centro storico: SMENTITA.** Il vincolo nazionale riguarda cassero, chiesa e cimitero (N017).
+  - **3, titolo della chiesa:** aggiunta la notizia del Repertorio (due chiese medievali, di San Giorgio e di Santa Lucia; nel 1583 «S. Lucia e S. Giorgio»). Tolto il patrono «23 aprile», non confermato.
+  - **5, Saracino:** corretta la descrizione della facciata, con il portico a tre archi e la loggia ad arco policentrico ribassato (M308).
+- **Viciomaggio:**
+  - **6, «atto notarile»: non presente.** Resta «fin dal 1024» (S070).
+  - **7, «Villa Milloni»: nome non confermato** (non è nel Repertorio né sul web). La descrizione è quella della «Villa di Viciomaggio» (L282), che il sito elencava due volte: ora c'è una sola voce, aggiornata anche in Patrimonio e nel quiz.
+  - **9, vasi del I secolo a.C.: «luogo sconosciuto».** Al Museo Mecenate c'è solo il cammeo di diaspro (S020): corretto.
+  - **10, leggenda di Annibale: non presente.** Tolta, anche dal sottotitolo della pagina.

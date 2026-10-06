@@ -1178,7 +1178,7 @@ window.QUIZ_DOMANDE = [
 "q": "Quale villa settecentesca si trova a Spoiano?",
 "a": "Villa Pecchioli",
 "x": [
-"Villa Milloni",
+"Villa di Viciomaggio",
 "Villa Oliveto",
 "Villa del Bosco"
 ],
@@ -1303,16 +1303,16 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/viciomaggio.html"
 },
 {
-"id": "cdf1c249",
+"id": "a06601d7",
 "c": "frazioni",
-"q": "In quale frazione si trova Villa Milloni, con la sua limonaia?",
+"q": "In quale frazione si trova la villa-fattoria settecentesca con una limonaia del 1836 e una cappella con orologio e campanile a vela?",
 "a": "Viciomaggio",
 "x": [
 "Spoiano",
 "Tuori",
 "Ciggiano"
 ],
-"s": "Villa Milloni è la Fattoria di Viciomaggio.",
+"s": "È la villa padronale di Viciomaggio, restaurata nel 1868.",
 "l": "frazioni/viciomaggio.html"
 },
 {

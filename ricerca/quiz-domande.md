@@ -290,7 +290,7 @@ Totale: 169 domande.
    ✔ Laterina e Pergine Valdarno · ✘ Bucine e Arezzo · Monte San Savino e Arezzo · Bucine e Montevarchi  
    _Fino al 2017 Ponticino era diviso tra Civitella, Laterina e Pergine Valdarno._ → `frazioni/ponticino.html`
 32. [86a6174e] **Quale villa settecentesca si trova a Spoiano?**  
-   ✔ Villa Pecchioli · ✘ Villa Milloni · Villa Oliveto · Villa del Bosco  
+   ✔ Villa Pecchioli · ✘ Villa di Viciomaggio · Villa Oliveto · Villa del Bosco  
    _Villa Pecchioli è l'edificio simbolo di Spoiano._ → `frazioni/spoiano.html`
 33. [d00da1ec] **Che cosa divenne Villa Pecchioli, a Spoiano, nel 1928?**  
    ✔ Un asilo infantile · ✘ Un ospedale · Una caserma · Una scuola di musica  
@@ -319,9 +319,9 @@ Totale: 169 domande.
 41. [d7a4e134] **In quale anno fu trovata a Viciomaggio un'urna cineraria etrusca con iscrizione?**  
    ✔ 1872 · ✘ 1772 · 1922 · 1972  
    _L'urna ellenistica, con l'iscrizione l. prastn[a] nerinal, fu trovata nel 1872._ → `frazioni/viciomaggio.html`
-42. [cdf1c249] **In quale frazione si trova Villa Milloni, con la sua limonaia?**  
+42. [a06601d7] **In quale frazione si trova la villa-fattoria settecentesca con una limonaia del 1836 e una cappella con orologio e campanile a vela?**  
    ✔ Viciomaggio · ✘ Spoiano · Tuori · Ciggiano  
-   _Villa Milloni è la Fattoria di Viciomaggio._ → `frazioni/viciomaggio.html`
+   _È la villa padronale di Viciomaggio, restaurata nel 1868._ → `frazioni/viciomaggio.html`
 43. [1d45bdf1] **Su quale linea ferroviaria si trova la stazione di Albergo?**  
    ✔ Arezzo–Sinalunga · ✘ Firenze–Roma · Faentina · Porrettana  
    _Le stazioni di Albergo e di Civitella-Badia al Pino sono sulla ferrovia Arezzo–Sinalunga._ → `frazioni/albergo.html`
