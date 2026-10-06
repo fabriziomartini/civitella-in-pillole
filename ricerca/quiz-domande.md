@@ -6,9 +6,9 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 316 domande.
+Totale: 319 domande.
 
-## Geografia (42)
+## Geografia (44)
 
 1. [5a86694d] ●●● `Nv=` **Quanti residenti contava il comune al censimento ISTAT del 2021?**  
    ✔ 8.814 · ✘ 6.512 · 11.230 · 15.400  
@@ -136,8 +136,14 @@ Totale: 316 domande.
 42. [1ab2c013] ●○○ `Pd=` **Di quale catena collinare è una propaggine la zona collinare del comune?**  
    ✔ I Preappennini toscani · ✘ Le Alpi Apuane · Il Monte Amiata · Le Colline Metallifere  
    _La parte collinare e di bassa montagna, coperta di boschi, è una propaggine dei Preappennini toscani._ → `index.html`
+43. [2368801b] ●●○ `-v=` **Secondo il piano paesaggistico regionale, che cosa separa il monte di Civitella nella parte settentrionale della Val di Chiana?**  
+   ✔ La Val di Chiana dal Valdarno · ✘ La Val di Chiana dalla Val d'Orcia · Il Casentino dal Valdarno · La Toscana dall'Umbria  
+   _Il piano scrive che «il monte di Civitella Val di Chiana segna il punto di separazione col territorio del Valdarno»._ → `geografia.html`
+44. [cb9f19ff] ●○○ `-d=` **Da che cosa deriva la pianura della Val di Chiana?**  
+   ✔ Dal prosciugamento di un antico lago · ✘ Dal ritiro di un ghiacciaio · Da un'antica colata di lava · Dal ritiro del mare in età romana  
+   _La pianura, a circa 250 metri di quota, deriva dal prosciugamento di un lago pleistocenico._ → `geografia.html`
 
-## Storia (48)
+## Storia (49)
 
 1. [fe9e42b2] ●●● `Nv=` **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -283,6 +289,9 @@ Totale: 316 domande.
 48. [4fe3b32c] ●●● `Nv+` **Quanti piccoli comuni furono aggregati alla Comunità di Civitella nel 1774, secondo il Repertorio del Piano Strutturale?**  
    ✔ Nove · ✘ Tre · Quindici · Venti  
    _Il Repertorio parla di nove piccoli comuni aggregati nel 1774; tra questi gli itinerari del Comune ricordano Ciggiano, Viciomaggio e Badia al Pino._ → `storia.html`
+49. [3ff855bb] ●●● `Pv+` **Da quale vicariato dipendeva Civitella sotto i granduchi di Toscana?**  
+   ✔ Da quello di Monte San Savino · ✘ Da quello di Arezzo · Da quello di Cortona · Da quello di Montevarchi  
+   _Monte San Savino fu capoluogo di vicariato sotto i granduchi, con autorità su Civitella, Lucignano e Foiano della Chiana._ → `storia.html`
 
 ## Il 1944 (35)
 
