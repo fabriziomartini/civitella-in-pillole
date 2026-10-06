@@ -973,9 +973,11 @@ button:focus-visible {
 }
 
 .wm-btn.wm-quiz-begin {
-  margin: var(--wm-space-3) 0 var(--wm-space-4);
+  margin: var(--wm-space-4) 0 var(--wm-space-6);
+  padding: 0.95rem 2rem;
   border: 0;
   background: var(--wm-terracotta);
+  box-shadow: var(--wm-shadow-sm);
   color: var(--wm-white);
   font-size: 1.05rem;
   cursor: pointer;
