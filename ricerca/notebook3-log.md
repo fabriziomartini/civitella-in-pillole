@@ -179,3 +179,10 @@ Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11
   - **Gemellaggio con Kämpfelbach (Germania): CONFERMATO.** Arezzo Notizie dice che i rappresentanti partecipano al Mercato del Cacio; Wikipedia conferma il gemellaggio e aggiunge Ain Beda (Sahara Occidentale). **Si può aggiungere.**
   - **Ottobre musicale – Il pullman della musica:** viene solo dal Repertorio (scheda TE001), che non dice se la rassegna sia ancora attiva. Si può citare al passato come attività ospitata dal Teatro Moderno, oppure lasciarla fuori.
   - **Porta in bronzo di Bino Bini nella chiesa di Santa Maria Assunta a Civitella: CONFERMATA** dal Repertorio e da una guida turistica (summerinitaly.com). **Da aggiungere** alla pagina di Civitella, che oggi non la cita.
+
+## Verifiche web del 6/10/2026 (dopo il prompt 7)
+- **La "Sagra della Pesca" di Pieve al Toppo è la sagra della PESCA, il frutto, non della pesca sportiva.** Lo dimostra il "Motoraduno Peach and Bikers" dell'ultimo giorno (La Nazione, "Fine estate in compagnia delle sagre dalla pesca alle lumache"). Sul sito va scritto in modo che non ci siano dubbi: "Sagra della Pesca (il frutto)", oppure con un'icona a forma di pesca.
+- **Calici sotto la Torre: ancora attiva.** Edizione dell'8 agosto 2026 dentro "Notti e Note d'Estate 2026"; la organizzano il Comune e Slow Food Valdichiana; vini delle aziende della Strada del Vino Terre di Arezzo, sommelier AIS (La Nazione, "Calici sotto la Torre l'8 agosto nel borgo di Civitella").
+- **Mercato dei Sapori e della Terra:** si tiene **ad aprile** (domenica 14 aprile 2024) nella piazza della chiesa di Tegoleto, appena rinnovata; 5ª edizione nel 2024. Lo organizzano il Comune e Slow Food Val di Chiana, con C&T Comunità di Tegoleto (La Nazione, due articoli). Si può mettere nel calendario ad aprile.
+- **Cinema sotto le stelle a Tegoleto:** nessun riscontro web. **Resta fuori.**
+- **Fiera del Fiore / Festa delle Palme:** nessun riscontro web. **Resta sospesa.**
