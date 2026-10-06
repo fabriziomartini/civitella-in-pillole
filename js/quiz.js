@@ -1,5 +1,5 @@
 // Quiz su Civitella in Val di Chiana.
-// Pesca N domande da window.QUIZ_DOMANDE alternando le categorie, mescola le risposte,
+// Pesca N domande da window.QUIZ_DOMANDE mescolando livelli e categorie, mescola le risposte,
 // mostra la correzione dopo ogni risposta e un riepilogo finale.
 (function () {
   var CATEGORIE = {
@@ -30,19 +30,69 @@
     return a;
   }
 
-  // Alterna le categorie in ordine casuale, così ogni partita tocca temi diversi.
+  var LIVELLI = { 1: "Facile", 2: "Media", 3: "Difficile" };
+  var CHIAVE_VISTE = "civitella-quiz-viste";
+
+  // Id delle domande già uscite, dalla più vecchia alla più recente.
+  function leggiViste() {
+    try { var v = JSON.parse(localStorage.getItem(CHIAVE_VISTE)); return Array.isArray(v) ? v : []; } catch (e) { return []; }
+  }
+
+  // Ricorda circa i due terzi dell'archivio: una domanda torna solo dopo che sono uscite quasi tutte le altre.
+  function salvaViste(nuove) {
+    try {
+      var v = leggiViste().filter(function (id) { return nuove.indexOf(id) === -1; }).concat(nuove);
+      var max = Math.floor(window.QUIZ_DOMANDE.length * 0.65);
+      localStorage.setItem(CHIAVE_VISTE, JSON.stringify(v.slice(-max)));
+    } catch (e) { /* storage non disponibile: il quiz funziona lo stesso */ }
+  }
+
+  // Partita bilanciata: ogni categoria ha lo stesso numero di domande (le eventuali in più vanno
+  // a categorie scelte a caso) e i tre livelli si dividono le domande in parti uguali.
+  // Dentro questi vincoli tutto è casuale; le domande uscite di recente vengono evitate.
   function pescaDomande(n) {
-    var gruppi = {};
-    window.QUIZ_DOMANDE.forEach(function (d) {
-      (gruppi[d.c] = gruppi[d.c] || []).push(d);
+    var tutte = window.QUIZ_DOMANDE;
+    var categorie = [];
+    tutte.forEach(function (d) { if (categorie.indexOf(d.c) === -1) categorie.push(d.c); });
+    var viste = leggiViste();
+    var eta = {};
+    viste.forEach(function (id, i) { eta[id] = viste.length - i; }); // 1 = uscita nell'ultima partita
+
+    // Posti per categoria: n diviso equamente, il resto a categorie diverse scelte a caso.
+    var posti = [];
+    var giro = Math.floor(n / categorie.length);
+    categorie.forEach(function (c) { for (var k = 0; k < giro; k++) posti.push(c); });
+    mescola(categorie).slice(0, n - posti.length).forEach(function (c) { posti.push(c); });
+
+    // Quote per livello: n diviso in tre, il resto a livelli scelti a caso.
+    var quota = { 1: Math.floor(n / 3), 2: Math.floor(n / 3), 3: Math.floor(n / 3) };
+    mescola([1, 2, 3]).slice(0, n % 3).forEach(function (l) { quota[l]++; });
+
+    var prese = {}, scelte = [];
+    mescola(posti).forEach(function (c) {
+      var libere = tutte.filter(function (d) { return d.c === c && !prese[d.id]; });
+      // Livelli ancora da riempire, dal più scoperto; a parità decide il caso.
+      var livelli = mescola([1, 2, 3]).sort(function (a, b) { return quota[b] - quota[a]; });
+      var candidate = [];
+      for (var i = 0; i < livelli.length && !candidate.length; i++) {
+        if (quota[livelli[i]] <= 0) continue;
+        candidate = libere.filter(function (d) { return d.d === livelli[i] && !eta[d.id]; });
+      }
+      if (!candidate.length) candidate = libere.filter(function (d) { return quota[d.d] > 0; });
+      if (!candidate.length) candidate = libere;
+      var mai = candidate.filter(function (d) { return !eta[d.id]; });
+      if (mai.length) candidate = mai;
+      else {
+        // Tutte già viste: si pesca nella metà uscita meno di recente.
+        candidate.sort(function (a, b) { return eta[b.id] - eta[a.id]; });
+        candidate = candidate.slice(0, Math.max(1, Math.ceil(candidate.length / 2)));
+      }
+      var d = candidate[Math.floor(Math.random() * candidate.length)];
+      prese[d.id] = true;
+      quota[d.d]--;
+      scelte.push(d);
     });
-    Object.keys(gruppi).forEach(function (k) { gruppi[k] = mescola(gruppi[k]); });
-    var scelte = [];
-    while (scelte.length < n) {
-      var chiavi = mescola(Object.keys(gruppi).filter(function (k) { return gruppi[k].length; }));
-      if (!chiavi.length) break;
-      for (var i = 0; i < chiavi.length && scelte.length < n; i++) scelte.push(gruppi[chiavi[i]].pop());
-    }
+    salvaViste(scelte.map(function (d) { return d.id; }));
     return mescola(scelte).map(function (d) {
       return { dati: d, opzioni: mescola([d.a].concat(d.x)) };
     });
@@ -97,6 +147,8 @@
     var cat = CATEGORIE[d.c];
     el.card.className = "wm-quiz-card wm-accent--" + cat.accento;
     el.categoria.textContent = cat.nome;
+    el.livello.className = "wm-quiz-level wm-quiz-level--" + d.d;
+    el.livello.textContent = LIVELLI[d.d];
     el.contatore.textContent = "Domanda " + (stato.indice + 1) + " di " + stato.lunghezza;
     el.barra.style.width = (stato.indice / stato.lunghezza) * 100 + "%";
     el.barraWrap.setAttribute("aria-valuenow", String(stato.indice));
@@ -197,6 +249,7 @@
       icona.appendChild(crea("i", "bi " + (r.giusta ? "bi-check-lg" : "bi-x-lg")));
       testa.appendChild(icona);
       testa.appendChild(crea("span", "wm-quiz-review__cat", CATEGORIE[d.c].nome));
+      testa.appendChild(crea("span", "wm-quiz-level wm-quiz-level--" + d.d, LIVELLI[d.d]));
       li.appendChild(testa);
       li.appendChild(crea("p", "wm-quiz-review__q", (k + 1) + ". " + d.q));
       if (!r.giusta) li.appendChild(crea("p", "wm-quiz-review__tua", "La tua risposta: " + r.scelta));
@@ -217,7 +270,7 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
-    ["start", "play", "result", "record", "totale", "card", "categoria", "contatore", "barra", "barraWrap",
+    ["start", "play", "result", "record", "totale", "card", "categoria", "livello", "contatore", "barra", "barraWrap",
       "domanda", "opzioni", "feedback", "esito", "spiegazione", "avanti", "punteggio", "giudizio", "riepilogo"]
       .forEach(function (id) { el[id] = document.getElementById("quiz-" + id); });
     if (!el.start || !window.QUIZ_DOMANDE) return;

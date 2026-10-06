@@ -59,6 +59,7 @@
       '<ul class="navbar-nav ms-auto mb-2 mb-xl-0">' +
       '<li class="nav-item"><a class="' + navCls("index.html") + '" href="' + basePath + 'index.html">Home</a></li>' +
       '<li class="nav-item"><a class="' + navCls("storia.html") + '" href="' + basePath + 'storia.html">Storia</a></li>' +
+      '<li class="nav-item"><a class="' + navCls("geografia.html") + '" href="' + basePath + 'geografia.html">Geografia</a></li>' +
       '<li class="nav-item dropdown">' +
       '<a class="nav-link dropdown-toggle' + (frazioniActive ? " active" : "") + '" href="' + basePath + 'frazioni.html" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Frazioni</a>' +
       '<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">' + dropdownItems + "</div>" +
@@ -66,10 +67,9 @@
       '<li class="nav-item"><a class="' + navCls("patrimonio.html") + '" href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
       '<li class="nav-item"><a class="' + navCls("lavoro-e-sapori.html") + '" href="' + basePath + 'lavoro-e-sapori.html" title="Lavoro e sapori">Economia</a></li>' +
       '<li class="nav-item"><a class="' + navCls("feste-e-associazioni.html") + '" href="' + basePath + 'feste-e-associazioni.html" title="Feste e associazioni">Feste</a></li>' +
-      '<li class="nav-item"><a class="' + navCls("quiz.html") + '" href="' + basePath + 'quiz.html">Quiz</a></li>' +
-      '<li class="nav-item"><a class="' + navCls("geografia.html") + '" href="' + basePath + 'geografia.html">Geografia</a></li>' +
       '<li class="nav-item"><a class="' + navCls("amministrazione.html") + '" href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
       '<li class="nav-item"><a class="' + navCls("fonti.html") + '" href="' + basePath + 'fonti.html">Fonti</a></li>' +
+      '<li class="nav-item wm-nav-quiz-item"><a class="' + navCls("quiz.html") + ' wm-nav-quiz" href="' + basePath + 'quiz.html"><i class="bi bi-patch-question"></i>Quiz</a></li>' +
       "</ul>" +
       "</div>" +
       "</div>" +
@@ -90,14 +90,14 @@
       '<h3 class="fw-bold mb-3">Esplora</h3>' +
       '<ul class="list-unstyled d-flex flex-column gap-2">' +
       '<li><a href="' + basePath + 'storia.html">Storia</a></li>' +
+      '<li><a href="' + basePath + 'geografia.html">Geografia</a></li>' +
       '<li><a href="' + basePath + 'frazioni.html">Le frazioni</a></li>' +
       '<li><a href="' + basePath + 'frazioni/borghi-minori.html">Borghi e località minori</a></li>' +
       '<li><a href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
       '<li><a href="' + basePath + 'lavoro-e-sapori.html">Lavoro e sapori</a></li>' +
       '<li><a href="' + basePath + 'feste-e-associazioni.html">Feste e associazioni</a></li>' +
-      '<li><a href="' + basePath + 'quiz.html">Quiz</a></li>' +
-      '<li><a href="' + basePath + 'geografia.html">Geografia</a></li>' +
       '<li><a href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
+      '<li><a href="' + basePath + 'quiz.html">Mettiti alla prova: il quiz</a></li>' +
       "</ul>" +
       "</div>" +
       '<div class="col-lg-4">' +

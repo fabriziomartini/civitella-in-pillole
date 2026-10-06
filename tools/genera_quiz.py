@@ -15,11 +15,15 @@ import sys
 RADICE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(RADICE, "tools"))
 from quiz_domande import Q  # noqa: E402
+from quiz_difficolta import DIFFICOLTA  # noqa: E402
 
 NOMI = {
     "geo": "Geografia", "storia": "Storia", "1944": "Il 1944", "frazioni": "Frazioni",
     "borghi": "Borghi minori", "economia": "Lavoro e sapori", "feste": "Feste e sport",
 }
+
+
+LIVELLI = {1: "●○○", 2: "●●○", 3: "●●●"}
 
 
 def ident(domanda):
@@ -45,6 +49,11 @@ def controlla():
     ids = [ident(d) for _, d, *_ in Q]
     if len(set(ids)) != len(ids):
         errori.append("collisione tra id")
+    for (_, d, *_), i in zip(Q, ids):
+        if DIFFICOLTA.get(i) not in (1, 2, 3):
+            errori.append("manca la difficoltà (1, 2 o 3) in tools/quiz_difficolta.py: %s %s" % (i, d))
+    for i in set(DIFFICOLTA) - set(ids):
+        errori.append("id in quiz_difficolta.py senza domanda (domanda riformulata o tolta?): " + i)
     return errori
 
 
@@ -53,11 +62,11 @@ def main():
     if errori:
         sys.exit("\n".join(errori))
 
-    dati = [{"id": ident(d), "c": c, "q": d, "a": ok, "x": no, "s": sp, "l": ln} for c, d, ok, no, sp, ln in Q]
+    dati = [{"id": ident(d), "c": c, "d": DIFFICOLTA[ident(d)], "q": d, "a": ok, "x": no, "s": sp, "l": ln} for c, d, ok, no, sp, ln in Q]
     with open(os.path.join(RADICE, "js", "quiz-data.js"), "w", encoding="utf-8") as f:
         f.write("// Domande del quiz: file GENERATO da tools/genera_quiz.py, non modificarlo a mano.\n")
         f.write("// Fonte: tools/quiz_domande.py (solo fatti di livello R, N, W in ricerca/fatti-verificati.md).\n")
-        f.write("// Campi: id stabile, c categoria, q domanda, a risposta corretta, x sbagliate, s spiegazione, l pagina.\n")
+        f.write("// Campi: id stabile, c categoria, d difficoltà (1-3), q domanda, a risposta corretta, x sbagliate, s spiegazione, l pagina.\n")
         f.write("window.QUIZ_DOMANDE = " + json.dumps(dati, ensure_ascii=False, indent=0) + ";\n")
 
     righe = [
@@ -65,7 +74,7 @@ def main():
         "Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le domande si cambiano in "
         "`tools/quiz_domande.py`, poi si lancia `python3 tools/genera_quiz.py`, che rigenera questo file e `js/quiz-data.js`.\n\n",
         "**Regola:** ogni domanda nasce da un fatto di livello R, N o W in `fatti-verificati.md`, mai da un fatto su cui le fonti divergono.\n\n",
-        "L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche.\n\n",
+        "L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) sta in `tools/quiz_difficolta.py`.\n\n",
         "Totale: %d domande.\n" % len(Q),
     ]
     per_cat = collections.OrderedDict((k, []) for k in NOMI)
@@ -74,7 +83,7 @@ def main():
     for k, voci in per_cat.items():
         righe.append("\n## %s (%d)\n\n" % (NOMI[k], len(voci)))
         for i, (c, d, ok, no, sp, ln) in enumerate(voci, 1):
-            righe.append("%d. [%s] **%s**  \n   ✔ %s · ✘ %s  \n   _%s_ → `%s`\n" % (i, ident(d), d, ok, " · ".join(no), sp, ln))
+            righe.append("%d. [%s] %s **%s**  \n   ✔ %s · ✘ %s  \n   _%s_ → `%s`\n" % (i, ident(d), LIVELLI[DIFFICOLTA[ident(d)]], d, ok, " · ".join(no), sp, ln))
     with open(os.path.join(RADICE, "ricerca", "quiz-domande.md"), "w", encoding="utf-8") as f:
         f.write("".join(righe))
     print("%d domande generate." % len(Q))

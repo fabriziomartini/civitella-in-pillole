@@ -1,10 +1,11 @@
 // Domande del quiz: file GENERATO da tools/genera_quiz.py, non modificarlo a mano.
 // Fonte: tools/quiz_domande.py (solo fatti di livello R, N, W in ricerca/fatti-verificati.md).
-// Campi: id stabile, c categoria, q domanda, a risposta corretta, x sbagliate, s spiegazione, l pagina.
+// Campi: id stabile, c categoria, d difficoltà (1-3), q domanda, a risposta corretta, x sbagliate, s spiegazione, l pagina.
 window.QUIZ_DOMANDE = [
 {
 "id": "5a86694d",
 "c": "geo",
+"d": 2,
 "q": "Quanti residenti contava il comune al censimento ISTAT del 2021?",
 "a": "8.814",
 "x": [
@@ -18,6 +19,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ebc792a8",
 "c": "geo",
+"d": 1,
 "q": "Qual è il centro abitato più popoloso del comune?",
 "a": "Pieve al Toppo",
 "x": [
@@ -31,6 +33,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "eec92ec8",
 "c": "geo",
+"d": 2,
 "q": "Quale centro è il secondo per numero di abitanti, dopo Pieve al Toppo?",
 "a": "Tegoleto",
 "x": [
@@ -44,6 +47,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "3224d171",
 "c": "geo",
+"d": 2,
 "q": "Quanto è esteso, all'incirca, il territorio comunale?",
 "a": "Circa 100 km²",
 "x": [
@@ -57,6 +61,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e4b714c5",
 "c": "geo",
+"d": 2,
 "q": "Dove si trova Civitella in Val di Chiana rispetto ad Arezzo?",
 "a": "A circa 15 km a sud-ovest",
 "x": [
@@ -70,6 +75,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b23a93db",
 "c": "geo",
+"d": 2,
 "q": "Con quale di questi comuni confina Civitella in Val di Chiana?",
 "a": "Monte San Savino",
 "x": [
@@ -83,6 +89,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e3946457",
 "c": "geo",
+"d": 2,
 "q": "Quale di questi comuni NON confina con Civitella in Val di Chiana?",
 "a": "Cortona",
 "x": [
@@ -96,6 +103,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4746e93c",
 "c": "geo",
+"d": 2,
 "q": "Su quali colline sorge il capoluogo storico, secondo Wikipedia e ToscanaNovecento?",
 "a": "Le Colline delle Lepri",
 "x": [
@@ -109,6 +117,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "fea6dfb9",
 "c": "geo",
+"d": 1,
 "q": "A quale altitudine sorge, all'incirca, il borgo di Civitella?",
 "a": "Circa 500 metri",
 "x": [
@@ -122,6 +131,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f2064462",
 "c": "geo",
+"d": 1,
 "q": "Tra quali valli si trova il colle di Civitella?",
 "a": "Valdambra e Valdichiana",
 "x": [
@@ -135,6 +145,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "75a8fc8f",
 "c": "geo",
+"d": 2,
 "q": "Quale di questi torrenti scorre nel territorio comunale?",
 "a": "L'Esse",
 "x": [
@@ -148,6 +159,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e2f25241",
 "c": "geo",
+"d": 1,
 "q": "Una parte del territorio comunale rientra in quale riserva naturale?",
 "a": "Ponte a Buriano e Penna",
 "x": [
@@ -161,6 +173,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e65e12bd",
 "c": "geo",
+"d": 1,
 "q": "Quale fiume protegge la Riserva naturale di Ponte a Buriano e Penna?",
 "a": "L'Arno",
 "x": [
@@ -174,6 +187,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "96d34023",
 "c": "geo",
+"d": 3,
 "q": "Quale frazione il Piano Strutturale indica come «porta d'accesso» meridionale alla Riserva di Ponte a Buriano e Penna?",
 "a": "Pieve a Maiano",
 "x": [
@@ -187,6 +201,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "1a05018c",
 "c": "geo",
+"d": 1,
 "q": "Quale vino si produce sulle colline del comune?",
 "a": "Il Chianti Colli Aretini",
 "x": [
@@ -200,6 +215,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "607cb6d7",
 "c": "geo",
+"d": 1,
 "q": "Come sono sistemati, tradizionalmente, gli oliveti sui pendii collinari?",
 "a": "Su terrazzamenti e ciglionamenti",
 "x": [
@@ -213,6 +229,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "878f8be1",
 "c": "geo",
+"d": 3,
 "q": "Circa quanti abitanti del comune vivono in case sparse, fuori dai centri abitati?",
 "a": "Circa un quarto",
 "x": [
@@ -226,6 +243,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b051cf1f",
 "c": "geo",
+"d": 2,
 "q": "Quale frazione è divisa tra Civitella e il comune di Laterina Pergine Valdarno?",
 "a": "Ponticino",
 "x": [
@@ -239,6 +257,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "7a620330",
 "c": "geo",
+"d": 2,
 "q": "Con quale comune tedesco è gemellato Civitella in Val di Chiana?",
 "a": "Kämpfelbach",
 "x": [
@@ -252,6 +271,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "608e57f8",
 "c": "geo",
+"d": 2,
 "q": "Da quando Civitella fa parte della rete Cittaslow?",
 "a": "Dal 2002",
 "x": [
@@ -265,6 +285,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f5a0d8d3",
 "c": "geo",
+"d": 3,
 "q": "In quale anno Civitella è entrata nell'associazione Città dell'Olio?",
 "a": "2025",
 "x": [
@@ -278,6 +299,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "fe9e42b2",
 "c": "storia",
+"d": 3,
 "q": "A quale anno risale la prima notizia del castello di Civitella?",
 "a": "1048",
 "x": [
@@ -291,6 +313,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "db28ef0d",
 "c": "storia",
+"d": 1,
 "q": "Che cosa era il colle di Civitella in epoca longobarda?",
 "a": "Una roccaforte a controllo del territorio",
 "x": [
@@ -304,6 +327,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "3dd6026e",
 "c": "storia",
+"d": 2,
 "q": "Quale vescovo di Arezzo scelse nel 1248 la rocca di Civitella come propria dimora?",
 "a": "Guglielmino degli Ubertini",
 "x": [
@@ -317,6 +341,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d6478a7e",
 "c": "storia",
+"d": 3,
 "q": "Che aspetto aveva la rocca di Civitella nel 1182, secondo il Repertorio del Piano?",
 "a": "Quello di un palazzo-torrione",
 "x": [
@@ -330,6 +355,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "2fd2d624",
 "c": "storia",
+"d": 2,
 "q": "In quale anno Firenze fece di Civitella il capoluogo di una propria podesteria?",
 "a": "1385",
 "x": [
@@ -343,6 +369,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "edd96569",
 "c": "storia",
+"d": 2,
 "q": "Da quale podesteria fu staccata Civitella nel 1385?",
 "a": "Valdambra",
 "x": [
@@ -356,6 +383,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b9e45476",
 "c": "storia",
+"d": 3,
 "q": "Fino a quale anno durò la podesteria di Civitella?",
 "a": "1838",
 "x": [
@@ -369,6 +397,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "77748394",
 "c": "storia",
+"d": 2,
 "q": "In quale anno le comunità di Ciggiano, Viciomaggio e Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella?",
 "a": "1774",
 "x": [
@@ -382,6 +411,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b929883a",
 "c": "storia",
+"d": 2,
 "q": "In quale anno la sede comunale fu trasferita da Civitella a Badia al Pino?",
 "a": "1917",
 "x": [
@@ -395,6 +425,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4ffa7202",
 "c": "storia",
+"d": 1,
 "q": "Perché nel 1917 la sede comunale fu trasferita a Badia al Pino?",
 "a": "Per lo spopolamento delle zone collinari",
 "x": [
@@ -408,6 +439,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "32504015",
 "c": "storia",
+"d": 2,
 "q": "In quale anno fu combattuta la battaglia di Pieve al Toppo?",
 "a": "1288",
 "x": [
@@ -421,6 +453,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "1e4dc6a7",
 "c": "storia",
+"d": 2,
 "q": "Chi vinse la battaglia di Pieve al Toppo del 1288?",
 "a": "Gli aretini",
 "x": [
@@ -434,6 +467,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "571968bf",
 "c": "storia",
+"d": 1,
 "q": "Quale poeta ricorda la battaglia di Pieve al Toppo come le «giostre del Toppo»?",
 "a": "Dante Alighieri",
 "x": [
@@ -447,6 +481,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "1230b87b",
 "c": "storia",
+"d": 3,
 "q": "In quale canto dell'Inferno Dante ricorda le «giostre del Toppo»?",
 "a": "Il XIII",
 "x": [
@@ -460,6 +495,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "a95227b3",
 "c": "storia",
+"d": 3,
 "q": "Quale personaggio, caduto nella battaglia di Pieve al Toppo, compare nell'Inferno di Dante?",
 "a": "Lano da Siena",
 "x": [
@@ -473,6 +509,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "a7c46ad1",
 "c": "storia",
+"d": 1,
 "q": "Che cosa distrusse la rocca di Civitella?",
 "a": "Un bombardamento alleato",
 "x": [
@@ -486,6 +523,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "fb55e686",
 "c": "storia",
+"d": 2,
 "q": "In quale anno a Villa Oliveto fu istituito un campo di internamento?",
 "a": "1940",
 "x": [
@@ -499,6 +537,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b5f15efd",
 "c": "storia",
+"d": 2,
 "q": "Chi era internato soprattutto nel campo di Villa Oliveto?",
 "a": "Famiglie ebree britanniche provenienti dalla Libia",
 "x": [
@@ -512,6 +551,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "71ecaade",
 "c": "storia",
+"d": 2,
 "q": "Dove furono deportate nel 1944 le famiglie internate a Villa Oliveto?",
 "a": "A Bergen-Belsen",
 "x": [
@@ -525,6 +565,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "bebf7d33",
 "c": "storia",
+"d": 1,
 "q": "Da quale espressione latina deriva il nome di Viciomaggio?",
 "a": "Vicus maior",
 "x": [
@@ -538,6 +579,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "26c46d87",
 "c": "storia",
+"d": 2,
 "q": "Di quale origine è, quasi sicuramente, il toponimo «Toppo»?",
 "a": "Longobarda",
 "x": [
@@ -551,6 +593,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d150c402",
 "c": "storia",
+"d": 2,
 "q": "Da che cosa deriva il nome «Maiano»?",
 "a": "Dal nome di un proprietario romano, probabilmente un Marius",
 "x": [
@@ -564,6 +607,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "bb0a87e4",
 "c": "storia",
+"d": 1,
 "q": "Da che cosa prende il nome Tribbio?",
 "a": "Da un trivio romano, un incrocio di tre strade",
 "x": [
@@ -577,6 +621,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "3e37b695",
 "c": "1944",
+"d": 1,
 "q": "In quale data avvenne la strage nazista di Civitella?",
 "a": "29 giugno 1944",
 "x": [
@@ -590,6 +635,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "75f82986",
 "c": "1944",
+"d": 2,
 "q": "Quale festa si celebrava a Civitella il giorno della strage del 1944?",
 "a": "Quella dei santi Pietro e Paolo",
 "x": [
@@ -603,6 +649,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "3440c37a",
 "c": "1944",
+"d": 2,
 "q": "Quale di queste località NON fu colpita dalla strage del 29 giugno 1944?",
 "a": "Tegoleto",
 "x": [
@@ -616,6 +663,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f4da425c",
 "c": "1944",
+"d": 2,
 "q": "Quante vittime ci furono nel solo paese di Civitella, secondo ToscanaNovecento?",
 "a": "115",
 "x": [
@@ -629,6 +677,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e98abd07",
 "c": "1944",
+"d": 2,
 "q": "Quale reparto tedesco compì le stragi del 29 giugno 1944?",
 "a": "La divisione corazzata «Hermann Göring»",
 "x": [
@@ -642,6 +691,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ae2d129c",
 "c": "1944",
+"d": 2,
 "q": "Di quale comune fa parte San Pancrazio, colpito dalla strage del 1944?",
 "a": "Bucine",
 "x": [
@@ -655,6 +705,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d650b33d",
 "c": "1944",
+"d": 1,
 "q": "Dove arriva la Marcia per la pace che parte da Civitella?",
 "a": "A San Pancrazio",
 "x": [
@@ -668,6 +719,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "76c00bc0",
 "c": "1944",
+"d": 2,
 "q": "Con quale comune è organizzata la Marcia per la pace?",
 "a": "Bucine",
 "x": [
@@ -681,6 +733,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ab4e24ee",
 "c": "1944",
+"d": 1,
 "q": "Quale associazione ha allestito la Sala della Memoria a Civitella?",
 "a": "Civitella Ricorda",
 "x": [
@@ -694,6 +747,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "7461cfc3",
 "c": "1944",
+"d": 1,
 "q": "Come si chiama il monumento sul muro accanto alla chiesa di Civitella?",
 "a": "Pietà del giugno 1944",
 "x": [
@@ -707,6 +761,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "471dce11",
 "c": "1944",
+"d": 2,
 "q": "In quale anno fu realizzato il portale in bronzo di Bino Bini per la chiesa di Civitella?",
 "a": "1994",
 "x": [
@@ -720,6 +775,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b6c6fc75",
 "c": "1944",
+"d": 3,
 "q": "In quale data le SS fucilarono a Ciggiano i partigiani Marmo e Marapitti?",
 "a": "16 aprile 1944",
 "x": [
@@ -733,6 +789,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "9b2fcfcf",
 "c": "1944",
+"d": 3,
 "q": "In quale anno fu eretto il cippo dell'eccidio di Cornia?",
 "a": "1969",
 "x": [
@@ -746,6 +803,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "9677ff56",
 "c": "1944",
+"d": 3,
 "q": "Quanti nomi riporta la lastra dei martiri di Cornia?",
 "a": "58",
 "x": [
@@ -759,6 +817,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "24c8d8bd",
 "c": "1944",
+"d": 3,
 "q": "Chi era Giovanni Cau, catturato a Gebbia nel 1944?",
 "a": "Un insegnante di scienze naturali e autore di testi scolastici",
 "x": [
@@ -772,6 +831,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "a6b8c90b",
 "c": "frazioni",
+"d": 1,
 "q": "In quale frazione ha sede il Comune?",
 "a": "Badia al Pino",
 "x": [
@@ -785,6 +845,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "3f92e789",
 "c": "frazioni",
+"d": 2,
 "q": "A quali santi era dedicata l'antica abbazia del Pino?",
 "a": "Martino e Lorenzo",
 "x": [
@@ -798,6 +859,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "0542f44e",
 "c": "frazioni",
+"d": 2,
 "q": "Qual è il titolo della parrocchia di Badia al Pino?",
 "a": "San Bartolomeo",
 "x": [
@@ -811,6 +873,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e6beb218",
 "c": "frazioni",
+"d": 2,
 "q": "Quale santo è titolare delle parrocchie sia di Ciggiano sia di Tegoleto?",
 "a": "San Biagio",
 "x": [
@@ -824,6 +887,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "a36520a9",
 "c": "frazioni",
+"d": 3,
 "q": "Quale santo è titolare delle parrocchie sia di Spoiano sia di Pieve al Toppo?",
 "a": "San Giovanni Battista",
 "x": [
@@ -837,6 +901,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "120e1846",
 "c": "frazioni",
+"d": 2,
 "q": "A quale santo è dedicata la parrocchia di Viciomaggio?",
 "a": "San Martino",
 "x": [
@@ -850,6 +915,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f2907c6a",
 "c": "frazioni",
+"d": 2,
 "q": "A quale santo è dedicata la parrocchia di Oliveto?",
 "a": "Sant'Andrea Apostolo",
 "x": [
@@ -863,6 +929,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "1b1b61a6",
 "c": "frazioni",
+"d": 3,
 "q": "In quale anno Tuori compare per la prima volta nei documenti?",
 "a": "1021",
 "x": [
@@ -876,6 +943,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b24d9f73",
 "c": "frazioni",
+"d": 3,
 "q": "Da quale anno è documentata l'antica pieve di Pieve al Toppo?",
 "a": "938",
 "x": [
@@ -889,6 +957,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c686859b",
 "c": "frazioni",
+"d": 3,
 "q": "In quale anno fu progettata la moderna chiesa parrocchiale di Pieve al Toppo?",
 "a": "1967",
 "x": [
@@ -902,6 +971,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c2c65bab",
 "c": "frazioni",
+"d": 3,
 "q": "In quale anno la chiesa di San Biagio a Ciggiano fu elevata a pieve?",
 "a": "1465",
 "x": [
@@ -915,6 +985,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b555e58c",
 "c": "frazioni",
+"d": 3,
 "q": "A quale scultore è attribuita la Santa Maria Maddalena della chiesa di San Biagio a Ciggiano?",
 "a": "Andrea Sansovino",
 "x": [
@@ -928,6 +999,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c31940bf",
 "c": "frazioni",
+"d": 2,
 "q": "In quale frazione si trova la chiesa della Madonna della Costarella, costruita nel 1635 con le elemosine dei pastori della transumanza?",
 "a": "Ciggiano",
 "x": [
@@ -941,6 +1013,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "8d375aa0",
 "c": "frazioni",
+"d": 2,
 "q": "Quale borgo collinare si trova a circa 360 metri, su un colle tra le valli del Gargaiolo e dell'Esse?",
 "a": "Ciggiano",
 "x": [
@@ -954,6 +1027,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "264f4207",
 "c": "frazioni",
+"d": 2,
 "q": "Quale attività artigianale esisteva un tempo a Cornia?",
 "a": "La lavorazione delle scope di saggina",
 "x": [
@@ -967,6 +1041,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "7460edf6",
 "c": "frazioni",
+"d": 2,
 "q": "A quale santo è dedicata la chiesa di Cornia, detta di Sant'Angelo?",
 "a": "San Michele Arcangelo",
 "x": [
@@ -980,6 +1055,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c1b2389e",
 "c": "frazioni",
+"d": 2,
 "q": "Quale frazione è la più alta tra queste, a circa 560 metri?",
 "a": "Cornia",
 "x": [
@@ -993,6 +1069,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d02d06cf",
 "c": "frazioni",
+"d": 3,
 "q": "Di quale famiglia fu dimora Villa Oliveto, già Villa Mazzi?",
 "a": "I conti Barbolani di Montauto",
 "x": [
@@ -1006,6 +1083,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "782eea04",
 "c": "frazioni",
+"d": 1,
 "q": "Quale scrittrice scozzese visse a Oliveto ed è sepolta nel suo cimitero?",
 "a": "Muriel Spark",
 "x": [
@@ -1019,6 +1097,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f98ae568",
 "c": "frazioni",
+"d": 1,
 "q": "Quale romanzo ha scritto Muriel Spark, che visse a Oliveto?",
 "a": "Gli anni fulgenti di Miss Brodie",
 "x": [
@@ -1032,6 +1111,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ae843126",
 "c": "frazioni",
+"d": 2,
 "q": "In quale anno Muriel Spark ricevette la cittadinanza onoraria di Civitella?",
 "a": "2005",
 "x": [
@@ -1045,6 +1125,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4570545d",
 "c": "frazioni",
+"d": 2,
 "q": "Da quale anno si tiene il Presepe Vivente di Oliveto?",
 "a": "2014",
 "x": [
@@ -1058,6 +1139,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "605f6a96",
 "c": "frazioni",
+"d": 2,
 "q": "Dove è allestita la Natività del Presepe Vivente di Oliveto?",
 "a": "Nella chiesetta di San Rocco",
 "x": [
@@ -1071,6 +1153,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "8c3a7f97",
 "c": "frazioni",
+"d": 1,
 "q": "Che cosa è stato trovato al Podere Casella, presso Pieve a Maiano?",
 "a": "Strumenti in pietra del Paleolitico",
 "x": [
@@ -1084,6 +1167,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f229085c",
 "c": "frazioni",
+"d": 3,
 "q": "Di quale imperatore è la moneta d'oro trovata a Pieve a Maiano?",
 "a": "Claudio",
 "x": [
@@ -1097,6 +1181,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "9ed31f21",
 "c": "frazioni",
+"d": 2,
 "q": "Vicino a quale frazione si trova il podere Spedaluccio?",
 "a": "Pieve a Maiano",
 "x": [
@@ -1110,6 +1195,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "91b7689b",
 "c": "frazioni",
+"d": 1,
 "q": "Che cosa si produceva nelle fornaci romane di località I Ponti, a Pieve al Toppo?",
 "a": "Terra sigillata aretina",
 "x": [
@@ -1123,6 +1209,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ac4c5d0d",
 "c": "frazioni",
+"d": 3,
 "q": "Da quale anno Ponticino ha una stazione ferroviaria?",
 "a": "1866",
 "x": [
@@ -1136,6 +1223,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "21a4f930",
 "c": "frazioni",
+"d": 1,
 "q": "Su quale linea ferroviaria si trova la stazione di Ponticino?",
 "a": "Firenze–Roma",
 "x": [
@@ -1149,6 +1237,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "1938aa25",
 "c": "frazioni",
+"d": 2,
 "q": "In quale anno un referendum approvò la fusione tra Laterina e Pergine Valdarno, che riguarda anche Ponticino?",
 "a": "2017",
 "x": [
@@ -1162,6 +1251,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b126f10e",
 "c": "frazioni",
+"d": 2,
 "q": "Con quali comuni Civitella si divideva Ponticino prima del 2018?",
 "a": "Laterina e Pergine Valdarno",
 "x": [
@@ -1175,6 +1265,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "86a6174e",
 "c": "frazioni",
+"d": 2,
 "q": "Quale villa settecentesca si trova a Spoiano?",
 "a": "Villa Pecchioli",
 "x": [
@@ -1188,6 +1279,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d00da1ec",
 "c": "frazioni",
+"d": 2,
 "q": "Che cosa divenne Villa Pecchioli, a Spoiano, nel 1928?",
 "a": "Un asilo infantile",
 "x": [
@@ -1201,6 +1293,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "bd1eb40f",
 "c": "frazioni",
+"d": 3,
 "q": "Quale paese è al centro del libro «Un uomo dabbene per davvero» di Giuseppe Renzetti?",
 "a": "Spoiano",
 "x": [
@@ -1214,6 +1307,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e7c2c418",
 "c": "frazioni",
+"d": 2,
 "q": "Chi ricostruì la torre di Tegoleto alla fine del Trecento?",
 "a": "I fiorentini",
 "x": [
@@ -1227,6 +1321,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "1086aa45",
 "c": "frazioni",
+"d": 3,
 "q": "A quale ordine passò la fattoria di Tegoleto nel 1783?",
 "a": "Ai Cavalieri di Santo Stefano",
 "x": [
@@ -1240,6 +1335,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "3e486f3c",
 "c": "frazioni",
+"d": 2,
 "q": "In quale anno nacque il Teatro Moderno di Tegoleto?",
 "a": "1960",
 "x": [
@@ -1253,6 +1349,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "91b9c111",
 "c": "frazioni",
+"d": 2,
 "q": "Chi gestisce il Teatro Moderno di Tegoleto?",
 "a": "Il Gruppo Teatro La Torre",
 "x": [
@@ -1266,6 +1363,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "7c7d8c24",
 "c": "frazioni",
+"d": 2,
 "q": "In quale anno a Tegoleto arrivò una tappa del Giro d'Italia?",
 "a": "2004",
 "x": [
@@ -1279,6 +1377,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c1817196",
 "c": "frazioni",
+"d": 1,
 "q": "Chi vinse la tappa del Giro d'Italia arrivata a Tegoleto nel 2004?",
 "a": "Alessandro Petacchi",
 "x": [
@@ -1292,6 +1391,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d7a4e134",
 "c": "frazioni",
+"d": 3,
 "q": "In quale anno fu trovata a Viciomaggio un'urna cineraria etrusca con iscrizione?",
 "a": "1872",
 "x": [
@@ -1305,6 +1405,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "a06601d7",
 "c": "frazioni",
+"d": 2,
 "q": "In quale frazione si trova la villa-fattoria settecentesca con una limonaia del 1836 e una cappella con orologio e campanile a vela?",
 "a": "Viciomaggio",
 "x": [
@@ -1318,6 +1419,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "1d45bdf1",
 "c": "frazioni",
+"d": 2,
 "q": "Su quale linea ferroviaria si trova la stazione di Albergo?",
 "a": "Arezzo–Sinalunga",
 "x": [
@@ -1331,6 +1433,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "daf0e244",
 "c": "frazioni",
+"d": 2,
 "q": "Quale strada romana passava da Albergo, secondo l'itinerario del Comune?",
 "a": "Una via municipalis unita a un ramo della Cassia",
 "x": [
@@ -1344,6 +1447,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "cc15f4f6",
 "c": "frazioni",
+"d": 1,
 "q": "A quale ordine religioso apparteneva il priorato da cui nacque la chiesa di Santa Maria Assunta a Civitella?",
 "a": "Benedettino",
 "x": [
@@ -1357,6 +1461,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "2a3e555c",
 "c": "frazioni",
+"d": 2,
 "q": "In quale anno fu completata in stile romanico la chiesa di Santa Maria Assunta a Civitella?",
 "a": "1252",
 "x": [
@@ -1370,6 +1475,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "bdcb792b",
 "c": "frazioni",
+"d": 3,
 "q": "Quanti archi ha il portico del Palazzo Pretorio di Civitella?",
 "a": "Cinque",
 "x": [
@@ -1383,6 +1489,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "dedef337",
 "c": "frazioni",
+"d": 1,
 "q": "Per quale scopo il notaio Becattini lasciò il suo palazzo alla Confraternita di Carità?",
 "a": "Per farne un ospedale per i poveri",
 "x": [
@@ -1396,6 +1503,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "8a7414cd",
 "c": "frazioni",
+"d": 3,
 "q": "Da quale anno Palazzo Becattini è di proprietà del Comune?",
 "a": "1978",
 "x": [
@@ -1409,6 +1517,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4881de19",
 "c": "frazioni",
+"d": 2,
 "q": "In quale piazza di Civitella si trova la cisterna medievale?",
 "a": "Piazza Lazzeri",
 "x": [
@@ -1422,6 +1531,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "bdf6b86c",
 "c": "frazioni",
+"d": 3,
 "q": "Chi costruì il Saracino, la casa colonica cinquecentesca presso Tuori?",
 "a": "La Fraternita dei Laici di Arezzo",
 "x": [
@@ -1435,6 +1545,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "cd56501b",
 "c": "borghi",
+"d": 1,
 "q": "Per che cosa era noto il luogo di Matroia?",
 "a": "Per una sorgente con acque ritenute medicamentose",
 "x": [
@@ -1448,6 +1559,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e4363716",
 "c": "borghi",
+"d": 2,
 "q": "Che cosa c'è oggi a Matroia, secondo il Piano Strutturale?",
 "a": "Un allevamento di cavalli",
 "x": [
@@ -1461,6 +1573,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "dbcd5fc3",
 "c": "borghi",
+"d": 2,
 "q": "Dove si trova oggi la campana del 1358 proveniente da Montoto?",
 "a": "Nella chiesa di Pieve a Maiano",
 "x": [
@@ -1474,6 +1587,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ec3b56a5",
 "c": "borghi",
+"d": 2,
 "q": "In quale anno il castello di Montoto passò da Arezzo a Firenze?",
 "a": "1385",
 "x": [
@@ -1487,6 +1601,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ba3dff5e",
 "c": "borghi",
+"d": 2,
 "q": "Che cosa resta sulla cima di Poggio Castellare?",
 "a": "Una cinta muraria ellittica a secco",
 "x": [
@@ -1500,6 +1615,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f06a2f2d",
 "c": "borghi",
+"d": 2,
 "q": "Da che cosa deriva il nome di Montarfoni?",
 "a": "Da «Monte di Arfo», un antico proprietario germanico",
 "x": [
@@ -1513,6 +1629,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d9e63c28",
 "c": "borghi",
+"d": 1,
 "q": "Che cosa conserva oggi Montarfoni, oltre alla villa seicentesca?",
 "a": "Un borgo-fattoria con chiesa, cantina e frantoio-mulino",
 "x": [
@@ -1526,6 +1643,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d6eaf7ca",
 "c": "borghi",
+"d": 3,
 "q": "Da chi fu acquistata nel 1814 la villa-fattoria di Dorna?",
 "a": "Dalle suore Montalve della Quiete di Firenze",
 "x": [
@@ -1539,6 +1657,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "961f484f",
 "c": "borghi",
+"d": 2,
 "q": "Che cosa è la torre di Dorna, ricordata dal 1198?",
 "a": "La parte più antica rimasta integra del castello",
 "x": [
@@ -1552,6 +1671,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "7591d2bd",
 "c": "borghi",
+"d": 3,
 "q": "A chi è dedicata la chiesa di San Martino in Poggio costruita nel 1690?",
 "a": "Ai Santi Maria e Carlo",
 "x": [
@@ -1565,6 +1685,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ff97d330",
 "c": "borghi",
+"d": 3,
 "q": "Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?",
 "a": "Il nobile fiorentino Carlo Casini",
 "x": [
@@ -1578,6 +1699,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f59b9207",
 "c": "borghi",
+"d": 2,
 "q": "Come descrisse Firenze il castello di Gaenne prima di ordinarne la distruzione?",
 "a": "«Un forte castello di sito e di muro»",
 "x": [
@@ -1591,6 +1713,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "0aeb1238",
 "c": "borghi",
+"d": 2,
 "q": "A chi apparteneva il castello di Gaenne nel 1069?",
 "a": "Ai longobardi di Dorna",
 "x": [
@@ -1604,6 +1727,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b8b3b4f1",
 "c": "borghi",
+"d": 2,
 "q": "Tra quali frazioni si trova la località Le Caserosse?",
 "a": "Tra Viciomaggio e Pieve al Toppo",
 "x": [
@@ -1617,6 +1741,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e4fa556c",
 "c": "borghi",
+"d": 2,
 "q": "In quale materiale è il cippo romano trovato a Le Fosse?",
 "a": "Travertino",
 "x": [
@@ -1630,6 +1755,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "fbceb884",
 "c": "economia",
+"d": 1,
 "q": "Che cosa produce l'azienda CEIA di Viciomaggio?",
 "a": "Metal detector e sistemi di ispezione",
 "x": [
@@ -1643,6 +1769,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "84695b7e",
 "c": "economia",
+"d": 3,
 "q": "In quale anno fu costituita la società CEIA?",
 "a": "1968",
 "x": [
@@ -1656,6 +1783,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "da81be25",
 "c": "economia",
+"d": 2,
 "q": "Per quale industria CEIA brevettò nel 1962 i suoi primi metal detector?",
 "a": "L'industria tessile",
 "x": [
@@ -1669,6 +1797,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d00c385a",
 "c": "economia",
+"d": 1,
 "q": "Dal 1975 CEIA produce metal detector per quale settore?",
 "a": "Gli aeroporti",
 "x": [
@@ -1682,6 +1811,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4fbe35df",
 "c": "economia",
+"d": 1,
 "q": "Di che cosa si occupa Chimet?",
 "a": "Del recupero e dell'affinazione dei metalli preziosi",
 "x": [
@@ -1695,6 +1825,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ec632da2",
 "c": "economia",
+"d": 3,
 "q": "In quale anno fu fondata Chimet?",
 "a": "1974",
 "x": [
@@ -1708,6 +1839,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "15d7a73c",
 "c": "economia",
+"d": 2,
 "q": "Dove aprì Chimet il suo primo stabilimento, nel 1976?",
 "a": "A Badia al Pino",
 "x": [
@@ -1721,6 +1853,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "aaba5c69",
 "c": "economia",
+"d": 1,
 "q": "Che cosa produceva l'azienda Del Tongo di Tegoleto?",
 "a": "Cucine componibili",
 "x": [
@@ -1734,6 +1867,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4825255e",
 "c": "economia",
+"d": 3,
 "q": "In quale anno fu fondata la Del Tongo?",
 "a": "1954",
 "x": [
@@ -1747,6 +1881,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "51f555d3",
 "c": "economia",
+"d": 2,
 "q": "In quale anno fallì la Del Tongo?",
 "a": "2018",
 "x": [
@@ -1760,6 +1895,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "005b6b8c",
 "c": "economia",
+"d": 3,
 "q": "Quale azienda acquisì nel 2022 il marchio Del Tongo?",
 "a": "Kico",
 "x": [
@@ -1773,6 +1909,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "6355b329",
 "c": "economia",
+"d": 3,
 "q": "In quali anni fu attiva la squadra ciclistica professionistica Del Tongo?",
 "a": "Dal 1982 al 1991",
 "x": [
@@ -1786,6 +1923,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "92e0687d",
 "c": "economia",
+"d": 2,
 "q": "Con quale corridore la squadra Del Tongo vinse il Giro d'Italia del 1983?",
 "a": "Giuseppe Saronni",
 "x": [
@@ -1799,6 +1937,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "6c2a3e07",
 "c": "economia",
+"d": 3,
 "q": "Con quale corridore la squadra Del Tongo vinse il Giro d'Italia del 1991?",
 "a": "Franco Chioccioli",
 "x": [
@@ -1812,6 +1951,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "fbd430a4",
 "c": "economia",
+"d": 2,
 "q": "Quale celebre velocista esordì tra i professionisti con la maglia Del Tongo?",
 "a": "Mario Cipollini",
 "x": [
@@ -1825,6 +1965,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "5ea5e45a",
 "c": "economia",
+"d": 2,
 "q": "Quale di queste è una varietà tradizionale di olivo del territorio?",
 "a": "Moraiolo",
 "x": [
@@ -1838,6 +1979,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "a04d9971",
 "c": "economia",
+"d": 1,
 "q": "A quale Strada del Vino appartiene il Comune di Civitella?",
 "a": "Strada del Vino Terre di Arezzo",
 "x": [
@@ -1851,6 +1993,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "92190992",
 "c": "economia",
+"d": 2,
 "q": "Dove ha sede la condotta Slow Food Valdichiana?",
 "a": "A Civitella",
 "x": [
@@ -1864,6 +2007,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "fd5f1067",
 "c": "economia",
+"d": 1,
 "q": "Come si chiama il progetto di educazione alimentare che Slow Food porta nelle scuole del comune?",
 "a": "Orto in Condotta",
 "x": [
@@ -1877,6 +2021,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d16bdeb0",
 "c": "feste",
+"d": 2,
 "q": "In quale frazione si tiene la Sagra della Bistecca?",
 "a": "Badia al Pino",
 "x": [
@@ -1890,6 +2035,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "3116bcad",
 "c": "feste",
+"d": 3,
 "q": "Chi organizza la Sagra della Bistecca?",
 "a": "Il Circolo Ricreativo Olinto Paccinelli",
 "x": [
@@ -1903,6 +2049,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f0be8eb1",
 "c": "feste",
+"d": 2,
 "q": "In quale frazione si tiene la Sagra del Crostino?",
 "a": "Albergo",
 "x": [
@@ -1916,6 +2063,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4422dd68",
 "c": "feste",
+"d": 3,
 "q": "Chi organizza la Sagra del Crostino di Albergo?",
 "a": "La Polisportiva Albergo Oliveto",
 "x": [
@@ -1929,6 +2077,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "2d7782fe",
 "c": "feste",
+"d": 2,
 "q": "In quale frazione si tiene la Sagra dei Baccelli?",
 "a": "Spoiano",
 "x": [
@@ -1942,6 +2091,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b7b8833c",
 "c": "feste",
+"d": 1,
 "q": "In quale mese si tiene la Sagra dei Baccelli?",
 "a": "Maggio",
 "x": [
@@ -1955,6 +2105,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "35bf8000",
 "c": "feste",
+"d": 2,
 "q": "In quale frazione si tiene la Sagra del Cinghiale?",
 "a": "Pieve a Maiano",
 "x": [
@@ -1968,6 +2119,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "18b90576",
 "c": "feste",
+"d": 2,
 "q": "In quale frazione si tiene la Festa dell'uva, del vino e dell'olio?",
 "a": "Ciggiano",
 "x": [
@@ -1981,6 +2133,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e1d94892",
 "c": "feste",
+"d": 3,
 "q": "Quale edizione della Festa dell'uva di Ciggiano si è tenuta nel 2026?",
 "a": "La 49ª",
 "x": [
@@ -1994,6 +2147,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "3102235c",
 "c": "feste",
+"d": 1,
 "q": "A che cosa è dedicata la Sagra della Pesca di Pieve al Toppo?",
 "a": "Al frutto, la pesca",
 "x": [
@@ -2007,6 +2161,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "642f3ac8",
 "c": "feste",
+"d": 2,
 "q": "Quando si tiene la Fiera del Miele di Pieve al Toppo?",
 "a": "La prima domenica di ottobre",
 "x": [
@@ -2020,6 +2175,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "3a131b5f",
 "c": "feste",
+"d": 2,
 "q": "In quale frazione si tiene la Fiera del Miele?",
 "a": "Pieve al Toppo",
 "x": [
@@ -2033,6 +2189,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f220d5ea",
 "c": "feste",
+"d": 1,
 "q": "Dove si tiene il Mercato del Cacio?",
 "a": "Nel borgo di Civitella",
 "x": [
@@ -2046,6 +2203,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "beec873c",
 "c": "feste",
+"d": 1,
 "q": "Che cosa si degusta a Calici sotto la Torre?",
 "a": "I vini della Strada del Vino Terre di Arezzo",
 "x": [
@@ -2059,6 +2217,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "2e7141f4",
 "c": "feste",
+"d": 2,
 "q": "In quale frazione si tiene la Festa della Rosa?",
 "a": "Viciomaggio",
 "x": [
@@ -2072,6 +2231,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "23617f63",
 "c": "feste",
+"d": 2,
 "q": "In quale frazione si tiene il RioFest?",
 "a": "Tegoleto",
 "x": [
@@ -2085,6 +2245,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "8e949863",
 "c": "feste",
+"d": 3,
 "q": "In quale anno si è tenuta la prima edizione del RioFest?",
 "a": "2025",
 "x": [
@@ -2098,6 +2259,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "260bd43e",
 "c": "feste",
+"d": 2,
 "q": "Quale associazione organizza il RioFest e Cinema sotto le Stelle?",
 "a": "Comunità & Tegoleto",
 "x": [
@@ -2111,6 +2273,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "253c5d99",
 "c": "feste",
+"d": 2,
 "q": "Dove si svolgono le proiezioni di Cinema sotto le Stelle?",
 "a": "In piazza della Chiesa a Tegoleto",
 "x": [
@@ -2124,6 +2287,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4a402844",
 "c": "feste",
+"d": 2,
 "q": "In quale frazione si tiene il Mercato dei Sapori e della Terra?",
 "a": "Tegoleto",
 "x": [
@@ -2137,6 +2301,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "044286f0",
 "c": "feste",
+"d": 1,
 "q": "In quale periodo si tiene la rassegna L'Olio Novo?",
 "a": "Tra novembre e dicembre",
 "x": [
@@ -2150,6 +2315,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "20356cbe",
 "c": "feste",
+"d": 1,
 "q": "In quale frazione si tiene il Presepe Vivente?",
 "a": "Oliveto",
 "x": [
@@ -2163,6 +2329,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "87a41003",
 "c": "feste",
+"d": 3,
 "q": "Chi organizza la Festa al Tegoleto?",
 "a": "L'U.S.D. Tegoleto",
 "x": [
@@ -2176,6 +2343,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "2f520af4",
 "c": "feste",
+"d": 2,
 "q": "In quale frazione ha sede la Società Filarmonica, la banda del paese?",
 "a": "Ciggiano",
 "x": [
@@ -2189,6 +2357,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "909f8526",
 "c": "feste",
+"d": 2,
 "q": "Di quale sport si occupa la Polisportiva Albergo Oliveto con i più giovani?",
 "a": "Ciclismo",
 "x": [
@@ -2202,6 +2371,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "410b1cb5",
 "c": "storia",
+"d": 3,
 "q": "In quale anno il titolo di pieve e il fonte battesimale passarono dalla Pieve al Toppo a Badia al Pino?",
 "a": "1502",
 "x": [
@@ -2215,6 +2385,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c87b3b73",
 "c": "storia",
+"d": 3,
 "q": "In quale anno fu soppressa la Badia del Pino?",
 "a": "1441",
 "x": [
@@ -2228,6 +2399,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "7a384985",
 "c": "storia",
+"d": 3,
 "q": "In quale anno furono distrutti la pieve e l'ospedale per i pellegrini di Pieve al Toppo?",
 "a": "1502",
 "x": [
@@ -2241,6 +2413,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "cb2abf6f",
 "c": "storia",
+"d": 2,
 "q": "Sotto quali valichi si trova Ciggiano, che ne fecero un nodo strategico?",
 "a": "Palazzuolo e San Pancrazio",
 "x": [
@@ -2254,6 +2427,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "96a6f855",
 "c": "storia",
+"d": 2,
 "q": "Che cos'era la «calla» che i pastori facevano a Ciggiano?",
 "a": "La conta degli animali, con il pagamento della gabella",
 "x": [
@@ -2267,6 +2441,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "523cea0b",
 "c": "storia",
+"d": 3,
 "q": "Le truppe di quale condottiero assediarono e saccheggiarono Ciggiano nel 1431?",
 "a": "Niccolò Piccinino",
 "x": [
@@ -2280,6 +2455,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "01491e5c",
 "c": "storia",
+"d": 2,
 "q": "Quale granduca soppresse nel 1783 la Compagnia di Santa Croce di Ciggiano?",
 "a": "Pietro Leopoldo",
 "x": [
@@ -2293,6 +2469,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f4c98a78",
 "c": "storia",
+"d": 3,
 "q": "Quali famiglie, tornate proprietarie del feudo, riedificarono nel Seicento la Casa del Podestà di Oliveto?",
 "a": "Ubertini e Saracini",
 "x": [
@@ -2306,6 +2483,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4fcbea87",
 "c": "storia",
+"d": 1,
 "q": "Che cosa diventò all'inizio dell'Ottocento la piazza d'armi del castello di Oliveto?",
 "a": "Un vigneto e oliveto",
 "x": [
@@ -2319,6 +2497,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f8e908eb",
 "c": "storia",
+"d": 1,
 "q": "Che funzione aveva il castello di Tuori nel Medioevo?",
 "a": "Era sede di guarnigioni a presidio di Arezzo",
 "x": [
@@ -2332,6 +2511,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "8bc58b2b",
 "c": "frazioni",
+"d": 3,
 "q": "In quale frazione si trova Palazzo Santini-Paccinelli, villa settecentesca simmetrica rispetto alla scala centrale?",
 "a": "Badia al Pino",
 "x": [
@@ -2345,6 +2525,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "19907f55",
 "c": "frazioni",
+"d": 1,
 "q": "Quale reliquia custodisce la chiesa della Compagnia di Santa Croce a Ciggiano?",
 "a": "Una reliquia della Croce",
 "x": [
@@ -2358,6 +2539,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "43d14c27",
 "c": "frazioni",
+"d": 3,
 "q": "Quale pittore dipinse la Madonna del Rosario conservata nella chiesa di Sant'Andrea a Oliveto?",
 "a": "Orazio Porta",
 "x": [
@@ -2371,6 +2553,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b4c51f53",
 "c": "frazioni",
+"d": 2,
 "q": "In quale anno Villa Oliveto fu ceduta al Comune di Civitella?",
 "a": "1980",
 "x": [
@@ -2384,6 +2567,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4bfffd85",
 "c": "frazioni",
+"d": 3,
 "q": "Chi fuse nel 1358 la campana oggi nel campanile della chiesa di Pieve a Maiano?",
 "a": "Neri d'Arezzo",
 "x": [
@@ -2397,6 +2581,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "1f3abaaa",
 "c": "frazioni",
+"d": 1,
 "q": "Che cos'era anticamente il podere Spedaluccio, vicino a Pieve a Maiano?",
 "a": "Un ospizio per viandanti",
 "x": [
@@ -2410,6 +2595,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "21e2abd1",
 "c": "frazioni",
+"d": 3,
 "q": "Da quale anno è documentato l'antico ospizio dello Spedaluccio?",
 "a": "1198",
 "x": [
@@ -2423,6 +2609,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "388b792d",
 "c": "frazioni",
+"d": 1,
 "q": "Su che cosa sorge l'Oratorio della Madonna del Conforto a Pieve al Toppo?",
 "a": "Sul sito dell'antica pieve",
 "x": [
@@ -2436,6 +2623,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "0ff18981",
 "c": "frazioni",
+"d": 1,
 "q": "Che cos'era all'inizio, nel 1960, il Teatro Moderno di Tegoleto?",
 "a": "Un cinema",
 "x": [
@@ -2449,6 +2637,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c5767706",
 "c": "frazioni",
+"d": 1,
 "q": "Che cosa c'è nel recinto d'accesso al Palatium-torre della Rocca di Civitella?",
 "a": "La cisterna per la raccolta dell'acqua",
 "x": [
@@ -2462,6 +2651,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "99db94ce",
 "c": "frazioni",
+"d": 2,
 "q": "Quale via medievale transitava da Albergo?",
 "a": "La via senese-aretina",
 "x": [
@@ -2475,6 +2665,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "a6b92165",
 "c": "frazioni",
+"d": 1,
 "q": "Quale bene è tutelato da vincolo nazionale a Badia al Pino?",
 "a": "La torre dell'antico castello",
 "x": [
@@ -2488,6 +2679,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "dad49b73",
 "c": "1944",
+"d": 1,
 "q": "Che cosa raccoglie la Sala della Memoria allestita a Civitella dall'associazione «Civitella Ricorda»?",
 "a": "Reperti delle vittime, fotografie e testimonianze sull'eccidio",
 "x": [
@@ -2501,6 +2693,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "38fd6d61",
 "c": "geo",
+"d": 2,
 "q": "Che cosa è stato trovato nel 2004 in località La Cascinella, presso Ciggiano?",
 "a": "Tracce di un insediamento etrusco e romano",
 "x": [
@@ -2514,6 +2707,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c7eef4ea",
 "c": "geo",
+"d": 2,
 "q": "Secondo Visit Tuscany, che cosa è stato trovato nella chiesa di San Pietro a Ciggiano?",
 "a": "Reperti con iscrizioni etrusche",
 "x": [
@@ -2527,6 +2721,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "eab967e7",
 "c": "geo",
+"d": 1,
 "q": "Fino a che spessore arrivano i muri del Castellare di Sant'Angelo, presso Cornia?",
 "a": "Circa un metro e mezzo",
 "x": [
@@ -2540,6 +2735,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "1526724b",
 "c": "geo",
+"d": 2,
 "q": "Su segnalazione di chi furono scoperte le fornaci romane in località I Ponti, a Pieve al Toppo?",
 "a": "Del Gruppo Archeologico del Dopolavoro Ferroviario di Arezzo",
 "x": [
@@ -2553,6 +2749,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "5b8c6dd0",
 "c": "geo",
+"d": 2,
 "q": "Quale reperto da Viciomaggio è conservato al Museo Archeologico Nazionale di Arezzo?",
 "a": "Un cammeo di diaspro",
 "x": [
@@ -2566,6 +2763,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "dc640362",
 "c": "geo",
+"d": 1,
 "q": "Che cosa prevede il Piano Strutturale per l'area di Cornia?",
 "a": "Un parco faunistico e un'area naturale protetta",
 "x": [
