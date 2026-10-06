@@ -49,3 +49,33 @@
 - **CEIA** (pagina storica del sito aziendale):
   - 1962 brevetto del metal detector per l'industria tessile; **1968 costituzione della società**; 1975 metal detector per gli aeroporti; 1996 varco ellittico scelto per il Giubileo 2000; 2002 fornitore ONU per lo sminamento in Afghanistan; poi sistemi per l'industria alimentare e farmaceutica, scanner per scarpe e liquidi, ispezione della posta.
   - **Dipendenti: non presenti.** Il numero 377 viene da un sito terzo: non va usato.
+
+## Prompt 3: feste e sagre
+| Festa | Frazione | Periodo | Organizzatore | Edizione / inizio |
+|---|---|---|---|---|
+| Festa dell'uva, del vino e dell'olio | Ciggiano | settembre (terza domenica) | Pro Loco Ciggiano | 49ª nel 2026, quindi **dal 1978** (il 1952 non compare in nessuna fonte) |
+| Sagra del Crostino (Festa dello Sport) | Albergo | luglio | Polisportiva Albergo Oliveto | 51ª nel 2026 |
+| Sagra della Bistecca | Badia al Pino | fine agosto – inizio settembre | Circolo Ricreativo Olinto Paccinelli, con Città della Chianina | 46ª nel 2026 |
+| Sagra del Cinghiale | Pieve a Maiano | fine agosto | Circolo ricreativo U.S. Pieve a Maiano | 42ª nel 2026 |
+| Sagra dei Baccelli | Spoiano | maggio | Polisportiva / Circolo Spoiano | 48ª nel 2025 (un'altra fonte: "nata nel 1975") |
+| Sagra della Pesca | Pieve al Toppo | settembre | ARCI Pieve al Toppo | non indicata |
+| Fiera del Miele | Pieve al Toppo | prima domenica di ottobre | Comune e Slow Food | 22ª nel 2026 |
+| Festa al Tegoleto | Tegoleto | fine giugno – inizio luglio | U.S.D. Tegoleto con Comunità & Tegoleto | 52ª nel 2025 |
+| RioFest | Tegoleto | settembre | Associazione Comunità & Tegoleto APS | 1ª nel 2025 (20 settembre), 2ª nel 2026 (18–19 settembre) |
+| Presepe Vivente | Oliveto | 20 e 26 dicembre | Parrocchia di Oliveto | 12ª nel 2026 (dal 2014) |
+| Mercato del Cacio | Civitella | maggio | Comune e Slow Food | 22ª nel 2025 |
+| Calici sotto la Torre | Civitella | agosto | Comune, Slow Food e AIS | non indicata |
+| Marcia per la pace | Civitella → San Pancrazio | 29 giugno | Comune, con Bucine | non indicata |
+| Olio Novo | varie frazioni | 16 novembre – 8 dicembre | Comune e Slow Food | 28ª nel 2025 |
+| Fiera del Fiore e delle sementi / Festa delle Palme | Civitella | Domenica delle Palme | Comune e Pro Loco Civitella | non indicata, **nuova** |
+| "Festa Siner Week" | Pieve al Toppo | giugno | Circolo ricreativo Pieve al Toppo | non indicata; **nuova, nome da verificare** |
+
+**RioFest:** direzione artistica di Alessandro Sacconi; patrocinio di Comune e Provincia, con la Regione Toscana. Nel 2025 ci sono stati talk, la band ufficiale di Rino Gaetano, Sgargabonzi e DJ set; nel 2026 due giorni a ingresso gratuito con Leo Gassmann, Sonohra e Pera Toons.
+
+**Da correggere sul sito:**
+- Ciggiano: rimettere la festa con "dal 1978".
+- Badia al Pino: l'organizzatore della sagra è il Circolo Paccinelli.
+- Pieve al Toppo: aggiungere la Sagra della Pesca e correggere il luogo della Fiera del Miele.
+- Tegoleto: aggiungere il RioFest e "52ª edizione nel 2025".
+- Oliveto: il Presepe è organizzato dalla parrocchia.
+- Civitella: aggiungere Mercato del Cacio, Calici sotto la Torre e Festa delle Palme.
