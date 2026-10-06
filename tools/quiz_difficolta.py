@@ -353,4 +353,7 @@ CODICI = {
     "53ade602": "Pv+",  # Come si chiamava la formazione partigiana che il 18 giugno 1944 tese u
     "6060fc7e": "Pv+",  # Verso quale località furono spinte le donne e i bambini di Civitella i
     "c840099b": "Pv+",  # Quale tribunale condannò all'ergastolo, nel 2006, il sergente tedesco 
+    "3ff855bb": "Pv+",  # Da quale vicariato dipendeva Civitella sotto i granduchi di Toscana?
+    "2368801b": "-v=",  # Secondo il piano paesaggistico regionale, che cosa separa il monte di 
+    "cb9f19ff": "-d=",  # Da che cosa deriva la pianura della Val di Chiana?
 }

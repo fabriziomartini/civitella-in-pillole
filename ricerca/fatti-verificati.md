@@ -40,6 +40,10 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Vino delle colline: Chianti Colli Aretini | Wikipedia | N | alta |
 | Torrenti principali: Esse, Leprone, Trove e Lota | Relazione generale del PS (C1.1) | N | alta |
 | Una parte del territorio rientra nella Riserva naturale di Ponte a Buriano e Penna, che protegge il tratto dell'Arno tra Ponte a Buriano e la diga della Penna (comuni di Arezzo, Civitella e Laterina) | Parks.it | W | alta |
+| «Nella parte settentrionale il monte di Civitella Val di Chiana segna il punto di separazione col territorio del Valdarno» | PIT Regione Toscana, scheda ambito 19 Val di Chiana, letta direttamente | R | alta |
+| La pianura della Val di Chiana (circa 250 m) deriva dal prosciugamento di un lago pleistocenico | PIT, ambito 19 | R | alta |
+| «Le colture arborate mantengono in parte i terrazzamenti (Ciggiano, Oliveto, Gargonza)» | PIT, ambito 19 | R | media |
+| Il piano riconosce valori storico-architettonici al borgo di Badia al Pino, «godibile dall'Autostrada del Sole, dalla strada provinciale Arezzo-Siena», e valore «estetico e tradizionale» all'abitato di Civitella «assise sulla piccola altura ricca di oliveti» | PIT, ambito 19 | R | media |
 | Pieve a Maiano è la «porta d'accesso» meridionale alla Riserva di Ponte a Buriano e Penna | Piano Strutturale | N | alta |
 | La sede comunale è a Badia al Pino dal 1917; il comune ha mantenuto il nome dell'antico borgo | Wikipedia | R | alta |
 | Il comune è gemellato con Kämpfelbach | Arezzo Notizie, Wikipedia | R | media |
@@ -86,6 +90,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Dante la ricorda nel XIII canto dell'Inferno come le «giostre del Toppo»; tra gli scialacquatori c'è Lano da Siena, caduto in quella battaglia | Wikipedia (Giostre del Toppo, Lano da Siena) | N | alta |
 | Nel 1385 Firenze, acquisiti Arezzo e il suo contado, staccò Civitella dalla podesteria di Valdambra e ne fece il capoluogo di una propria podesteria, durata fino al 1838 | SIUSA, Podesteria di Civitella | R | alta |
 | Nel 1774 Ciggiano, Viciomaggio, Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella. Il Repertorio conferma Montarfoni (H240a) e parla di «nove piccoli comuni» aggregati nel 1774, senza nominarli | Itinerari del Comune; Repertorio | N (R per Montarfoni e i nove comuni) | alta |
+| Monte San Savino «è stato capoluogo di vicariato sotto i granduchi, con autorità su Civitella, Lucignano e Foiano della Chiana» | PIT, ambito 19 | R | alta |
 | Nel 1917 la sede comunale fu trasferita a Badia al Pino per lo spopolamento delle zone collinari | Wikipedia | R | alta |
 | Un bombardamento alleato distrusse la rocca di Civitella, perché al suo interno si era installato il comando tedesco (le fonti non indicano la data) | Wikipedia, Cittaslow | R | alta |
 | Nel giugno 1940 a Villa Oliveto fu istituito un campo di internamento, soprattutto per famiglie ebree di nazionalità britannica provenienti dalla Libia; nel 1944 furono deportate a Bergen-Belsen | Regione Toscana, Storia e Memorie, Wikipedia | N | alta |

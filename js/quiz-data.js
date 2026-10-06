@@ -4425,5 +4425,47 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania.",
 "l": "storia.html"
+},
+{
+"id": "3ff855bb",
+"c": "storia",
+"d": 3,
+"q": "Da quale vicariato dipendeva Civitella sotto i granduchi di Toscana?",
+"a": "Da quello di Monte San Savino",
+"x": [
+"Da quello di Arezzo",
+"Da quello di Cortona",
+"Da quello di Montevarchi"
+],
+"s": "Monte San Savino fu capoluogo di vicariato sotto i granduchi, con autorità su Civitella, Lucignano e Foiano della Chiana.",
+"l": "storia.html"
+},
+{
+"id": "2368801b",
+"c": "geo",
+"d": 2,
+"q": "Secondo il piano paesaggistico regionale, che cosa separa il monte di Civitella nella parte settentrionale della Val di Chiana?",
+"a": "La Val di Chiana dal Valdarno",
+"x": [
+"La Val di Chiana dalla Val d'Orcia",
+"Il Casentino dal Valdarno",
+"La Toscana dall'Umbria"
+],
+"s": "Il piano scrive che «il monte di Civitella Val di Chiana segna il punto di separazione col territorio del Valdarno».",
+"l": "geografia.html"
+},
+{
+"id": "cb9f19ff",
+"c": "geo",
+"d": 1,
+"q": "Da che cosa deriva la pianura della Val di Chiana?",
+"a": "Dal prosciugamento di un antico lago",
+"x": [
+"Dal ritiro di un ghiacciaio",
+"Da un'antica colata di lava",
+"Dal ritiro del mare in età romana"
+],
+"s": "La pianura, a circa 250 metri di quota, deriva dal prosciugamento di un lago pleistocenico.",
+"l": "geografia.html"
 }
 ];
