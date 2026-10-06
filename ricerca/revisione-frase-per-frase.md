@@ -1,6 +1,6 @@
 # Revisione frase per frase del sito
 
-Ogni prompt contiene **tutte** le frasi di una pagina del sito, numerate ed estratte automaticamente dall'HTML. Le pagine lunghe sono divise in più parti, di 35 frasi al massimo.
+Ogni prompt contiene **tutte** le frasi di una pagina del sito, numerate ed estratte automaticamente dall'HTML. NotebookLM accetta messaggi brevi, quindi ogni pagina è divisa in blocchi di circa 1.800 caratteri al massimo. La numerazione delle frasi continua da un blocco all'altro.
 
 ## Cosa c'è in ciascun notebook (inventario confermato il 6/10/2026)
 
@@ -58,21 +58,12 @@ Per queste frasi è normale che N3 risponda NON PRESENTE. Le abbiamo già verifi
 
 ---
 
-## Civitella (capoluogo) (`frazioni/civitella.html`): prima N1, poi seconda passata in N3 · 27 frasi
+## Civitella (`frazioni/civitella.html`): prima N1, poi seconda passata in N3 · 27 frasi, 3 blocchi
 
+**Civitella 1/3**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Civitella (capoluogo)». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Il borgo collinare che dà il nome al comune, a circa 500 metri di altezza.
 2. Altitudine: circa 500 m
 3. Parrocchia: Santa Maria Assunta
@@ -88,6 +79,12 @@ FRASI:
 13. Chiesa di Santa Maria Assunta: eretta come priorato benedettino nell'XI secolo e completata in stile romanico nel 1252.
 14. In facciata si apre la porta in bronzo dello scultore fiorentino Bino Bini.
 15. Palazzo Pretorio: trecentesco, con un portico a cinque archi e gli stemmi dei podestà fiorentini in facciata.
+```
+
+**Civitella 2/3**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 16. Palazzo Becattini: nato dalla fusione di edifici medievali e trasformato nell'Ottocento; il notaio Becattini, morto nel 1877, lo lasciò alla Confraternita di Carità perché diventasse un ospedale per i poveri.
 17. Dal 1978 è del Comune.
 18. Oratori della Santissima Trinità, della Madonna di Mercatale e della Madonna della Costarella; la cisterna medievale di Piazza Lazzeri e la Pinacoteca d'arte contemporanea.
@@ -98,27 +95,24 @@ FRASI:
 23. In occasione della ricorrenza si tiene la Marcia per la pace da Civitella a San Pancrazio, organizzata insieme al comune di Bucine.
 24. Il borgo è il cuore delle iniziative del Comune e di Slow Food Valdichiana, che ha sede proprio a Civitella.
 25. A maggio piazza Lazzeri ospita il Mercato del Cacio, arrivato nel 2025 alla 22ª edizione, con gli ospiti del comune gemellato di Kämpfelbach, in Germania.
+```
+
+**Civitella 3/3**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 26. Ad agosto, tra le vie del borgo, Calici sotto la Torre propone i vini della Strada del Vino Terre di Arezzo.
 27. Nel paese ha sede anche la Pro Loco.
 ```
 
 ---
 
-## Albergo (`frazioni/albergo.html`): prima N1, poi seconda passata in N3 · 14 frasi
+## Albergo (`frazioni/albergo.html`): prima N1, poi seconda passata in N3 · 14 frasi, 1 blocchi
 
+**Albergo 1/1**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Albergo». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un centro della pianura, servito dalla ferrovia Arezzo–Sinalunga.
 2. Origine: Probabilmente romana
 3. Parrocchia: Nessuna propria
@@ -137,21 +131,12 @@ FRASI:
 
 ---
 
-## Badia al Pino (`frazioni/badia-al-pino.html`): prima N1, poi seconda passata in N3 · 21 frasi
+## Badia al Pino (`frazioni/badia-al-pino.html`): prima N1, poi seconda passata in N3 · 21 frasi, 2 blocchi
 
+**Badia al Pino 1/2**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Badia al Pino». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. La sede comunale, nata attorno a un'antica abbazia benedettina.
 2. Attestata: 1039 (abbazia del Pino)
 3. Parrocchia: San Bartolomeo
@@ -166,6 +151,12 @@ FRASI:
 12. Torre e porta del castello: quanto resta del borgo fortificato sorto attorno all'abbazia; la torre è tutelata da vincolo nazionale.
 13. Palazzetto settecentesco: fu sede comunale dal 1917 fino ai primi anni Settanta; oggi ospita la Biblioteca comunale, dove si riunisce anche il circolo di lettura dedicato a Muriel Spark.
 14. Palazzo Santini-Paccinelli: villa settecentesca a pianta rettangolare, simmetrica rispetto alla scala centrale, ai margini del nucleo medievale.
+```
+
+**Badia al Pino 2/2**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 15. Villa del Bosco: con il suo parco storico e un filare di pini.
 16. Monumento ai caduti: nel piazzale della chiesa, inaugurato il 26 agosto 1951.
 17. Nella campagna intorno al paese si trovano alcune case coloniche di pregio, come Bellavista, il Casetto (o Casa del Moro) e l'ex chiesa di San Lorentino di Loreto, trasformata in abitazione.
@@ -177,21 +168,12 @@ FRASI:
 
 ---
 
-## Ciggiano (`frazioni/ciggiano.html`): prima N1, poi seconda passata in N3 · 27 frasi
+## Ciggiano (`frazioni/ciggiano.html`): prima N1, poi seconda passata in N3 · 27 frasi, 3 blocchi
 
+**Ciggiano 1/3**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Ciggiano». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un borgo fortificato sulle colline, con la pieve di San Biagio.
 2. Altitudine: circa 360 m
 3. Attestata: XI secolo (castello con pieve)
@@ -206,6 +188,12 @@ FRASI:
 12. Del castello resta ben leggibile l'impianto.
 13. Sopravvivono il possente bastione sud-ovest, un tratto di mura trecentesche con la torre oggi inglobata nella casa canonica, una torretta cinquecentesca con feritoia per archibugi e una grande torre sul lato nord.
 14. Il cuore del paese è Piazza Alta, con il pozzo comunitario.
+```
+
+**Ciggiano 2/3**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 15. Chiesa di San Biagio: la parrocchiale, elevata a pieve nel 1465; custodisce l'altare Mazzeschi della metà del Seicento e una scultura di Santa Maria Maddalena del primo Cinquecento attribuita ad Andrea Sansovino.
 16. Chiesa della Compagnia di Santa Croce: costruita sulle mura occidentali del castello per custodire una reliquia della Croce, esposta il 3 maggio e il 14 settembre.
 17. Documentata dal 1558, fu soppressa da Pietro Leopoldo nel 1783 e ripristinata nel 1794.
@@ -215,6 +203,12 @@ FRASI:
 21. Poco distante si trovano il frantoio di Caggiolo e il mulino di Ciggiano.
 22. Ricognizioni condotte nel 2004 hanno individuato ceramica romana di età imperiale nelle mura del paese e, in località La Cascinella davanti al cimitero, i resti di un vasto insediamento affiorati con i lavori agricoli: frammenti di macine etrusche, tegole e vasellame romani, fino a materiali del tardo Medioevo.
 23. Il 16 aprile 1944 un gruppo di SS fermò due giovani partigiani, Giovanni Marmo e Mario Marapitti, mentre requisivano un camion di legna e carbone, e li fucilò sul posto.
+```
+
+**Ciggiano 3/3**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 24. In un giardino del centro il monumento ai caduti riunisce tre lapidi: per i 30 caduti e 2 dispersi delle due guerre mondiali, per Enrico Scapecchi, medaglia d'argento al valor militare, e per Marmo e Marapitti.
 25. Secondo la scheda del Comune, Ciggiano contava 634 abitanti nel 1833, 508 nel 2001 e 610 nel 2011.
 26. A settembre la Pro Loco di Ciggiano organizza la Festa dell'uva, del vino e dell'olio, arrivata nel 2026 alla 49ª edizione, e nel 2027 sarà la cinquantesima.
@@ -223,21 +217,12 @@ FRASI:
 
 ---
 
-## Cornia (`frazioni/cornia.html`): prima N1, poi seconda passata in N3 · 18 frasi
+## Cornia (`frazioni/cornia.html`): prima N1, poi seconda passata in N3 · 18 frasi, 2 blocchi
 
+**Cornia 1/2**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Cornia». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un piccolo nucleo collinare segnato per sempre dal 29 giugno 1944.
 2. Altitudine: circa 560 m
 3. Attestata: 1274 (decime)
@@ -251,6 +236,12 @@ FRASI:
 11. Castellare di Sant'Angelo: il sito fortificato nel bosco, dove il Piano Strutturale prevede un campo scuola di scavo.
 12. Complesso religioso di Vallebuona, tra quelli da recuperare, e la fonte della Cornia.
 13. Parco faunistico e ANPIL: il Piano Strutturale individua l'area per un Parco Faunistico Naturalistico e un'Area Naturale Protetta di Interesse Locale, con sentieri, punti di avvistamento della fauna e un centro servizi ricavato negli edifici inutilizzati del borgo.
+```
+
+**Cornia 2/2**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 14. Il 29 giugno 1944 reparti della divisione corazzata tedesca «Hermann Göring» compirono a Cornia una strage di civili, contemporaneamente a quelle di Civitella e San Pancrazio.
 15. A differenza che altrove, qui la violenza fu indiscriminata e colpì anche donne e bambini.
 16. Lastra dei martiri di Cornia: presso la chiesa, riporta i nomi di 58 caduti di Cornia, Burrone, Morcaggiolo, Solaia, Cellere, San Pancrazio e Caselle, uccisi nelle rappresaglie fra il 29 giugno e il 16 luglio 1944.
@@ -260,21 +251,12 @@ FRASI:
 
 ---
 
-## Gebbia (`frazioni/gebbia.html`): prima N1, poi seconda passata in N3 · 13 frasi
+## Gebbia (`frazioni/gebbia.html`): prima N1, poi seconda passata in N3 · 13 frasi, 2 blocchi
 
+**Gebbia 1/2**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Gebbia». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Una piccola frazione collinare, anch'essa segnata dal 29 giugno 1944.
 2. Distanza: circa 3,5 km (dal capoluogo)
 3. Data: 29 giugno 1944
@@ -286,27 +268,24 @@ FRASI:
 9. Otto uomini furono fatti prigionieri e portati attraverso i boschi di Valibona fino al Podere Valle, vicino a San Pancrazio: lì furono fucilati e gettati in una capanna poi data alle fiamme.
 10. L'Atlante delle stragi naziste e fasciste elenca 16 vittime per «Gebbia e dintorni», tra cui Arrigucci Orlindo (69 anni), Biagiotti Giulio (62) e Pratesi Silvestro (58); nell'elenco figurano anche alcune donne e due bambini di uno e tre anni.
 11. A Gebbia furono catturati anche Giovanni Cau, scrittore e divulgatore scientifico nato a Cagliari nel 1892, e la moglie Helga Elmqvist, pittrice e traduttrice svedese: si erano trasferiti da Firenze per sfuggire ai pericoli della guerra.
+```
+
+**Gebbia 2/2**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 12. Furono uccisi il 2 luglio 1944 a Monte San Savino.
 13. Le fonti non coincidono sul numero delle vittime: l'Archivio della Memoria parla di 8 uomini fucilati, l'Atlante elenca 16 nomi per Gebbia e i suoi dintorni.
 ```
 
 ---
 
-## Oliveto (`frazioni/oliveto.html`): prima N1, poi seconda passata in N3 · 21 frasi
+## Oliveto (`frazioni/oliveto.html`): prima N1, poi seconda passata in N3 · 21 frasi, 3 blocchi
 
+**Oliveto 1/3**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Oliveto». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un borgo murato in posizione dominante sulla Val di Chiana, con una storia sorprendentemente internazionale.
 2. Attestata: XII secolo (castello)
 3. Parrocchia: Sant'Andrea Apostolo
@@ -319,6 +298,12 @@ FRASI:
 10. Cassero, mura e Casa del Podestà: del castello restano il cassero, oggi abitazione, la porta d'accesso, tratti di mura e la torre sull'ex piazza d'armi.
 11. Inglobata nelle mura c'è anche una casa trecentesca su tre piani, tutelata da vincolo nazionale.
 12. Villa Oliveto (già Villa Mazzi): dimora dei conti Barbolani di Montauto, rimaneggiata nell'Ottocento, con un parco di ispirazione romantica ricco di cedri e lecci.
+```
+
+**Oliveto 2/3**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 13. Cappella della Compagnia, rifatta attorno al 1637 come indica l'iscrizione sul portale, e Oratorio di San Rocco, nato come tabernacolo e trasformato in cappella nell'Ottocento.
 14. Castellare e chiesa di San Giovanni d'Oliveto: un sito fortificato di età romana e medievale, con una chiesa altomedievale ricordata nelle decime del 1274 e ricostruita nel 1343.
 15. Il Piano Strutturale vi prevede un parco archeologico con un campo scuola di scavo.
@@ -327,26 +312,23 @@ FRASI:
 18. Oliveto è legata anche al nome della scrittrice scozzese Muriel Spark, autrice de Gli anni fulgenti di Miss Brodie.
 19. Visse qui dagli anni Settanta con l'artista Penelope Jardine, ricevette nel 2005 la cittadinanza onoraria di Civitella e, morta nel 2006, è sepolta nel cimitero di Sant'Andrea Apostolo a Oliveto.
 20. In sua memoria si riunisce un circolo di lettura alla Biblioteca comunale di Badia al Pino.
+```
+
+**Oliveto 3/3**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 21. Dal 2014, nel periodo natalizio, la parrocchia organizza il Presepe Vivente di Oliveto: oltre 80 figuranti animano le antiche botteghe lungo le vie del paese, e un percorso illuminato da torce, tra gli olivi fuori dalle mura, conduce alla Natività allestita nella chiesetta di San Rocco.
 ```
 
 ---
 
-## Pieve a Maiano (`frazioni/pieve-a-maiano.html`): prima N1, poi seconda passata in N3 · 21 frasi
+## Pieve a Maiano (`frazioni/pieve-a-maiano.html`): prima N1, poi seconda passata in N3 · 21 frasi, 2 blocchi
 
+**Pieve a Maiano 1/2**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Pieve a Maiano». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un toponimo che ricorda una pieve scomparsa, ai confini con Arezzo.
 2. Origine: Romana (toponimo da Marius)
 3. Parrocchia: Santa Maria Assunta
@@ -362,6 +344,12 @@ FRASI:
 13. Non ha legami con la frazione di Albergo, a cui a volte viene erroneamente associato.
 14. Fattoria di Maiano: tutelata da vincolo nazionale.
 15. Campo sportivo: un consistente insediamento romano, documentato da frammenti di vasi e tegole del I–II secolo d.C.
+```
+
+**Pieve a Maiano 2/2**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 16. Vallimboi: una piccola fornace romana circolare, scavata nell'argilla nel bosco, che conserva ancora tracce di nerofumo.
 17. Nei vecchi catasti il borro vicino si chiamava «Fossato della Fonte agli Urci».
 18. Moneta d'oro dell'imperatore Claudio (41–54 d.C.): un aureus di circa 18 grammi.
@@ -372,21 +360,12 @@ FRASI:
 
 ---
 
-## Pieve al Toppo (`frazioni/pieve-al-toppo.html`): prima N1, poi seconda passata in N3 · 19 frasi
+## Pieve al Toppo (`frazioni/pieve-al-toppo.html`): prima N1, poi seconda passata in N3 · 19 frasi, 2 blocchi
 
+**Pieve al Toppo 1/2**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Pieve al Toppo». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Il centro abitato più popoloso del comune, teatro di una battaglia che Dante non ha dimenticato.
 2. Attestata: 938 (la pieve)
 3. Parrocchia: San Giovanni Battista
@@ -401,6 +380,12 @@ FRASI:
 12. Cippo delle Giostre del Toppo: ricorda la battaglia del 1288.
 13. Chiesa di San Giovanni Battista: la parrocchiale, una chiesa moderna progettata nel 1967 dallo studio Martini-Matteini-La Rocca; il porticato fu aggiunto nel 1977.
 14. Fattoria di Mugliano: complesso rurale censito tra gli edifici storici del Piano Strutturale.
+```
+
+**Pieve al Toppo 2/2**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 15. In località I Ponti, su segnalazione del Gruppo Archeologico del Dopolavoro Ferroviario di Arezzo, sono venuti alla luce a circa 1,60 metri di profondità i muri di strutture romane interpretate come fornaci per la terra sigillata aretina, la celebre ceramica rossa da mensa della prima età imperiale, insieme a scarti di lavorazione e probabili scorie di fusione.
 16. La prima domenica di ottobre, nel piazzale del Circolo ricreativo, si svolge la Fiera del Miele, organizzata dal Comune con Slow Food Valdichiana e arrivata nel 2026 alla 22ª edizione.
 17. A fine estate il Circolo ARCI organizza la Sagra della Pesca, dedicata al frutto.
@@ -410,21 +395,12 @@ FRASI:
 
 ---
 
-## Ponticino (`frazioni/ponticino.html`): prima N1, poi seconda passata in N3 · 14 frasi
+## Ponticino (`frazioni/ponticino.html`): prima N1, poi seconda passata in N3 · 14 frasi, 2 blocchi
 
+**Ponticino 1/2**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Ponticino». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un solo abitato, diviso tra più comuni.
 2. Comuni: Civitella e Laterina Pergine Valdarno
 3. Stazione: 1866 (linea Firenze–Roma)
@@ -438,26 +414,23 @@ FRASI:
 11. Mulino di Ponticino: l'unico bene storico censito a Ponticino dal Repertorio del Piano Strutturale.
 12. Stazione ferroviaria: attiva dal 1866, oggi servita da treni regionali.
 13. Chiesa dei Santi Iacopo e Cristoforo: la parrocchiale, che ha sede nella parte del paese compresa nel comune di Laterina Pergine Valdarno.
+```
+
+**Ponticino 2/2**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 14. Al censimento ISTAT 2021 il centro abitato di Ponticino («Ponticino-Cavi Casalone») è attribuito al comune di Laterina Pergine Valdarno; nel territorio di Civitella non risulta censita una località abitata di Ponticino.
 ```
 
 ---
 
-## Spoiano (`frazioni/spoiano.html`): prima N1, poi seconda passata in N3 · 13 frasi
+## Spoiano (`frazioni/spoiano.html`): prima N1, poi seconda passata in N3 · 13 frasi, 1 blocchi
 
+**Spoiano 1/1**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Spoiano». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un borgo di origine romana, tra la villa dei Pecchioli e la sagra dei baccelli.
 2. Origine: Romana
 3. Parrocchia: San Giovanni Battista
@@ -475,21 +448,12 @@ FRASI:
 
 ---
 
-## Tegoleto (`frazioni/tegoleto.html`): prima N1, poi seconda passata in N3 · 21 frasi
+## Tegoleto (`frazioni/tegoleto.html`): prima N1, poi seconda passata in N3 · 21 frasi, 2 blocchi
 
+**Tegoleto 1/2**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Tegoleto». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Uno dei centri della pianura dove vive la maggior parte della popolazione del comune.
 2. Attestata: X secolo (chiesa di San Biagio)
 3. Parrocchia: San Biagio
@@ -505,6 +469,12 @@ FRASI:
 13. La casa d'agenzia, con torre colombaria e due edifici simmetrici attorno al cortile con il pozzo, risultava di recente costruzione nel 1814.
 14. TMT – Teatro Moderno Tegoleto: nato nel 1960 come cinema per iniziativa di alcuni parrocchiani, dal 1997 è una sala polifunzionale gestita dal Gruppo Teatro La Torre, con una stagione da ottobre a marzo.
 15. Tegoleto ha uno dei calendari più ricchi del comune.
+```
+
+**Tegoleto 2/2**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 16. Tra l'ultima settimana di giugno e la prima di luglio l'U.S.D. Tegoleto, con l'associazione Comunità & Tegoleto, organizza la Festa al Tegoleto, con luna park, ballo, stand gastronomici e fuochi d'artificio, arrivata nel 2025 alla 52ª edizione.
 17. Comunità & Tegoleto promuove anche Cinema sotto le Stelle, proiezioni gratuite il mercoledì sera di luglio in piazza della Chiesa, nate nel 2018, e dal 2025 il RioFest, un festival di musica, incontri e spettacoli a ingresso gratuito che si tiene a settembre.
 18. Ad aprile, sempre in piazza della Chiesa, il Comune e Slow Food Valdichiana organizzano il Mercato dei Sapori e della Terra.
@@ -515,21 +485,12 @@ FRASI:
 
 ---
 
-## Tuori (`frazioni/tuori.html`): prima N1, poi seconda passata in N3 · 13 frasi
+## Tuori (`frazioni/tuori.html`): prima N1, poi seconda passata in N3 · 13 frasi, 1 blocchi
 
+**Tuori 1/1**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Tuori». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un antico avamposto militare aretino, a guardia della Val di Chiana e della Valdambra.
 2. Attestata: 1021
 3. Parrocchia: Santi Giorgio e Luca
@@ -547,21 +508,12 @@ FRASI:
 
 ---
 
-## Viciomaggio (`frazioni/viciomaggio.html`): prima N1, poi seconda passata in N3 · 21 frasi
+## Viciomaggio (`frazioni/viciomaggio.html`): prima N1, poi seconda passata in N3 · 21 frasi, 2 blocchi
 
+**Viciomaggio 1/2**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Viciomaggio». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un toponimo romano, una leggenda su Annibale e una pagina dolorosa del 1944.
 2. Attestata: 1024 (atto notarile)
 3. Parrocchia: San Martino
@@ -576,6 +528,12 @@ FRASI:
 12. Villa Milloni (Fattoria di Viciomaggio): villa padronale settecentesca nata dall'accorpamento di edifici più antichi, con decorazioni pittoriche del 1868 e, oltre la strada, un giardino con una limonaia del 1836.
 13. La grande cappella secentesca annessa ha un quadrante d'orologio e un piccolo campanile a vela sul fianco sud.
 14. Villa di Viciomaggio: un'altra villa storica con la sua cappella.
+```
+
+**Viciomaggio 2/2**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 15. Nel 1872 vi fu ritrovata un'urna cineraria etrusca in arenaria, di età ellenistica, con l'iscrizione l. prastn[a] nerinal, insieme a un vaso a vernice nera anch'esso iscritto: provenivano probabilmente da una tomba a camera.
 16. Sono stati trovati anche vasi del I secolo a.C. e un monile romano, oggi al Museo Archeologico Nazionale «Gaio Cilnio Mecenate» di Arezzo.
 17. Il 29 marzo 1944 la frazione fu teatro di una strage fascista in cui fu ucciso Mario Mannelli, pochi mesi prima dell'eccidio del 29 giugno (vedi la pagina Storia).
@@ -587,23 +545,12 @@ FRASI:
 
 ---
 
-## Borghi e località minori (`frazioni/borghi-minori.html`): prima N1, poi seconda passata in N3 · 58 frasi
+## Borghi e località minori (`frazioni/borghi-minori.html`): prima N1, poi seconda passata in N3 · 58 frasi, 4 blocchi
 
-**Parte 1 di 2**
-
+**Borghi e località minori 1/4**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Borghi e località minori», parte 1 di 2. Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Piccoli nuclei, castellari e ville-fattoria che non sono frazioni, ma raccontano il territorio.
 2. Oltre al capoluogo e alle frazioni, il territorio di Civitella è punteggiato di piccoli luoghi con una storia propria: nuclei rurali, fortilizi d'altura abbandonati da secoli, ville-fattoria e insediamenti antichi.
 3. Qui li raccogliamo in schede brevi, ciascuna con un rimando alla frazione più vicina.
@@ -616,6 +563,12 @@ FRASI:
 10. Lungo la via della Centrale, i Poderi Montoto I e II sono case coloniche sorte su quanto resta di un fortilizio longobardo.
 11. Il castello passò da Arezzo a Firenze nel 1385; da qui proviene la campana del 1358 oggi nella chiesa di Pieve a Maiano.
 12. Il Piano Strutturale lo indica come sito di notevole interesse storico-archeologico, con un campo scuola di scavo e un punto panoramico collegato ai sentieri della Riserva di Ponte a Buriano e Penna.
+```
+
+**Borghi e località minori 2/4**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 13. Vicino a Pieve a Maiano
 14. Fortilizio longobardo
 15. Sulla cima del poggio, a 483 metri e a sud di Gaenne, restano i ruderi di una cinta muraria ellittica a secco, spessa 1,60 metri e lunga circa 300, con all'interno le fondamenta di altri muri.
@@ -634,28 +587,17 @@ FRASI:
 28. Il nome viene dal trivium, l'incrocio di tre strade attorno a cui sorse in età romana; ancora oggi è un crocevia rurale, con un vecchio pozzo censito tra i beni storici.
 29. Vicino a Viciomaggio
 30. Insediamento antico
+```
+
+**Borghi e località minori 3/4**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 31. Il nome ricorda un antico proprietario germanico: «Monte di Arfo».
 32. Del castello medievale, aggregato al Comune di Civitella nel 1774, restano la porta d'accesso e tratti della cinta muraria, in parte inglobati nella villa padronale.
 33. Oggi Montarfoni è un borgo-fattoria organizzato come un piccolo paese, con la piazzetta, la chiesa di Sant'Andrea, la cantina e il frantoio-mulino, e un antico tratto di strada romana.
 34. In fondo, dominante sulla valle, c'è la villa seicentesca con la limonaia e il parco terrazzato.
 35. Lungo l'itinerario Valdarno–Civitella, dopo Ponticino
-```
-
-**Parte 2 di 2**
-
-```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Borghi e località minori», parte 2 di 2. Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
-
-FRASI:
 36. Castello e borgo-fattoria
 37. Fu un insediamento fortificato longobardo di primaria importanza, tenuto tra l'VIII e il X secolo dai patroni della Pieve al Toppo.
 38. Un documento del 1181 parla del castrum Durna e della sua corte; la torre, ricordata dal 1198, è la parte più antica rimasta integra.
@@ -665,6 +607,12 @@ FRASI:
 42. Castello longobardo e villa-fattoria
 43. Piccolo nucleo d'altura a circa 540 metri.
 44. La sua prima chiesa, San Martino di Loreto, sorgeva nella vicina località Pian del Pozzo: è ricordata nel 1194 tra i possessi dell'abbazia di Agnano e scompare dai documenti dal XV secolo; oggi ne resta un'edicola.
+```
+
+**Borghi e località minori 4/4**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 45. L'attuale chiesa dei Santi Maria e Carlo fu costruita nel 1690 grazie al patrimonio donato dal nobile fiorentino Carlo Casini, ampliata nel 1726 e divenuta parrocchia nel 1814; nel 1845 la parrocchia contava 317 abitanti.
 46. Il nucleo conserva anche un pozzo, il monumento ai caduti della Prima guerra mondiale, la villa e i filari di cipressi.
 47. Oltre il paese, il sentiero CAI 107 porta all'Oratorio della Madonna di Mercatale.
@@ -683,21 +631,12 @@ FRASI:
 
 ---
 
-## Storia (`storia.html`): prima N1, poi seconda passata in N3 · 23 frasi
+## Storia (`storia.html`): prima N1, poi seconda passata in N3 · 23 frasi, 3 blocchi
 
+**Storia 1/3**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Storia». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Dalle origini etrusco-romane alla ricostruzione del dopoguerra.
 2. Il territorio di Civitella è abitato da tempi remotissimi: a Pieve a Maiano sono stati trovati strumenti in pietra del Paleolitico, e in tutta la zona affiorano tracce etrusche e romane, dall'urna iscritta di Viciomaggio alle fornaci di terra sigillata aretina di Pieve al Toppo.
 3. Molti nomi di paese sono di origine latina, come vicus maior (Viciomaggio) o Maiano, dal nome di un proprietario romano.
@@ -706,6 +645,12 @@ FRASI:
 6. Nel 1182 la rocca aveva già l'aspetto di un palazzo-torre, e nel 1248 il vescovo Guglielmino degli Ubertini la scelse come propria dimora e ne potenziò la cinta muraria.
 7. Il territorio fu coinvolto nelle guerre del tempo: il 26 giugno 1288, a Pieve al Toppo, gli aretini sconfissero i senesi nella battaglia che Dante ricorda come le «giostre del Toppo», e tra il 1284 e il 1285 la rocca di Civitella fu assediata dagli stessi aretini.
 8. Nel 1385, dopo aver acquisito Arezzo e il suo contado, la Repubblica fiorentina riorganizzò l'intero territorio aretino: Civitella fu staccata dalla podesteria di Valdambra e divenne capoluogo di una propria podesteria, che durò fino al 1838.
+```
+
+**Storia 2/3**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 9. Nel 1774 le antiche comunità di Ciggiano, Viciomaggio e Badia al Pino, insieme al castello di Montarfoni, furono aggregate alla Comunità di Civitella.
 10. Con lo spopolamento delle zone collinari, nel 1917 la sede comunale fu trasferita da Civitella a Badia al Pino, nella pianura, dove si trova ancora oggi.
 11. È in pianura che vive oggi la maggior parte degli abitanti: al censimento del 2021 il centro più popoloso era Pieve al Toppo.
@@ -716,6 +661,12 @@ FRASI:
 16. In occasione della ricorrenza si tiene la Marcia per la pace da Civitella a San Pancrazio, organizzata insieme al comune di Bucine.
 17. Le fonti non concordano sulle cifre.
 18. La ricostruzione di ToscanaNovecento riporta 244 morti: 115 a Civitella, 58 a Cornia e 71 a San Pancrazio.
+```
+
+**Storia 3/3**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 19. L'Atlante delle stragi naziste e fasciste in Italia conta invece 146 vittime per l'episodio di Civitella, Cornia e Gebbia (di cui 32 a Cornia e dintorni e 16 a Gebbia e dintorni) e 58 per quello di San Pancrazio, per un totale di 204.
 20. La lapide di Cornia con 58 nomi comprende anche caduti di San Pancrazio e di altre località vicine.
 21. Per il dettaglio vedi le pagine di Cornia e Gebbia.
@@ -725,23 +676,12 @@ FRASI:
 
 ---
 
-## Patrimonio (`patrimonio.html`): prima N1, poi seconda passata in N3 · 95 frasi
+## Patrimonio (`patrimonio.html`): prima N1, poi seconda passata in N3 · 95 frasi, 4 blocchi
 
-**Parte 1 di 3**
-
+**Patrimonio 1/4**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Patrimonio», parte 1 di 3. Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Castellari, ville-fattoria, mulini e duemila anni di archeologia, frazione per frazione.
 2. Le pagine delle frazioni raccontano i luoghi uno per uno.
 3. Questa pagina li legge invece per temi, collegando ciò che il territorio ha in comune: le fortificazioni, le grandi fattorie, i mulini e le tracce archeologiche.
@@ -760,6 +700,12 @@ FRASI:
 16. Borghi minori
 17. Montoto: fortilizio longobardo, passato a Firenze nel 1385.
 18. Borghi minori
+```
+
+**Patrimonio 2/4**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 19. Castello di Gaenne: a guardia della strada tra Valdichiana e Valdarno, forse sorto su un fortilizio bizantino, dei longobardi di Dorna nel 1069 e poi dei Tarlati, distrutto per ordine di Firenze dopo il 1385; oggi ne restano le rovine nel bosco.
 20. Borghi minori
 21. Castello di Montarfoni, di cui restano la porta e tratti di mura, e il castello longobardo di Dorna, documentato nel 1181, con la torre ricordata dal 1198.
@@ -777,24 +723,13 @@ FRASI:
 33. Villa Milloni: villa settecentesca con limonaia del 1836 e cappella secentesca con orologio e campanile a vela; accanto, la Villa di Viciomaggio.
 34. Viciomaggio
 35. Fattoria di Tegoleto: dell'Ordine dei Cavalieri di Santo Stefano dal 1783, con la casa d'agenzia e la torre colombaria.
-```
-
-**Parte 2 di 3**
-
-```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Patrimonio», parte 2 di 3. Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
-
-FRASI:
 36. Tegoleto
+```
+
+**Patrimonio 3/4**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 37. Villa Pecchioli: settecentesca, con torre-piccionaia; asilo dal 1928, restaurata nel 1981.
 38. Spoiano
 39. Palazzo Santini-Paccinelli e Villa del Bosco, con il parco e il filare di pini.
@@ -824,28 +759,17 @@ FRASI:
 63. Pieve a Maiano
 64. Paleolitico
 65. Un'urna cineraria ellenistica in arenaria con l'iscrizione l. prastn[a] nerinal e un vaso iscritto, ritrovati nel 1872.
+```
+
+**Patrimonio 4/4**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 66. Viciomaggio
 67. Frammenti di macine da grano nel vasto insediamento della Cascinella.
 68. Ciggiano
 69. La cinta ellittica di Poggio Castellare, datata da alcuni studiosi già alla protostoria o all'età etrusca, e il nome di Gaenne, forse di origine etrusca.
 70. Borghi minori
-```
-
-**Parte 3 di 3**
-
-```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Patrimonio», parte 3 di 3. Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
-
-FRASI:
 71. Forse già allora frequentata la sorgente salutare di Matroia.
 72. Borghi minori
 73. Età etrusca
@@ -875,21 +799,12 @@ FRASI:
 
 ---
 
-## Geografia (`geografia.html`): N3 · 33 frasi
+## Geografia (`geografia.html`): N3 · 33 frasi, 2 blocchi
 
+**Geografia 1/2**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Geografia». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Tra le prime colline dell'Appennino e la pianura della Val di Chiana.
 2. Superficie: 100,33 km²
 3. Altitudine: circa 500 m (il capoluogo)
@@ -913,6 +828,12 @@ FRASI:
 21. Spoiano: 120
 22. Matroia: 23
 23. Oliveto: 15
+```
+
+**Geografia 2/2**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 24. Altri piccoli nuclei e località (Casali, Le Poggiole, Malpertuso, Poggio Basso e altre): 106
 25. Case sparse: 2.256
 26. Cornia e Gebbia non sono censite come località abitate a sé: i loro residenti rientrano tra le case sparse.
@@ -927,23 +848,12 @@ FRASI:
 
 ---
 
-## Lavoro e sapori (`lavoro-e-sapori.html`): N3 · 62 frasi
+## Lavoro e sapori (`lavoro-e-sapori.html`): N3 · 62 frasi, 4 blocchi
 
-**Parte 1 di 2**
-
+**Lavoro e sapori 1/4**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Lavoro e sapori», parte 1 di 2. Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Le industrie della piana, una grande fabbrica che non c'è più, e l'olio e il vino delle colline.
 2. Il territorio di Civitella ha due anime economiche.
 3. In pianura si sono sviluppate le aree produttive di Badia al Pino, Tegoleto, Pieve al Toppo e Viciomaggio.
@@ -959,6 +869,12 @@ FRASI:
 13. Ha sede nella zona industriale di Viciomaggio.
 14. Brevetto e prime produzioni di metal detector per l'industria tessile.
 15. 1962
+```
+
+**Lavoro e sapori 2/4**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 16. Costituzione della società.
 17. 1968
 18. I primi metal detector per gli aeroporti.
@@ -979,29 +895,18 @@ FRASI:
 33. Con questa maglia esordisce tra i professionisti Mario Cipollini.
 34. 1982–1991
 35. La quarta tappa del Giro d'Italia arriva a Tegoleto, davanti allo stabilimento; la vince Alessandro Petacchi.
-```
-
-**Parte 2 di 2**
-
-```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Lavoro e sapori», parte 2 di 2. Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
-
-FRASI:
 36. 2004
 37. Fallimento dell'azienda.
 38. 2018
 39. Il marchio viene aggiudicato all'asta all'azienda teramana Kico.
 40. 2022
 41. Sulle colline prevalgono l'olivo e la vite; in pianura, prati e seminativi.
+```
+
+**Lavoro e sapori 3/4**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 42. Le aziende agricole e gli allevamenti sono per lo più a conduzione familiare, e nel fondovalle e lungo la via Vecchia Senese si allevano cavalli; il Piano Strutturale censisce diversi centri di equitazione, tra cui quelli delle località Fogliarina e La Casina.
 43. Secondo il Piano Operativo l'agriturismo è un settore ancora in crescita.
 44. Vino.
@@ -1015,6 +920,12 @@ FRASI:
 52. Ogni autunno l'olio nuovo è protagonista della rassegna L'Olio Novo.
 53. Miele, formaggi e prodotti della terra hanno ciascuno il loro mercato o la loro fiera, dal Mercato del Cacio alla Fiera del Miele: date e luoghi sono nel calendario delle feste.
 54. Dal luglio 2002 Civitella fa parte di Cittaslow, la rete internazionale dei comuni che si impegnano a tutelare l'ambiente, i prodotti tipici e le tradizioni contadine.
+```
+
+**Lavoro e sapori 4/4**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 55. Ha sede a Civitella anche la condotta Slow Food Valdichiana, che con il Comune organizza ogni anno una serie di appuntamenti dedicati ai prodotti del territorio:
 56. Mercato dei Sapori e della Terra, ad aprile a Tegoleto.
 57. Mercato del Cacio, a maggio nel borgo di Civitella.
@@ -1027,23 +938,12 @@ FRASI:
 
 ---
 
-## Feste e associazioni (`feste-e-associazioni.html`): N3 · 71 frasi
+## Feste e associazioni (`feste-e-associazioni.html`): N3 · 71 frasi, 5 blocchi
 
-**Parte 1 di 3**
-
+**Feste e associazioni 1/5**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Feste e associazioni», parte 1 di 3. Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un anno di sagre, mercati e rassegne, e le associazioni che li tengono in vita, frazione per frazione.
 2. Quasi ogni frazione ha la sua festa, e dietro quasi ogni festa c'è un circolo, una Pro Loco o una società sportiva.
 3. Questa pagina raccoglie il calendario dell'anno, le associazioni del comune e le società sportive.
@@ -1056,6 +956,12 @@ FRASI:
 10. Marcia per la paceCivitella  San Pancrazio · Comune, con il comune di BucineIl 29 giugno, anniversario dell'eccidio del 1944.
 11. Sagra del CrostinoAlbergo · Polisportiva Albergo OlivetoAl campo sportivo, a metà luglio; 51ª edizione nel 2026.
 12. Cinema sotto le StelleTegoleto · Comunità & TegoletoProiezioni gratuite il mercoledì sera in piazza della Chiesa; dal 2018.
+```
+
+**Feste e associazioni 2/5**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 13. Calici sotto la TorreCivitella · Comune e Slow Food ValdichianaInizio agosto: degustazioni dei vini della Strada del Vino Terre di Arezzo con i sommelier AIS.
 14. Sagra del CinghialePieve a Maiano · Circolo ricreativo U.S. Pieve a MaianoDue fine settimana a fine agosto; 42ª edizione nel 2026.
 15. Sagra della BisteccaBadia al Pino · Circolo Ricreativo Olinto PaccinelliTra fine agosto e inizio settembre; 46ª edizione nel 2026.
@@ -1068,6 +974,12 @@ FRASI:
 22. Il calendario comprende solo le feste confermate da almeno una fonte recente.
 23. Qualche manifestazione citata in vecchie schede turistiche non ha trovato riscontro, e per questo non compare.
 24. L'elenco si basa sul Registro unico nazionale del Terzo settore (RUNTS) e sull'elenco delle società della Consulta comunale dello Sport.
+```
+
+**Feste e associazioni 3/5**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 25. Le etichette indicano il tipo di associazione.
 26. Pro LocoPro Loco Civitella in Val di Chiana
 27. CiboSlow Food Val di Chiana: la condotta locale, con sede a Civitella; con il Comune organizza mercati e fiere in tutto il territorio.
@@ -1079,23 +991,6 @@ FRASI:
 33. MusicaSocietà Filarmonica Ciggiano: la banda del paese.
 34. CircoloUnione Sportiva Pieve a Maiano: circolo ricreativo e sportivo; organizza la Sagra del Cinghiale.
 35. CircoloARCI Pieve al Toppo: organizza la Sagra della Pesca.
-```
-
-**Parte 2 di 3**
-
-```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Feste e associazioni», parte 2 di 3. Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
-
-FRASI:
 36. SportPolisportiva Dilettantistica Pieve al Toppo 06: scuola calcio, allo stadio di via del Sembolino.
 37. SportLet Me Dance: danza classica, moderna, contemporanea e aerea, e ginnastica.
 38. CircoloCircolo MCL Spoiano
@@ -1104,6 +999,12 @@ FRASI:
 41. CulturaGruppo Teatro La Torre: gestisce il Teatro Moderno, con la stagione da ottobre a marzo e gli spettacoli amatoriali del gruppo.
 42. CircoloCircolo Sportivo Tegoleto (ACLI)
 43. SportU.S.D.
+```
+
+**Feste e associazioni 4/5**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 44. Tegoleto 1970: calcio, dalla scuola calcio alla prima squadra, allo stadio di via del Chiassobuio; organizza la Festa al Tegoleto.
 45. SportTegoleto Volley: pallavolo per bambini e ragazzi.
 46. SportTaekyon Club: taekwondo per bambini e ragazzi.
@@ -1124,6 +1025,12 @@ FRASI:
 61. Badia al Pino
 62. Tegoleto: lo stadio di via del Chiassobuio e la palestra della scuola primaria Arcobaleno.
 63. Tegoleto
+```
+
+**Feste e associazioni 5/5**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 64. Pieve al Toppo: lo stadio di via del Sembolino e un nuovo campo polivalente a uso libero.
 65. Pieve al Toppo
 66. Albergo: il campo sportivo e un nuovo campo polivalente a uso libero.
@@ -1131,43 +1038,17 @@ FRASI:
 68. Spoiano, Pieve a Maiano e Viciomaggio: i campi dei circoli e delle società locali.
 69. La storia sportiva del comune passa per il ciclismo.
 70. Tra il 1982 e il 1991 la squadra professionistica sponsorizzata dalle cucine Del Tongo di Tegoleto vinse due Giri d'Italia, con Giuseppe Saronni e Franco Chioccioli, e nel 2004 una tappa del Giro arrivò proprio a Tegoleto.
-```
-
-**Parte 3 di 3**
-
-```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Feste e associazioni», parte 3 di 3. Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
-
-FRASI:
 71. La storia completa è nella pagina Lavoro e sapori.
 ```
 
 ---
 
-## Home (`index.html`): prima N1, poi seconda passata in N3 · 9 frasi
+## Home (`index.html`): prima N1, poi seconda passata in N3 · 9 frasi, 1 blocchi
 
+**Home 1/1**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Home». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Un piccolo archivio dedicato a Civitella in Val di Chiana: un comune composto da un borgo storico e tredici frazioni, tra le colline aretine e la pianura della Val di Chiana.
 2. Civitella in Val di Chiana è un comune di circa 8.800 abitanti situato a una quindicina di chilometri a sud-ovest di Arezzo.
 3. Il capoluogo storico, un borgo collinare a circa 500 metri di altezza con la sua Rocca medievale, convive con tredici frazioni sparse tra le colline e la pianura della Val di Chiana — dove oggi vive la maggior parte della popolazione.
@@ -1181,42 +1062,24 @@ FRASI:
 
 ---
 
-## Le frazioni (indice) (`frazioni.html`): prima N1, poi seconda passata in N3 · 2 frasi
+## Le frazioni (indice) (`frazioni.html`): prima N1, poi seconda passata in N3 · 2 frasi, 1 blocchi
 
+**Le frazioni (indice) 1/1**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Le frazioni (indice)». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Il capoluogo storico, le tredici frazioni del comune e i borghi minori.
 2. Ogni pagina racconta storia, monumenti e vita locale della frazione, con i dati del censimento 2021 e le fonti usate — il lavoro procede per iterazioni successive.
 ```
 
 ---
 
-## Amministrazione (`amministrazione.html`): prima N1, poi seconda passata in N3 · 21 frasi
+## Amministrazione (`amministrazione.html`): prima N1, poi seconda passata in N3 · 21 frasi, 2 blocchi
 
+**Amministrazione 1/2**
 ```
-Sei un verificatore rigoroso. Qui sotto ci sono frasi pubblicate sul sito «Civitella in Pillole», pagina «Amministrazione». Controlla OGNI frase usando SOLO le fonti di questo notebook.
-Per ciascuna frase rispondi su una riga:
-N. | ESITO | passaggio esatto tra virgolette | documento
-ESITO deve essere uno di questi:
-- CONFERMATA: ogni dettaglio (nomi, date, numeri, luoghi, secoli, e parole come «più antico», «unico», «principale», «tutelato», «oggi») è scritto esplicitamente nelle fonti;
-- PARZIALE: solo una parte è scritta nelle fonti; indica con precisione quale parte NON lo è;
-- SMENTITA: le fonti dicono una cosa diversa; cita cosa dicono;
-- NON PRESENTE: le fonti non ne parlano.
-Non dedurre, non fare calcoli, non usare conoscenze generali. Se un dettaglio non è scritto esplicitamente, la frase è PARZIALE.
-Alla fine elenca SOLO le frasi PARZIALE o SMENTITA, ciascuna con una riformulazione che usi soltanto ciò che è scritto nelle fonti.
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
 
-FRASI:
 1. Sindaco, giunta e consiglio comunale in carica dal 2021.
 2. Questa pagina riguarda persone reali attualmente in carica: i dati su sindaco e giunta sono verificati sulle rispettive pagine ufficiali del sito del Comune; consiglio comunale e storico elettorale si basano anche su un aggregatore non istituzionale (tuttitalia.it) e andrebbero riconfermati periodicamente.
 3. Il sindaco in carica è Andrea Tavarnesi, della lista civica "Solidarietà e Progresso", eletto il 3-4 ottobre 2021 e insediatosi il 23 ottobre 2021.
@@ -1227,6 +1090,12 @@ FRASI:
 8. Claudia Del Tongo — assessore: politiche sportive, rapporti con le associazioni e il volontariato, politiche giovanili e cultura.
 9. La giunta si è insediata tra il 4 e il 23 ottobre 2021;
 10. Tavarnesi era già stato assessore nella precedente giunta guidata da Ginetta Menchetti.
+```
+
+**Amministrazione 2/2**
+```
+Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA / PARZIALE (di' quale parte manca) / SMENTITA / NON PRESENTE | citazione esatta | documento. Niente deduzioni: un dettaglio non scritto rende la frase PARZIALE.
+
 11. Il consiglio eletto nell'ottobre 2021 è composto da 8 consiglieri di maggioranza (lista "Solidarietà e Progresso") e 4 di opposizione (lista "Il Governo dei Cittadini", guidata dalla candidata sindaca Rosaria Migliore).
 12. Maggioranza: Silvia Donati, Serena Fabbriciani, Cristina Lanini, Ginetta Menchetti (ex sindaca), Daniele Ortaggi, Paolo Randellini, Luca Terrazzi.
 13. Opposizione: Rosaria Migliore, Fabio Badii, Dante Moretti, Luca Veneri, Luca Zeffiri.
