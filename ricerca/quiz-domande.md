@@ -6,9 +6,9 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche.
 
-Totale: 172 domande.
+Totale: 169 domande.
 
-## Geografia (22)
+## Geografia (21)
 
 1. [5a86694d] **Quanti residenti contava il comune al censimento ISTAT del 2021?**  
    ✔ 8.814 · ✘ 6.512 · 11.230 · 15.400  
@@ -40,40 +40,37 @@ Totale: 172 domande.
 10. [f2064462] **Tra quali valli si trova il colle di Civitella?**  
    ✔ Valdambra e Valdichiana · ✘ Casentino e Valtiberina · Val d'Orcia e Valdelsa · Mugello e Valdisieve  
    _Il Repertorio del Piano descrive il colle di Civitella «tra Valdambra e Valdichiana»._ → `geografia.html`
-11. [30bfe3ca] **In quale zona climatica è classificato il comune?**  
-   ✔ Zona E · ✘ Zona A · Zona B · Zona F  
-   _Civitella è in zona climatica E, con 2.269 gradi giorno._ → `geografia.html`
-12. [75a8fc8f] **Quale di questi torrenti scorre nel territorio comunale?**  
+11. [75a8fc8f] **Quale di questi torrenti scorre nel territorio comunale?**  
    ✔ L'Esse · ✘ L'Ombrone · Il Serchio · La Cecina  
    _Tra i torrenti del territorio ci sono l'Esse, il Leprone, il Trove e la Lota._ → `geografia.html`
-13. [e2f25241] **Una parte del territorio comunale rientra in quale riserva naturale?**  
+12. [e2f25241] **Una parte del territorio comunale rientra in quale riserva naturale?**  
    ✔ Ponte a Buriano e Penna · ✘ Lago di Montepulciano · Monte Rufeno · Bosco di Sant'Agnese  
    _La Riserva di Ponte a Buriano e Penna protegge un tratto dell'Arno e si estende nei comuni di Arezzo, Civitella e Laterina._ → `geografia.html`
-14. [e65e12bd] **Quale fiume protegge la Riserva naturale di Ponte a Buriano e Penna?**  
+13. [e65e12bd] **Quale fiume protegge la Riserva naturale di Ponte a Buriano e Penna?**  
    ✔ L'Arno · ✘ Il Tevere · L'Ombrone · Il Serchio  
    _La riserva protegge il tratto dell'Arno tra Ponte a Buriano e la diga della Penna._ → `geografia.html`
-15. [96d34023] **Quale frazione il Piano Strutturale indica come «porta d'accesso» meridionale alla Riserva di Ponte a Buriano e Penna?**  
+14. [96d34023] **Quale frazione il Piano Strutturale indica come «porta d'accesso» meridionale alla Riserva di Ponte a Buriano e Penna?**  
    ✔ Pieve a Maiano · ✘ Spoiano · Tegoleto · Oliveto  
    _Il Piano assegna a Pieve a Maiano il ruolo di porta d'accesso meridionale alla Riserva._ → `frazioni/pieve-a-maiano.html`
-16. [1a05018c] **Quale vino si produce sulle colline del comune?**  
+15. [1a05018c] **Quale vino si produce sulle colline del comune?**  
    ✔ Il Chianti Colli Aretini · ✘ Il Brunello di Montalcino · Il Morellino di Scansano · La Vernaccia di San Gimignano  
    _Nella fascia collinare si producono vigneti di Chianti Colli Aretini._ → `geografia.html`
-17. [607cb6d7] **Come sono sistemati, tradizionalmente, gli oliveti sui pendii collinari?**  
+16. [607cb6d7] **Come sono sistemati, tradizionalmente, gli oliveti sui pendii collinari?**  
    ✔ Su terrazzamenti e ciglionamenti · ✘ In serre riscaldate · In risaie allagate · Su terreni sabbiosi di duna  
    _La Relazione del Piano descrive oliveti su terrazzamenti sostenuti da muri in pietra o ciglionamenti._ → `geografia.html`
-18. [878f8be1] **Circa quanti abitanti del comune vivono in case sparse, fuori dai centri abitati?**  
+17. [878f8be1] **Circa quanti abitanti del comune vivono in case sparse, fuori dai centri abitati?**  
    ✔ Circa un quarto · ✘ Quasi nessuno · Circa tre quarti · Più del 90%  
    _Al censimento 2021 le case sparse contavano 2.256 residenti su 8.814._ → `geografia.html`
-19. [b051cf1f] **Quale frazione è divisa tra Civitella e il comune di Laterina Pergine Valdarno?**  
+18. [b051cf1f] **Quale frazione è divisa tra Civitella e il comune di Laterina Pergine Valdarno?**  
    ✔ Ponticino · ✘ Tuori · Cornia · Spoiano  
    _Ponticino è a cavallo del confine comunale; il centro abitato è attribuito dall'ISTAT a Laterina Pergine Valdarno._ → `frazioni/ponticino.html`
-20. [7a620330] **Con quale comune tedesco è gemellato Civitella in Val di Chiana?**  
+19. [7a620330] **Con quale comune tedesco è gemellato Civitella in Val di Chiana?**  
    ✔ Kämpfelbach · ✘ Heidelberg · Rosenheim · Bamberga  
    _I rappresentanti di Kämpfelbach partecipano ogni anno al Mercato del Cacio._ → `frazioni/civitella.html`
-21. [608e57f8] **Da quando Civitella fa parte della rete Cittaslow?**  
+20. [608e57f8] **Da quando Civitella fa parte della rete Cittaslow?**  
    ✔ Dal 2002 · ✘ Dal 1985 · Dal 2015 · Dal 2023  
    _Il comune aderisce a Cittaslow dal luglio 2002._ → `lavoro-e-sapori.html`
-22. [f5a0d8d3] **In quale anno Civitella è entrata nell'associazione Città dell'Olio?**  
+21. [f5a0d8d3] **In quale anno Civitella è entrata nell'associazione Città dell'Olio?**  
    ✔ 2025 · ✘ 1998 · 2008 · 2016  
    _Civitella fa parte delle Città dell'Olio dal 2025._ → `lavoro-e-sapori.html`
 
@@ -401,7 +398,7 @@ Totale: 172 domande.
    ✔ Travertino · ✘ Marmo di Carrara · Bronzo · Granito  
    _A Le Fosse il Repertorio registra un cippo romano in travertino._ → `frazioni/borghi-minori.html#malpertuso-le-fosse`
 
-## Lavoro e sapori (20)
+## Lavoro e sapori (19)
 
 1. [fbceb884] **Che cosa produce l'azienda CEIA di Viciomaggio?**  
    ✔ Metal detector e sistemi di ispezione · ✘ Cucine componibili · Gioielli · Macchine agricole  
@@ -448,23 +445,20 @@ Totale: 172 domande.
 15. [fbd430a4] **Quale celebre velocista esordì tra i professionisti con la maglia Del Tongo?**  
    ✔ Mario Cipollini · ✘ Alessandro Petacchi · Mark Cavendish · Erik Zabel  
    _Mario Cipollini esordì tra i professionisti con la Del Tongo._ → `lavoro-e-sapori.html#del-tongo`
-16. [32697d3d] **Quante nuove aree industriali prevede il Piano Operativo del 2023?**  
-   ✔ Nessuna, perché il territorio è considerato saturo · ✘ Tre nuove aree · Una grande zona industriale a Cornia · Dieci nuove aree  
-   _Il Piano Operativo non prevede nuova edificazione industriale._ → `lavoro-e-sapori.html#industria`
-17. [5ea5e45a] **Quale di queste è una varietà tradizionale di olivo del territorio?**  
+16. [5ea5e45a] **Quale di queste è una varietà tradizionale di olivo del territorio?**  
    ✔ Moraiolo · ✘ Nocellara · Taggiasca · Coratina  
    _Le varietà tradizionali sono frantoio, leccino, moraiolo e pendolino._ → `lavoro-e-sapori.html#campi`
-18. [a04d9971] **A quale Strada del Vino appartiene il Comune di Civitella?**  
+17. [a04d9971] **A quale Strada del Vino appartiene il Comune di Civitella?**  
    ✔ Strada del Vino Terre di Arezzo · ✘ Strada del Vino Nobile di Montepulciano · Strada del Chianti Classico · Strada del Vino della Costa degli Etruschi  
    _Il Comune è socio della Strada del Vino Terre di Arezzo._ → `lavoro-e-sapori.html#campi`
-19. [92190992] **Dove ha sede la condotta Slow Food Valdichiana?**  
+18. [92190992] **Dove ha sede la condotta Slow Food Valdichiana?**  
    ✔ A Civitella · ✘ A Montepulciano · A Cortona · A Siena  
    _Slow Food Valdichiana ha sede a Civitella in Val di Chiana._ → `lavoro-e-sapori.html#slow-food`
-20. [fd5f1067] **Come si chiama il progetto di educazione alimentare che Slow Food porta nelle scuole del comune?**  
+19. [fd5f1067] **Come si chiama il progetto di educazione alimentare che Slow Food porta nelle scuole del comune?**  
    ✔ Orto in Condotta · ✘ Scuola in Fattoria · Mangia Sano · Cuochi in Classe  
    _Orto in Condotta si svolge nelle scuole dell'Istituto comprensivo Martiri di Civitella._ → `lavoro-e-sapori.html#slow-food`
 
-## Feste e sport (26)
+## Feste e sport (25)
 
 1. [d16bdeb0] **In quale frazione si tiene la Sagra della Bistecca?**  
    ✔ Badia al Pino · ✘ Tegoleto · Spoiano · Ciggiano  
@@ -541,6 +535,3 @@ Totale: 172 domande.
 25. [909f8526] **Di quale sport si occupa la Polisportiva Albergo Oliveto con i più giovani?**  
    ✔ Ciclismo · ✘ Rugby · Nuoto · Scherma  
    _Organizza corsi di avviamento al ciclismo per bambini e ragazzi._ → `feste-e-associazioni.html#ass-albergo-oliveto`
-26. [ce6b6ab5] **In quale anno è stata istituita la Consulta comunale dello Sport?**  
-   ✔ 2022 · ✘ 1988 · 2004 · 2026  
-   _La Consulta dello Sport è stata istituita nel 2022._ → `feste-e-associazioni.html#sport`

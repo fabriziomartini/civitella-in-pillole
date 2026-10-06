@@ -133,19 +133,6 @@ window.QUIZ_DOMANDE = [
 "l": "geografia.html"
 },
 {
-"id": "30bfe3ca",
-"c": "geo",
-"q": "In quale zona climatica è classificato il comune?",
-"a": "Zona E",
-"x": [
-"Zona A",
-"Zona B",
-"Zona F"
-],
-"s": "Civitella è in zona climatica E, con 2.269 gradi giorno.",
-"l": "geografia.html"
-},
-{
 "id": "75a8fc8f",
 "c": "geo",
 "q": "Quale di questi torrenti scorre nel territorio comunale?",
@@ -1836,19 +1823,6 @@ window.QUIZ_DOMANDE = [
 "l": "lavoro-e-sapori.html#del-tongo"
 },
 {
-"id": "32697d3d",
-"c": "economia",
-"q": "Quante nuove aree industriali prevede il Piano Operativo del 2023?",
-"a": "Nessuna, perché il territorio è considerato saturo",
-"x": [
-"Tre nuove aree",
-"Una grande zona industriale a Cornia",
-"Dieci nuove aree"
-],
-"s": "Il Piano Operativo non prevede nuova edificazione industriale.",
-"l": "lavoro-e-sapori.html#industria"
-},
-{
 "id": "5ea5e45a",
 "c": "economia",
 "q": "Quale di queste è una varietà tradizionale di olivo del territorio?",
@@ -2224,18 +2198,5 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Organizza corsi di avviamento al ciclismo per bambini e ragazzi.",
 "l": "feste-e-associazioni.html#ass-albergo-oliveto"
-},
-{
-"id": "ce6b6ab5",
-"c": "feste",
-"q": "In quale anno è stata istituita la Consulta comunale dello Sport?",
-"a": "2022",
-"x": [
-"1988",
-"2004",
-"2026"
-],
-"s": "La Consulta dello Sport è stata istituita nel 2022.",
-"l": "feste-e-associazioni.html#sport"
 }
 ];
