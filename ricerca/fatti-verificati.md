@@ -223,6 +223,7 @@ Ultimo aggiornamento: 6 ottobre 2026 (verifica sistematica del quiz e delle 25 p
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
 | Gebbia dista 3,5 km dal borgo di Civitella | Google Maps, misurato dall'utente | U | bassa |
+| Gebbia è una località collinare, non di pianura | conoscenza diretta dell'utente (6/10/2026) | U | media |
 | L'Atlante elenca 16 vittime per «Gebbia e dintorni»; l'Archivio della Memoria parla di 8 uomini fucilati | Atlante, Archivio della Memoria | N | alta |
 
 ### Oliveto
@@ -660,7 +661,7 @@ Le 25 pagine sono state confrontate frase per frase con questo file. I dettagli 
 ### Da chiarire (non usati per ora)
 - Villa di Viciomaggio: nella risposta di N3 la scheda L282, che il sito descrive, si intitola «Villa Milloni (Fattoria di Viciomaggio)» (V013), mentre «Villa di Viciomaggio» sarebbe un'altra scheda (V014). Da controllare sul PDF del Repertorio.
 - Fattoria di Maiano, vincolo nazionale: due risposte di N3 si contraddicono («esistente» nell'estrazione per frazioni, campi vuoti nella risposta al blocco R5). Il sito dice solo «censita». Da controllare sulla scheda V006.
-- Gebbia «collinare»: nessuna fonte scritta; da far confermare all'utente (livello U).
+- Gebbia «collinare»: confermato dall'utente il 6/10/2026 («è su in collina e non in pianura»); vedi la riga U nella sezione Gebbia.
 - Pieve del Toppo: la scheda B024a del Repertorio scrive «983», la B024 «938» (probabile refuso).
 
 ---
