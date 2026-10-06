@@ -109,6 +109,12 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | A Civitella ci sono la Cappella dei Martiri e il monumento «Pietà del giugno 1944», sul muro accanto alla chiesa | ToscanaNovecento | R | alta |
 | Ogni anno si tiene la Marcia per la pace da Civitella a San Pancrazio, organizzata con il comune di Bucine | Wikipedia | R | alta |
 | A Viciomaggio fu ucciso dai fascisti Mario Mannelli, ricordato da un monumento (data in divergenza, vedi sezione 9) | Repertorio (ME013), ToscanaNovecento | R | alta |
+| Il 18 giugno 1944 la formazione partigiana «Renzino», guidata da Edoardo Succhielli, tese un agguato ad alcuni soldati tedeschi nel dopolavoro di Civitella per disarmarli: due morirono e un terzo, gravemente ferito, morì poco dopo; secondo l'Atlante queste e altre azioni «daranno il pretesto ai tedeschi per operare contro la popolazione civile» | Atlante delle stragi, scheda di Civitella (Fulvetti, Conti), letta direttamente | R | alta |
+| Il 29 giugno donne e bambini furono spinti fuori dal paese, verso Poggiali; gli uomini, a gruppi di cinque, furono uccisi sul retro della scuola con un colpo di pistola alla nuca; le case furono date alle fiamme | Atlante, scheda di Civitella | R | alta |
+| Tra le vittime il parroco don Alcide Lazzeri (57 anni) e il podestà Guido Mammoli (37 anni); l'Atlante conta 146 vittime per Civitella, Cornia e Gebbia, 117 uomini e 29 donne | Atlante, scheda di Civitella | R | alta |
+| Processi: 1950 Tribunale militare di Roma, assoluzione del generale Schmalz; 2006 Tribunale militare di La Spezia, ergastolo al sergente Max Josef Milde e responsabilità della Repubblica Federale di Germania; 2008 la Cassazione respinge il ricorso tedesco; 2012 la Corte dell'Aia accoglie il ricorso della Germania | Atlante, scheda di Civitella | R | alta |
+| Nel 1963 la comunità di Civitella ricevette la Medaglia d'Oro al Valor Civile; la stessa onorificenza alla memoria di don Alcide Lazzeri | Atlante, scheda di Civitella | R | alta |
+| Memoria: piazza centrale intitolata a don Alcide Lazzeri, «Porta della Pace» in piazza Don Alcide Lazzeri, statua del chierichetto in via Martiri di Civitella; l'Atlante la definisce un «tipico esempio di memoria divisa» | Atlante, scheda di Civitella | R | media |
 | Durante la guerra gli abitanti di Viciomaggio si rifugiavano in un cunicolo con una stanza sotterranea lungo il Fosso del Riolo, verso Malpertuso | Repertorio, ToscanaNovecento | N | alta |
 
 ---

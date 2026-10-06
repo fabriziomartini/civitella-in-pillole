@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 309 domande.
+Totale: 316 domande.
 
 ## Geografia (42)
 
@@ -284,7 +284,7 @@ Totale: 309 domande.
    ✔ Nove · ✘ Tre · Quindici · Venti  
    _Il Repertorio parla di nove piccoli comuni aggregati nel 1774; tra questi gli itinerari del Comune ricordano Ciggiano, Viciomaggio e Badia al Pino._ → `storia.html`
 
-## Il 1944 (28)
+## Il 1944 (35)
 
 1. [3e37b695] ●●○ `Nv-` **In quale data avvenne la strage nazista di Civitella?**  
    ✔ 29 giugno 1944 · ✘ 25 aprile 1945 · 8 settembre 1943 · 4 giugno 1944  
@@ -370,6 +370,27 @@ Totale: 309 domande.
 28. [d46d4a3e] ●●○ `-n+` **Come morì Mario Mannelli, ricordato da un monumento a Viciomaggio?**  
    ✔ Fu ucciso per rappresaglia fascista nel 1944 · ✘ Cadde nella battaglia del Toppo · Morì nel bombardamento della rocca · Fu ucciso nella Grande Guerra  
    _Mario Mannelli fu ucciso dai fascisti nel 1944; sulla data esatta le fonti non concordano._ → `frazioni/viciomaggio.html`
+29. [34e88f74] ●○○ `-n=` **Chi era don Alcide Lazzeri, ucciso il 29 giugno 1944?**  
+   ✔ Il parroco di Civitella · ✘ Il podestà di Civitella · Il maestro elementare · Il medico condotto  
+   _Tra le vittime c'erano il parroco, don Alcide Lazzeri, e il podestà, Guido Mammoli._ → `storia.html`
+30. [68125a92] ●●○ `-v+` **Quale incarico aveva Guido Mammoli, ucciso nell'eccidio del 29 giugno 1944?**  
+   ✔ Podestà di Civitella · ✘ Parroco di Civitella · Maresciallo dei carabinieri · Capo della formazione partigiana  
+   _Tra le vittime c'erano il parroco, don Alcide Lazzeri, e il podestà, Guido Mammoli._ → `storia.html`
+31. [0b47361b] ●●○ `-v=` **Quale onorificenza ricevette nel 1963 la comunità di Civitella?**  
+   ✔ La Medaglia d'Oro al Valor Civile · ✘ La Medaglia d'Oro al Valor Militare · La Croce di guerra · Il titolo di Città della Pace  
+   _Nel 1963 la comunità ricevette la Medaglia d'Oro al Valor Civile, conferita anche alla memoria di don Alcide Lazzeri._ → `storia.html`
+32. [f1973bd5] ●○○ `-d=` **A chi è intitolata la piazza centrale di Civitella?**  
+   ✔ A don Alcide Lazzeri, il parroco ucciso nel 1944 · ✘ A Dante Alighieri · Al notaio Becattini · Ai santi Pietro e Paolo  
+   _La piazza centrale è intitolata al parroco don Alcide Lazzeri; lì si trova anche la «Porta della Pace»._ → `frazioni/civitella.html`
+33. [53ade602] ●●● `Pv+` **Come si chiamava la formazione partigiana che il 18 giugno 1944 tese un agguato ai soldati tedeschi nel dopolavoro di Civitella?**  
+   ✔ «Renzino» · ✘ «Stella Rossa» · «Lupo» · «Monte Rosa»  
+   _La formazione «Renzino» era guidata dal giovane Edoardo Succhielli; l'agguato fu uno dei pretesti della rappresaglia._ → `storia.html`
+34. [6060fc7e] ●●● `Pv+` **Verso quale località furono spinte le donne e i bambini di Civitella il 29 giugno 1944?**  
+   ✔ Verso Poggiali · ✘ Verso Cornia · Verso Badia al Pino · Verso Arezzo  
+   _Le donne e i bambini furono spinti fuori dal paese, verso Poggiali; gli uomini furono uccisi a gruppi di cinque._ → `storia.html`
+35. [c840099b] ●●● `Pv+` **Quale tribunale condannò all'ergastolo, nel 2006, il sergente tedesco Max Josef Milde per l'eccidio di Civitella?**  
+   ✔ Il Tribunale militare di La Spezia · ✘ Il tribunale di Norimberga · La Corte d'Assise di Arezzo · Il Tribunale di Firenze  
+   _Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania._ → `storia.html`
 
 ## Frazioni (94)
 
