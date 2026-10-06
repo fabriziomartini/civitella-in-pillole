@@ -238,6 +238,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Strumenti del Paleolitico medio e superiore al Podere Casella | Repertorio (S002) | R | alta |
 | Insediamento romano al campo sportivo (I–II secolo d.C.) e fornace di Vallimboi | Repertorio | N | alta |
 | Moneta d'oro dell'imperatore Claudio (41–54 d.C.) | Repertorio | N | alta |
+| Repetti, Majano: «Majano di Valle Lunga» nel Val d'Arno aretino, sulla strada regia aretina davanti alla gola dell'Imbuto; pieve di S. Maria soppressa e unita a S. Giovanni Battista a Montoto; sette cappelle filiali (tra cui S. Andrea a Montarfone e S. Michele a Pergine); nell'XI secolo la badia di Prataglia vi possedeva beni (contratto dell'agosto 1056); nel 1833 parrocchia di Majano e Montoto 315 abitanti, 91 a Majano nella Comunità di Arezzo e 224 a Montoto in quella di Civitella | Repetti, voce «Majano» | R | alta |
 | Il podere Spedaluccio si trova circa un chilometro dopo Pieve a Maiano, lungo la statale 69: è ciò che resta di un antico ospizio per viandanti documentato dal 1198 (non è ad Albergo) | Itinerario 2 del Comune; Relazione generale del PS, p. 60 | R | alta |
 | Sagra del Cinghiale (U.S. Pieve a Maiano): 42ª edizione nel 2026 | Sagre Toscane | N | media |
 
@@ -521,7 +522,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 
 **Repetti: divergenze con la Pro Loco**
 - Morte del vescovo Eliotto a Civitella: Repetti 1182, Pro Loco 1186. Non usata.
-- Pieve a Maiano «aggregata più tardi» (Pro Loco): il Repetti nel 1833 elenca già la parrocchia di «Montoto e Majano» nella Comunità. Tolto dal sito.
+- Pieve a Maiano «aggregata più tardi» (Pro Loco): in un primo momento tolta, perché la voce Civitella elenca la parrocchia di «Montoto e Majano». La voce «Majano» chiarisce invece che nel 1833 i 91 abitanti di Majano erano nella Comunità di Arezzo e solo i 224 di Montoto in quella di Civitella: la frase della Pro Loco è coerente ed è tornata sul sito, attribuita.
 
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).

@@ -4845,5 +4845,33 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Prima della rovina del 1502 la pieve aveva 24 chiese dipendenti, tra cui quelle di Civitella, Tegoleto, Oliveto, Viciomaggio, Ciggiano e Cornia.",
 "l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "84a6f9e7",
+"c": "frazioni",
+"d": 2,
+"q": "A quale Comunità apparteneva Majano nel 1833, secondo il Repetti?",
+"a": "A quella di Arezzo",
+"x": [
+"A quella di Civitella",
+"A quella di Laterina",
+"A quella di Bucine"
+],
+"s": "Nel 1833 i 91 abitanti di Majano erano nella Comunità di Arezzo, i 224 di Montoto in quella di Civitella; Pieve a Maiano entrò nel comune più tardi.",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "6030ead1",
+"c": "frazioni",
+"d": 3,
+"q": "Con quale nome il Repetti distingue la Pieve a Maiano del comune di Civitella?",
+"a": "Majano di Valle Lunga",
+"x": [
+"Majano di Lucardo",
+"Majano di Fiesole",
+"Majano al Toppo"
+],
+"s": "Il Repetti la chiama «Majano di Valle Lunga», nel Val d'Arno aretino, per distinguerla dagli altri Majano della Toscana.",
+"l": "frazioni/pieve-a-maiano.html"
 }
 ];

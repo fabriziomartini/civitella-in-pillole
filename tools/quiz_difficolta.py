@@ -383,4 +383,6 @@ CODICI = {
     "97b3e142": "-d+",  # Che cosa accadeva alle acque della Chiana presso il Toppo nell'XI seco
     "65c7e281": "-v+",  # Con quale nome popolare era chiamata la Pieve al Toppo, secondo il Rep
     "f6b39c53": "Nn+",  # Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo
+    "84a6f9e7": "-v+",  # A quale Comunità apparteneva Majano nel 1833, secondo il Repetti?
+    "6030ead1": "Pv+",  # Con quale nome il Repetti distingue la Pieve a Maiano del comune di Ci
 }

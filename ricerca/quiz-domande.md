@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 346 domande.
+Totale: 348 domande.
 
 ## Geografia (45)
 
@@ -443,7 +443,7 @@ Totale: 346 domande.
    ✔ Il Tribunale militare di La Spezia · ✘ Il tribunale di Norimberga · La Corte d'Assise di Arezzo · Il Tribunale di Firenze  
    _Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania._ → `storia.html`
 
-## Frazioni (103)
+## Frazioni (105)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -754,6 +754,12 @@ Totale: 346 domande.
 103. [f6b39c53] ●●● `Nn+` **Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo il Repetti?**  
    ✔ 24 · ✘ 4 · 12 · 50  
    _Prima della rovina del 1502 la pieve aveva 24 chiese dipendenti, tra cui quelle di Civitella, Tegoleto, Oliveto, Viciomaggio, Ciggiano e Cornia._ → `frazioni/pieve-al-toppo.html`
+104. [84a6f9e7] ●●○ `-v+` **A quale Comunità apparteneva Majano nel 1833, secondo il Repetti?**  
+   ✔ A quella di Arezzo · ✘ A quella di Civitella · A quella di Laterina · A quella di Bucine  
+   _Nel 1833 i 91 abitanti di Majano erano nella Comunità di Arezzo, i 224 di Montoto in quella di Civitella; Pieve a Maiano entrò nel comune più tardi._ → `frazioni/pieve-a-maiano.html`
+105. [6030ead1] ●●● `Pv+` **Con quale nome il Repetti distingue la Pieve a Maiano del comune di Civitella?**  
+   ✔ Majano di Valle Lunga · ✘ Majano di Lucardo · Majano di Fiesole · Majano al Toppo  
+   _Il Repetti la chiama «Majano di Valle Lunga», nel Val d'Arno aretino, per distinguerla dagli altri Majano della Toscana._ → `frazioni/pieve-a-maiano.html`
 
 ## Borghi minori (35)
 
