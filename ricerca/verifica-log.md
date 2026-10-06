@@ -238,3 +238,10 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
 - **Matroia:** spostata nella nuova pagina `frazioni/borghi-minori.html`, insieme a Montoto, Poggio Castellare, Malpertuso e Le Fosse, Tribbio, Montarfoni e Dorna, San Martino in Poggio e Gaenne. `matroia.html` ora reindirizza lì.
 - **Nuova pagina `patrimonio.html`:** castelli e castellari, ville e fattorie, mulini, e una linea del tempo dell'archeologia.
 - **Da completare** quando il notebook si sblocca: storia e posizione di San Martino in Poggio, Montarfoni, Gaenne.
+
+## Borghi minori: risposta del notebook 1 (fonti del Comune)
+- **San Martino in Poggio:** a quota 540, lungo il 2° itinerario dopo Montarfoni; chiesa dei Santi Maria e Carlo (1690, ampliata nel XVIII secolo); il sentiero CAI 107 porta all'Oratorio della Madonna di Mercatale.
+- **Montarfoni:** castello aggregato a Civitella nel 1774; restano la porta e tratti di mura; chiesa di Sant'Andrea. Il mulino non è nelle fonti del Comune, ma è censito nel Repertorio (notebook 2).
+- **Dorna:** separata da Montarfoni in una scheda propria. Insediamento longobardo, torre ricordata dal 1198, fattoria del XVIII secolo.
+- **Gaenne:** toponimo etrusco, fortilizio bizantino nel VI secolo, poi dei longobardi di Dorna intorno al Mille e dei Tarlati; distrutto per ordine di Firenze dopo il 1385; bombardato nella Seconda guerra mondiale; oggi rovine con la pianta leggibile, raggiungibili da Viciomaggio e dal sentiero CAI 105.
+- Aggiornati di conseguenza Patrimonio (castelli, ville, linea del tempo), Storia (Montarfoni nel 1774) e Viciomaggio (rimando a Gaenne).
