@@ -337,6 +337,8 @@ Composizione verificata sulla pagina ufficiale del Comune «Esplora Politici» (
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
 | Sindaco Andrea Tavarnesi; vicesindaco Gian Luca Lucchetti; assessori Ivano Capacci, Claudia Del Tongo, Serena Nardi | Comune, Esplora Politici; pagina «Organi di governo → Giunta» (Organo_di_governo_2.html, aggiornata il 17-02-2025) | R | media |
+| Deleghe: Lucchetti (vicesindaco) attività produttive e commercio, promozione del territorio e turismo, polizia municipale e protezione civile; Capacci lavori pubblici, patrimonio, manutenzioni, decoro urbano, viabilità, politiche agricole e promozione dei prodotti agricoli e alimentari, rapporti con le realtà frazionali e gemellaggi; Del Tongo politiche sportive, associazioni e volontariato, politiche giovanili e cultura; Nardi politiche scolastiche, pari opportunità, accoglienza e integrazione | Comune, persona_2…5.html (aggiornate il 27-05-2026) | R | bassa |
+| Vicesindaco e assessori: inizio mandato 04-10-2021, insediamento 22-10-2021, atto di conferimento delibera di consiglio n. 47 del 2021, gruppo «Solidarietà e progresso» | Comune, persona_2…5.html | R | bassa |
 | Ginetta Menchetti è presidente del consiglio comunale | Comune, Esplora Politici | R | media |
 | Andrea Tavarnesi è il sindaco (pagina «Organi di governo → Sindaco», aggiornata il 16-09-2025) | Comune | R | media |
 | Il Comune ha sede in via Settembrini 21, a Badia al Pino (piè di pagina del sito del Comune) | Comune | R | bassa |
