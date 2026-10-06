@@ -16,3 +16,25 @@ Fonte: Registro Unico Nazionale del Terzo Settore (https://servizi.lavoro.gov.it
 | Circolo Sportivo Viciomaggio APS | Promozione sociale | Viciomaggio |
 
 Nel RUNTS compaiono solo gli enti iscritti al terzo settore. Pro Loco e società sportive dilettantistiche (ASD), per esempio Pro Loco Ciggiano, U.S.D. Tegoleto, Polisportiva Albergo Oliveto, Polisportiva Pieve al Toppo 06 e Polisportiva Spoiano, vanno cercate nel registro di Sport e Salute o nelle fonti del Comune.
+
+---
+
+# Associazioni sportive convocate alla Consulta dello Sport (Comune, prot. 11374 del 17/06/2026)
+
+Fonte: lettera di convocazione della "Consulta dello Sport, delle Associazioni e del Volontariato" del 27 giugno 2026, Comune di Civitella in Val di Chiana, Area III. Ordine del giorno: la manifestazione "Associamoci". La lettera è inviata anche "alle Associazioni iscritte all'Albo Comunale delle Associazioni e del Volontariato": quell'albo esiste e va richiesto al Comune.
+
+| Associazione | Note |
+|---|---|
+| ASD Tegoleto Volley | pallavolo, Tegoleto |
+| USD Tegoleto 1970 | calcio, Tegoleto (il nome indica il 1970 come anno di fondazione) |
+| ASD Taekyon Club | arti marziali |
+| Pol. Dil. Pieve al Toppo 06 | calcio, Pieve al Toppo |
+| SS Badiese 1948 ASD | Badia al Pino (il nome indica il 1948) |
+| ASD Polisportiva Albergo Oliveto | anche ciclismo giovanile; organizza la Sagra del Crostino |
+| Ass. Dil. Equestre Fogliarina | equitazione; Fogliarina è tra i centri di equitazione del Piano Strutturale (art. 49) |
+| Ramananda Scuola di Yoga | yoga |
+| ASD Viciomaggio | Viciomaggio |
+| La Casina ASD | La Casina è tra i centri di equitazione del Piano Strutturale (art. 49) |
+| Let Me Dance ASD | danza |
+
+Sul sito useremo solo i nomi delle associazioni e la loro attività, senza i nomi delle persone citate nella lettera.
