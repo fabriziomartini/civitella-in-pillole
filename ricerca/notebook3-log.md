@@ -79,3 +79,30 @@
 - Tegoleto: aggiungere il RioFest e "52ª edizione nel 2025".
 - Oliveto: il Presepe è organizzato dalla parrocchia.
 - Civitella: aggiungere Mercato del Cacio, Calici sotto la Torre e Festa delle Palme.
+
+## Prompt 4: sport
+- **Società sportive:**
+  - SS Badiese 1948 ASD: calcio, Badia al Pino, stadio comunale.
+  - USD Tegoleto 1970: calcio dalla scuola calcio alla prima squadra, stadio di Via del Chiassobuio.
+  - Pol. Dil. Pieve al Toppo 06: calcio, Via del Sembolino.
+  - ASD Tegoleto Volley: palestra della scuola Arcobaleno e palazzetto di Badia al Pino.
+  - ASD Polisportiva Albergo Oliveto: ciclismo giovanile.
+  - ASD Taekyon Club: taekwondo, Tegoleto.
+  - ASD Let Me Dance: danza, Pieve al Toppo.
+  - Ramananda Scuola di Yoga: Oliveto.
+  - Polisportiva Spoiano.
+  - U.S. Pieve a Maiano.
+  - ASD / Circolo Sportivo Viciomaggio.
+  - Equitazione: Fogliarina e La Casina.
+- **Anni di fondazione 1948 e 1970:** il notebook li dà per "confermati", ma l'unico riscontro è il **nome ufficiale** delle società nella lettera della Consulta. Sul sito scriveremo "SS Badiese 1948" e "USD Tegoleto 1970" come nomi, senza "fondata nel" come fatto. Vale lo stesso per "06" = 2006.
+- **Impianti:**
+  - Badia al Pino: stadio comunale con pista, palazzetto, area sportiva della scuola media riqualificata (calcetto, polivalente, pista).
+  - Tegoleto: stadio di Via del Chiassobuio, palestra della scuola Arcobaleno, vecchio campo per le feste.
+  - Pieve al Toppo: stadio di Via del Sembolino, nuovo campo polivalente libero in Via dei Boschi.
+  - Albergo: campo sportivo, nuovo campo polivalente libero in Via Morandi, parco giochi inclusivo.
+  - Spoiano, Pieve a Maiano e Viciomaggio: campi dei circoli.
+  - Previsti dal Piano Strutturale: piscina comunale a Tegoleto, campo polivalente in Via dei Laghi a Badia al Pino, centri di equitazione, pesca sportiva ai laghetti di Podere Le Chiuse e Fontanella.
+- **Storia sportiva:**
+  - Squadra Del Tongo 1982–1991: Giro d'Italia 1983 (Saronni) e 1991 (Chioccioli); 29 tappe del Giro; Milano-Sanremo 1983; Lombardia 1982 e 1986; debutto di Cipollini; anche Fondriest, Ballerini, Piasecki e Baronchelli.
+  - Giro d'Italia 2004: 4ª tappa con arrivo a Tegoleto, vinta da Petacchi.
+- **Altro:** Consulta comunale dello Sport istituita con delibera del Consiglio n. 3 del 29/03/2022; raduno di auto e moto storiche "Giostre del Toppo", 3ª edizione nel 2026.
