@@ -368,7 +368,7 @@ q(f,"Che cosa raccoglie la Pinacoteca di Civitella?","Dipinti e sculture d'arte 
 
 # --- Dalla pagina della Pro Loco sul Sarapino ---
 q(t,"Che cosa sostituisce il cavallo nel Sarapino di Civitella?","L'Ape, il motocarro",["Un asino", "Una bicicletta", "Un trattore"],"Il Sarapino è il Saracino corso con l'Ape, il mezzo a motore più diffuso nelle campagne del recente passato.",F+"civitella.html")
-q(t,"Quando si corre il Sarapino a Civitella?","La seconda domenica di giugno",["Il 29 giugno", "La prima domenica di settembre", "A Carnevale"],"Il Sarapino si svolge la seconda domenica di giugno, organizzato dalla Pro Loco.",F+"civitella.html")
+q(t,"In quale mese si corre il Sarapino a Civitella?","A giugno",["A settembre","A dicembre","A febbraio, per Carnevale"],"Il Sarapino si corre a metà giugno in piazza Lazzeri; la Pro Loco indica la seconda domenica, nel 2026 si è corso sabato 13 giugno.",F+"civitella.html")
 q(t,"Come si chiama il premio che conquista il rione vincitore del Sarapino?","Il «Retribuet»",["Il «Palio»", "Il «Masgalano d'oro»", "La «Lancia d'oro»"],"I quattro rioni corrono tre carriere ciascuno contro il buratto per conquistare il Retribuet; il Masgalano premia invece il portamento.",F+"civitella.html")
 
 # --- Dalla pagina «Civitella nella storia» della Pro Loco (fatti attribuiti) ---
@@ -376,3 +376,4 @@ q(s,"Quale podestà di Arezzo assediò e rase al suolo Civitella nel 1252, secon
 q(s,"Quale di questi comuni fu soppresso e unito a Civitella nel 1774?","Tuori",["Monte San Savino", "Lucignano", "Bucine"],"Nel 1774 Pietro Leopoldo unì a Civitella nove piccoli comuni: Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto.","storia.html")
 q(s,"Come era chiamata Civitella per la frequente presenza dei vescovi aretini?","«Civitella del Vescovo»",["«Civitella dei Medici»", "«Civitella del Papa»", "«Civitella dei Conti»"],"Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra».","storia.html")
 q(s,"In quale anno fu firmata nel castello la «Pace di Civitella», secondo la Pro Loco?","1311",["1252", "1385", "1554"],"Il 26 marzo 1311 il vescovo Ildobrandino dei conti Guidi fece firmare la pace tra guelfi e ghibellini, alla presenza degli ambasciatori di Arrigo VII.","storia.html")
+q(t,"Quale di questi è uno dei quattro rioni che corrono il Sarapino?","Porta Senese",["Porta Crucifera","Santo Spirito","Sant'Andrea"],"I rioni del Sarapino sono San Francesco, Porta Aretina, Porta Senese e La Torre.",F+"civitella.html")

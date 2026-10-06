@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 327 domande.
+Totale: 328 domande.
 
 ## Geografia (44)
 
@@ -887,7 +887,7 @@ Totale: 327 domande.
    ✔ Toscano IGP · ✘ Chianti Classico DOP · Riviera Ligure DOP · Terra di Bari DOP  
    _Le varietà locali sono frantoio, leccino, moraiolo e pendolino, e l'olio è Toscano IGP._ → `lavoro-e-sapori.html`
 
-## Feste e sport (40)
+## Feste e sport (41)
 
 1. [d16bdeb0] ●●○ `-v=` **In quale frazione si tiene la Sagra della Bistecca?**  
    ✔ Badia al Pino · ✘ Tegoleto · Spoiano · Ciggiano  
@@ -1003,9 +1003,12 @@ Totale: 327 domande.
 38. [8f738c40] ●○○ `-d-` **Che cosa sostituisce il cavallo nel Sarapino di Civitella?**  
    ✔ L'Ape, il motocarro · ✘ Un asino · Una bicicletta · Un trattore  
    _Il Sarapino è il Saracino corso con l'Ape, il mezzo a motore più diffuso nelle campagne del recente passato._ → `frazioni/civitella.html`
-39. [66d1d493] ●●○ `-v+` **Quando si corre il Sarapino a Civitella?**  
-   ✔ La seconda domenica di giugno · ✘ Il 29 giugno · La prima domenica di settembre · A Carnevale  
-   _Il Sarapino si svolge la seconda domenica di giugno, organizzato dalla Pro Loco._ → `frazioni/civitella.html`
+39. [fa85de56] ●○○ `-n=` **In quale mese si corre il Sarapino a Civitella?**  
+   ✔ A giugno · ✘ A settembre · A dicembre · A febbraio, per Carnevale  
+   _Il Sarapino si corre a metà giugno in piazza Lazzeri; la Pro Loco indica la seconda domenica, nel 2026 si è corso sabato 13 giugno._ → `frazioni/civitella.html`
 40. [ef246798] ●●● `Pv+` **Come si chiama il premio che conquista il rione vincitore del Sarapino?**  
    ✔ Il «Retribuet» · ✘ Il «Palio» · Il «Masgalano d'oro» · La «Lancia d'oro»  
    _I quattro rioni corrono tre carriere ciascuno contro il buratto per conquistare il Retribuet; il Masgalano premia invece il portamento._ → `frazioni/civitella.html`
+41. [e65747b8] ●●● `Pv+` **Quale di questi è uno dei quattro rioni che corrono il Sarapino?**  
+   ✔ Porta Senese · ✘ Porta Crucifera · Santo Spirito · Sant'Andrea  
+   _I rioni del Sarapino sono San Francesco, Porta Aretina, Porta Senese e La Torre._ → `frazioni/civitella.html`

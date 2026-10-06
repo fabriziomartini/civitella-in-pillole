@@ -4497,17 +4497,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/civitella.html"
 },
 {
-"id": "66d1d493",
+"id": "fa85de56",
 "c": "feste",
-"d": 2,
-"q": "Quando si corre il Sarapino a Civitella?",
-"a": "La seconda domenica di giugno",
+"d": 1,
+"q": "In quale mese si corre il Sarapino a Civitella?",
+"a": "A giugno",
 "x": [
-"Il 29 giugno",
-"La prima domenica di settembre",
-"A Carnevale"
+"A settembre",
+"A dicembre",
+"A febbraio, per Carnevale"
 ],
-"s": "Il Sarapino si svolge la seconda domenica di giugno, organizzato dalla Pro Loco.",
+"s": "Il Sarapino si corre a metà giugno in piazza Lazzeri; la Pro Loco indica la seconda domenica, nel 2026 si è corso sabato 13 giugno.",
 "l": "frazioni/civitella.html"
 },
 {
@@ -4579,5 +4579,19 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Il 26 marzo 1311 il vescovo Ildobrandino dei conti Guidi fece firmare la pace tra guelfi e ghibellini, alla presenza degli ambasciatori di Arrigo VII.",
 "l": "storia.html"
+},
+{
+"id": "e65747b8",
+"c": "feste",
+"d": 3,
+"q": "Quale di questi è uno dei quattro rioni che corrono il Sarapino?",
+"a": "Porta Senese",
+"x": [
+"Porta Crucifera",
+"Santo Spirito",
+"Sant'Andrea"
+],
+"s": "I rioni del Sarapino sono San Francesco, Porta Aretina, Porta Senese e La Torre.",
+"l": "frazioni/civitella.html"
 }
 ];
