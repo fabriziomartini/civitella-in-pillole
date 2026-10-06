@@ -376,4 +376,11 @@ CODICI = {
     "84b5459a": "-v+",  # A chi consegnò Azzone degli Ubertini il castello di Oliveto nel settem
     "c849d496": "-n+",  # Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano,
     "56054fd7": "Pv+",  # Di quale badia era il patronato su Cornia dal secolo XI, secondo il Repetti?
+    "a4286437": "Nv+",  # In quale data il popolo di Tegoleto si sottomise alla Repubblica fiore
+    "418b0da7": "-v+",  # Chi si accampò a Ciggiano nel 1307, secondo il Repetti?
+    "d3c01c7d": "-v+",  # Da quale località vicina doveva distinguersi «Vicione Maggiore», l'ant
+    "a4e2efc3": "-v+",  # Che cosa fu firmato il 20 aprile 1261 nella chiesa della Badia al Pino
+    "97b3e142": "-d+",  # Che cosa accadeva alle acque della Chiana presso il Toppo nell'XI seco
+    "65c7e281": "-v+",  # Con quale nome popolare era chiamata la Pieve al Toppo, secondo il Rep
+    "f6b39c53": "Nn+",  # Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo
 }

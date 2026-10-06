@@ -177,6 +177,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Nel 1502, distrutta la pieve del Toppo, il fonte battesimale e il titolo di pieve passarono a Badia al Pino; nel 1583 vi passò il titolo di Santa Lucia a Campigliano | Repertorio (C001) | R | alta |
 | La Badia fu soppressa nel 1441 e il paese divenne un insediamento essenzialmente rurale | Comune | R | alta |
 | Restano una torre, con vincolo nazionale, e i resti di una porta del castello | Repertorio (T001), itinerario 3 | R | alta |
+| Repetti, Badia al Pino: badia di S. Bartolomeo trasferita da una più antica S. Martino al Pino; nel 1075 dipendeva dall'abate dei SS. Flora e Lucilla; 20 aprile 1261 capitoli di concordia tra Guglielmino degli Ubertini e i cortonesi fuorusciti firmati nella chiesa della Badia; sotto Guido Tarlati le fu aggregata la chiesa di S. Filippo di Civitella; dichiarata plebana dopo la soppressione della Pieve al Toppo; 581 abitanti (1833) | Repetti, voce «Pino (Badia al)» | R | alta |
 | Il palazzetto settecentesco fu sede comunale dal 1917 ai primi anni Settanta; oggi è la Biblioteca comunale | Comune | R | media |
 | Palazzo Santini-Paccinelli: villa settecentesca a pianta rettangolare, simmetrica rispetto al vano scala centrale | Repertorio (A020) | R | media |
 | Villa del Bosco, con parco e filare di pini | Repertorio (V001, PG010, FI007) | R | media |
@@ -192,6 +193,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | San Biagio custodisce l'altare Mazzeschi e una Santa Maria Maddalena attribuita ad Andrea Sansovino | Itinerario 1 del Comune | N | alta |
 | La chiesa della Madonna della Costarella (detta anche di Santa Maria), fuori dal castello di Ciggiano, fu terminata nel 1635 con le elemosine dei pastori della via vecchia senese; il loggiato è settecentesco | Repertorio (E152), Discover Arezzo | R | alta |
 | Ciggiano è «sotto i valichi di Palazzuolo e San Pancrazio»; tappa obbligata della dogana fiorentina, con la «calla» dei pastori | Repertorio (N001) | R | alta |
+| Repetti, Ciggiano: nel 1307 vi si accampò un esercito della lega guelfa toscana; 1431 preso da Piccinino (con Oliveto e Battifolle), 1433 Firenze ordina di smantellare quei castelli (voce Oliveto); S. Biagio 634 abitanti | Repetti, voci «Ciggiano» e «Oliveto di Civitella» | R | alta |
 | Nel 1431 fu assediato e saccheggiato dalle truppe di Niccolò Piccinino; nel 1554 subì un altro assedio | Repertorio (N001) | R | alta |
 | Chiesa di San Pietro a Ciggiano, di origine medievale, con un intervento eclettico del 1836; vi sono stati trovati reperti con iscrizioni etrusche | Discover Arezzo, Visit Tuscany | W | media |
 | Parrocchia di San Biagio | Annuario della Diocesi | N | alta |
@@ -244,6 +246,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | È il centro abitato più popoloso del comune (1.545 residenti nel 2021) | ISTAT | W | alta |
 | La pieve, con un ospedale per i pellegrini, fu confermata nel 938 tra i possedimenti del Capitolo di Arezzo; chiesa e ospedale furono distrutti nel 1502 | Repertorio (B024) | R | alta |
+| Repetti, Pieve al Toppo: detta volgarmente «all'Intoppo»; pieve guastata nella guerra della ribellione di Arezzo del 1502, rendite ai canonici della Pieve di Arezzo, fonte battesimale alla Badia al Pino; aveva 24 chiese dipendenti; nell'XI secolo le acque della Chiana presso il Toppo «bilicavano» tra il Valdarno e il Tevere; battaglia del 1288 ricordata anche da Malespini e Villani | Repetti, voci «Toppo (Pieve al)» e «Pieve al Toppo» | R | alta |
 | «Toppo» è di origine longobarda | Repertorio | N | alta |
 | Oratorio della Madonna del Conforto, con questa dedica dal 1906 | Repertorio | N | media |
 | Parrocchiale di San Giovanni Battista: progetto del 1967, porticato del 1977 | Repertorio | N | media |
@@ -273,6 +276,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
 | Parrocchia di San Biagio; la chiesa esisteva già nel X secolo, fu ristrutturata nel XII e ne restano i resti dell'abside | Annuario della Diocesi, itinerario 3 del Comune | N | alta |
+| Repetti, Tegoleto: corte del capitolo della cattedrale di Arezzo, ricordata nei privilegi di Federico I (1163), Filippo duca di Toscana (1196), Ottone IV (1209); grano raccolto dal 1300; nel 1442 canone annuo di 160 staia di grano; il popolo si sottomise a Firenze il 29 marzo 1385; S. Biagio 683 abitanti (1833) | Repetti, voce «Tegoleto» | R | alta |
 | La torre fu ricostruita dai fiorentini alla fine del Trecento | Repertorio | N | alta |
 | La fattoria passò all'Ordine dei Cavalieri di Santo Stefano nel 1783 | Repertorio | N | alta |
 | Teatro Moderno (TMT): nato nel 1960, gestito dal Gruppo Teatro La Torre, stagione da ottobre a marzo | Repertorio (TE001) | N | media |
@@ -284,6 +288,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | Attestato nel 1021 | Repertorio | N | alta |
 | Parrocchia dei Santi Giorgio e Luca (titolo ufficiale della Diocesi; il Comune scrive «Giorgio e Lucia») | Annuario della Diocesi, itinerario del Comune | N | alta |
+| Repetti, Tuori: parrocchia di S. Giorgio nel piviere di Battifolle; «non esisteva nel 1551»; 196 abitanti (1833); nel 1774 unita a Civitella insieme a Viciomaggio, come un solo comune | Repetti, voci «Tuori» e «Civitella» | R | media |
 | Vincolo nazionale su cassero, chiesa e cimitero (non sul centro storico) | Repertorio (N017) | R | alta |
 | Il Saracino: casa colonica del XVI secolo della Fraternita dei Laici, con portico a tre archi a tutto sesto e loggia ad arco policentrico ribassato | Repertorio (M308) | R | media |
 
@@ -293,6 +298,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Parrocchia di San Martino | Annuario della Diocesi | N | alta |
 | Il nome viene da *vicus maior* | Itinerari del Comune | N | alta |
 | Villa di Viciomaggio: villa padronale settecentesca, restauro della parte posteriore nel 1868 con decorazioni pittoriche, limonaia del 1836, cappella secentesca con orologio e campanile a vela | Repertorio (L282) | R | alta |
+| Repetti, Viciomaggio: «Vicione Maggio» per distinguerlo da Vicione Piccolo (Battifolle); nel novembre 1024 fu rogato «nella villa di Vicione maggiore» un istrumento della cattedrale di Arezzo; S. Martino 670 abitanti (1833) | Repetti, voce «Vicio Maggio, o Vico Maggiore» | R | alta |
 | Nel 1872 vi fu trovata un'urna etrusca ellenistica con l'iscrizione *l. prastn[a] nerinal* | Repertorio | N | alta |
 | Nella zona industriale hanno sede CEIA e uno stabilimento Chimet (anni Ottanta) | CEIA, Chimet | N | alta |
 | Festa della Rosa, organizzata dall'A.S.D. Viciomaggio: nel 2026 dal 23 aprile al 3 maggio | Sagre Toscane | W | media |
@@ -412,6 +418,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 | Data dell'uccisione di Mario Mannelli | ToscanaNovecento: «il 29 marzo 1944 avvenne una strage di matrice fascista»; Repertorio, scheda del monumento (ME013): «ucciso per rappresaglia fascista il 29 maggio 1944» | tutte e due le date |
 | Passaggio di Civitella a Firenze | Wikipedia: ingresso nel territorio fiorentino nel 1348; Pro Loco: custodia fiorentina dal 1344 e sottomissione degli abitanti nel 1362; SIUSA: podesteria fiorentina dal 1385; Wikipedia: presa da Firenze dopo Campaldino (1289) | sul sito: presa nel 1289, sottomissione 1362 (Pro Loco), podesteria 1385 |
 | Rocca di Civitella dopo il 1248 | Itinerario 2 del Comune: «ristrutturata dopo la distruzione del 1252»; Wikipedia: «nel 1272 Guglielmino la ricostruì»; Repertorio: nel 1248 Guglielmino ne potenziò le mura | tutte e tre, attribuite |
+| Prima memoria della pieve del Toppo | Repertorio: confermata nel 938 tra i possedimenti del Capitolo di Arezzo; Repetti: corti donate ai canonici nel 939 dai re Ugo e Lotario, diploma di Ottone I del 963 (in un'altra voce «983») | sul sito resta il 938 del Repertorio |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
 
 ---
@@ -471,7 +478,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 - Tuori nel «terzo anello difensivo dello Stato aretino», «vigilava sulla Val di Chiana e sulla Valdambra», cassero «punto di comunicazione visiva con la Val di Chiana senese»: non confermati dal Repertorio. Venivano da ruderimedievali.altervista.org. Tolti.
 - «Centro storico di Tuori tutelato da vincolo nazionale»: SMENTITO. Il vincolo è su cassero, chiesa e cimitero.
 - Patrono di Tuori San Giorgio «23 aprile»: non confermato. Tolto dal riquadro «In breve».
-- Viciomaggio «ricordato in un atto notarile del 1024»: l'atto notarile non c'è. Resta «fin dal 1024».
+- Viciomaggio «ricordato in un atto notarile del 1024»: l'atto notarile non c'è. Resta «fin dal 1024». Aggiornamento: il Repetti cita un istrumento della cattedrale di Arezzo del novembre 1024 rogato «nella villa di Vicione maggiore»; ora è sul sito con la fonte.
 - «Villa Milloni»: il nome non compare né nel Repertorio né sul web. Per il Repertorio è la «Villa di Viciomaggio» (L282), e il sito la elencava due volte. Ora c'è una sola voce, «Villa di Viciomaggio» (anche in Patrimonio e nel quiz).
 - Vasi del I secolo a.C. «al Museo di Arezzo»: il Repertorio dice «luogo sconosciuto». Al museo c'è solo il cammeo di diaspro.
 - Leggenda di Annibale a Viciomaggio: non è in nessuna fonte. Tolta.

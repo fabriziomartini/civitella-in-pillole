@@ -6,9 +6,9 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 339 domande.
+Totale: 346 domande.
 
-## Geografia (44)
+## Geografia (45)
 
 1. [5a86694d] ●●● `Nv=` **Quanti residenti contava il comune al censimento ISTAT del 2021?**  
    ✔ 8.814 · ✘ 6.512 · 11.230 · 15.400  
@@ -142,8 +142,11 @@ Totale: 339 domande.
 44. [cb9f19ff] ●○○ `-d=` **Da che cosa deriva la pianura della Val di Chiana?**  
    ✔ Dal prosciugamento di un antico lago · ✘ Dal ritiro di un ghiacciaio · Da un'antica colata di lava · Dal ritiro del mare in età romana  
    _La pianura, a circa 250 metri di quota, deriva dal prosciugamento di un lago pleistocenico._ → `geografia.html`
+45. [97b3e142] ●○○ `-d+` **Che cosa accadeva alle acque della Chiana presso il Toppo nell'XI secolo, secondo il Repetti?**  
+   ✔ Ristagnavano quasi ferme, divise tra il Valdarno e il Tevere · ✘ Formavano una grande cascata · Scorrevano tutte verso il mare di Livorno · Erano già state bonificate dai Medici  
+   _Nell'XI secolo le acque della Chiana presso il Toppo «bilicavano»: una parte andava verso il Valdarno aretino, una parte con il Paglia verso il Tevere._ → `frazioni/pieve-al-toppo.html`
 
-## Storia (59)
+## Storia (62)
 
 1. [fe9e42b2] ●●● `Nv=` **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -322,6 +325,15 @@ Totale: 339 domande.
 59. [c849d496] ●●○ `-n+` **Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano, ripresi dopo l'invasione di Niccolò Piccinino?**  
    ✔ Di smantellarli · ✘ Di ricostruirli più grandi · Di venderli ai senesi · Di affidarli al vescovo di Arezzo  
    _Nel 1431 Piccinino prese Ciggiano e Oliveto; riconquistati, nel 1433 Firenze ordinò di smantellarli (Repetti)._ → `frazioni/oliveto.html`
+60. [a4286437] ●●● `Nv+` **In quale data il popolo di Tegoleto si sottomise alla Repubblica fiorentina?**  
+   ✔ Il 29 marzo 1385 · ✘ Il 26 giugno 1288 · Il 14 novembre 1774 · Il 2 agosto 1554  
+   _Secondo il Repetti il popolo di Tegoleto si sottomise a Firenze il 29 marzo 1385._ → `frazioni/tegoleto.html`
+61. [418b0da7] ●●○ `-v+` **Chi si accampò a Ciggiano nel 1307, secondo il Repetti?**  
+   ✔ Un esercito della lega guelfa toscana · ✘ Le truppe di Niccolò Piccinino · L'esercito imperiale di Arrigo VII · I ghibellini di Arezzo  
+   _Nel 1307 Ciggiano era di parte guelfa e vi si accampò un esercito della lega guelfa toscana._ → `frazioni/ciggiano.html`
+62. [a4e2efc3] ●●○ `-v+` **Che cosa fu firmato il 20 aprile 1261 nella chiesa della Badia al Pino?**  
+   ✔ La concordia tra il vescovo Guglielmino e i cortonesi fuorusciti · ✘ La pace tra Arezzo e Siena · Lo statuto del comune di Civitella · La resa di Civitella ai fiorentini  
+   _Secondo il Repetti, nella chiesa della Badia furono firmati i capitoli di concordia tra Guglielmino degli Ubertini e i cortonesi fuorusciti._ → `frazioni/badia-al-pino.html`
 
 ## Il 1944 (35)
 
@@ -431,7 +443,7 @@ Totale: 339 domande.
    ✔ Il Tribunale militare di La Spezia · ✘ Il tribunale di Norimberga · La Corte d'Assise di Arezzo · Il Tribunale di Firenze  
    _Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania._ → `storia.html`
 
-## Frazioni (100)
+## Frazioni (103)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -733,6 +745,15 @@ Totale: 339 domande.
 100. [56054fd7] ●●● `Pv+` **Di quale badia era il patronato su Cornia dal secolo XI, secondo il Repetti?**  
    ✔ La badia di Agnano · ✘ La Badia del Pino · L'abbazia di Vallombrosa · L'abbazia di Camaldoli  
    _Dal secolo XI Cornia era dei monaci della badia d'Agnano; nel 1350 l'abate la pose sotto l'accomandigia di Firenze._ → `frazioni/cornia.html`
+101. [d3c01c7d] ●●○ `-v+` **Da quale località vicina doveva distinguersi «Vicione Maggiore», l'antico nome di Viciomaggio?**  
+   ✔ Da Vicione Piccolo, cioè Battifolle · ✘ Da Vicchio di Mugello · Da Vicopisano · Da Vico d'Elsa  
+   _Il Repetti spiega che Vicione Maggio si chiamava così per distinguerlo dal vicino Vicione Piccolo, cioè Battifolle._ → `frazioni/viciomaggio.html`
+102. [65c7e281] ●●○ `-v+` **Con quale nome popolare era chiamata la Pieve al Toppo, secondo il Repetti?**  
+   ✔ Pieve all'Intoppo · ✘ Pieve del Poggio · Pieve della Chiana · Pieve dei Pellegrini  
+   _Il Repetti la registra come «Pieve al Toppo, volgarmente detta all'Intoppo»._ → `frazioni/pieve-al-toppo.html`
+103. [f6b39c53] ●●● `Nn+` **Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo il Repetti?**  
+   ✔ 24 · ✘ 4 · 12 · 50  
+   _Prima della rovina del 1502 la pieve aveva 24 chiese dipendenti, tra cui quelle di Civitella, Tegoleto, Oliveto, Viciomaggio, Ciggiano e Cornia._ → `frazioni/pieve-al-toppo.html`
 
 ## Borghi minori (35)
 

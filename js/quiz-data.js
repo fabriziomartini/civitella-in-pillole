@@ -4747,5 +4747,103 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Dal secolo XI Cornia era dei monaci della badia d'Agnano; nel 1350 l'abate la pose sotto l'accomandigia di Firenze.",
 "l": "frazioni/cornia.html"
+},
+{
+"id": "a4286437",
+"c": "storia",
+"d": 3,
+"q": "In quale data il popolo di Tegoleto si sottomise alla Repubblica fiorentina?",
+"a": "Il 29 marzo 1385",
+"x": [
+"Il 26 giugno 1288",
+"Il 14 novembre 1774",
+"Il 2 agosto 1554"
+],
+"s": "Secondo il Repetti il popolo di Tegoleto si sottomise a Firenze il 29 marzo 1385.",
+"l": "frazioni/tegoleto.html"
+},
+{
+"id": "418b0da7",
+"c": "storia",
+"d": 2,
+"q": "Chi si accampò a Ciggiano nel 1307, secondo il Repetti?",
+"a": "Un esercito della lega guelfa toscana",
+"x": [
+"Le truppe di Niccolò Piccinino",
+"L'esercito imperiale di Arrigo VII",
+"I ghibellini di Arezzo"
+],
+"s": "Nel 1307 Ciggiano era di parte guelfa e vi si accampò un esercito della lega guelfa toscana.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "d3c01c7d",
+"c": "frazioni",
+"d": 2,
+"q": "Da quale località vicina doveva distinguersi «Vicione Maggiore», l'antico nome di Viciomaggio?",
+"a": "Da Vicione Piccolo, cioè Battifolle",
+"x": [
+"Da Vicchio di Mugello",
+"Da Vicopisano",
+"Da Vico d'Elsa"
+],
+"s": "Il Repetti spiega che Vicione Maggio si chiamava così per distinguerlo dal vicino Vicione Piccolo, cioè Battifolle.",
+"l": "frazioni/viciomaggio.html"
+},
+{
+"id": "a4e2efc3",
+"c": "storia",
+"d": 2,
+"q": "Che cosa fu firmato il 20 aprile 1261 nella chiesa della Badia al Pino?",
+"a": "La concordia tra il vescovo Guglielmino e i cortonesi fuorusciti",
+"x": [
+"La pace tra Arezzo e Siena",
+"Lo statuto del comune di Civitella",
+"La resa di Civitella ai fiorentini"
+],
+"s": "Secondo il Repetti, nella chiesa della Badia furono firmati i capitoli di concordia tra Guglielmino degli Ubertini e i cortonesi fuorusciti.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "97b3e142",
+"c": "geo",
+"d": 1,
+"q": "Che cosa accadeva alle acque della Chiana presso il Toppo nell'XI secolo, secondo il Repetti?",
+"a": "Ristagnavano quasi ferme, divise tra il Valdarno e il Tevere",
+"x": [
+"Formavano una grande cascata",
+"Scorrevano tutte verso il mare di Livorno",
+"Erano già state bonificate dai Medici"
+],
+"s": "Nell'XI secolo le acque della Chiana presso il Toppo «bilicavano»: una parte andava verso il Valdarno aretino, una parte con il Paglia verso il Tevere.",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "65c7e281",
+"c": "frazioni",
+"d": 2,
+"q": "Con quale nome popolare era chiamata la Pieve al Toppo, secondo il Repetti?",
+"a": "Pieve all'Intoppo",
+"x": [
+"Pieve del Poggio",
+"Pieve della Chiana",
+"Pieve dei Pellegrini"
+],
+"s": "Il Repetti la registra come «Pieve al Toppo, volgarmente detta all'Intoppo».",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "f6b39c53",
+"c": "frazioni",
+"d": 3,
+"q": "Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo il Repetti?",
+"a": "24",
+"x": [
+"4",
+"12",
+"50"
+],
+"s": "Prima della rovina del 1502 la pieve aveva 24 chiese dipendenti, tra cui quelle di Civitella, Tegoleto, Oliveto, Viciomaggio, Ciggiano e Cornia.",
+"l": "frazioni/pieve-al-toppo.html"
 }
 ];
