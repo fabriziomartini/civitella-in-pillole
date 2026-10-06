@@ -51,12 +51,12 @@
     var frazioniActive = inFrazioniFolder() || current === "frazioni.html";
 
     return (
-      '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">' +
+      '<nav class="navbar navbar-expand-xl navbar-dark bg-dark">' +
       '<div class="container px-lg-5">' +
       '<a class="navbar-brand" href="' + basePath + 'index.html">Civitella in Pillole</a>' +
       '<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>' +
       '<div class="collapse navbar-collapse" id="navbarSupportedContent">' +
-      '<ul class="navbar-nav ms-auto mb-2 mb-lg-0">' +
+      '<ul class="navbar-nav ms-auto mb-2 mb-xl-0">' +
       '<li class="nav-item"><a class="' + navCls("index.html") + '" href="' + basePath + 'index.html">Home</a></li>' +
       '<li class="nav-item"><a class="' + navCls("storia.html") + '" href="' + basePath + 'storia.html">Storia</a></li>' +
       '<li class="nav-item dropdown">' +
@@ -64,6 +64,8 @@
       '<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">' + dropdownItems + "</div>" +
       "</li>" +
       '<li class="nav-item"><a class="' + navCls("patrimonio.html") + '" href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
+      '<li class="nav-item"><a class="' + navCls("lavoro-e-sapori.html") + '" href="' + basePath + 'lavoro-e-sapori.html" title="Lavoro e sapori">Economia</a></li>' +
+      '<li class="nav-item"><a class="' + navCls("feste-e-associazioni.html") + '" href="' + basePath + 'feste-e-associazioni.html" title="Feste e associazioni">Feste</a></li>' +
       '<li class="nav-item"><a class="' + navCls("geografia.html") + '" href="' + basePath + 'geografia.html">Geografia</a></li>' +
       '<li class="nav-item"><a class="' + navCls("amministrazione.html") + '" href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
       '<li class="nav-item"><a class="' + navCls("fonti.html") + '" href="' + basePath + 'fonti.html">Fonti</a></li>' +
@@ -90,6 +92,8 @@
       '<li><a href="' + basePath + 'frazioni.html">Le frazioni</a></li>' +
       '<li><a href="' + basePath + 'frazioni/borghi-minori.html">Borghi e località minori</a></li>' +
       '<li><a href="' + basePath + 'patrimonio.html">Patrimonio</a></li>' +
+      '<li><a href="' + basePath + 'lavoro-e-sapori.html">Lavoro e sapori</a></li>' +
+      '<li><a href="' + basePath + 'feste-e-associazioni.html">Feste e associazioni</a></li>' +
       '<li><a href="' + basePath + 'geografia.html">Geografia</a></li>' +
       '<li><a href="' + basePath + 'amministrazione.html">Amministrazione</a></li>' +
       "</ul>" +
