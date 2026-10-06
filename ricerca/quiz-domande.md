@@ -6,9 +6,9 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche.
 
-Totale: 172 domande.
+Totale: 156 domande.
 
-## Geografia (22)
+## Geografia (21)
 
 1. [5a86694d] **Quanti residenti contava il comune al censimento ISTAT del 2021?**  
    ✔ 8.814 · ✘ 6.512 · 11.230 · 15.400  
@@ -40,40 +40,37 @@ Totale: 172 domande.
 10. [f2064462] **Tra quali valli si trova il colle di Civitella?**  
    ✔ Valdambra e Valdichiana · ✘ Casentino e Valtiberina · Val d'Orcia e Valdelsa · Mugello e Valdisieve  
    _Il Repertorio del Piano descrive il colle di Civitella «tra Valdambra e Valdichiana»._ → `geografia.html`
-11. [30bfe3ca] **In quale zona climatica è classificato il comune?**  
-   ✔ Zona E · ✘ Zona A · Zona B · Zona F  
-   _Civitella è in zona climatica E, con 2.269 gradi giorno._ → `geografia.html`
-12. [75a8fc8f] **Quale di questi torrenti scorre nel territorio comunale?**  
+11. [75a8fc8f] **Quale di questi torrenti scorre nel territorio comunale?**  
    ✔ L'Esse · ✘ L'Ombrone · Il Serchio · La Cecina  
    _Tra i torrenti del territorio ci sono l'Esse, il Leprone, il Trove e la Lota._ → `geografia.html`
-13. [e2f25241] **Una parte del territorio comunale rientra in quale riserva naturale?**  
+12. [e2f25241] **Una parte del territorio comunale rientra in quale riserva naturale?**  
    ✔ Ponte a Buriano e Penna · ✘ Lago di Montepulciano · Monte Rufeno · Bosco di Sant'Agnese  
    _La Riserva di Ponte a Buriano e Penna protegge un tratto dell'Arno e si estende nei comuni di Arezzo, Civitella e Laterina._ → `geografia.html`
-14. [e65e12bd] **Quale fiume protegge la Riserva naturale di Ponte a Buriano e Penna?**  
+13. [e65e12bd] **Quale fiume protegge la Riserva naturale di Ponte a Buriano e Penna?**  
    ✔ L'Arno · ✘ Il Tevere · L'Ombrone · Il Serchio  
    _La riserva protegge il tratto dell'Arno tra Ponte a Buriano e la diga della Penna._ → `geografia.html`
-15. [96d34023] **Quale frazione il Piano Strutturale indica come «porta d'accesso» meridionale alla Riserva di Ponte a Buriano e Penna?**  
+14. [96d34023] **Quale frazione il Piano Strutturale indica come «porta d'accesso» meridionale alla Riserva di Ponte a Buriano e Penna?**  
    ✔ Pieve a Maiano · ✘ Spoiano · Tegoleto · Oliveto  
    _Il Piano assegna a Pieve a Maiano il ruolo di porta d'accesso meridionale alla Riserva._ → `frazioni/pieve-a-maiano.html`
-16. [1a05018c] **Quale vino si produce sulle colline del comune?**  
+15. [1a05018c] **Quale vino si produce sulle colline del comune?**  
    ✔ Il Chianti Colli Aretini · ✘ Il Brunello di Montalcino · Il Morellino di Scansano · La Vernaccia di San Gimignano  
    _Nella fascia collinare si producono vigneti di Chianti Colli Aretini._ → `geografia.html`
-17. [607cb6d7] **Come sono sistemati, tradizionalmente, gli oliveti sui pendii collinari?**  
+16. [607cb6d7] **Come sono sistemati, tradizionalmente, gli oliveti sui pendii collinari?**  
    ✔ Su terrazzamenti e ciglionamenti · ✘ In serre riscaldate · In risaie allagate · Su terreni sabbiosi di duna  
    _La Relazione del Piano descrive oliveti su terrazzamenti sostenuti da muri in pietra o ciglionamenti._ → `geografia.html`
-18. [878f8be1] **Circa quanti abitanti del comune vivono in case sparse, fuori dai centri abitati?**  
+17. [878f8be1] **Circa quanti abitanti del comune vivono in case sparse, fuori dai centri abitati?**  
    ✔ Circa un quarto · ✘ Quasi nessuno · Circa tre quarti · Più del 90%  
    _Al censimento 2021 le case sparse contavano 2.256 residenti su 8.814._ → `geografia.html`
-19. [b051cf1f] **Quale frazione è divisa tra Civitella e il comune di Laterina Pergine Valdarno?**  
+18. [b051cf1f] **Quale frazione è divisa tra Civitella e il comune di Laterina Pergine Valdarno?**  
    ✔ Ponticino · ✘ Tuori · Cornia · Spoiano  
    _Ponticino è a cavallo del confine comunale; il centro abitato è attribuito dall'ISTAT a Laterina Pergine Valdarno._ → `frazioni/ponticino.html`
-20. [7a620330] **Con quale comune tedesco è gemellato Civitella in Val di Chiana?**  
+19. [7a620330] **Con quale comune tedesco è gemellato Civitella in Val di Chiana?**  
    ✔ Kämpfelbach · ✘ Heidelberg · Rosenheim · Bamberga  
    _I rappresentanti di Kämpfelbach partecipano ogni anno al Mercato del Cacio._ → `frazioni/civitella.html`
-21. [608e57f8] **Da quando Civitella fa parte della rete Cittaslow?**  
+20. [608e57f8] **Da quando Civitella fa parte della rete Cittaslow?**  
    ✔ Dal 2002 · ✘ Dal 1985 · Dal 2015 · Dal 2023  
    _Il comune aderisce a Cittaslow dal luglio 2002._ → `lavoro-e-sapori.html`
-22. [f5a0d8d3] **In quale anno Civitella è entrata nell'associazione Città dell'Olio?**  
+21. [f5a0d8d3] **In quale anno Civitella è entrata nell'associazione Città dell'Olio?**  
    ✔ 2025 · ✘ 1998 · 2008 · 2016  
    _Civitella fa parte delle Città dell'Olio dal 2025._ → `lavoro-e-sapori.html`
 
@@ -197,7 +194,7 @@ Totale: 172 domande.
    ✔ Uno scrittore e divulgatore scientifico · ✘ Il parroco del paese · Un comandante partigiano · Il podestà di Civitella  
    _Giovanni Cau e la moglie Helga Elmqvist furono catturati a Gebbia e uccisi il 2 luglio 1944._ → `frazioni/gebbia.html`
 
-## Frazioni (51)
+## Frazioni (47)
 
 1. [a6b8c90b] **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -226,134 +223,122 @@ Totale: 172 domande.
 9. [b24d9f73] **Da quale anno è documentata l'antica pieve di Pieve al Toppo?**  
    ✔ 938 · ✘ 1288 · 1500 · 1906  
    _La pieve, con un ospedale, è documentata dal 938._ → `frazioni/pieve-al-toppo.html`
-10. [c686859b] **In quale anno fu progettata la moderna chiesa parrocchiale di Pieve al Toppo?**  
-   ✔ 1967 · ✘ 1288 · 1806 · 2005  
-   _La chiesa di San Giovanni Battista fu progettata nel 1967; il porticato è del 1977._ → `frazioni/pieve-al-toppo.html`
-11. [c2c65bab] **In quale anno la chiesa di San Biagio a Ciggiano fu elevata a pieve?**  
+10. [c2c65bab] **In quale anno la chiesa di San Biagio a Ciggiano fu elevata a pieve?**  
    ✔ 1465 · ✘ 1048 · 1774 · 1917  
    _San Biagio di Ciggiano fu elevata a pieve nel 1465._ → `frazioni/ciggiano.html`
-12. [b555e58c] **A quale scultore è attribuita la Santa Maria Maddalena della chiesa di San Biagio a Ciggiano?**  
+11. [b555e58c] **A quale scultore è attribuita la Santa Maria Maddalena della chiesa di San Biagio a Ciggiano?**  
    ✔ Andrea Sansovino · ✘ Michelangelo · Donatello · Giambologna  
    _La scultura del primo Cinquecento è attribuita ad Andrea Sansovino._ → `frazioni/ciggiano.html`
-13. [ef7b3974] **In quale frazione si trovano le chiese di Santa Maria (1635) e di San Pietro (1836)?**  
+12. [ef7b3974] **In quale frazione si trovano le chiese di Santa Maria (1635) e di San Pietro (1836)?**  
    ✔ Ciggiano · ✘ Albergo · Spoiano · Tuori  
    _Sono due chiese di Ciggiano; in passato erano state attribuite per errore ad Albergo._ → `frazioni/ciggiano.html`
-14. [8d375aa0] **Quale borgo collinare si trova a circa 360 metri, su un colle tra le valli del Gargaiolo e dell'Esse?**  
+13. [8d375aa0] **Quale borgo collinare si trova a circa 360 metri, su un colle tra le valli del Gargaiolo e dell'Esse?**  
    ✔ Ciggiano · ✘ Tegoleto · Albergo · Badia al Pino  
    _La scheda del Comune indica per Ciggiano un'altitudine di 359 metri._ → `frazioni/ciggiano.html`
-15. [264f4207] **Quale attività artigianale esisteva un tempo a Cornia?**  
+14. [264f4207] **Quale attività artigianale esisteva un tempo a Cornia?**  
    ✔ La lavorazione delle scope di saggina · ✘ La produzione di cappelli di paglia · La soffiatura del vetro · La lavorazione del corallo  
    _A Cornia esisteva un centro per la lavorazione delle scope di saggina._ → `frazioni/cornia.html`
-16. [7460edf6] **A quale santo è dedicata la chiesa di Cornia, detta di Sant'Angelo?**  
+15. [7460edf6] **A quale santo è dedicata la chiesa di Cornia, detta di Sant'Angelo?**  
    ✔ San Michele Arcangelo · ✘ San Rocco · San Giorgio · San Francesco  
    _La chiesa di Cornia è San Michele Arcangelo, detta Sant'Angelo._ → `frazioni/cornia.html`
-17. [c1b2389e] **Quale frazione è la più alta tra queste, a circa 560 metri?**  
+16. [c1b2389e] **Quale frazione è la più alta tra queste, a circa 560 metri?**  
    ✔ Cornia · ✘ Tegoleto · Badia al Pino · Albergo  
    _Cornia si trova a circa 560 metri._ → `frazioni/cornia.html`
-18. [d02d06cf] **Di quale famiglia fu dimora Villa Oliveto, già Villa Mazzi?**  
+17. [d02d06cf] **Di quale famiglia fu dimora Villa Oliveto, già Villa Mazzi?**  
    ✔ I conti Barbolani di Montauto · ✘ I Medici · I Guidi · I Ricasoli  
    _Villa Oliveto fu dimora dei conti Barbolani di Montauto._ → `frazioni/oliveto.html`
-19. [782eea04] **Quale scrittrice scozzese visse a Oliveto ed è sepolta nel suo cimitero?**  
+18. [782eea04] **Quale scrittrice scozzese visse a Oliveto ed è sepolta nel suo cimitero?**  
    ✔ Muriel Spark · ✘ Agatha Christie · Virginia Woolf · Jane Austen  
    _Muriel Spark visse a Oliveto dagli anni Settanta e vi morì nel 2006._ → `frazioni/oliveto.html`
-20. [f98ae568] **Quale romanzo ha scritto Muriel Spark, che visse a Oliveto?**  
+19. [f98ae568] **Quale romanzo ha scritto Muriel Spark, che visse a Oliveto?**  
    ✔ Gli anni fulgenti di Miss Brodie · ✘ Gita al faro · Orgoglio e pregiudizio · Assassinio sull'Orient Express  
    _Muriel Spark è l'autrice de «Gli anni fulgenti di Miss Brodie»._ → `frazioni/oliveto.html`
-21. [ae843126] **In quale anno Muriel Spark ricevette la cittadinanza onoraria di Civitella?**  
-   ✔ 2005 · ✘ 1975 · 1990 · 2015  
-   _La cittadinanza onoraria le fu conferita nel settembre 2005._ → `frazioni/oliveto.html`
-22. [4570545d] **Da quale anno si tiene il Presepe Vivente di Oliveto?**  
+20. [4570545d] **Da quale anno si tiene il Presepe Vivente di Oliveto?**  
    ✔ 2014 · ✘ 1950 · 1985 · 2022  
    _Il Presepe Vivente di Oliveto si tiene dal 2014._ → `frazioni/oliveto.html`
-23. [605f6a96] **Dove è allestita la Natività del Presepe Vivente di Oliveto?**  
+21. [605f6a96] **Dove è allestita la Natività del Presepe Vivente di Oliveto?**  
    ✔ Nella chiesetta di San Rocco · ✘ Nella Rocca di Civitella · Nel Teatro Moderno · Nella stazione di Albergo  
    _Un percorso illuminato da torce conduce alla Natività nella chiesetta di San Rocco._ → `frazioni/oliveto.html`
-24. [8c3a7f97] **Che cosa è stato trovato al Podere Casella, presso Pieve a Maiano?**  
+22. [8c3a7f97] **Che cosa è stato trovato al Podere Casella, presso Pieve a Maiano?**  
    ✔ Strumenti in pietra del Paleolitico · ✘ Un tesoro di monete medievali · Una nave romana · Un mosaico bizantino  
    _Al Podere Casella sono stati trovati strumenti in pietra del Paleolitico._ → `frazioni/pieve-a-maiano.html`
-25. [f229085c] **Di quale imperatore è la moneta d'oro trovata a Pieve a Maiano?**  
+23. [f229085c] **Di quale imperatore è la moneta d'oro trovata a Pieve a Maiano?**  
    ✔ Claudio · ✘ Nerone · Augusto · Traiano  
    _È un aureus dell'imperatore Claudio (41–54 d.C.)._ → `frazioni/pieve-a-maiano.html`
-26. [9ed31f21] **Vicino a quale frazione si trova il podere Spedaluccio?**  
+24. [9ed31f21] **Vicino a quale frazione si trova il podere Spedaluccio?**  
    ✔ Pieve a Maiano · ✘ Albergo · Tegoleto · Ciggiano  
    _Lo Spedaluccio è nei pressi di Pieve a Maiano; in passato era stato attribuito per errore ad Albergo._ → `frazioni/pieve-a-maiano.html`
-27. [91b7689b] **Che cosa si produceva nelle fornaci romane di località I Ponti, a Pieve al Toppo?**  
+25. [91b7689b] **Che cosa si produceva nelle fornaci romane di località I Ponti, a Pieve al Toppo?**  
    ✔ Terra sigillata aretina · ✘ Vetro soffiato · Porcellana · Mattoni rinascimentali  
    _Le fornaci producevano la terra sigillata aretina, la ceramica rossa da mensa della prima età imperiale._ → `frazioni/pieve-al-toppo.html`
-28. [ac4c5d0d] **Da quale anno Ponticino ha una stazione ferroviaria?**  
+26. [ac4c5d0d] **Da quale anno Ponticino ha una stazione ferroviaria?**  
    ✔ 1866 · ✘ 1830 · 1910 · 1955  
    _La stazione di Ponticino è attiva dal 1866._ → `frazioni/ponticino.html`
-29. [21a4f930] **Su quale linea ferroviaria si trova la stazione di Ponticino?**  
+27. [21a4f930] **Su quale linea ferroviaria si trova la stazione di Ponticino?**  
    ✔ Firenze–Roma · ✘ Arezzo–Sinalunga · Siena–Chiusi · Pisa–Firenze  
    _Ponticino è servito dalla ferrovia Firenze–Roma._ → `frazioni/ponticino.html`
-30. [1938aa25] **In quale anno un referendum approvò la fusione tra Laterina e Pergine Valdarno, che riguarda anche Ponticino?**  
+28. [1938aa25] **In quale anno un referendum approvò la fusione tra Laterina e Pergine Valdarno, che riguarda anche Ponticino?**  
    ✔ 2017 · ✘ 1999 · 2009 · 2023  
    _Il referendum del 29–30 ottobre 2017 approvò la fusione con il 53,73% dei voti._ → `frazioni/ponticino.html`
-31. [b126f10e] **Con quali comuni Civitella si divideva Ponticino prima del 2018?**  
+29. [b126f10e] **Con quali comuni Civitella si divideva Ponticino prima del 2018?**  
    ✔ Laterina e Pergine Valdarno · ✘ Bucine e Arezzo · Monte San Savino e Arezzo · Bucine e Montevarchi  
    _Fino al 2017 Ponticino era diviso tra Civitella, Laterina e Pergine Valdarno._ → `frazioni/ponticino.html`
-32. [86a6174e] **Quale villa settecentesca si trova a Spoiano?**  
+30. [86a6174e] **Quale villa settecentesca si trova a Spoiano?**  
    ✔ Villa Pecchioli · ✘ Villa Milloni · Villa Oliveto · Villa del Bosco  
    _Villa Pecchioli è l'edificio simbolo di Spoiano._ → `frazioni/spoiano.html`
-33. [d00da1ec] **Che cosa divenne Villa Pecchioli, a Spoiano, nel 1928?**  
+31. [d00da1ec] **Che cosa divenne Villa Pecchioli, a Spoiano, nel 1928?**  
    ✔ Un asilo infantile · ✘ Un ospedale · Una caserma · Una scuola di musica  
    _Nel 1928 Villa Pecchioli divenne asilo; fu restaurata nel 1981._ → `frazioni/spoiano.html`
-34. [bd1eb40f] **Quale paese è al centro del libro «Un uomo dabbene per davvero» di Giuseppe Renzetti?**  
+32. [bd1eb40f] **Quale paese è al centro del libro «Un uomo dabbene per davvero» di Giuseppe Renzetti?**  
    ✔ Spoiano · ✘ Tuori · Gebbia · Oliveto  
    _Il libro racconta la vita contadina della Valdichiana attraverso la figura del padre dell'autore._ → `frazioni/spoiano.html`
-35. [e7c2c418] **Chi ricostruì la torre di Tegoleto alla fine del Trecento?**  
+33. [e7c2c418] **Chi ricostruì la torre di Tegoleto alla fine del Trecento?**  
    ✔ I fiorentini · ✘ I senesi · I longobardi · I francesi  
    _La torre fu ricostruita dai fiorentini alla fine del Trecento._ → `frazioni/tegoleto.html`
-36. [1086aa45] **A quale ordine passò la fattoria di Tegoleto nel 1783?**  
+34. [1086aa45] **A quale ordine passò la fattoria di Tegoleto nel 1783?**  
    ✔ Ai Cavalieri di Santo Stefano · ✘ Ai Cavalieri di Malta · Ai Gesuiti · Ai Templari  
    _Nel 1783 la fattoria passò all'Ordine dei Cavalieri di Santo Stefano._ → `frazioni/tegoleto.html`
-37. [3e486f3c] **In quale anno nacque il Teatro Moderno di Tegoleto?**  
+35. [3e486f3c] **In quale anno nacque il Teatro Moderno di Tegoleto?**  
    ✔ 1960 · ✘ 1900 · 1925 · 2005  
    _Il TMT nacque nel 1960 come cinema, per iniziativa di alcuni parrocchiani._ → `frazioni/tegoleto.html`
-38. [91b9c111] **Chi gestisce il Teatro Moderno di Tegoleto?**  
+36. [91b9c111] **Chi gestisce il Teatro Moderno di Tegoleto?**  
    ✔ Il Gruppo Teatro La Torre · ✘ La Pro Loco di Civitella · Il Comune di Arezzo · Slow Food Valdichiana  
    _Il teatro è gestito dall'associazione culturale Gruppo Teatro La Torre._ → `frazioni/tegoleto.html`
-39. [7c7d8c24] **In quale anno a Tegoleto arrivò una tappa del Giro d'Italia?**  
+37. [7c7d8c24] **In quale anno a Tegoleto arrivò una tappa del Giro d'Italia?**  
    ✔ 2004 · ✘ 1983 · 1991 · 2018  
    _Il 12 maggio 2004 la quarta tappa del Giro d'Italia arrivò a Tegoleto._ → `frazioni/tegoleto.html`
-40. [c1817196] **Chi vinse la tappa del Giro d'Italia arrivata a Tegoleto nel 2004?**  
+38. [c1817196] **Chi vinse la tappa del Giro d'Italia arrivata a Tegoleto nel 2004?**  
    ✔ Alessandro Petacchi · ✘ Mario Cipollini · Marco Pantani · Giuseppe Saronni  
    _Petacchi vinse davanti allo stabilimento del mobilificio Del Tongo._ → `frazioni/tegoleto.html`
-41. [d7a4e134] **In quale anno fu trovata a Viciomaggio un'urna cineraria etrusca con iscrizione?**  
+39. [d7a4e134] **In quale anno fu trovata a Viciomaggio un'urna cineraria etrusca con iscrizione?**  
    ✔ 1872 · ✘ 1772 · 1922 · 1972  
    _L'urna ellenistica, con l'iscrizione l. prastn[a] nerinal, fu trovata nel 1872._ → `frazioni/viciomaggio.html`
-42. [cdf1c249] **In quale frazione si trova Villa Milloni, con la sua limonaia?**  
+40. [cdf1c249] **In quale frazione si trova Villa Milloni, con la sua limonaia?**  
    ✔ Viciomaggio · ✘ Spoiano · Tuori · Ciggiano  
    _Villa Milloni è la Fattoria di Viciomaggio._ → `frazioni/viciomaggio.html`
-43. [1d45bdf1] **Su quale linea ferroviaria si trova la stazione di Albergo?**  
+41. [1d45bdf1] **Su quale linea ferroviaria si trova la stazione di Albergo?**  
    ✔ Arezzo–Sinalunga · ✘ Firenze–Roma · Faentina · Porrettana  
    _Le stazioni di Albergo e di Civitella-Badia al Pino sono sulla ferrovia Arezzo–Sinalunga._ → `frazioni/albergo.html`
-44. [daf0e244] **Quale strada romana passava da Albergo, secondo l'itinerario del Comune?**  
+42. [daf0e244] **Quale strada romana passava da Albergo, secondo l'itinerario del Comune?**  
    ✔ Una via municipalis unita a un ramo della Cassia · ✘ La via Appia · La via Aurelia · La via Emilia  
    _Da Albergo passava una via municipalis che si univa a un ramo della Cassia diretto in Valdarno._ → `frazioni/albergo.html`
-45. [cc15f4f6] **A quale ordine religioso apparteneva il priorato da cui nacque la chiesa di Santa Maria Assunta a Civitella?**  
+43. [cc15f4f6] **A quale ordine religioso apparteneva il priorato da cui nacque la chiesa di Santa Maria Assunta a Civitella?**  
    ✔ Benedettino · ✘ Francescano · Gesuita · Domenicano  
    _La chiesa fu eretta come priorato benedettino nell'XI secolo._ → `frazioni/civitella.html`
-46. [2a3e555c] **In quale anno fu completata in stile romanico la chiesa di Santa Maria Assunta a Civitella?**  
+44. [2a3e555c] **In quale anno fu completata in stile romanico la chiesa di Santa Maria Assunta a Civitella?**  
    ✔ 1252 · ✘ 1048 · 1652 · 1944  
    _La chiesa fu ultimata in stile romanico nel 1252._ → `frazioni/civitella.html`
-47. [bdcb792b] **Quanti archi ha il portico del Palazzo Pretorio di Civitella?**  
-   ✔ Cinque · ✘ Due · Otto · Dodici  
-   _Il trecentesco Palazzo Pretorio ha un portico a cinque archi._ → `frazioni/civitella.html`
-48. [dedef337] **Per quale scopo il notaio Becattini lasciò il suo palazzo alla Confraternita di Carità?**  
+45. [dedef337] **Per quale scopo il notaio Becattini lasciò il suo palazzo alla Confraternita di Carità?**  
    ✔ Per farne un ospedale per i poveri · ✘ Per farne una scuola · Per farne un teatro · Per farne una caserma  
    _Alla sua morte, nel 1877, lasciò ogni bene per un ospedale dei poveri del paese._ → `frazioni/civitella.html`
-49. [8a7414cd] **Da quale anno Palazzo Becattini è di proprietà del Comune?**  
-   ✔ 1978 · ✘ 1877 · 1917 · 2004  
-   _Nel 1978 l'ospedale è passato in proprietà al Comune._ → `frazioni/civitella.html`
-50. [4881de19] **In quale piazza di Civitella si trova la cisterna medievale?**  
+46. [4881de19] **In quale piazza di Civitella si trova la cisterna medievale?**  
    ✔ Piazza Lazzeri · ✘ Piazza Grande · Piazza della Signoria · Piazza del Campo  
    _La cisterna medievale si trova in piazza Lazzeri, di fronte alla chiesa._ → `frazioni/civitella.html`
-51. [bdf6b86c] **Chi costruì il Saracino, la casa colonica cinquecentesca presso Tuori?**  
+47. [bdf6b86c] **Chi costruì il Saracino, la casa colonica cinquecentesca presso Tuori?**  
    ✔ La Fraternita dei Laici di Arezzo · ✘ I Medici · Il vescovo di Arezzo · L'Ordine di Santo Stefano  
    _Il Saracino fu costruito dalla Fraternita dei Laici di Arezzo._ → `frazioni/tuori.html`
 
-## Borghi minori (15)
+## Borghi minori (14)
 
 1. [cd56501b] **Per che cosa era noto il luogo di Matroia?**  
    ✔ Per una sorgente con acque ritenute medicamentose · ✘ Per una miniera d'argento · Per un castello dei Medici · Per una fornace di vetro  
@@ -397,11 +382,8 @@ Totale: 172 domande.
 14. [b8b3b4f1] **Tra quali frazioni si trova la località Le Caserosse?**  
    ✔ Tra Viciomaggio e Pieve al Toppo · ✘ Tra Cornia e Tuori · Tra Oliveto e Ciggiano · Tra Spoiano e Gebbia  
    _Le Norme del Piano parlano di «località Caserosse (fra Viciomaggio e Pieve al Toppo)»._ → `lavoro-e-sapori.html#industria`
-15. [e4fa556c] **In quale materiale è il cippo romano trovato a Le Fosse?**  
-   ✔ Travertino · ✘ Marmo di Carrara · Bronzo · Granito  
-   _A Le Fosse il Repertorio registra un cippo romano in travertino._ → `frazioni/borghi-minori.html#malpertuso-le-fosse`
 
-## Lavoro e sapori (20)
+## Lavoro e sapori (18)
 
 1. [fbceb884] **Che cosa produce l'azienda CEIA di Viciomaggio?**  
    ✔ Metal detector e sistemi di ispezione · ✘ Cucine componibili · Gioielli · Macchine agricole  
@@ -448,99 +430,69 @@ Totale: 172 domande.
 15. [fbd430a4] **Quale celebre velocista esordì tra i professionisti con la maglia Del Tongo?**  
    ✔ Mario Cipollini · ✘ Alessandro Petacchi · Mark Cavendish · Erik Zabel  
    _Mario Cipollini esordì tra i professionisti con la Del Tongo._ → `lavoro-e-sapori.html#del-tongo`
-16. [32697d3d] **Quante nuove aree industriali prevede il Piano Operativo del 2023?**  
-   ✔ Nessuna, perché il territorio è considerato saturo · ✘ Tre nuove aree · Una grande zona industriale a Cornia · Dieci nuove aree  
-   _Il Piano Operativo non prevede nuova edificazione industriale._ → `lavoro-e-sapori.html#industria`
-17. [5ea5e45a] **Quale di queste è una varietà tradizionale di olivo del territorio?**  
+16. [5ea5e45a] **Quale di queste è una varietà tradizionale di olivo del territorio?**  
    ✔ Moraiolo · ✘ Nocellara · Taggiasca · Coratina  
    _Le varietà tradizionali sono frantoio, leccino, moraiolo e pendolino._ → `lavoro-e-sapori.html#campi`
-18. [a04d9971] **A quale Strada del Vino appartiene il Comune di Civitella?**  
+17. [a04d9971] **A quale Strada del Vino appartiene il Comune di Civitella?**  
    ✔ Strada del Vino Terre di Arezzo · ✘ Strada del Vino Nobile di Montepulciano · Strada del Chianti Classico · Strada del Vino della Costa degli Etruschi  
    _Il Comune è socio della Strada del Vino Terre di Arezzo._ → `lavoro-e-sapori.html#campi`
-19. [92190992] **Dove ha sede la condotta Slow Food Valdichiana?**  
+18. [92190992] **Dove ha sede la condotta Slow Food Valdichiana?**  
    ✔ A Civitella · ✘ A Montepulciano · A Cortona · A Siena  
    _Slow Food Valdichiana ha sede a Civitella in Val di Chiana._ → `lavoro-e-sapori.html#slow-food`
-20. [fd5f1067] **Come si chiama il progetto di educazione alimentare che Slow Food porta nelle scuole del comune?**  
-   ✔ Orto in Condotta · ✘ Scuola in Fattoria · Mangia Sano · Cuochi in Classe  
-   _Orto in Condotta si svolge nelle scuole dell'Istituto comprensivo Martiri di Civitella._ → `lavoro-e-sapori.html#slow-food`
 
-## Feste e sport (26)
+## Feste e sport (18)
 
 1. [d16bdeb0] **In quale frazione si tiene la Sagra della Bistecca?**  
    ✔ Badia al Pino · ✘ Tegoleto · Spoiano · Ciggiano  
    _La Sagra della Bistecca si tiene a Badia al Pino tra fine agosto e inizio settembre._ → `feste-e-associazioni.html#agosto`
-2. [3116bcad] **Chi organizza la Sagra della Bistecca?**  
-   ✔ Il Circolo Ricreativo Olinto Paccinelli · ✘ La Pro Loco di Ciggiano · L'U.S.D. Tegoleto · Slow Food Valdichiana  
-   _La organizza il Circolo Ricreativo Olinto Paccinelli di Badia al Pino._ → `feste-e-associazioni.html#agosto`
-3. [f0be8eb1] **In quale frazione si tiene la Sagra del Crostino?**  
+2. [f0be8eb1] **In quale frazione si tiene la Sagra del Crostino?**  
    ✔ Albergo · ✘ Oliveto · Tuori · Viciomaggio  
    _La Sagra del Crostino si tiene a luglio al campo sportivo di Albergo._ → `feste-e-associazioni.html#luglio`
-4. [4422dd68] **Chi organizza la Sagra del Crostino di Albergo?**  
-   ✔ La Polisportiva Albergo Oliveto · ✘ Il Circolo ARCI di Pieve al Toppo · La Pro Loco di Civitella · La parrocchia di Oliveto  
-   _La Polisportiva Albergo Oliveto, che si occupa anche di ciclismo giovanile._ → `feste-e-associazioni.html#luglio`
-5. [2d7782fe] **In quale frazione si tiene la Sagra dei Baccelli?**  
+3. [2d7782fe] **In quale frazione si tiene la Sagra dei Baccelli?**  
    ✔ Spoiano · ✘ Cornia · Albergo · Pieve a Maiano  
    _La Sagra dei Baccelli si tiene a Spoiano._ → `feste-e-associazioni.html#maggio`
-6. [b7b8833c] **In quale mese si tiene la Sagra dei Baccelli?**  
+4. [b7b8833c] **In quale mese si tiene la Sagra dei Baccelli?**  
    ✔ Maggio · ✘ Settembre · Dicembre · Febbraio  
    _La sagra si svolge su due fine settimana di maggio._ → `feste-e-associazioni.html#maggio`
-7. [35bf8000] **In quale frazione si tiene la Sagra del Cinghiale?**  
+5. [35bf8000] **In quale frazione si tiene la Sagra del Cinghiale?**  
    ✔ Pieve a Maiano · ✘ Badia al Pino · Tegoleto · Spoiano  
    _La organizza il Circolo ricreativo U.S. Pieve a Maiano a fine agosto._ → `feste-e-associazioni.html#agosto`
-8. [18b90576] **In quale frazione si tiene la Festa dell'uva, del vino e dell'olio?**  
+6. [18b90576] **In quale frazione si tiene la Festa dell'uva, del vino e dell'olio?**  
    ✔ Ciggiano · ✘ Pieve al Toppo · Albergo · Tegoleto  
    _La organizza la Pro Loco di Ciggiano a settembre._ → `feste-e-associazioni.html#settembre`
-9. [e1d94892] **Quale edizione della Festa dell'uva di Ciggiano si è tenuta nel 2026?**  
-   ✔ La 49ª · ✘ La 12ª · La 25ª · La 100ª  
-   _Nel 2026 si è tenuta la 49ª edizione; nel 2027 sarà la cinquantesima._ → `feste-e-associazioni.html#settembre`
-10. [3102235c] **A che cosa è dedicata la Sagra della Pesca di Pieve al Toppo?**  
+7. [3102235c] **A che cosa è dedicata la Sagra della Pesca di Pieve al Toppo?**  
    ✔ Al frutto, la pesca · ✘ Alla pesca sportiva · Al pesce di mare · Alla pesca di beneficenza  
    _È una sagra del frutto: l'ultimo giorno c'è persino il motoraduno «Peach and Bikers»._ → `feste-e-associazioni.html#settembre`
-11. [642f3ac8] **Quando si tiene la Fiera del Miele di Pieve al Toppo?**  
+8. [642f3ac8] **Quando si tiene la Fiera del Miele di Pieve al Toppo?**  
    ✔ La prima domenica di ottobre · ✘ Il giorno di Pasqua · A Ferragosto · L'ultima domenica di gennaio  
    _La Fiera del Miele si tiene la prima domenica di ottobre, nel piazzale del Circolo ricreativo._ → `feste-e-associazioni.html#ottobre`
-12. [3a131b5f] **In quale frazione si tiene la Fiera del Miele?**  
+9. [3a131b5f] **In quale frazione si tiene la Fiera del Miele?**  
    ✔ Pieve al Toppo · ✘ Oliveto · Civitella · Spoiano  
    _La organizzano il Comune e Slow Food Valdichiana a Pieve al Toppo._ → `feste-e-associazioni.html#ottobre`
-13. [f220d5ea] **Dove si tiene il Mercato del Cacio?**  
+10. [f220d5ea] **Dove si tiene il Mercato del Cacio?**  
    ✔ Nel borgo di Civitella · ✘ A Tegoleto · A Pieve a Maiano · A Badia al Pino  
    _Il Mercato del Cacio si tiene a maggio in piazza Lazzeri, a Civitella._ → `feste-e-associazioni.html#maggio`
-14. [beec873c] **Che cosa si degusta a Calici sotto la Torre?**  
+11. [beec873c] **Che cosa si degusta a Calici sotto la Torre?**  
    ✔ I vini della Strada del Vino Terre di Arezzo · ✘ Formaggi di fossa · Birre artigianali tedesche · Olio nuovo  
    _Ad agosto nel borgo di Civitella, con i sommelier AIS._ → `feste-e-associazioni.html#agosto`
-15. [2e7141f4] **In quale frazione si tiene la Festa della Rosa?**  
+12. [2e7141f4] **In quale frazione si tiene la Festa della Rosa?**  
    ✔ Viciomaggio · ✘ Oliveto · Cornia · Albergo  
    _La organizza l'A.S.D. Viciomaggio tra fine aprile e inizio maggio._ → `feste-e-associazioni.html#aprile`
-16. [23617f63] **In quale frazione si tiene il RioFest?**  
+13. [23617f63] **In quale frazione si tiene il RioFest?**  
    ✔ Tegoleto · ✘ Ciggiano · Tuori · Spoiano  
    _Il RioFest è un festival di musica e spettacoli nato a Tegoleto nel 2025._ → `feste-e-associazioni.html#settembre`
-17. [8e949863] **In quale anno si è tenuta la prima edizione del RioFest?**  
+14. [8e949863] **In quale anno si è tenuta la prima edizione del RioFest?**  
    ✔ 2025 · ✘ 2010 · 2018 · 2026  
    _La prima edizione si è tenuta il 20 settembre 2025._ → `feste-e-associazioni.html#settembre`
-18. [260bd43e] **Quale associazione organizza il RioFest e Cinema sotto le Stelle?**  
-   ✔ Comunità & Tegoleto · ✘ La Pro Loco di Ciggiano · Il Circolo Paccinelli · Slow Food Valdichiana  
-   _Comunità & Tegoleto APS promuove entrambe le iniziative._ → `feste-e-associazioni.html#ass-tegoleto`
-19. [253c5d99] **Dove si svolgono le proiezioni di Cinema sotto le Stelle?**  
+15. [253c5d99] **Dove si svolgono le proiezioni di Cinema sotto le Stelle?**  
    ✔ In piazza della Chiesa a Tegoleto · ✘ Nella Rocca di Civitella · Allo stadio di Badia al Pino · Al lago della Penna  
    _Le proiezioni gratuite si tengono il mercoledì sera di luglio, dal 2018._ → `feste-e-associazioni.html#luglio`
-20. [4a402844] **In quale frazione si tiene il Mercato dei Sapori e della Terra?**  
+16. [4a402844] **In quale frazione si tiene il Mercato dei Sapori e della Terra?**  
    ✔ Tegoleto · ✘ Civitella · Pieve al Toppo · Oliveto  
    _Si tiene ad aprile in piazza della Chiesa a Tegoleto._ → `feste-e-associazioni.html#aprile`
-21. [044286f0] **In quale periodo si tiene la rassegna L'Olio Novo?**  
+17. [044286f0] **In quale periodo si tiene la rassegna L'Olio Novo?**  
    ✔ Tra novembre e dicembre · ✘ A febbraio · A giugno · A Ferragosto  
    _La rassegna dell'olio nuovo si tiene da metà novembre all'inizio di dicembre._ → `feste-e-associazioni.html#novembre`
-22. [20356cbe] **In quale frazione si tiene il Presepe Vivente?**  
+18. [20356cbe] **In quale frazione si tiene il Presepe Vivente?**  
    ✔ Oliveto · ✘ Ciggiano · Tegoleto · Badia al Pino  
    _Il Presepe Vivente di Oliveto, organizzato dalla parrocchia, si tiene dal 2014._ → `feste-e-associazioni.html#dicembre`
-23. [87a41003] **Chi organizza la Festa al Tegoleto?**  
-   ✔ L'U.S.D. Tegoleto · ✘ La Pro Loco di Civitella · Il Circolo ARCI · La parrocchia di Tegoleto  
-   _La organizza l'U.S.D. Tegoleto con l'associazione Comunità & Tegoleto._ → `feste-e-associazioni.html#giugno`
-24. [2f520af4] **In quale frazione ha sede la Società Filarmonica, la banda del paese?**  
-   ✔ Ciggiano · ✘ Tuori · Gebbia · Matroia  
-   _La Società Filarmonica Ciggiano è iscritta al Registro del Terzo settore._ → `feste-e-associazioni.html#ass-ciggiano`
-25. [909f8526] **Di quale sport si occupa la Polisportiva Albergo Oliveto con i più giovani?**  
-   ✔ Ciclismo · ✘ Rugby · Nuoto · Scherma  
-   _Organizza corsi di avviamento al ciclismo per bambini e ragazzi._ → `feste-e-associazioni.html#ass-albergo-oliveto`
-26. [ce6b6ab5] **In quale anno è stata istituita la Consulta comunale dello Sport?**  
-   ✔ 2022 · ✘ 1988 · 2004 · 2026  
-   _La Consulta dello Sport è stata istituita nel 2022._ → `feste-e-associazioni.html#sport`

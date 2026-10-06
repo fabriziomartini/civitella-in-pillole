@@ -18,6 +18,8 @@ Questo file sostituisce la revisione completa di `revisione-frase-per-frase.md`,
 
 **Amministrazione** ha bisogno di fonti nuove: vedi in fondo.
 
+**Oltre alla verità, la rilevanza.** Per ogni blocco Claude segnala anche i fatti veri ma poco rilevanti: piccole aziende, piccole associazioni, numeri amministrativi. Decide l'utente se tenerli. Nel quiz entrano solo fatti di rilevanza alta o media (vedi `fatti-verificati.md`).
+
 ## Regola di decisione: NON PRESENTE non significa "da togliere"
 - **CONFERMATA:** la frase resta.
 - **SMENTITA:** si corregge secondo la fonte.

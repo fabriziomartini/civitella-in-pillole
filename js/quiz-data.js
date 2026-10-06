@@ -133,19 +133,6 @@ window.QUIZ_DOMANDE = [
 "l": "geografia.html"
 },
 {
-"id": "30bfe3ca",
-"c": "geo",
-"q": "In quale zona climatica è classificato il comune?",
-"a": "Zona E",
-"x": [
-"Zona A",
-"Zona B",
-"Zona F"
-],
-"s": "Civitella è in zona climatica E, con 2.269 gradi giorno.",
-"l": "geografia.html"
-},
-{
 "id": "75a8fc8f",
 "c": "geo",
 "q": "Quale di questi torrenti scorre nel territorio comunale?",
@@ -900,19 +887,6 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/pieve-al-toppo.html"
 },
 {
-"id": "c686859b",
-"c": "frazioni",
-"q": "In quale anno fu progettata la moderna chiesa parrocchiale di Pieve al Toppo?",
-"a": "1967",
-"x": [
-"1288",
-"1806",
-"2005"
-],
-"s": "La chiesa di San Giovanni Battista fu progettata nel 1967; il porticato è del 1977.",
-"l": "frazioni/pieve-al-toppo.html"
-},
-{
 "id": "c2c65bab",
 "c": "frazioni",
 "q": "In quale anno la chiesa di San Biagio a Ciggiano fu elevata a pieve?",
@@ -1040,19 +1014,6 @@ window.QUIZ_DOMANDE = [
 "Assassinio sull'Orient Express"
 ],
 "s": "Muriel Spark è l'autrice de «Gli anni fulgenti di Miss Brodie».",
-"l": "frazioni/oliveto.html"
-},
-{
-"id": "ae843126",
-"c": "frazioni",
-"q": "In quale anno Muriel Spark ricevette la cittadinanza onoraria di Civitella?",
-"a": "2005",
-"x": [
-"1975",
-"1990",
-"2015"
-],
-"s": "La cittadinanza onoraria le fu conferita nel settembre 2005.",
 "l": "frazioni/oliveto.html"
 },
 {
@@ -1381,19 +1342,6 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/civitella.html"
 },
 {
-"id": "bdcb792b",
-"c": "frazioni",
-"q": "Quanti archi ha il portico del Palazzo Pretorio di Civitella?",
-"a": "Cinque",
-"x": [
-"Due",
-"Otto",
-"Dodici"
-],
-"s": "Il trecentesco Palazzo Pretorio ha un portico a cinque archi.",
-"l": "frazioni/civitella.html"
-},
-{
 "id": "dedef337",
 "c": "frazioni",
 "q": "Per quale scopo il notaio Becattini lasciò il suo palazzo alla Confraternita di Carità?",
@@ -1404,19 +1352,6 @@ window.QUIZ_DOMANDE = [
 "Per farne una caserma"
 ],
 "s": "Alla sua morte, nel 1877, lasciò ogni bene per un ospedale dei poveri del paese.",
-"l": "frazioni/civitella.html"
-},
-{
-"id": "8a7414cd",
-"c": "frazioni",
-"q": "Da quale anno Palazzo Becattini è di proprietà del Comune?",
-"a": "1978",
-"x": [
-"1877",
-"1917",
-"2004"
-],
-"s": "Nel 1978 l'ospedale è passato in proprietà al Comune.",
 "l": "frazioni/civitella.html"
 },
 {
@@ -1628,19 +1563,6 @@ window.QUIZ_DOMANDE = [
 "l": "lavoro-e-sapori.html#industria"
 },
 {
-"id": "e4fa556c",
-"c": "borghi",
-"q": "In quale materiale è il cippo romano trovato a Le Fosse?",
-"a": "Travertino",
-"x": [
-"Marmo di Carrara",
-"Bronzo",
-"Granito"
-],
-"s": "A Le Fosse il Repertorio registra un cippo romano in travertino.",
-"l": "frazioni/borghi-minori.html#malpertuso-le-fosse"
-},
-{
 "id": "fbceb884",
 "c": "economia",
 "q": "Che cosa produce l'azienda CEIA di Viciomaggio?",
@@ -1836,19 +1758,6 @@ window.QUIZ_DOMANDE = [
 "l": "lavoro-e-sapori.html#del-tongo"
 },
 {
-"id": "32697d3d",
-"c": "economia",
-"q": "Quante nuove aree industriali prevede il Piano Operativo del 2023?",
-"a": "Nessuna, perché il territorio è considerato saturo",
-"x": [
-"Tre nuove aree",
-"Una grande zona industriale a Cornia",
-"Dieci nuove aree"
-],
-"s": "Il Piano Operativo non prevede nuova edificazione industriale.",
-"l": "lavoro-e-sapori.html#industria"
-},
-{
 "id": "5ea5e45a",
 "c": "economia",
 "q": "Quale di queste è una varietà tradizionale di olivo del territorio?",
@@ -1888,19 +1797,6 @@ window.QUIZ_DOMANDE = [
 "l": "lavoro-e-sapori.html#slow-food"
 },
 {
-"id": "fd5f1067",
-"c": "economia",
-"q": "Come si chiama il progetto di educazione alimentare che Slow Food porta nelle scuole del comune?",
-"a": "Orto in Condotta",
-"x": [
-"Scuola in Fattoria",
-"Mangia Sano",
-"Cuochi in Classe"
-],
-"s": "Orto in Condotta si svolge nelle scuole dell'Istituto comprensivo Martiri di Civitella.",
-"l": "lavoro-e-sapori.html#slow-food"
-},
-{
 "id": "d16bdeb0",
 "c": "feste",
 "q": "In quale frazione si tiene la Sagra della Bistecca?",
@@ -1914,19 +1810,6 @@ window.QUIZ_DOMANDE = [
 "l": "feste-e-associazioni.html#agosto"
 },
 {
-"id": "3116bcad",
-"c": "feste",
-"q": "Chi organizza la Sagra della Bistecca?",
-"a": "Il Circolo Ricreativo Olinto Paccinelli",
-"x": [
-"La Pro Loco di Ciggiano",
-"L'U.S.D. Tegoleto",
-"Slow Food Valdichiana"
-],
-"s": "La organizza il Circolo Ricreativo Olinto Paccinelli di Badia al Pino.",
-"l": "feste-e-associazioni.html#agosto"
-},
-{
 "id": "f0be8eb1",
 "c": "feste",
 "q": "In quale frazione si tiene la Sagra del Crostino?",
@@ -1937,19 +1820,6 @@ window.QUIZ_DOMANDE = [
 "Viciomaggio"
 ],
 "s": "La Sagra del Crostino si tiene a luglio al campo sportivo di Albergo.",
-"l": "feste-e-associazioni.html#luglio"
-},
-{
-"id": "4422dd68",
-"c": "feste",
-"q": "Chi organizza la Sagra del Crostino di Albergo?",
-"a": "La Polisportiva Albergo Oliveto",
-"x": [
-"Il Circolo ARCI di Pieve al Toppo",
-"La Pro Loco di Civitella",
-"La parrocchia di Oliveto"
-],
-"s": "La Polisportiva Albergo Oliveto, che si occupa anche di ciclismo giovanile.",
 "l": "feste-e-associazioni.html#luglio"
 },
 {
@@ -2002,19 +1872,6 @@ window.QUIZ_DOMANDE = [
 "Tegoleto"
 ],
 "s": "La organizza la Pro Loco di Ciggiano a settembre.",
-"l": "feste-e-associazioni.html#settembre"
-},
-{
-"id": "e1d94892",
-"c": "feste",
-"q": "Quale edizione della Festa dell'uva di Ciggiano si è tenuta nel 2026?",
-"a": "La 49ª",
-"x": [
-"La 12ª",
-"La 25ª",
-"La 100ª"
-],
-"s": "Nel 2026 si è tenuta la 49ª edizione; nel 2027 sarà la cinquantesima.",
 "l": "feste-e-associazioni.html#settembre"
 },
 {
@@ -2122,19 +1979,6 @@ window.QUIZ_DOMANDE = [
 "l": "feste-e-associazioni.html#settembre"
 },
 {
-"id": "260bd43e",
-"c": "feste",
-"q": "Quale associazione organizza il RioFest e Cinema sotto le Stelle?",
-"a": "Comunità & Tegoleto",
-"x": [
-"La Pro Loco di Ciggiano",
-"Il Circolo Paccinelli",
-"Slow Food Valdichiana"
-],
-"s": "Comunità & Tegoleto APS promuove entrambe le iniziative.",
-"l": "feste-e-associazioni.html#ass-tegoleto"
-},
-{
 "id": "253c5d99",
 "c": "feste",
 "q": "Dove si svolgono le proiezioni di Cinema sotto le Stelle?",
@@ -2185,57 +2029,5 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Il Presepe Vivente di Oliveto, organizzato dalla parrocchia, si tiene dal 2014.",
 "l": "feste-e-associazioni.html#dicembre"
-},
-{
-"id": "87a41003",
-"c": "feste",
-"q": "Chi organizza la Festa al Tegoleto?",
-"a": "L'U.S.D. Tegoleto",
-"x": [
-"La Pro Loco di Civitella",
-"Il Circolo ARCI",
-"La parrocchia di Tegoleto"
-],
-"s": "La organizza l'U.S.D. Tegoleto con l'associazione Comunità & Tegoleto.",
-"l": "feste-e-associazioni.html#giugno"
-},
-{
-"id": "2f520af4",
-"c": "feste",
-"q": "In quale frazione ha sede la Società Filarmonica, la banda del paese?",
-"a": "Ciggiano",
-"x": [
-"Tuori",
-"Gebbia",
-"Matroia"
-],
-"s": "La Società Filarmonica Ciggiano è iscritta al Registro del Terzo settore.",
-"l": "feste-e-associazioni.html#ass-ciggiano"
-},
-{
-"id": "909f8526",
-"c": "feste",
-"q": "Di quale sport si occupa la Polisportiva Albergo Oliveto con i più giovani?",
-"a": "Ciclismo",
-"x": [
-"Rugby",
-"Nuoto",
-"Scherma"
-],
-"s": "Organizza corsi di avviamento al ciclismo per bambini e ragazzi.",
-"l": "feste-e-associazioni.html#ass-albergo-oliveto"
-},
-{
-"id": "ce6b6ab5",
-"c": "feste",
-"q": "In quale anno è stata istituita la Consulta comunale dello Sport?",
-"a": "2022",
-"x": [
-"1988",
-"2004",
-"2026"
-],
-"s": "La Consulta dello Sport è stata istituita nel 2022.",
-"l": "feste-e-associazioni.html#sport"
 }
 ];
