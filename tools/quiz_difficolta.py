@@ -342,4 +342,8 @@ CODICI = {
     "ff1c509f": "-d+",  # Che cosa prevede il Piano Strutturale per il borgo-fattoria e la villa
     "2e9fd6ab": "-v+",  # Di che cosa fu dotata la chiesa di San Martino in Poggio quando fu amp
     "585551af": "-v=",  # Quale altro luogo è destinato a diventare un parco archeologico insiem
+    "d46d4a3e": "-n+",  # Come morì Mario Mannelli, ricordato da un monumento a Viciomaggio?
+    "dc8e4d56": "Pv+",  # Quale Madonna era venerata a Matroia, legata al culto delle acque?
+    "1a6af485": "Pv+",  # Sopra quale strada sorse il castello di Montarfoni?
+    "396551e5": "Pv+",  # Di quale bottega è la Madonna con il Bambino del 1522 nel tabernacolo 
 }

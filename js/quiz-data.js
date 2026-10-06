@@ -4271,5 +4271,61 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Il Piano Strutturale prevede un parco archeologico con campo scuola di scavo a Poggio Castellare e Gaenne.",
 "l": "frazioni/borghi-minori.html#poggio-castellare"
+},
+{
+"id": "d46d4a3e",
+"c": "1944",
+"d": 2,
+"q": "Come morì Mario Mannelli, ricordato da un monumento a Viciomaggio?",
+"a": "Fu ucciso per rappresaglia fascista nel 1944",
+"x": [
+"Cadde nella battaglia del Toppo",
+"Morì nel bombardamento della rocca",
+"Fu ucciso nella Grande Guerra"
+],
+"s": "Mario Mannelli fu ucciso dai fascisti nel 1944; sulla data esatta le fonti non concordano.",
+"l": "frazioni/viciomaggio.html"
+},
+{
+"id": "dc8e4d56",
+"c": "borghi",
+"d": 3,
+"q": "Quale Madonna era venerata a Matroia, legata al culto delle acque?",
+"a": "La Madonna del Latte",
+"x": [
+"La Madonna del Conforto",
+"La Madonna della Costarella",
+"La Madonna di Mercatale"
+],
+"s": "A Matroia era venerata una Madonna del Latte; l'acqua della sorgente si attingeva per i neonati.",
+"l": "frazioni/borghi-minori.html#matroia"
+},
+{
+"id": "1a6af485",
+"c": "borghi",
+"d": 3,
+"q": "Sopra quale strada sorse il castello di Montarfoni?",
+"a": "La strada Regia Aretina",
+"x": [
+"La via Cassia",
+"La via Francigena",
+"La Via Vecchia Senese"
+],
+"s": "Il castello sorse sopra la strada Regia Aretina; ne restano la porta e tratti delle mura.",
+"l": "frazioni/borghi-minori.html#montarfoni"
+},
+{
+"id": "396551e5",
+"c": "frazioni",
+"d": 3,
+"q": "Di quale bottega è la Madonna con il Bambino del 1522 nel tabernacolo presso la Porta Senese di Civitella?",
+"a": "Quella di Giovanni della Robbia",
+"x": [
+"Quella di Donatello",
+"Quella di Luca Signorelli",
+"Quella del Sansovino"
+],
+"s": "È una terracotta invetriata del 1522 della bottega di Giovanni della Robbia.",
+"l": "frazioni/civitella.html"
 }
 ];

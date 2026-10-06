@@ -108,7 +108,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | A Civitella, in via Martiri di Civitella, l'associazione «Civitella Ricorda» ha allestito la Sala della Memoria (reperti delle vittime, fotografie del paese prima e dopo, testimonianze, libri, videocassette, residuati bellici) | ToscanaNovecento | R | alta |
 | A Civitella ci sono la Cappella dei Martiri e il monumento «Pietà del giugno 1944», sul muro accanto alla chiesa | ToscanaNovecento | R | alta |
 | Ogni anno si tiene la Marcia per la pace da Civitella a San Pancrazio, organizzata con il comune di Bucine | Wikipedia | R | alta |
-| Il 29 marzo 1944 a Viciomaggio una strage fascista uccise Mario Mannelli | ToscanaNovecento (da confermare) | ⚠ | alta |
+| A Viciomaggio fu ucciso dai fascisti Mario Mannelli, ricordato da un monumento (data in divergenza, vedi sezione 9) | Repertorio (ME013), ToscanaNovecento | R | alta |
 | Durante la guerra gli abitanti di Viciomaggio si rifugiavano in un cunicolo con una stanza sotterranea lungo il Fosso del Riolo, verso Malpertuso | Repertorio, ToscanaNovecento | N | alta |
 
 ---
@@ -285,6 +285,12 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | **Malpertuso e Le Fosse:** edicola (B026) e croce di via Malpertuso (B038); a Le Fosse reperti sporadici di età preistorica e romana (S060) | Repertorio | R | media |
 | **Montarfoni:** mulino (M005) e Maestà (B049) censiti; le NTA (art. 95) prevedono un «polo di eccellenza territoriale» nel borgo-fattoria e nella villa | Repertorio, NTA | R | media |
 | **San Martino in Poggio:** nel 1726 la chiesa fu ampliata e «dotata di due nuovi altari»; filari di cipressi censiti (FI008) | Repertorio (H241b) | R | media |
+| **Matroia:** «Una Madonna del Latte era appunto venerata alla Matroia»; «è probabile che il luogo fosse già frequentato nell'antichità per il culto delle acque» | Repertorio (S036) | R | media |
+| **Montarfoni:** sorto «sopra la strada Regia Aretina»; restano «i resti dell'antica porta di accesso ed alcuni tratti della cinta muraria»; «ebbe chiesa parrocchiale di S. Andrea» | Repertorio (H240a) | R | media |
+| **Dorna:** la chiesa dei Santi Vito e Nicola è ricordata come oratorio, già in rovina, nel 1806, e poi trasformata in casa colonica; l'insediamento fu «tenuto tra l'VIII e il X secolo dai patroni della Pieve al Toppo» | Repertorio (A001d, S066) | R | media |
+| **Gaenne:** pianoro ellissoidale, nome «forse di origine etrusca», castello «sorto a controllo dell'itinerario di collegamento fra Valdichiana e Valdarno»; dal cassero maiolica arcaica e tubi fittili (forse una cisterna) | Repertorio (S023) | R | media |
+| **Civitella:** presso Porta Senese un tabernacolo accoglie una «Madonna con il Bambino» del 1522, terracotta invetriata della bottega di Giovanni della Robbia | Discover Arezzo | W | media |
+| **Gaenne:** «Nel 1385 finì sotto il dominio di Firenze che ne ordinò la distruzione» | Itinerario 1 del Comune | R | media |
 | **Parchi archeologici** (NTA art. 49, ambito V5.2): Castellare di Oliveto, Poggio Castellare e Gaenne | NTA | R | media |
 | **Montarfoni:** nome da «Monte di Arfo», antico proprietario germanico; castello aggregato a Civitella nel 1774; borgo-fattoria con villa seicentesca e limonaia | Itinerari del Comune, Repertorio (H240a) | R | alta |
 | **Dorna:** castello longobardo (VIII–X secolo); *castrum Durna* nel 1181; torre ricordata dal 1198; chiesa dei Santi Vito e Nicola (1182); dei Riccardi nel XVIII secolo e delle suore Montalve dal 1814 | Repertorio (A001a, A001d); date confermate in R8 | R | alta |
@@ -375,6 +381,8 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 | Chiesa di Sant'Andrea a Oliveto, 1933 | Discover Arezzo: chiesa «rifatta nel 1933 in stile neomedievale»; Repertorio: «il campanile è del 1933» | tutte e due le versioni |
 | Titolo della chiesa di Tuori | Diocesi: Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
 | Altitudine del capoluogo | 500 m (testo di Wikipedia, ToscanaNovecento), 525 m (scheda di Wikipedia), 600 m (guida turistica) | «circa 500 m» |
+| Data dell'uccisione di Mario Mannelli | ToscanaNovecento: «il 29 marzo 1944 avvenne una strage di matrice fascista»; Repertorio, scheda del monumento (ME013): «ucciso per rappresaglia fascista il 29 maggio 1944» | tutte e due le date |
+| Rocca di Civitella dopo il 1248 | Itinerario 2 del Comune: «ristrutturata dopo la distruzione del 1252»; Wikipedia: «nel 1272 Guglielmino la ricostruì»; Repertorio: nel 1248 Guglielmino ne potenziò le mura | tutte e tre, attribuite |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
 
 ---
@@ -391,7 +399,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 **Date sbagliate o senza fonte**
 - Podesteria del 1348 (è del 1385).
 - «Civitella del Vescovo».
-- Ricostruzione del 1272.
+- Ricostruzione del 1272: ora trovata in Wikipedia (giro N1 del 6/10/2026); sul sito è attribuita, vedi le divergenze.
 - Feudo di Giovanni Acuto (1384).
 - Guido Tarlati a Oliveto nel 1318.
 
@@ -450,11 +458,21 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 - Titolo di San Bartolomeo «aggiunto nel Cinquecento»: non confermato. Il Repertorio dice invece che la chiesa è dedicata ai santi Bartolomeo, Martino e Filippo.
 - Case coloniche Bellavista, Casetto (Casa del Moro) e San Lorentino «intorno a Badia al Pino»: le schede le collocano a Bellavista (Dorna), Ca' del Moro e Loretino. Tolte dalla pagina, anche per la scarsa rilevanza.
 
+**Viciomaggio, Montarfoni, Gaenne (giro N3 del 6/10/2026)**
+- Mario Mannelli: N3 (scheda del monumento) dà il 29 maggio 1944, N1 (ToscanaNovecento) il 29 marzo 1944. Sul sito ci sono tutte e due le date.
+- Montarfoni: «antico tratto di strada romana» e «parco terrazzato» non sono nelle fonti (il Repertorio dice che il castello sorse «sopra la strada Regia Aretina»); porta e mura «inglobate nella villa» non è scritto. Tolti o riformulati.
+- San Martino di Loreto «prima chiesa di San Martino in Poggio»: la fonte non lo dice. Riformulato.
+- Gaenne bombardato nella Seconda guerra mondiale: non è nel Repertorio; viene dalla scheda del Comune ed è attribuito.
+
 **Storia e borghi (revisione R8)**
 - Tribbio «sorse in età romana»: il Repertorio scrive «romana?». Corretto in «forse di età romana».
 - «Sepolcro etrusco sotto il paese» di Gaenne (S016): NotebookLM lo afferma, ma la citazione dice solo «resti di un antico sepolcro con oggetti e pezzi di tufo vulcanico», senza epoca né luogo. Non usato.
 - Eccidio «uno degli episodi più gravi delle stragi naziste in Toscana»: la formula non è nelle fonti. Tolta da storia.html.
 - Rocca distrutta «negli stessi mesi» dell'eccidio: le fonti non danno la data del bombardamento. Corretto con il motivo documentato (il comando tedesco nella rocca).
+
+**Spunti del video del Comune cercati nelle fonti scritte (N1, 6/10/2026)**
+- 917 Berengario e Uguccione; statuti di dogana del 1461; Sala della Memoria nel 2004; Centro di Documentazione dal 2001 con fondi UE; rocca del VI-VII secolo: NON PRESENTI. Non usati.
+- Madonna «in maiolica sulla Porta Senese»: imprecisa. È una terracotta invetriata del 1522 della bottega di Giovanni della Robbia, nel tabernacolo vicino alla porta (Discover Arezzo). Aggiunta così.
 
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).

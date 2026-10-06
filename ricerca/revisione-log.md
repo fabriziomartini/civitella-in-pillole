@@ -188,3 +188,31 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 | 8 | CONFERMATA (H241b) | San Martino in Poggio a R |
 | 9 | PARZIALE: l'ordine di distruzione non è nel Repertorio | in borghi-minori.html attribuito alla scheda del Comune; riformulata la domanda del quiz |
 | 10 | CONFERMATA: «M011 L'Infernaccio del mulino di Oliveto» | rimesso nella pagina di Oliveto con il nome della scheda; corretto in Patrimonio |
+
+## Borghi minori e Viciomaggio: giro N3 del 6/10/2026
+
+| N | Esito | Azione |
+|---|---|---|
+| 1 Matroia, Madonna del Latte e culto delle acque | CONFERMATA (S036) | invariato |
+| 2 Montarfoni, porta e mura «inglobate nella villa» | PARZIALE | riformulato con la citazione |
+| 3 Montarfoni, Sant'Andrea, strada romana, limonaia, parco | PARZIALE: c'è Sant'Andrea («ebbe») e la strada Regia Aretina | tolti «strada romana» e «parco terrazzato» (anche in Patrimonio) |
+| 4 Dorna, patroni della Pieve al Toppo | CONFERMATA | invariato |
+| 5 Dorna, chiesa poi oratorio e casa colonica | CONFERMATA (1806) | aggiunto il 1806 |
+| 6 San Martino di Loreto | PARZIALE: «prima chiesa» non c'è | riformulato |
+| 7 Gaenne, pianoro e nome | CONFERMATA (S023) | invariato |
+| 8 Gaenne, maiolica e bombardamento | PARZIALE: il bombardamento non è nel Repertorio | attribuito alla scheda del Comune |
+| 9 Mannelli, 29 marzo 1944 | PARZIALE: la data è il **29 maggio 1944** (ME013) | corretto su viciomaggio.html |
+
+## Spunti del video e Mannelli: giro N1 del 6/10/2026 (video deselezionato)
+
+| N | Esito | Azione |
+|---|---|---|
+| 1 917 Berengario | NON PRESENTE | non usato |
+| 2 1252 Cacciaconti, ricostruzione | PARZIALE: Comune «ristrutturata dopo la distruzione del 1252»; Wikipedia «nel 1272 Guglielmino la ricostruì» | aggiunto in storia.html con le fonti; Cacciaconti non usato |
+| 3 rocca VI-VII secolo, quadrangolare | PARZIALE: quadrangolare è solo il torrione | non usato |
+| 4 statuti del 1461 | NON PRESENTE | non usato |
+| 5 Sala della Memoria 2004 | PARZIALE: manca l'anno | invariato |
+| 6 Villa Oliveto 2001, UE | PARZIALE: c'è solo il 1980 | invariato |
+| 7 Madonna robbiana | PARZIALE: terracotta invetriata del 1522, bottega di Giovanni della Robbia, nel tabernacolo vicino alla Porta Senese | aggiunta su civitella.html |
+| 8 Gaenne, ordine di distruzione | CONFERMATO (itinerario 1 del Comune) | fonte precisata |
+| 9 Mannelli 29 marzo 1944 | CONFERMATO da ToscanaNovecento; N3 dà 29 maggio | divergenza: tutte e due le date |

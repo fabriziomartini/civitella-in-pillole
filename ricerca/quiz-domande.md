@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 305 domande.
+Totale: 309 domande.
 
 ## Geografia (42)
 
@@ -284,7 +284,7 @@ Totale: 305 domande.
    ✔ Nove · ✘ Tre · Quindici · Venti  
    _Il Repertorio parla di nove piccoli comuni aggregati nel 1774; tra questi gli itinerari del Comune ricordano Ciggiano, Viciomaggio e Badia al Pino._ → `storia.html`
 
-## Il 1944 (27)
+## Il 1944 (28)
 
 1. [3e37b695] ●●○ `Nv-` **In quale data avvenne la strage nazista di Civitella?**  
    ✔ 29 giugno 1944 · ✘ 25 aprile 1945 · 8 settembre 1943 · 4 giugno 1944  
@@ -367,8 +367,11 @@ Totale: 305 domande.
 27. [67e04d32] ●○○ `-n=` **Perché la rocca di Civitella fu bombardata dagli Alleati?**  
    ✔ Perché al suo interno si era installato il comando tedesco · ✘ Per errore, scambiandola per un ponte · Perché era un deposito di munizioni italiano · Per colpire la ferrovia vicina  
    _La rocca, da secoli simbolo del paese, fu distrutta da un bombardamento alleato perché vi si era installato il comando tedesco._ → `storia.html`
+28. [d46d4a3e] ●●○ `-n+` **Come morì Mario Mannelli, ricordato da un monumento a Viciomaggio?**  
+   ✔ Fu ucciso per rappresaglia fascista nel 1944 · ✘ Cadde nella battaglia del Toppo · Morì nel bombardamento della rocca · Fu ucciso nella Grande Guerra  
+   _Mario Mannelli fu ucciso dai fascisti nel 1944; sulla data esatta le fonti non concordano._ → `frazioni/viciomaggio.html`
 
-## Frazioni (93)
+## Frazioni (94)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -649,8 +652,11 @@ Totale: 305 domande.
 93. [b72de4ff] ●●● `Nv+` **In quale anno fu restaurata, con decorazioni pittoriche, la parte posteriore della Villa di Viciomaggio?**  
    ✔ 1868 · ✘ 1768 · 1836 · 1968  
    _La villa è settecentesca; la parte posteriore fu restaurata nel 1868, la limonaia è del 1836._ → `frazioni/viciomaggio.html`
+94. [396551e5] ●●● `Pv+` **Di quale bottega è la Madonna con il Bambino del 1522 nel tabernacolo presso la Porta Senese di Civitella?**  
+   ✔ Quella di Giovanni della Robbia · ✘ Quella di Donatello · Quella di Luca Signorelli · Quella del Sansovino  
+   _È una terracotta invetriata del 1522 della bottega di Giovanni della Robbia._ → `frazioni/civitella.html`
 
-## Borghi minori (33)
+## Borghi minori (35)
 
 1. [cd56501b] ●○○ `-d=` **Per che cosa era noto il luogo di Matroia?**  
    ✔ Per una sorgente con acque ritenute medicamentose · ✘ Per una miniera d'argento · Per un castello dei Medici · Per una fornace di vetro  
@@ -751,6 +757,12 @@ Totale: 305 domande.
 33. [585551af] ●●○ `-v=` **Quale altro luogo è destinato a diventare un parco archeologico insieme a Poggio Castellare?**  
    ✔ Il castello di Gaenne · ✘ Matroia · Tribbio · Dorna  
    _Il Piano Strutturale prevede un parco archeologico con campo scuola di scavo a Poggio Castellare e Gaenne._ → `frazioni/borghi-minori.html#poggio-castellare`
+34. [dc8e4d56] ●●● `Pv+` **Quale Madonna era venerata a Matroia, legata al culto delle acque?**  
+   ✔ La Madonna del Latte · ✘ La Madonna del Conforto · La Madonna della Costarella · La Madonna di Mercatale  
+   _A Matroia era venerata una Madonna del Latte; l'acqua della sorgente si attingeva per i neonati._ → `frazioni/borghi-minori.html#matroia`
+35. [1a6af485] ●●● `Pv+` **Sopra quale strada sorse il castello di Montarfoni?**  
+   ✔ La strada Regia Aretina · ✘ La via Cassia · La via Francigena · La Via Vecchia Senese  
+   _Il castello sorse sopra la strada Regia Aretina; ne restano la porta e tratti delle mura._ → `frazioni/borghi-minori.html#montarfoni`
 
 ## Lavoro e sapori (25)
 
