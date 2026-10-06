@@ -106,3 +106,45 @@
   - Squadra Del Tongo 1982–1991: Giro d'Italia 1983 (Saronni) e 1991 (Chioccioli); 29 tappe del Giro; Milano-Sanremo 1983; Lombardia 1982 e 1986; debutto di Cipollini; anche Fondriest, Ballerini, Piasecki e Baronchelli.
   - Giro d'Italia 2004: 4ª tappa con arrivo a Tegoleto, vinta da Petacchi.
 - **Altro:** Consulta comunale dello Sport istituita con delibera del Consiglio n. 3 del 29/03/2022; raduno di auto e moto storiche "Giostre del Toppo", 3ª edizione nel 2026.
+
+## Prompt 5: associazioni
+Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11 società), pagine del Comune sulle attività sportive, articoli sulle sagre e sul RioFest, Repertorio dei beni storici (scheda TE001).
+
+| Associazione | Tipo | Frazione | Attività / eventi |
+|---|---|---|---|
+| Pro Loco Civitella in Val di Chiana APS | Pro Loco | Civitella | Fiera del Fiore / Festa delle Palme (con il Comune) |
+| Pro Loco di Ciggiano APS | Pro Loco | Ciggiano | Festa dell'uva, del vino e dell'olio |
+| Comunità & Tegoleto APS | APS | Tegoleto | RioFest; con l'USD Tegoleto la Festa al Tegoleto; Cinema sotto le stelle |
+| Slow Food Val di Chiana APS | APS, condotta | sede a Civitella | Mercato del Cacio, Mercato dei Sapori e della Terra (Tegoleto), Calici sotto la Torre, Fiera del Miele, Olio Novo; Orto in Condotta nelle scuole |
+| Società Filarmonica Ciggiano APS | banda | Ciggiano | eventi non presenti nelle fonti |
+| Gruppo Teatro La Torre | associazione teatrale | Tegoleto | gestisce il Teatro Moderno: stagione da ottobre a marzo e spettacoli amatoriali (Repertorio, TE001); **non è nel RUNTS** |
+| Circolo Ricreativo Olinto Paccinelli APS (C.R.O.P.) | circolo | Badia al Pino | Sagra della Bistecca |
+| ARCI Pieve al Toppo APS | circolo ARCI | Pieve al Toppo | Sagra della Pesca; "Festa Siner Week" (nome ancora da verificare) |
+| Circolo MCL Spoiano APS | circolo MCL | Spoiano | Sagra dei Baccelli, con la Polisportiva Spoiano |
+| Circolo Sportivo Viciomaggio APS | circolo | Viciomaggio | eventi non presenti nelle fonti |
+| Coordinamento ACLI Circolo Sportivo Tegoleto APS | circolo ACLI | Tegoleto | eventi non presenti nelle fonti |
+| U.S. Pieve a Maiano APS | circolo e società sportiva | Pieve a Maiano | Sagra del Cinghiale |
+| Centro di aggregazione sociale La Torre APS | APS | **frazione non indicata** | attività non presenti nelle fonti |
+| Gruppo Fratres MonteCivi ODV | donatori di sangue | sede nel comune | partner del RioFest |
+| Comitato dei cittadini per la salute e l'ambiente | altro ETS | non indicata | — |
+| Animali Senza Casa Arezzo ODV | ODV | sede nel comune | animali abbandonati (dedotto dal nome) |
+| Amici di Moba ODV, Consulta per il futuro ODV, Sentieri in Comune APS, Archetypus APS | ODV / APS | non indicata | **attività non presenti nelle fonti** |
+| Cooperativa sociale L'Arcobaleno | impresa sociale | — | **in liquidazione**: non va sul sito |
+| Polisportiva Albergo Oliveto ASD | sport | Albergo e Oliveto | ciclismo giovanile; Sagra del Crostino / Festa dello Sport; navetta per il Presepe di Oliveto |
+| Polisportiva Spoiano | sport | Spoiano | Sagra dei Baccelli |
+| Società sportive della Consulta | sport | — | vedi prompt 4 |
+
+**Cautele:**
+- **Centro La Torre APS e Gruppo Teatro La Torre:** nessuna fonte li collega. Sul sito vanno presentati come due enti distinti, e al Centro non va attribuita una frazione.
+- **Fratres "MonteCivi":** che operi tra Civitella e Monte San Savino si ricava solo dal nome. Sul sito basta "donatori di sangue".
+- **Le attività di Animali Senza Casa** si ricavano solo dal nome: si può dire "volontariato per gli animali", senza altri dettagli.
+- **Fogliarina e La Casina** sono località, non frazioni. Fogliarina va collegata a Badia al Pino solo se lo dice una fonte. Per ora si scrive "località Fogliarina" e "località La Casina".
+- **L'Artefice e DOG – Dentro gli orizzonti giovanili** compaiono solo tra i partner del RioFest e la loro sede non è indicata, quindi non vanno nell'elenco delle associazioni del comune.
+- **Misericordia:** non compare nelle fonti. Non basta per affermare che non esista, quindi sul sito non va scritto niente in un senso o nell'altro.
+- **Mercato dei Sapori e della Terra a Tegoleto:** è un evento nuovo, da aggiungere a Tegoleto, organizzato da Slow Food.
+- **Cinema sotto le stelle** (Comunità & Tegoleto): è nuovo; va citato senza date.
+
+**Da correggere sul sito (in aggiunta al prompt 3):**
+- Tegoleto: aggiungere il Gruppo Teatro La Torre, che gestisce il Teatro Moderno, e il Mercato dei Sapori e della Terra.
+- Spoiano: la Sagra dei Baccelli è della Polisportiva con il Circolo MCL.
+- Pieve a Maiano: la Sagra del Cinghiale è dell'U.S. Pieve a Maiano.
