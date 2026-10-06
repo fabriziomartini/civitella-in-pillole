@@ -195,7 +195,7 @@ Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11
   - Il numero dell'edizione non è indicato.
   - Fonti: sagretoscane.com/sagre/ar/civitella-in-val-di-chiana/festa-della-rosa.html e la pagina Facebook ufficiale FestaDellaRosaOfficial.
   - Chiude anche il punto "eventi non presenti nelle fonti" per l'ASD Viciomaggio.
-- **Cinema sotto le Stelle, Tegoleto: CONFERMATO.** Dettagli da Arezzo24, "Tegoleto, la programmazione di Cinema sotto le stelle":
+- **Cinema sotto le Stelle, Tegoleto: CONFERMATO.** Dettagli da Arezzo24, "Tegoleto, la programmazione di Cinema sotto le stelle" (https://www.arezzo24.net/notizie/eventi-e-cultura/tegoleto-la-programmazione-di-cinema-sotto-le-stelle/):
   - IX edizione nel 2026, **nata nel 2018**: i conti tornano, 2018–2026 sono nove edizioni.
   - Si tiene in Piazza della Chiesa di Tegoleto, il mercoledì sera di luglio (15, 22 e 29 luglio 2026), a ingresso gratuito.
   - La promuove l'**Associazione Comunità & Tegoleto APS**, con il patrocinio del Comune e in collaborazione con il Cinema Eden – Officine della Cultura.
