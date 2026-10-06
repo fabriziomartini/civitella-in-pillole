@@ -19,7 +19,7 @@ Questo file è la base certa del sito (e del futuro quiz): un fatto per riga, co
 - Un fatto «non presente» in un notebook non è falso. Si toglie solo se nessuna fonte lo conferma (vedi la regola in `revisione-ridotta.md`).
 - **Aziende:** sul sito e nel quiz si nominano solo aziende con un ruolo riconosciuto nel territorio (grandi aziende come CEIA e Chimet, aziende storiche come la Del Tongo, o aziende citate nei documenti del Comune o del Piano). Non basta che compaiano in una fonte.
 
-Ultimo aggiornamento: 6 ottobre 2026 (verifica sistematica del quiz: aggiunti i dati già confermati nei registri di revisione).
+Ultimo aggiornamento: 6 ottobre 2026 (verifica sistematica del quiz e delle 25 pagine: aggiunti i dati confermati nei registri e nelle fonti originali, sezione 8c).
 
 ---
 
@@ -167,7 +167,7 @@ Ultimo aggiornamento: 6 ottobre 2026 (verifica sistematica del quiz: aggiunti i 
 | Centro storico censito dal Piano Strutturale (N002), che ne prevede la valorizzazione insieme ai complessi religiosi | Repertorio, NTA art. 95 | R | alta |
 | C'è la fonte-cisterna di Albergo | Repertorio (F004) | R | alta |
 | Non ha una parrocchia propria: è solo una deduzione, perché Albergo non compare nell'annuario; tolto dal sito | — | ⚠ | bassa |
-| Il campetto polivalente a uso libero è in via Morandi | Centritalia News | R | bassa |
+| In via Morandi sono in corso i lavori per un campetto polivalente a uso libero | Centritalia News | R | bassa |
 
 ### Badia al Pino
 | Fatto | Fonte | Liv. | Ril. |
@@ -217,12 +217,13 @@ Ultimo aggiornamento: 6 ottobre 2026 (verifica sistematica del quiz: aggiunti i 
 | Vi esisteva un centro per la lavorazione delle scope di saggina | Itinerario 1 del Comune | N | alta |
 | Il Piano Strutturale prevede un Parco faunistico e un'ANPIL, con un centro servizi negli edifici inutilizzati del borgo | NTA artt. 23 e 53, Relazione generale (revisione R3, punto 3) | R | alta |
 | I muri del Castellare di Sant'Angelo, presso Cornia, sono spessi fino a un metro e mezzo | Repertorio (S033), revisione R3, punto 2 | R | alta |
-| L'Atlante delle stragi elenca 32 vittime per «Cornia e dintorni», tra cui il partigiano Hazbi Ismail (28 anni) | Atlante delle stragi | N | alta |
+| L'Atlante delle stragi elenca 32 vittime per «Cornia e dintorni», tra cui il partigiano Ismail Harbi (28 anni; «Hasbi Ismaili» sulla lapide dei decorati) | Atlante delle stragi | N | alta |
 
 ### Gebbia
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
 | Gebbia dista 3,5 km dal borgo di Civitella | Google Maps, misurato dall'utente | U | bassa |
+| Gebbia è una località collinare, non di pianura | conoscenza diretta dell'utente (6/10/2026) | U | media |
 | L'Atlante elenca 16 vittime per «Gebbia e dintorni»; l'Archivio della Memoria parla di 8 uomini fucilati | Atlante, Archivio della Memoria | N | alta |
 
 ### Oliveto
@@ -422,6 +423,249 @@ Correzione: in precedenza il sito metteva per errore Luca Zeffiri all'opposizion
 
 Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non è una fonte del sito**: per scelta dell'utente valgono solo le fonti scritte. Le sue affermazioni servono al massimo come spunti da cercare in fonti scritte: statuti di dogana del 1461 per Ciggiano; Sala della Memoria realizzata nel 2004; Centro di Documentazione di Villa Oliveto dal 2001; 917 Berengario e Uguccione; 1252 distruzione per mano di Aldobrandino Cacciaconti e ricostruzione di Guglielmino Ubertini; rocca del VI-VII secolo; Madonna robbiana sulla Porta Senese; Museo della vite e del vino a Ciggiano; Premio nazionale «Città di Civitella». Alcune cifre del video contrastano con le fonti scritte (circa 170 vittime il 29 giugno 1944; Oliveto «fondato attorno al 1385»; Villa Oliveto «costruita intorno al 1937») e non vanno usate.
 
+## 8c. Dettagli confermati nella verifica delle pagine (6 ottobre 2026)
+
+Le 25 pagine sono state confrontate frase per frase con questo file. I dettagli che mancavano qui sono stati cercati nelle fonti originali: la scheda dell'Atlante, il piano paesaggistico, le pagine della Pro Loco e del Comune, le voci del Repetti, le risposte citate dei notebook. Quelli confermati sono registrati qui sotto, per pagina. Quelli non confermati sono stati tolti dal sito e sono in fondo alla sezione 10. Alcune righe completano righe delle sezioni precedenti.
+
+### Storia
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| In epoca longobarda la rocca di Civitella era usata «come forte posto a controllo del territorio» | Repertorio (T002); risposta N3 in incollati | R | alta |
+| Dopo il 1289 il castello di Civitella tornò in proprietà della diocesi aretina | Pro Loco, «Civitella nella storia» (incollati) | W | media |
+| La pace del 1311 tra Ildebrandino Guidi e Enrico VII di Lussemburgo «garantì alcuni anni di relativa pace» | Wikipedia (Civitella in Val di Chiana); risposta N1 in incollati | N | media |
+| Nel 1311 gli ambasciatori di Arrigo VII aprirono a Civitella un tribunale per citare «i comuni e i magnati di contado della Toscana» a giurargli fedeltà | Repetti, voce Civitella; Pro Loco, «Civitella nella storia» (incollati) | R | alta |
+| Nel 1397 Civitella fu presa e saccheggiata da messer Brogliole, «capitano di ventura al soldo dei senesi»; i fiorentini la riconquistarono nel maggio 1398 | Pro Loco, «Civitella nella storia» (incollati) | W | media |
+| L'assedio del 1554 avvenne durante l'«ultima guerra senese (1500 – 1555)» | Pro Loco, «Civitella nella storia» (incollati) | W | media |
+| Nel 1385 Firenze procedette a una «distrettuazione dell'intero territorio aretino», nella quale Civitella fu scorporata dalla podesteria di Valdambra | SIUSA, Podesteria di Civitella; risposta N1 in incollati | R | alta |
+| La formazione «Renzino» era guidata dal «giovane Edoardo Succhielli»; l'agguato del 18 giugno si sommò «ad altre [azioni] più piccole» che diedero il pretesto ai tedeschi | Atlante, scheda di Civitella | R | alta |
+| Il 29 giugno 1944 i tedeschi rastrellarono «una Civitella affollata per la festa dei patroni Pietro e Paolo» e raccolsero la popolazione nella piazza del paese | Atlante, scheda di Civitella; ToscanaNovecento (risposta N1 in incollati) | R | alta |
+| «La rocca longobarda, da secoli simbolo di Civitella, fu distrutta da un bombardamento alleato» | Wikipedia, Cittaslow; risposte N1 in incollati | N | alta |
+| Il tenente generale Wilhelm Schmalz comandava la divisione «Hermann Göring»; Max Josef Milde era sergente del corpo musicale divisionale | Atlante, scheda di Civitella | R | alta |
+| «Forte è stata la rabbia dei sopravvissuti e dei parenti delle vittime contro i partigiani ritenuti responsabili, in merito agli eventi del 18 giugno, della reazione tedesca» | Atlante, scheda di Civitella (note sulla memoria) | R | alta |
+| Giovanni Contini, «La memoria divisa» (Rizzoli, 1997), è nella bibliografia dell'Atlante su Civitella | Atlante, scheda di Civitella (bibliografia) | R | media |
+
+### Civitella, home e pagina Frazioni
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| Badia al Pino è «sottostante» il colle di Civitella (la parrocchia di Civitella fu priorato «della sottostante badia al Pino») | Repetti, voce Civitella (incollati); N1, revisione-log Civitella blocco 1, frase 9 | R | bassa |
+| La strage del 29 giugno 1944 fu una rappresaglia dell'esercito tedesco («il paese fu messo a ferro e fuoco da una rappresaglia dell'esercito tedesco») | Atlante, scheda di Civitella; Pro Loco, «Civitella nella storia» (incollati); N1, revisione-log Civitella frase 19 | R | alta |
+| Il Sarapino è una riproposizione «un po' goliardica» della giostra; l'Ape è «il mezzo a motore più popolare nelle campagne del nostro recente passato» | Pro Loco, «Il Sarapino» (incollati); Visit Tuscany 2026 (incollati) | R | media |
+| Sarapino: la Veglia delle Armi è una «cena propiziatoria»; il «Masgalano» premia il rione «che meglio si è distinto per portamento nei tre giorni di festa» | Pro Loco, «Il Sarapino» (incollati); Visit Tuscany 2026 (incollati) | R | media |
+| Il comune ha 13 frazioni: Albergo, Badia al Pino (sede comunale), Ciggiano, Cornia, Gebbia, Matroia, Oliveto, Pieve a Maiano, Pieve al Toppo, Spoiano, Tegoleto, Tuori, Viciomaggio (Ponticino non è nell'elenco; il sito tratta Matroia tra i borghi minori e dà una pagina a Ponticino) | Wikipedia, voce del comune, infobox «Frazioni» (wikipedia_sindaci.txt) | W | media |
+
+### Patrimonio e Geografia
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| Il Piano Strutturale prevede l'itinerario «Il sistema dei Castellari», con i siti fortificati di Poggio Castellare, La Guardiola, Torre di Bucinino, Civitella, S. Angelo alla Cornia, Oliveto e Poggi Lunghi | NTA art. 95, Schema Direttore 6; risposta N3 in incollati | N | media |
+| **Oliveto:** Castellare di S. Giovanni d'Oliveto, sito fortificato di età romana e medievale | Repertorio (T011/S041); risposta N3 in incollati; verifica-log (notebook 2) | N | media |
+| **Tuori:** «Il luogo fu sede Medioevo di un castello posto a presidio della città di Arezzo»; il cassero, «forse costruito nel XIV secolo», è in parte abitato e in parte abbandonato | Repertorio (S052, anche N005); revisione R7 punto 4, risposta N3 con citazione in incollati | R | media |
+| **Ciggiano:** del castello restano il bastione sud-ovest, un tratto di mura trecentesche con la torre (oggi nella casa canonica) e una torretta cinquecentesca con la feritoia di un'archibugiera | Repertorio (N001); risposta N3 in incollati | N | media |
+| **Tegoleto:** la casa d'agenzia della fattoria, con torre colombaria, risultava di recente costruzione nel 1814 | Repertorio (C048); revisione R6 punto 10; risposta N3 in incollati | R | media |
+| **Ciggiano:** oratorio di S. Maria e S. Filippo Neri a Caggiolo con Villa Centeni Romani, con vincolo nazionale notificato | Repertorio (O002, V002); risposta N3 in incollati | N | media |
+| **San Martino in Poggio:** la villa è censita nel Repertorio | Repertorio (V010); risposta N3 in incollati | N | bassa |
+| **Ciggiano:** frantoio di Caggiolo e mulino di Ciggiano censiti | Repertorio (M001, M002); risposta N3 in incollati | N | bassa |
+| **Pieve a Maiano:** il Piano prevede attrezzature per ristoro, sport e tempo libero nell'area dell'ex mulino | NTA, Schema Direttore 1; risposta N3 in incollati | N | bassa |
+| **Viciomaggio:** l'urna del 1872 è di arenaria e fu trovata con un vaso a vernice nera anch'esso con iscrizione etrusca, probabilmente da una tomba a camera | Repertorio (S019); revisione R7 punto 8, risposta N3 con citazione in incollati | R | alta |
+| **Ciggiano:** alla Cascinella «un vasto insediamento», frequentato in età etrusca («frammenti di piccole macine da grano»), in età romana e fino al tardo Medioevo | Repertorio (S059); revisione R2 punto 9, risposta N3 con citazione in incollati | R | alta |
+| **Ciggiano:** insediamento nato come *vicus* romano | Repertorio (N001); risposta N3 in incollati | N | alta |
+| **Ciggiano:** «Ceramica di epoca romana imperiale» osservata nel 2004 nel sacco delle mura | Repertorio (S058); revisione R2 punto 9, risposta N3 con citazione in incollati | R | media |
+| **Pieve al Toppo:** le fornaci de I Ponti sono di età romana primo imperiale | Repertorio (S028); risposta N3 in incollati | N | media |
+| **Gaenne:** le rovine sono «nascoste dalla ricca vegetazione»; la pianta perimetrale è ancora riconoscibile | Scheda del Comune «Castello di Gaenne»; risposta N1 in incollati | N | media |
+| Il 3° itinerario del Comune, «i nuclei di piano», comprende Pieve al Toppo, Tegoleto, Spoiano, Albergo, Badia al Pino e Viciomaggio | Itinerario 3 del Comune; elenco delle fonti di N1 in incollati | N | media |
+| Val di Chiana (intero ambito): per la natura paludosa gli insediamenti sorsero sulle colline; nell'ultimo secolo, con ferrovia e autostrada, la popolazione ha cominciato a spostarsi nel fondovalle | PIT, scheda ambito 19, letta direttamente (ambito.txt) | R | media |
+| Val di Chiana (intero ambito): la pianura, «dopo uno storico alternarsi di impaludamenti e bonifiche», è «un raro esempio di stratificazione storica di interventi di regimazione idraulica della bonifica» | PIT, scheda ambito 19, letta direttamente | R | media |
+| Val di Chiana (intero ambito): l'insediamento della pianura bonificata è organizzato «nel periodo granducale del sistema villa - fattoria e dell'appoderamento» | PIT, scheda ambito 19, letta direttamente | R | media |
+| Censimento 2021: «altri nuclei» (Casali, Le Poggiole, Poggio Basso, area produttiva) 89 residenti; con Malpertuso (17) fanno 106 | ISTAT 2021 per località (file della Regione Toscana); verifica-log | W | bassa |
+
+### Lavoro e sapori, Amministrazione, Fonti
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| Il Piano Strutturale individua le aree produttive di Badia al Pino, Pieve al Toppo e Tegoleto e l'area industriale di Viciomaggio (oltre alle tre zone industriali isolate Del Tongo, Chimet e Caserosse) | NTA art. 92, Schema Direttore 3; notebook3-log, prompt 1 | N | media |
+| Secondo Cittaslow il tessuto produttivo comprende numerose imprese artigiane medio-piccole nei settori dell'oreficeria, della falegnameria e delle calzature (sul sito attribuito a Cittaslow) | Cittaslow; risposta N3 in incollati (citazione «numerose imprese artigianali di dimensioni medio/piccole nel settore dell'oreficeria, falegnameria, calzature») | N | bassa |
+| Secondo Cittaslow le aziende agricole e gli allevamenti sono per lo più a conduzione familiare (sul sito attribuito a Cittaslow) | Cittaslow; risposta N3 in incollati; notebook3-log, prompt 2 | N | bassa |
+| Il Piano Operativo 2023 lascia solo il produttivo già previsto e non realizzato (circa 80.000 mq) | Relazione del Piano Operativo; notebook3-log, prompt 1 | N | bassa |
+| CEIA progetta e costruisce metal detector e sistemi di ispezione elettromagnetica per sicurezza e industria, con mercato mondiale; nel 1962 «brevetta ed inizia la produzione di Metal Detector per l'industria tessile» | ceia.net; notebook3-log, prompt 1 e 2; risposta N3 in incollati | N | media |
+| Chimet recupera e affina metalli preziosi da scarti industriali elettronici, fotografici, galvanici, farmaceutici, chimici e orafi | chimet.com; notebook3-log, prompt 1 | N | media |
+| Il marchio Del Tongo fu aggiudicato all'asta nel 2022, per 57.000 euro, a Kico di Teramo | Arezzo Notizie, Saturno Notizie; notebook3-log, prompt 1 e 6; risposta N3 in incollati | N | media |
+| In pianura prati e seminativi asciutti e irrigui (NTA); la Relazione generale aggiunge frutteti e vigneti | NTA art. 38, Relazione generale C1.1; risposta N3 in incollati | N | media |
+| Cavalli allevati nel fondovalle e lungo la Via Vecchia Senese; centri di equitazione nelle località Fogliarina e La Casina | NTA art. 49; notebook3-log, prompt 2 e 7b | N | bassa |
+| Per il Piano Operativo l'agriturismo è un settore «ancora in espansione» | Relazione del Piano Operativo; risposta N3 in incollati | N | bassa |
+| Vino: vitigno Sangiovese; denominazioni Chianti DOCG, Chianti Colli Aretini DOCG, Colli dell'Etruria Centrale DOC, Vin Santo del Chianti; Bianco Vergine della Valdichiana (oggi Valdichiana Toscana DOC) | Cittaslow, Strada del Vino; notebook3-log, prompt 2; risposta N3 in incollati | N | media |
+| Cittaslow è una rete internazionale; il Comune vi aderisce con impegni su ambiente, cultura e turismo, servizi alla persona, prodotti tipici e tradizioni contadine | Cittaslow, Arezzo Notizie; risposta N3 in incollati | N | media |
+| Il progetto Orto in Condotta di Slow Food nelle scuole serve a «promuovere l'educazione alimentare e ambientale» | La Nazione; risposta N3 in incollati | N | media |
+| Nel febbraio 2026 la Pinacoteca di Civitella ha ospitato l'assemblea regionale di Slow Food Toscana | La Nazione; notebook3-log, prompt 2 | N | bassa |
+| Sindaci dal 1988: Gilberto Dindalini 1988–2001 (PCI, poi PDS, poi lista civica), con il commissario prefettizio Rosalba Guarino dal 23/12/1992 al 7/6/1993; Massimiliano Dindalini 2001–2011 (lista civica, poi centro-sinistra); Ginetta Menchetti 2011–2021 (lista civica di centro-sinistra Solidarietà e progresso); Andrea Tavarnesi dal 4/10/2021 | Wikipedia, voce del comune, sezione Amministrazione (cita amministratori.interno.it), testo incollato dall'utente | W | bassa |
+| Ginetta Menchetti, già sindaca, è dal maggio 2022 fiduciaria della condotta Slow Food Valdichiana | articolo Slow Food Valdichiana; notebook3-log, prompt 2; risposta N3 in incollati | W | bassa |
+| La guida turistica ufficiale Valdichiana Aretina riguarda i Comuni di Castiglion Fiorentino, Civitella in Val di Chiana, Cortona, Foiano della Chiana, Lucignano, Marciano della Chiana e Monte San Savino | guida Valdichiana Aretina (PDF), letta direttamente | W | bassa |
+
+### Feste e associazioni
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| Festa della Rosa 2026: pranzi del 25 aprile e del 1° maggio | Sagre Toscane, Facebook FestaDellaRosaOfficial; notebook3-log (segnalazioni dell'utente) | W | media |
+| Sagra dei Baccelli: due fine settimana di maggio (2025: 16-18 e 22-25 maggio), presso il Circolo di Spoiano | Sagre Toscane; risposta N3 in incollati | N | media |
+| Il Sarapino ha come contatti dell'evento la Pro Loco Civitella (email sarapino@prolococivitellachiana.it, sito della Pro Loco) | Visit Tuscany, evento 2026 (incollato dall'utente) | W | media |
+| Sagra del Crostino 2026: dal 9 al 19 luglio | Sagre Toscane; notebook3-log (prompt 6), risposta N3 in incollati | N | media |
+| Calici sotto la Torre: inizio agosto (8 agosto 2026), dentro «Notti e Note d'Estate» | La Nazione; notebook3-log | W | media |
+| Sagra del Cinghiale 2026: due fine settimana, 20-23 e 27-30 agosto | Sagre Toscane; risposta N3 in incollati | N | media |
+| Festa dell'uva di Ciggiano: 50ª edizione nel 2027 | ArezzoTv; notebook3-log (prompt 6) | N | media |
+| RioFest: ingresso gratuito; 2ª edizione il 18-19 settembre 2026 | Arezzo Notizie; notebook3-log, risposta N3 in incollati | N | media |
+| Presepe Vivente di Oliveto: il 20 e il 26 dicembre, 12ª edizione nel 2026; rappresentazione nel borgo con momenti di vita contadina e antichi mestieri | Sito del Presepe; notebook3-log, risposta N3 in incollati | N | media |
+| S.S. Badiese 1948: calcio allo stadio comunale di Badia al Pino | Lettera della Consulta dello Sport, Centritalia News; notebook3-log (prompt 4) | N | bassa |
+| U.S. Pieve a Maiano APS: circolo ricreativo e sportivo | RUNTS, scheda Sagra del Cinghiale; notebook3-log (prompt 5) | N | bassa |
+| Ramananda Scuola di Yoga Integrale: sede a Oliveto (via del Fiore 16) | Comune, Attività sportive per bambini e ragazzi; risposta N3 in incollati | N | bassa |
+| Pol. Dil. Pieve al Toppo 06: scuola calcio e settore giovanile allo stadio di via del Sembolino | Comune, Attività sportive; risposta N3 in incollati | N | bassa |
+| Let Me Dance ASD (Pieve al Toppo, via Aretina Nord 45): danza classica, moderna, hip hop, contemporanea, aerea, Pilates, ginnastica posturale | Comune, Attività sportive; risposta N3 in incollati | N | bassa |
+| Gruppo Teatro La Torre: gestisce il Teatro Moderno, anche con gli spettacoli amatoriali del gruppo | Repertorio (TE001); notebook3-log (prompt 5) | R | media |
+| U.S.D. Tegoleto 1970: calcio dalla scuola calcio alla prima squadra, allo stadio di via del Chiassobuio | Comune, Attività sportive; notebook3-log, risposta N3 in incollati | N | bassa |
+| Tegoleto Volley: corsi di pallavolo per bambini e ragazzi (palestra Arcobaleno e palazzetto di Badia al Pino) | Comune, Attività sportive; risposta N3 in incollati | N | bassa |
+| Taekyon Club: corsi di taekwondo per bambini e ragazzi, palestra della scuola primaria Arcobaleno di Tegoleto | Comune, Attività sportive; risposta N3 in incollati | N | bassa |
+| Centro di aggregazione sociale La Torre APS (RUNTS) e Gruppo Teatro La Torre (non nel RUNTS): nessuna fonte li collega | RUNTS, Repertorio (TE001); notebook3-log, risposta N3 in incollati | N | bassa |
+| Polisportiva Albergo Oliveto: ciclismo per ragazzi dai 6 ai 16 anni, al palazzetto e sulla pista dello stadio comunale di Badia al Pino | Comune, Attività sportive; risposta N3 in incollati | N | bassa |
+| Impianti di Badia al Pino: stadio comunale con pista, palazzetto dello sport, area sportiva della scuola media riqualificata | Comune, Arezzo Notizie; notebook3-log (prompt 4) | N | bassa |
+| Impianti di Tegoleto: stadio di via del Chiassobuio e palestra della scuola primaria Arcobaleno | Comune; notebook3-log (prompt 4) | N | bassa |
+| Spoiano, Pieve a Maiano e Viciomaggio hanno i campi dei circoli e delle società locali | Comune; notebook3-log (prompt 4), risposta N3 in incollati | N | bassa |
+| Il Comune tiene un Albo comunale delle associazioni e del volontariato | Lettera della Consulta dello Sport (prot. 11374 del 17/06/2026); runts-civitella.md | N | bassa |
+| Campetto polivalente a uso libero in via Morandi ad Albergo: lavori in corso (corregge la riga «è in via Morandi») | Centritalia News; risposta N3 in incollati | R | bassa |
+
+### Ciggiano, Badia al Pino, Oliveto, Albergo
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| Ciggiano: il nome è di origine incerta, forse dalla gens Ceia o Cedia, oppure da Cocceia | Repertorio (N001); revisione R2, punto 2; risposta N3 in incollati | R | media |
+| Ciggiano nacque come vicus romano | Repertorio (N001), citazione in incollati | R | alta |
+| Ciggiano: i pastori che dall'Appennino andavano in Maremma con le greggi vi facevano la «calla» | Repertorio (N001), citazione in incollati | R | media |
+| Ciggiano: nel 1431 Piccinino prese Ciggiano, Oliveto e Battifolle; Firenze, «dopo averli riacquistati», nel 1433 ordinò di smantellarli | Repetti, voce «Oliveto di Civitella» (incollati) | R | alta |
+| Castello di Ciggiano: bastione sud-ovest (dal XIV secolo), tratto di mura trecentesche con la torre oggi nella casa canonica, torretta cinquecentesca con feritoia di archibugiera, grande torre sul lato nord; Piazza Alta con il pozzo comunitario | Repertorio (N001), citazione in incollati | R | media |
+| San Biagio a Ciggiano: altare Mazzeschi della metà del Seicento; Santa Maria Maddalena del primo Cinquecento attribuita ad Andrea Sansovino | Itinerario 1 del Comune; Discover Arezzo; revisione R2, punto 6 | R | alta |
+| Chiesa della Compagnia di Santa Croce a Ciggiano: costruita sulle mura del castello, sul lato occidentale; nel 1783 Pietro Leopoldo soppresse la compagnia, ripristinata dal successore nel 1794 | Repertorio (O005); risposta N3 in incollati | R | media |
+| Madonna della Costarella: iscrizione sull'architrave «DEIPARAE VIRGINI DICATUM 1635»; loggiato esterno a tre archi aggiunto nella ristrutturazione settecentesca | Repertorio (E152); revisione-log, prompt mirato su Ciggiano | R | media |
+| Ciggiano: Oratorio di San Francesco (O003) e Oratorio di S. Maria e S. Filippo Neri a Caggiolo (O002) presso Villa Centeni Romani (V002, vincolo nazionale notificato); frantoio di Caggiolo (M001) e mulino di Ciggiano (M002) | Repertorio, schede in incollati | R | bassa |
+| Ciggiano, ricognizioni del 2004: ceramica romana di età imperiale nel sacco delle mura (S058); alla Cascinella, negli oliveti davanti al cimitero, un vasto insediamento affiorato con lavori agricoli, frequentato dall'età etrusca al tardo Medioevo (S059) | Repertorio (S058, S059); risposta N3 in incollati | R | alta |
+| Il 16 aprile 1944 le SS fermarono Marmo e Marapitti mentre requisivano un camion di legna e carbone e li fucilarono sul posto | ToscanaNovecento (citazione in incollati) | R | alta |
+| Monumento ai caduti di Ciggiano, in un giardino del centro: lapidi per 30 caduti e 2 dispersi delle due guerre, per Enrico Scapecchi (medaglia d'argento al valor militare) e per Marmo e Marapitti | ToscanaNovecento; revisione R2, punto 10 | R | media |
+| Festa dell'uva di Ciggiano: 50ª edizione nel 2027 | ArezzoTv; notebook3-log | N | media |
+| Palazzo Santini-Paccinelli (Badia al Pino) sorge ai margini del nucleo medievale | Repertorio (A020); revisione R1, punto 6 | R | bassa |
+| Il Piano Strutturale individua aree produttive a Badia al Pino, Pieve al Toppo e Tegoleto | NTA art. 92, Schema Direttore 3; notebook3-log | N | media |
+| Badia al Pino: stadio comunale con pista, palazzetto dello sport, area sportiva della scuola media; vi giocano la SS Badiese 1948 (calcio) e la ASD Tegoleto Volley (palazzetto) | Consulta dello Sport, Arezzo Notizie; notebook3-log | N | bassa |
+| La Polisportiva Albergo Oliveto tiene corsi di avviamento al ciclismo per bambini (6–16 anni) al palazzetto di Badia al Pino, con allenamenti su pista allo stadio comunale | Comune (attività sportive), citazione in incollati | N | bassa |
+| Sagra della Bistecca: bistecca di Chianina cotta alla griglia, in collaborazione con l'Ass. Naz. Città della Chianina | Sagre Toscane, Cittaslow; tabella feste del notebook 3 in incollati | N | media |
+| Oliveto: della fortificazione restano poche tracce della «massiccia cinta muraria» | Repertorio (N003) | R | media |
+| Oliveto: la Casa del Podestà fu riedificata dagli Ubertini-Saracini «ritornate proprietarie dell'antico feudo» | Repertorio (A012) | R | media |
+| Oliveto: torre dell'ex piazza d'armi (T003) | Repertorio (T003, A012) | R | media |
+| Oliveto: una casa trecentesca su tre piani, inglobata nelle mura, è tutelata da vincolo nazionale | Repertorio (A011); revisione R4, punto 5 | R | media |
+| Villa Oliveto ha un aspetto ottocentesco (rimaneggiata nell'Ottocento) | Regione Toscana; verifica-log, prompt 7 | N | media |
+| Cappella della Compagnia di Oliveto: rifatta attorno al 1637, come risulta dall'iscrizione sull'architrave del portale | Repertorio; revisione R4, punto 7 | R | media |
+| Castellare di S. Giovanni d'Oliveto: sito fortificato di età romana e medievale; chiesa di origine altomedievale; il Piano prevede un parco archeologico con campo scuola di scavo | Repertorio (T011/S041, D067); NTA art. 50 | R | media |
+| Centro di Documentazione «Villa Oliveto»: politiche di esclusione e reclusione nel Novecento; database sui circa 50 campi italiani, mostra documentaria, percorsi e laboratori didattici | Repertorio (MU003); revisione R4, punto 8 | R | alta |
+| Presepe Vivente di Oliveto: il 20 e 26 dicembre, con scene di vita contadina e antichi mestieri | Sito del Presepe; notebook3-log | N | media |
+| Albergo è un centro di pianura (itinerario 3, «nuclei di piano») | Discover Arezzo, itinerario 3 del Comune; revisione-log, Albergo punto 1 | R | media |
+| Sagra del Crostino: nel 2026 dal 9 al 19 luglio | Sagre Toscane; notebook3-log | N | media |
+
+### Borghi minori, Gebbia, Cornia
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| **Matroia:** l'allevamento di cavalli è nell'ambito V5.1 delle NTA (fondovalle, pianura e lungo la Via Vecchia Senese), da trasformare in «Centro di Equitazione» | NTA art. 49; risposta N3 in incollati; verifica-log | N | bassa |
+| **Matroia:** «un rocco di fusto di colonna in pietra arenaria addossato al fronte accanto alla porta e una vasca, ora interrata» restano del convento | Repertorio (S036); risposta N3 in incollati | R | media |
+| **Montoto:** lungo via della Centrale ci sono i poderi Montoto I e Montoto II, vicino a Pieve a Maiano | Itinerario 2 del Comune; risposta N1 in incollati; verifica-log (prompt 2) | N | bassa |
+| **Montoto:** il castello passò dal dominio di Arezzo a quello di Firenze nel 1385 | Itinerario 2 del Comune; risposta N1 in incollati | N | alta |
+| **Montoto:** il PS lo indica come insediamento fortificato di notevole interesse storico-archeologico, con un campo scuola di scavo e il collegamento (view-point di P. Montoto II) al Sentiero Natura C della Riserva di Ponte a Buriano e Penna | NTA, Schema Direttore 1; risposta N1 in incollati | N | media |
+| **Poggio Castellare:** si trova «a sud di Gaenne»; all'interno della cinta «si riconoscono fondamenta di muri» | Repertorio (S017); risposta N3 in incollati | R | media |
+| **Poggio Castellare:** secondo il Comune era già abbandonato nel tardo Medioevo, come Malpertuso e Le Fosse | Sito del Comune (pagina in inglese); risposta N1 in incollati | N | media |
+| **Poggio Castellare e Gaenne:** il parco archeologico previsto comprende un «campo scuola di scavo» | NTA; risposta N3 in incollati | N | media |
+| **Poggio Castellare:** poco prima del poggio passa il sentiero CAI 105, che scende fino ai resti di Gaenne | Itinerario 1 del Comune; risposta N1 in incollati; verifica-log (prompt 6) | N | bassa |
+| **Malpertuso:** nel cunicolo lungo il Fosso del Riolo la popolazione di Viciomaggio si rifugiava «durante i bombardamenti» | Repertorio; risposta N3 in incollati | R | media |
+| **Tribbio:** raggiungibile da una strada non asfaltata; è un crocevia rurale con il Pozzo del Tribbio (CI027) | Itinerario 3 e sito del Comune; risposta N1 e N3 in incollati | N | bassa |
+| **Montarfoni:** «L'edificio padronale occupa oggi parte dell'area dell'antico castello»; la villa seicentesca è «in posizione dominante sulla vallata» | Repertorio (H240a); risposta N3 in incollati | R | media |
+| **Montarfoni:** si raggiunge con la rotabile che parte presso Ponticino, lungo l'itinerario Valdarno–Civitella | Itinerario 2 del Comune; risposta N1 in incollati | N | bassa |
+| **Dorna:** «Insediamento fortificato longobardo di primaria importanza»; nel 1181 «in castro Durna et in tota curte eiusdem castri» | Repertorio (A001a); risposta N3 in incollati | R | media |
+| **Dorna:** la torre, ricordata dal 1198, è «la parte più antica attualmente rimasta integra», al centro dell'abitato colonico con la fattoria del XVIII secolo | Itinerario 1 del Comune; risposta N1 in incollati | N | media |
+| **Dorna:** nel 1814 la villa-fattoria fu acquistata dalle suore Montalve della Quiete di Firenze | Repertorio; risposta N3 in incollati | R | media |
+| **Dorna:** la badia camaldolese di San Quirico delle Rose, detta di Nasciano, possedeva «un pezzo di selva, detta la Fratta di Durna» (1227) | Repetti, voce «Dorna» (testo in incollati) | R | bassa |
+| **San Martino in Poggio:** un'edicola (B053) ricorda la scomparsa chiesa di San Martino di Loreto a Pian del Pozzo, del piviere del Toppo, nei possessi dell'abbazia di Agnano nel 1194 e non più citata dal XV secolo | Repertorio; Repetti (voce Pieve al Toppo); risposta N3 in incollati | R | media |
+| **San Martino in Poggio:** il Repertorio censisce il pozzo (CI036), il monumento ai caduti della Prima guerra mondiale e la villa (V010) | Repertorio; risposta N3 in incollati | N | bassa |
+| **San Martino in Poggio:** è lungo il 2° itinerario dopo Montarfoni; superato il paese, il sentiero CAI 107 porta all'Oratorio della Madonna di Mercatale | Itinerario 2 del Comune; risposta N1 in incollati; verifica-log | N | bassa |
+| **Gaenne:** il luogo «si presenta naturalmente scosceso»; «Del cassero restano spessi lacerti di muratura nel punto più elevato del pianoro» | Repertorio (S023); risposta N3 in incollati | R | media |
+| **Gaenne:** secondo la scheda del Comune nella Seconda guerra mondiale subì «molti bombardamenti a causa del passaggio del fronte»; ci si arriva da Viciomaggio per una strada sterrata e poi per un sentiero | Scheda del Comune «Castello di Gaenne»; risposta N1 in incollati | N | bassa |
+| **Gebbia:** «i tedeschi ripropongono un identico modus operandi nella frazione di Gebbia» (rispetto a Civitella); «A Cornia, al contrario, il massacro è indiscriminato» | Atlante, scheda di Civitella | R | alta |
+| **Gebbia:** gli otto uomini furono portati attraverso i boschi di Valibona al Podere Valle, fucilati e gettati in una capanna poi data alle fiamme | Archivio della Memoria (Gebbia); risposta N1 in incollati | N | alta |
+| **Gebbia:** tra le 16 vittime dell'Atlante per «Gebbia e dintorni» Arrigucci Orlindo (69), Biagiotti Giulio (62), Pratesi Silvestro (58), alcune donne e tre bambini (Polletti Gloriano, 1 anno; Valli Giuseppe, 3; Valli Assunta, 7) | Atlante, scheda di Civitella | R | media |
+| Helga Elmqvist, moglie di Giovanni Cau, era svedese, traduttrice di fiabe nordiche e illustratrice | ricerca web (revisione R3, punto 10) | W | media |
+| Giovanni Cau e Helga Elmqvist furono uccisi a Monte San Savino | Archivio della Memoria; revisione R3, punto 10 | N | media |
+| I nomi «CAU GIOVANNI / CAU ELGA» sono sul cippo alle vittime di Cornia | Repertorio (ME009); risposta N3 in incollati | R | media |
+| **Cornia:** il PS destina all'ANPIL e al Parco faunistico le «aree di alto valore naturalistico-paesaggistico»; il centro servizi avrà punto informazioni, foresteria e spazi per la didattica ambientale | Relazione generale del PS, NTA; risposta N1 in incollati | R | media |
+| **Cornia:** «Risulta dalle decime del 1274 come piviere della chiesa di S.Maria al Toppo» | Repertorio (scheda Cornia); risposta N3 in incollati | R | alta |
+| **Cornia:** il PS prevede un «campo scuola di scavo» sull'area del Castellare di Sant'Angelo, compreso nell'itinerario «Il sistema dei Castellari» | NTA, Schema Direttore 6; risposte N1 e N3 in incollati | N | media |
+| **Cornia:** il PS prevede il recupero del complesso religioso di Vallebuona | NTA; risposta N1 in incollati | N | bassa |
+| **Cornia:** la lastra dei martiri è presso la chiesa di San Michele Arcangelo e riporta i 58 caduti di Cornia, Burrone, Morcaggiolo, Solaia, Cellere, San Pancrazio e Caselle | ToscanaNovecento; revisione R3, punto 5 | R | alta |
+| **Cornia:** il cippo dell'eccidio è in via della Cornia, presso il cimitero, posto «nel XXV° dell'eccidio di Cornia 1944-1969» | ToscanaNovecento; revisione R3, punto 6 | R | alta |
+| **Cornia:** il partigiano di 28 anni è «Ismail Harbi» nell'elenco dell'Atlante e «Hasbi Ismaili» sulla lapide dei decorati per la Resistenza nel cimitero di Civitella | Atlante, scheda di Civitella | R | media |
+
+### Viciomaggio, Tegoleto, Tuori, Spoiano
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| Viciomaggio: secondo la scheda del Comune, i borghi medievali di Malpertuso e Le Fosse e il fortilizio di Poggio Castellare erano «already deserted in the late Middle Ages» (sul sito attribuito al Comune) | Scheda del Comune su Viciomaggio; risposta N1 in incollati | N | media |
+| Viciomaggio: della chiesa altomedievale di San Martino «non resta traccia»; il titolo passò alla nuova chiesa di San Martino «all'ingresso del Paese» | Scheda del Comune su Viciomaggio; risposta N1 in incollati | N | media |
+| Villa di Viciomaggio (L282): realizzata nel XVIII secolo «accorpando vari fabbricati preesistenti»; oltre la strada comunale un giardino con la limonaia del 1836; la cappella secentesca è «grande» e ha sul fianco sud il quadrante d'orologio sormontato dal campanile a vela | Repertorio (L282); risposta N3 in incollati | R | media |
+| Viciomaggio (S019): l'urna cineraria del 1872 è in arenaria e fu trovata con un vaso a vernice nera con iscrizione etrusca sul labbro; provengono «verosimilmente da una tomba a camera etrusca» | Repertorio (S019); risposta N3 in incollati | R | alta |
+| Il rifugio del Fosso del Riolo è censito nel Repertorio come «Luogo della memoria»; la popolazione vi si rifugiava «durante i bombardamenti della seconda guerra» | Repertorio (scheda Malpertuso-Viciomaggio); risposta N3 in incollati | R | alta |
+| Festa della Rosa: tutte le sere bar, pizzeria e ristorante, tornei e musica, pranzi del 25 aprile e del 1° maggio | Sagre Toscane (incollati) | W | media |
+| CEIA progetta e produce metal detector e sistemi di ispezione basati sui campi elettromagnetici, per la sicurezza e l'industria, venduti in tutto il mondo | ceia.net, Assosicurezza; notebook 3 | N | alta |
+| Tegoleto: la torre (T005), «rimasta a baluardo delle strutture difensive dell'abitato medioevale», fu restaurata a più riprese e, persa la funzione militare, divenne edificio colonico; vincolo nazionale notificato | Repertorio (T005); risposta N3 in incollati | R | alta |
+| Tegoleto: borgo di origine medievale (centro storico N006) | Repertorio (N006, T005); risposta N3 in incollati | N | media |
+| Fattoria di Tegoleto (C048): acquistata nel 1783 dal patrimonio Marzocchi; la casa d'agenzia, con torre colombaria e due fabbricati simmetrici attorno al cortile con il pozzo, risulta di recente costruzione nel 1814 | Repertorio (C048); revisione R6 punto 10; risposta N3 in incollati | R | media |
+| La chiesa di San Biagio a Tegoleto era romanica: ne restano i resti della parte absidale | Itinerario 3 del Comune; risposta N1 in incollati | N | alta |
+| La maggior parte della popolazione vive nei centri di pianura (Badia al Pino, Pieve al Toppo, Tegoleto, Viciomaggio): al censimento 2021 i quattro centri hanno 4.966 residenti su 8.814 (56%; il «circa 70%» del Comune non è confermato) | Scheda del Comune «Sede comunale» (risposta N1 in incollati); ISTAT 2021 | W | alta |
+| RioFest: si tiene a settembre (20 settembre 2025; 18–19 settembre 2026), a ingresso gratuito | Arezzo24, Arezzo Notizie; notebook 3 | N | media |
+| Tegoleto: l'U.S.D. Tegoleto 1970 gioca allo stadio di via del Chiassobuio; nella palestra della scuola Arcobaleno si praticano pallavolo (ASD Tegoleto Volley) e taekwondo (ASD Taekyon Club) | Pagine del Comune sulle attività sportive; notebook 3 | N | bassa |
+| Tuori: secondo il Repertorio è ricordato dal 1021 come abitato del piviere di Santa Maria al Toppo e divenne un castello «sede di guarnigioni militari di presidio alla città di Arezzo»; delle fortificazioni restano poche tracce e il cassero (il Repetti mette la parrocchia di San Giorgio nel piviere di Battifolle: sul sito tutte e due, attribuite) | Repertorio (N005, S052); risposta N3 in incollati | R | alta |
+| Cassero di Tuori: «forse costruito nel XIV secolo e nei secoli ampiamente rimaneggiato», oggi in parte abitato e in parte abbandonato | Repertorio (S052); revisione R7 punto 4 | R | alta |
+| Chiesa dei SS. Giorgio e Lucia a Tuori «del XIII secolo» (sul sito attribuito all'itinerario del Comune) | Itinerario 1 del Comune; risposta N1 in incollati | N | media |
+| A Tuori nel Medioevo c'erano due chiese, di San Giorgio e di Santa Lucia; nella visita pastorale del 1583 la parrocchiale è detta «di S. Lucia e S. Giorgio» | Repertorio (scheda della chiesa di Tuori); revisione R7 punto 3 | R | media |
+| Il Saracino, in località Sasso Saracino, fu «fabbricato nel XVI secolo dalla Fraternita dei Laici di Arezzo»; in facciata un «profondo portico a tre fornici» e una loggia «a tre aperture ad arco policentrico particolarmente ribassato» | Repertorio (M308), itinerario 1 del Comune; risposte N3 e N1 in incollati | R | media |
+| Tuori è tappa della «ciclabile dei borghi pedecollinari» (SD 7), con risistemazione dei tracciati storici e recupero dei basolati e dei muri in pietra | NTA (Schema Direttore 7); risposta N3 in incollati | N | media |
+| Villa Pecchioli (C055): «già di proprietà della famiglia Pecchioli», costituita da «un lungo corpo di fabbrica» con la torre-piccionaia; il Piano prevede il recupero della villa e del parco storico | Repertorio (C055); Sistema Informativo Territoriale del Piano; risposte N3 e N1 in incollati | R | media |
+| Spoiano è «costituito da una piazza centrale e dagli edifici del borgo accorpati nel '700»; il Comune lo mette tra i nuclei di piano | Itinerario 3 del Comune; risposta N1 in incollati | N | media |
+| La Sagra dei Baccelli si svolge presso il Circolo di Spoiano (Polisportiva Spoiano con il Circolo MCL) | Sagre Toscane; notebook 3 | N | media |
+
+### Pieve al Toppo, Pieve a Maiano, Ponticino
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| Il Repetti chiama quella del Toppo «pieve antichissima»; anche il Repertorio scrive «L'antichissima Pieve con annesso ospedale per i pellegrini» | Repetti, voce «Toppo (Pieve al)»; Repertorio (B024a), risposta N3 in incollati | R | bassa |
+| La pieve del Toppo era dedicata a Santa Maria («pieve di S. Maria al Toppo»); nelle decime del 1274 Cornia risulta nel «piviere della chiesa di S.Maria al Toppo» | Repetti, voci «Toppo (Pieve al)» e «Pieve al Toppo»; Repertorio, risposta N3 in incollati | R | media |
+| Tra le 24 chiese dipendenti dalla pieve del Toppo il Repetti elenca S. Maria a Civitella (prioria), S. Biagio a Tegoleto, S. Andrea e S. Giovanni Battista a Oliveto, S. Martino a Viciomaggio, S. Biagio a Ciggiano e S. Angelo di Cornia | Repetti, voce «Pieve al Toppo» (testo incollato dall'utente) | R | media |
+| Per il Repetti nell'XI secolo, presso il Toppo, le acque della Chiana «bilicavano» e quasi stagnavano: una parte scendeva verso settentrione nel Val d'Arno aretino, l'altra verso ostro si univa al fiume Paglia ed entrava nel Tevere | Repetti, voci «Toppo (Pieve al)» e «Pieve al Toppo» | R | alta |
+| Il Repetti descrive la battaglia del 1288 come la «disfatta de' Sanesi sorpresi dagli Aretini» al passo del Toppo | Repetti, voce «Pieve al Toppo» | R | alta |
+| Nella battaglia del 1288 gli aretini erano comandati da Bonconte (Buonconte) da Montefeltro e Guglielmo (Guglielmino) de' Pazzi | Wikipedia (Giostre del Toppo), risposta N1 in incollati; Repertorio (scheda del monumento alle Giostre del Toppo), risposta N3 R6 punto 2 | R | alta |
+| A Pieve al Toppo il Repertorio censisce il Cippo delle Giostre del Toppo (ME011 / B057) | Repertorio, risposta N3 in incollati | R | media |
+| La chiesa moderna di Pieve al Toppo fu progettata nel 1967 dallo studio Martini-Matteini-La Rocca; porticato del 1977 | Repertorio, risposta N3 in incollati; revisione R6, punto 4 | R | media |
+| La «fattoria di Mugliano» compare nella schedatura degli edifici della frazione B (Pieve al Toppo) del Piano Strutturale | Piano Strutturale, b_pieve_al_toppo.pdf, risposta N1 in incollati | N | bassa |
+| Le fornaci de I Ponti (S028), di epoca primo-imperiale, sono una struttura muraria lunga circa 10 m e un muro ortogonale; nello strato vicino c'erano frammenti di terra sigillata interpretati come scarti di lavorazione e probabili scorie di fusione | Repertorio (S028), risposta N3 in incollati | R | alta |
+| A Pieve al Toppo lo stadio comunale di via del Sembolino è gestito dalla Polisportiva Dilettantistica Pieve al Toppo 06 (calcio) | Sito della società e Consulta dello Sport, risposta N3 in incollati; notebook3-log | N | bassa |
+| A Pieve al Toppo sono in corso i lavori per un campetto polivalente a uso libero in via dei Boschi | Centritalia News, «Nuove aree sportive a fruizione libera», risposta N3 R6 punto 6 | R | bassa |
+| Il Piano Strutturale (Schema direttore 4, art. 93) prevede a Pieve al Toppo una piazza al posto dell'attuale incrocio e una «cintura verde» di spazi aperti, con un collegamento pedonale ad anello | NTA del Piano Strutturale, risposta N3 in incollati | R | media |
+| Per il Repertorio il toponimo prediale di Maiano «conferma la presenza di un insediamento romano» | Repertorio (S004, S005), risposta N3 in incollati | R | alta |
+| A Pieve a Maiano un tabernacolo (B017) ricorda il luogo dell'antica pieve di Santa Maria, che il Repetti dice soppressa | Repertorio, risposta N3 in incollati; Repetti, voce «Majano» | R | media |
+| Il castello di Montoto «passò dal dominio di Arezzo a quello di Firenze nel 1385» | Itinerario 2 del Comune, risposta N1 in incollati | R | alta |
+| Le Norme del Piano Strutturale (Schema direttore 1) indicano il castello di Montoto come antico insediamento fortificato di notevole interesse storico-archeologico | NTA, risposta N3 in incollati (parafrasi, senza citazione testuale) | N | media |
+| Il Repetti colloca Majano davanti alla gola dell'Imbuto, «per la quale si fa strada l'Arno» | Repetti, voce «Majano» | R | media |
+| La campana del 1358 di Neri d'Arezzo è nel campanile della chiesa di Pieve a Maiano e apparteneva alla «distrutta chiesa di S.Giovanni Battista a Montoto» | Repertorio, risposta N3 in incollati | R | media |
+| Per raggiungere il podere Spedaluccio dalla statale 69 si prende una discesa sterrata; resta la casa colonica dell'antico ospizio | Itinerario 2 del Comune (citazione in incollati) | R | bassa |
+| Il Piano Strutturale (Schema direttore 1, art. 90) prevede a Pieve a Maiano la riqualificazione dell'abitato, la sistemazione dell'area di via della Diga e dell'ex mulino e il ripristino della vecchia «stazione» | NTA del Piano Strutturale, risposta N3 in incollati | R | media |
+| La Sagra del Cinghiale si tiene tra la penultima e l'ultima domenica di agosto (circa 20–30 agosto), su due fine settimana | Scheda della Sagra del Cinghiale, risposta notebook 3 in incollati | N | media |
+| Al campo sportivo di Pieve a Maiano il Repertorio registra «un consistente insediamento romano», con frammenti di vasi e tegole a incastro del I–II secolo d.C. | Repertorio (S004), risposta N3 in incollati | R | alta |
+| Vallimboi: piccola fornace romana circolare scavata nell'argilla nel bosco, con tracce di nerofumo; nei vecchi catasti il borro vicino si chiamava «Fossato della Fonte agli Urci» | Repertorio (S005), risposta N3 in incollati | R | media |
+| La moneta d'oro di Claudio trovata a Pieve a Maiano è un aureus di circa 18 g | Repertorio (S008); revisione R5, punto 6 | R | media |
+| A Pieve a Maiano il Repertorio censisce anche una scultura marmorea (S006) e una fornace distrutta agli Ortali (S007) | Repertorio, risposta N3 in incollati | R | bassa |
+| Il centro abitato «Ponticino-Cavi Casalone» aveva 1.997 residenti al censimento 2021 ed è attribuito a Laterina Pergine Valdarno | ISTAT 2021 (verifica-log) | W | bassa |
+| Nel referendum del 2017 sulla fusione tra Laterina e Pergine Valdarno fu decisivo il voto di Ponticino | Tuttitalia (verifica-log, verifica web) | W | media |
+
+### Da chiarire (non usati per ora)
+- Villa di Viciomaggio: nella risposta di N3 la scheda L282, che il sito descrive, si intitola «Villa Milloni (Fattoria di Viciomaggio)» (V013), mentre «Villa di Viciomaggio» sarebbe un'altra scheda (V014). Da controllare sul PDF del Repertorio.
+- Fattoria di Maiano, vincolo nazionale: due risposte di N3 si contraddicono («esistente» nell'estrazione per frazioni, campi vuoti nella risposta al blocco R5). Il sito dice solo «censita». Da controllare sulla scheda V006.
+- Gebbia «collinare»: confermato dall'utente il 6/10/2026 («è su in collina e non in pianura»); vedi la riga U nella sezione Gebbia.
+- Pieve del Toppo: la scheda B024a del Repertorio scrive «983», la B024 «938» (probabile refuso).
+
+---
+
 ## 9. Divergenze tra fonti (da NON usare nel quiz)
 
 | Tema | Versioni | Scelta sul sito |
@@ -441,6 +685,8 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 | Prima memoria della pieve del Toppo | Repertorio: confermata nel 938 tra i possedimenti del Capitolo di Arezzo; Repetti: corti donate ai canonici nel 939 dai re Ugo e Lotario, diploma di Ottone I del 963 (in un'altra voce «983») | sul sito resta il 938 del Repertorio |
 | Chiesa di San Martino in Poggio | Repertorio: costruita nel 1690 con il patrimonio del nobile fiorentino Carlo Casini; Repetti: edificata nel 1700, fondatore Carlo di Paolo Casini, nobile senese | tutte e due le versioni |
 | Nome «Civitella in Val di Chiana» | Wikipedia: nome cambiato nel 1862 (senza nota); stessa voce: lo stemma del 1936 è registrato dall'Archivio Centrale dello Stato come «Civitella della Chiana» | non usato |
+| Case di Gebbia il 29 giugno 1944 | Archivio della Memoria: le case non furono bruciate; Atlante: «in ogni centro comunque le case sono date alle fiamme» | tutte e due le versioni, attribuite |
+| Tribbio di età romana | Repertorio: «romana?» (S070); itinerario 3 del Comune: sorto in età romana presso un trivio | «forse di età romana» |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
 
 ---
@@ -448,7 +694,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 ## 10. Esclusi: non confermati o smentiti (da non reintrodurre senza una fonte)
 
 **Attribuzioni sbagliate**
-- Tuori «sede di guarnigioni militari a presidio della città di Arezzo», cassero «presidio aretino d'altura», chiesa «del XIII secolo» e Tuori «abitato del piviere di Santa Maria al Toppo» nel 1021: venivano da ruderimedievali.altervista.org e non sono confermati (il Repetti mette la parrocchia di S. Giorgio nel piviere di Battifolle). Tolti dal sito e dal quiz nella verifica sistematica del 6/10/2026.
+- **Riabilitati il 6/10/2026 (verifica delle pagine):** Tuori «abitato del piviere di S. Maria al Toppo» nel 1021 e «castello sede di guarnigioni militari di presidio alla città di Arezzo» (Repertorio, schede N005 e S052, citazione esatta in N3) e chiesa «del XIII secolo» (itinerario 1 del Comune). Erano stati tolti per errore nella verifica del quiz; ora sono sul sito, attribuiti. Resta escluso «vigilava sulla Val di Chiana e sulla Valdambra».
 - Domande del quiz tolte nella verifica sistematica del 6/10/2026 perché toccano temi della sezione 9: altitudine del capoluogo, castello «nel 1048», pieve del Toppo «dal 938», 115 vittime a Civitella, Guglielmino che nel 1248 «potenziò le mura».
 - Podere Spedaluccio ad Albergo: si trova presso Pieve a Maiano.
 - Chiese di Santa Maria e di San Pietro ad Albergo: sono di Ciggiano.
@@ -503,7 +749,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 - «Centro storico di Tuori tutelato da vincolo nazionale»: SMENTITO. Il vincolo è su cassero, chiesa e cimitero.
 - Patrono di Tuori San Giorgio «23 aprile»: non confermato. Tolto dal riquadro «In breve».
 - Viciomaggio «ricordato in un atto notarile del 1024»: l'atto notarile non c'è. Resta «fin dal 1024». Aggiornamento: il Repetti cita un istrumento della cattedrale di Arezzo del novembre 1024 rogato «nella villa di Vicione maggiore»; ora è sul sito con la fonte.
-- «Villa Milloni»: il nome non compare né nel Repertorio né sul web. Per il Repertorio è la «Villa di Viciomaggio» (L282), e il sito la elencava due volte. Ora c'è una sola voce, «Villa di Viciomaggio» (anche in Patrimonio e nel quiz).
+- «Villa Milloni»: il nome non compare né nel Repertorio né sul web (⚠ ma vedi «Da chiarire» in fondo alla sezione 8c: in N3 la scheda L282 si intitola «Villa Milloni (Fattoria di Viciomaggio)»). Per il Repertorio è la «Villa di Viciomaggio» (L282), e il sito la elencava due volte. Ora c'è una sola voce, «Villa di Viciomaggio» (anche in Patrimonio e nel quiz).
 - Vasi del I secolo a.C. «al Museo di Arezzo»: il Repertorio dice «luogo sconosciuto». Al museo c'è solo il cammeo di diaspro.
 - Leggenda di Annibale a Viciomaggio: non è in nessuna fonte. Tolta.
 
@@ -552,3 +798,82 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).
 - 1948 e 1970 come anni di fondazione della Badiese e dell'USD Tegoleto: ricavati solo dal nome delle società.
+
+**Verifica delle pagine (6/10/2026): frasi tolte o corrette perché non confermate**
+- «Il territorio di Civitella è abitato da tempi remotissimi» e «in tutta la zona affiorano tracce etrusche e romane» (generalizzazioni senza fonte; storia.html).
+- «Molti nomi di paese sono di origine latina» (ora «Alcuni»: le fonti danno solo vicus maior e Maiano).
+- In epoca longobarda «una rete di piccoli siti fortificati, i castellari, sorvegliava la Val di Chiana settentrionale» (nessuna fonte; c'è solo l'itinerario «Il sistema dei Castellari» previsto dalle NTA). Ancora presente in patrimonio.html:135.
+- Rocca «palazzo-torre» nel 1182 (il Repertorio dice «palazzo torrione»).
+- «È in pianura che vive oggi la maggior parte degli abitanti» (calcolo dell'autore; nessuna fonte dice quali centri siano di pianura).
+- Eccidio «rappresaglia efferata» (la parola è solo nel video del Comune) e «centinaia di civili» (somma implicita, vietata dalla sezione 9).
+- «Corte internazionale di giustizia dell'Aia» (l'Atlante scrive «TPI Aja»; ora «Corte dell'Aia»).
+- Sottotitolo «alla ricostruzione del dopoguerra» (la pagina non ne parla).
+- «Eccidio nazifascista» del 29 giugno 1944 (index.html): l'Atlante indica come responsabili solo reparti tedeschi (italiani «ignoti»); sostituito con «eccidio del 29 giugno 1944».
+- «500 m — la Rocca sul colle» (index.html): l'altitudine delle fonti è del borgo, non della Rocca; ora «500 m circa, l'altezza del borgo».
+- Ponticino «condiviso con altri comuni» (frazioni.html): dal 2018 i comuni sono due; ora «Frazione divisa tra due comuni».
+- «Dati del censimento 2021» per ogni frazione (frazioni.html): Cornia e Gebbia non sono località ISTAT, Ponticino è attribuito a Laterina P.V.; ora «dove disponibili».
+- Patrimonio: «duemila anni di archeologia» (la linea del tempo parte dal Paleolitico).
+- Patrimonio: rete di castellari che «fin dall'età longobarda» «sorvegliava la Val di Chiana settentrionale».
+- Patrimonio: il Piano «prevede di collegare i castellari in un unico itinerario» (sostituito con l'itinerario «Il sistema dei Castellari» delle NTA).
+- Patrimonio: Castellare di Sant'Angelo «forse un vicus romano rioccupato in età longobarda» (S033 conferma solo i muri spessi 1,50 m).
+- Patrimonio: sorgente di Matroia collocata in età etrusca (S036 dice solo «nell'antichità», senza ritrovamenti).
+- Patrimonio: ville e fattorie organizzate «tra Sei e Ottocento» da famiglie e ordini religiosi; «diverse sono tutelate da vincolo».
+- Patrimonio: vasi del I secolo a.C. «al Museo archeologico di Arezzo» (già nella sezione 10; corretto).
+- Patrimonio: Tribbio in età romana senza «forse» (corretto in «forse di età romana»).
+- Geografia: «prime colline dell'Appennino» (corretto in «Preappennini toscani»).
+- Geografia: collina «caratterizzata da piccoli borghi fortificati»; pianura «coltivata in modo intensivo»; «agricoltura intensiva» che arriva «fino alla base delle colline».
+- Geografia: terrazzamenti «sostenuti da muri in pietra».
+- Geografia: residenti di Cornia e Gebbia «tra le case sparse».
+- Geografia: la Riserva di Ponte a Buriano e Penna «a nord» del comune.
+- Geografia: «fitta rete di borri e fossi»; «grande opera di bonifica»; corsi d'acqua «più volte regimati».
+- Del Tongo «grande fabbrica» (lavoro-e-sapori): dimensioni senza fonte; ora «un'azienda storica che non c'è più».
+- Del Tongo «ha segnato l'economia della piana e anche la storia del ciclismo» (lavoro-e-sapori): giudizio senza fonte.
+- Il Comune e Slow Food «costruiscono buona parte del calendario delle feste» (lavoro-e-sapori): enfasi senza fonte; ora «diversi appuntamenti dell'anno».
+- Bianco Vergine: «altre fonti» il 1970 (lavoro-e-sapori): il 1970 viene solo da Vinoway; ora è nominata.
+- Tavarnesi «già assessore nella precedente giunta Menchetti» (amministrazione): nessuna fonte.
+- «dott.ssa» Rosalba Guarino (amministrazione): Wikipedia dice «commissario prefettizio».
+- Quiz «due per ogni argomento» (quiz): inesatto, con 15 domande e 7 categorie; ora «almeno due».
+- Consulta dello Sport, «lettera del 17 giugno 2026» (fonti): il registro dice 27 giugno 2026.
+- Ruderi Medievali (ruderimedievali.altervista.org) tra le fonti (fonti.html, frazioni/tuori.html): nessuna sua notizia è rimasta sul sito.
+- «Confrontando ogni affermazione» (fonti): affermazione eccessiva.
+- «L'albo delle associazioni non è pubblicato online»: è una deduzione, nessuna fonte lo dice.
+- «La storia sportiva del comune passa per il ciclismo»: è un giudizio dell'autore, senza fonte.
+- Campetti polivalenti di via dei Boschi (Pieve al Toppo) e di via Morandi (Albergo) presentati come impianti già esistenti: secondo la fonte i lavori sono in corso.
+- Pro Loco come organizzatrice del Sarapino: nessuna fonte dice che lo organizza; resta solo come contatto dell'evento.
+- Oliveto «in posizione dominante sulla Val di Chiana» e «storia sorprendentemente internazionale»: nessuna fonte.
+- Muriel Spark a Oliveto «dagli anni Settanta» e Penelope Jardine «artista»: NON PRESENTE nei notebook.
+- Circolo di lettura su Muriel Spark «alla Biblioteca comunale di Badia al Pino»: il luogo non è confermato (il circolo sì).
+- Presepe di Oliveto: «antiche botteghe» e «percorso illuminato da torce, tra gli olivi fuori dalle mura»: non nelle fonti.
+- Sagra della Bistecca «alla grande griglia»: la fonte dice «alla griglia».
+- Castellare di Sant'Angelo «forse resti di un vicus romano rioccupato in età longobarda», con tegole e vasi tardo-romani e una piccola macina: non confermato (S033 descrive solo i muri).
+- Castellare di Sant'Angelo nel «sistema fortificato della Val di Chiana settentrionale»: non confermato (resta solo l'itinerario «Il sistema dei Castellari» del PS).
+- «Fonte della Cornia»: non trovata nelle fonti.
+- Parco di Cornia «con sentieri e punti di avvistamento della fauna»: non confermato.
+- Montoto «monte sicuro»: traduzione dell'autore attribuita al Repetti, che scrive solo «(Mons tutus)».
+- Gebbia «stesso metodo usato … a Cornia»: smentito dall'Atlante (a Cornia il massacro fu indiscriminato).
+- Gebbia «due bambini di uno e tre anni»: incompleto; l'Atlante elenca tre bambini (1, 3 e 7 anni).
+- Gebbia «Le fonti disponibili non documentano origini medievali né edifici storici»: deduzione dell'autore, sostituita.
+- Viciomaggio: «Storicamente ha avuto funzioni agricole e commerciali, grazie alla sua posizione lungo il percorso tra Arezzo e Civitella» (nessuna fonte; con la frase è caduto anche il link a civitella.html).
+- Tegoleto: «storicamente dedito all'agricoltura» (deduzione, nessuna citazione).
+- Tegoleto: «privilegi imperiali» (quello del 1196 è di Filippo duca di Toscana: ora sono elencati per nome).
+- Festa al Tegoleto «con luna park, ballo e fuochi d'artificio» (le fonti dicono solo stand gastronomici e bar-pizzeria).
+- Spoiano: «in posizione panoramica e circondata dal paesaggio collinare» (anche «panoramica» nella meta description).
+- Villa Pecchioli: «una cisterna e un pozzo» (N1: cisterna NON PRESENTE; quella delle fonti è nel capoluogo).
+- Villa Pecchioli: «un piccolo campanile a vela al centro della facciata» (non è nella scheda C055).
+- Libro di Renzetti: «dell'avvocato aretino», «racconto della vita contadina e della saggezza popolare della Valdichiana attraverso la figura del padre dell'autore, Francesco detto “Didi”» (non registrati).
+- Tuori: «a guardia della Val di Chiana e della Valdambra» (sottotitolo; non confermato).
+- Pieve al Toppo: la pieve definita «chiesa parrocchiale di campagna costruita in posizione elevata» (nessuna fonte).
+- Battaglia del 1288: imboscata ai senesi «che rientravano verso casa», aretini «in inferiorità numerica» che «ne fecero strage» (le fonti dicono solo che i senesi furono sorpresi e sconfitti; il Repertorio dà agli aretini 2000 fanti e 300 cavalieri).
+- Pieve al Toppo «celebre» o «famosa» per la battaglia e terra sigillata «celebre ceramica rossa»: giudizi senza fonte.
+- Pieve a Maiano «ai confini con il comune di Arezzo» (oggi): nessuna fonte. C'è solo il Repetti sul 1833.
+- Pieve a Maiano «abitata da tempi remotissimi»: enfasi senza fonte.
+- Sagra del Cinghiale «su due lunghi fine settimana»: tolto «lunghi».
+- Ponticino «sviluppato nel fondovalle, lungo le direttrici verso il Valdarno»: deduzione senza fonte.
+- Ponticino: nel 1866 «inaugurato il tratto Montevarchi–Arezzo–Tuoro e completato il primo collegamento ferroviario tra le due città» (non confermato).
+- Referendum 2017: «i due capoluoghi votarono in maggioranza contro» (non confermato).
+- Ponticino «caso singolare di geografia amministrativa»: giudizio.
+- Stazione di Ponticino «oggi servita da treni regionali» (non confermato).
+- Oliveto «in posizione dominante sulla Val di Chiana» e «storia sorprendentemente internazionale»: nessuna fonte.
+- Muriel Spark a Oliveto «dagli anni Settanta», Penelope Jardine «artista», circolo di lettura «alla Biblioteca comunale di Badia al Pino»: non confermati (il circolo sì, il luogo no).
+- Presepe di Oliveto: «antiche botteghe» e «percorso illuminato da torce»: non nelle fonti.
+- Sagra della Bistecca «alla grande griglia»: la fonte dice «alla griglia».

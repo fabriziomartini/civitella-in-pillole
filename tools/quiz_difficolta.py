@@ -263,7 +263,7 @@ CODICI = {
     "e6acc20f": "Pv+",  # Chi fucilò a Ciggiano, il 16 aprile 1944, i partigiani Giovanni Marmo 
     "5b3d98f6": "Pv=",  # Quale luogo della memoria si trova a Civitella, oltre alla «Pietà del 
     "d69a35d2": "-v+",  # Dove si rifugiavano durante la guerra gli abitanti di Viciomaggio?
-    "f6883e41": "-n+",  # Chi era Hazbi Ismail, tra le vittime elencate dall'Atlante per «Cornia
+    "be3e83c9": "-n+",  # Chi era Ismail Harbi, tra le vittime elencate dall'Atlante per «Cornia
     "cdce2f79": "-d=",  # Che cosa ricorda il portale in bronzo di Bino Bini nella chiesa di Civ
     "855aa29c": "-d=",  # Che cosa prevede il Piano Strutturale per la Rocca di Civitella?
     "5290f03d": "-v+",  # Quali stemmi si vedono sul Palazzo Pretorio di Civitella?
@@ -377,7 +377,7 @@ CODICI = {
     "4fc570fa": "Nn+",  # Quante chiese dipendevano dalla pieve del Toppo, secondo il Repetti?
     "84a6f9e7": "-v+",  # A quale Comunità apparteneva Majano nel 1833, secondo il Repetti?
     "845faf36": "Pv+",  # Con quale nome il Repetti chiama la Pieve a Maiano del comune di Civit
-    "bf03cb86": "Pv+",  # Da quale espressione latina deriva il nome di Montoto, secondo il Repe
+    "f5c1d25c": "Pv+",  # Con quale nome latino il Repetti registra Montoto?
     "42bc1e10": "Pv+",  # A quale monastero di Arezzo fu venduto nel 1051 un quarto del castello
     "3bf8e1f2": "Pv+",  # In quale privilegio del 1356 è ricordato il castello di Gaenne?
     "3cb5660e": "-v+",  # A chi pagava ancora un canone annuo, nell'Ottocento, il proprietario d
@@ -386,4 +386,5 @@ CODICI = {
     "60dff0f2": "-n=",  # Come cambiò la popolazione del comune tra il censimento del 1951 e qu
     "ede3b0e0": "Nn=",  # In quale anno fu inaugurata la ferrovia Arezzo–Sinalunga, che ha una 
     "4b7efa1f": "-d+",  # Con quale trazione funzionarono i treni della Arezzo–Sinalunga fin dal
+    "bfaeeba1": "-n+",  # Che funzione aveva nel Medioevo il castello di Tuori, secondo il Reper
 }
