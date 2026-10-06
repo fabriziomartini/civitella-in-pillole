@@ -4541,7 +4541,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "fd4ef637",
 "c": "storia",
-"d": 2,
+"d": 1,
 "q": "Quale di questi comuni fu soppresso e unito a Civitella nel 1774?",
 "a": "Tuori",
 "x": [
@@ -4555,7 +4555,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "79914e1e",
 "c": "storia",
-"d": 2,
+"d": 1,
 "q": "Come era chiamata Civitella per la frequente presenza dei vescovi aretini?",
 "a": "«Civitella del Vescovo»",
 "x": [

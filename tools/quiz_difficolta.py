@@ -361,8 +361,8 @@ CODICI = {
     "fa85de56": "-n=",  # In quale mese si corre il Sarapino a Civitella?
     "ef246798": "Pv+",  # Come si chiama il premio che conquista il rione vincitore del Sarapino
     "37978868": "Pv+",  # Quale podestà di Arezzo assediò e rase al suolo Civitella nel 1252, se
-    "fd4ef637": "-v=",  # Quale di questi comuni fu soppresso e unito a Civitella nel 1774?
-    "79914e1e": "-v=",  # Come era chiamata Civitella per la frequente presenza dei vescovi aret
+    "fd4ef637": "-d=",  # Quale di questi comuni fu soppresso e unito a Civitella nel 1774?
+    "79914e1e": "-d=",  # Come era chiamata Civitella per la frequente presenza dei vescovi aret
     "175fd5fe": "Nn+",  # In quale anno fu firmata nel castello la «Pace di Civitella», secondo 
     "e65747b8": "Pv+",  # Quale di questi è uno dei quattro rioni che corrono il Sarapino?
     "f6ac606f": "Pv=",  # Quale porta di Civitella fu distrutta dalle bombe nel 1944?

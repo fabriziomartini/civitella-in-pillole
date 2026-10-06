@@ -295,10 +295,10 @@ Totale: 330 domande.
 50. [37978868] ●●● `Pv+` **Quale podestà di Arezzo assediò e rase al suolo Civitella nel 1252, secondo la Pro Loco?**  
    ✔ Ildebrando Cacciaconti · ✘ Guido Tarlati · Buonconte da Montefeltro · Niccolò Piccinino  
    _Nel 1252 Civitella capitolò e fu rasa al suolo; il vescovo Guglielmino la fece poi ricostruire con una doppia cerchia di mura._ → `storia.html`
-51. [fd4ef637] ●●○ `-v=` **Quale di questi comuni fu soppresso e unito a Civitella nel 1774?**  
+51. [fd4ef637] ●○○ `-d=` **Quale di questi comuni fu soppresso e unito a Civitella nel 1774?**  
    ✔ Tuori · ✘ Monte San Savino · Lucignano · Bucine  
    _Nel 1774 Pietro Leopoldo unì a Civitella nove piccoli comuni: Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto._ → `storia.html`
-52. [79914e1e] ●●○ `-v=` **Come era chiamata Civitella per la frequente presenza dei vescovi aretini?**  
+52. [79914e1e] ●○○ `-d=` **Come era chiamata Civitella per la frequente presenza dei vescovi aretini?**  
    ✔ «Civitella del Vescovo» · ✘ «Civitella dei Medici» · «Civitella del Papa» · «Civitella dei Conti»  
    _Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra»._ → `storia.html`
 53. [175fd5fe] ●●● `Nn+` **In quale anno fu firmata nel castello la «Pace di Civitella», secondo la Pro Loco?**  
