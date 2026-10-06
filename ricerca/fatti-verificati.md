@@ -872,3 +872,7 @@ Le 25 pagine sono state confrontate frase per frase con questo file. I dettagli 
 - Referendum 2017: «i due capoluoghi votarono in maggioranza contro» (non confermato).
 - Ponticino «caso singolare di geografia amministrativa»: giudizio.
 - Stazione di Ponticino «oggi servita da treni regionali» (non confermato).
+- Oliveto «in posizione dominante sulla Val di Chiana» e «storia sorprendentemente internazionale»: nessuna fonte.
+- Muriel Spark a Oliveto «dagli anni Settanta», Penelope Jardine «artista», circolo di lettura «alla Biblioteca comunale di Badia al Pino»: non confermati (il circolo sì, il luogo no).
+- Presepe di Oliveto: «antiche botteghe» e «percorso illuminato da torce»: non nelle fonti.
+- Sagra della Bistecca «alla grande griglia»: la fonte dice «alla griglia».
