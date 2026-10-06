@@ -338,6 +338,8 @@ Composizione verificata sulla pagina ufficiale del Comune «Esplora Politici» (
 |---|---|---|---|
 | Sindaco Andrea Tavarnesi; vicesindaco Gian Luca Lucchetti; assessori Ivano Capacci, Claudia Del Tongo, Serena Nardi | Comune, Esplora Politici | R | media |
 | Ginetta Menchetti è presidente del consiglio comunale | Comune, Esplora Politici | R | media |
+| Andrea Tavarnesi è il sindaco (pagina «Organi di governo → Sindaco», aggiornata il 16-09-2025) | Comune | R | media |
+| Il Comune ha sede in via Settembrini 21, a Badia al Pino (piè di pagina del sito del Comune) | Comune | R | bassa |
 | Consiglieri di maggioranza: Menchetti, Donati, Fabbriciani, Lanini, Ortaggi, Randellini, Terrazzi, Zeffiri (8) | Comune, Esplora Politici | R | bassa |
 | Consiglieri di minoranza: Badii, Migliore, Moretti, Veneri (4) | Comune, Esplora Politici | R | bassa |
 | Nomi delle liste ed esiti elettorali 2021 | tuttitalia.it | W | bassa |
