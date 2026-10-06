@@ -6,6 +6,7 @@ Questo file è la base certa del sito (e del futuro quiz): un fatto per riga, co
 - **R**: confermato nella revisione frase per frase, con citazione esatta (il livello più alto).
 - **N**: confermato dai notebook (N1, N2, N3) nei giri di verifica precedenti.
 - **W**: confermato da fonti web o di cronaca, senza notebook.
+- **V**: detto nel video istituzionale del Comune (YouTube y8NjZjTpmsQ, circa 2019), con la frase controllata dall'utente nella trascrizione di YouTube. Fonte ufficiale ma parlata e unica: sul sito va sempre attribuita («secondo il video istituzionale del Comune») e non entra nel quiz finché non c'è una fonte scritta.
 - **U**: confermato dall'utente per conoscenza diretta (ammesso solo per fatti noti e facilmente verificabili).
 - **⚠**: presente sul sito ma non ancora confermato. Va nella revisione ridotta (`revisione-ridotta.md`).
 
@@ -351,6 +352,16 @@ Correzione: in precedenza il sito metteva per errore Luca Zeffiri all'opposizion
 
 ---
 
+## 8b. Dal video istituzionale del Comune (livello V)
+
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| Gli statuti di dogana della Repubblica fiorentina del 1461 indicavano Ciggiano come tappa obbligatoria per i mercanti | video del Comune (trascrizione controllata) | V | alta |
+| La Sala della Memoria fu realizzata nel 2004 per volontà dei familiari delle vittime, riuniti in «Civitella Ricorda», in collaborazione con l'amministrazione comunale | video del Comune | V | alta |
+| Villa Oliveto ospita dal 2001 un centro di documentazione, con il contributo e il patrocinio dell'Unione europea | video del Comune | V | media |
+
+**Detti nel video ma da verificare su fonti scritte (non sul sito):** nel 917 Berengario concede Civitella in feudo a Uguccione «marchese di Toscana»; intorno al 1000 Civitella passa ai vescovi di Arezzo come capoluogo del viscontado di Valdambra; nel 1252 Aldobrandino Cacciaconti distrugge Civitella e Guglielmino Ubertini la ricostruisce in 7-8 anni; rocca longobarda del VI-VII secolo a pianta quadrangolare; Madonna robbiana sulla Porta Senese; Museo della vite e del vino a Ciggiano; Galleria d'arte moderna con oltre 100 quadri; Premio nazionale «Città di Civitella» biennale (pittura e scultura); circa il 70% della popolazione in pianura.
+
 ## 9. Divergenze tra fonti (da NON usare nel quiz)
 
 | Tema | Versioni | Scelta sul sito |
@@ -365,6 +376,9 @@ Correzione: in precedenza il sito metteva per errore Luca Zeffiri all'opposizion
 | Titolo della chiesa di Tuori | Diocesi: Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
 | Altitudine del capoluogo | 500 m (testo di Wikipedia, ToscanaNovecento), 525 m (scheda di Wikipedia), 600 m (guida turistica) | «circa 500 m» |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
+| Vittime a Civitella, 29 giugno 1944 | Video del Comune: «circa 170 civili»; ToscanaNovecento: 115; Atlante: 146 (con Cornia e Gebbia) | restano le versioni scritte; il 170 non si usa |
+| Fondazione di Oliveto | Video del Comune: borgo fortificato fondato «attorno al 1385»; Repertorio: castello ricordato già nel XII secolo | quella del Repertorio |
+| Villa Oliveto | Video del Comune: «costruita intorno al 1937»; Regione e Wikipedia: dimora dei Barbolani di Montauto rimaneggiata nell'Ottocento | quella scritta; il 1937 non si usa |
 
 ---
 
@@ -403,7 +417,6 @@ Correzione: in precedenza il sito metteva per errore Luca Zeffiri all'opposizion
 - Fondaccio.
 - Torrione presso la Porta Nord di Oliveto.
 - «Scultore fiorentino» per Bino Bini.
-- Sala della Memoria «inaugurata nel 2004».
 - «Crostini neri al vinsanto».
 - «Ai piedi dell'Appennino».
 - «Fascia 250–350 m».
