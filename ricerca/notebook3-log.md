@@ -211,3 +211,21 @@ Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11
   - **Sul sito:** "una terza in località Le Caserosse, nella pianura tra Viciomaggio e Pieve al Toppo".
   - **Aziende insediate:** non presenti nelle fonti.
   - **Non usato sul sito:** la fermata ferroviaria e la variante sono solo previsioni del Piano; che il comparto Del Tongo sia "a Tegoleto" è una deduzione del notebook dall'indirizzo di via Aretina Nord (il collegamento tra Del Tongo e Tegoleto è già documentato da Wikipedia); la zona isolata Chimet non viene localizzata con precisione.
+
+## Geografia e "Colline delle Lepri" (6/10/2026)
+- **"Colline delle Lepri": TOLTO.** Era nella pagina Geografia e nella scheda di Civitella, ma non compare in nessuna fonte del registro e la ricerca web non dà riscontri. Probabile allucinazione di una versione precedente del sito. Tolto anche "ai piedi dell'Appennino", per lo stesso motivo.
+- **Superficie 100,33 km² e zona climatica E:** riportate da Tuttitalia e Wikipedia (ricerca web). Aggiunte alla pagina Geografia in un riquadro "In breve" al posto della nota "verranno aggiunti in una prossima iterazione".
+- **Da verificare con il notebook:** "15 km a sud-ovest di Arezzo", "tra Valdambra e Valdichiana", fascia altimetrica 250–350 m, comuni confinanti, corsi d'acqua.
+- **Prompt di geografia (notebook 3):**
+  - **"Colline delle lepri":** l'unica fonte è **Wikipedia** ("Civitella sorge nelle colline delle lepri 500 m s.l.m., 15 km a sud-ovest di Arezzo"). Né il Piano né il Comune la usano: il Repertorio (scheda T002) parla del "colle di Civitella tra Valdambra e Valdichiana". La mia ricerca web non l'aveva trovata, ma la frase c'è. Decisione: **resta fuori**, perché la riporta una sola fonte non ufficiale. Sul sito resta "il colle che separa la Valdambra dalla Valdichiana" (Repertorio).
+  - **Confermati e usati:**
+    - 15 km a sud-ovest di Arezzo (Wikipedia);
+    - comuni confinanti Arezzo, Bucine, Laterina Pergine Valdarno e Monte San Savino (Wikipedia e Cittaslow);
+    - centri abitati tra circa 300 e 600 m (Cittaslow);
+    - zona climatica E, 2.269 gradi giorno (Wikipedia);
+    - l'Arno, primo comune dopo il Salto della Penna (Wikipedia);
+    - torrenti Esse, Leprone, Trove e Lota e la bonifica (Relazione generale C1.1);
+    - colture: oliveti terrazzati o ciglionati e boschi in collina; seminativi, frutteti e vigneti in pianura (C1.1, NTA art. 38).
+  - **Tolto:** la fascia "250–350 m" della pianura, che non ha fonte.
+  - **Altitudine del capoluogo:** Wikipedia dice 525 m nella scheda e 500 m nel testo; una guida turistica dice 600 m. Sul sito resta "circa 500 m".
+- **Arno:** l'utente ha chiesto cosa c'entri l'Arno. La frase di Wikipedia ("il primo comune che l'Arno incontra dopo il Salto della Penna") è ambigua e l'ho tolta. È invece confermato che la Riserva di Ponte a Buriano e Penna (665 ha, circa 7 km lungo l'Arno da Ponte a Buriano alla diga della Penna) si estende nei comuni di **Arezzo, Civitella in Val di Chiana e Laterina** (parks.it). Il comune comprende quindi una parte della riserva; NON è dimostrato che il fiume attraversi il comune o ne segni il confine. Sul sito ora c'è: "una parte del territorio comunale rientra nella Riserva", senza dire se il fiume attraversi il comune o ne segni il confine, con il rimando a Pieve a Maiano, che il Piano indica come porta d'accesso meridionale della riserva.
