@@ -365,3 +365,8 @@ q(g,"Da che cosa deriva la pianura della Val di Chiana?","Dal prosciugamento di 
 
 # --- Dalla guida turistica ufficiale Valdichiana Aretina ---
 q(f,"Che cosa raccoglie la Pinacoteca di Civitella?","Dipinti e sculture d'arte contemporanea, dagli anni Settanta a oggi",["Reperti etruschi e romani","Arte sacra medievale","Attrezzi della civiltà contadina"],"La Pinacoteca d'arte contemporanea ospita dipinti e sculture dai primi anni Settanta alle opere degli artisti di oggi.",F+"civitella.html")
+
+# --- Dalla pagina della Pro Loco sul Sarapino ---
+q(t,"Che cosa sostituisce il cavallo nel Sarapino di Civitella?","L'Ape, il motocarro",["Un asino", "Una bicicletta", "Un trattore"],"Il Sarapino è il Saracino corso con l'Ape, il mezzo a motore più diffuso nelle campagne del recente passato.",F+"civitella.html")
+q(t,"Quando si corre il Sarapino a Civitella?","La seconda domenica di giugno",["Il 29 giugno", "La prima domenica di settembre", "A Carnevale"],"Il Sarapino si svolge la seconda domenica di giugno, organizzato dalla Pro Loco.",F+"civitella.html")
+q(t,"Come si chiama il premio che conquista il rione vincitore del Sarapino?","Il «Retribuet»",["Il «Palio»", "Il «Masgalano d'oro»", "La «Lancia d'oro»"],"I quattro rioni corrono tre carriere ciascuno contro il buratto per conquistare il Retribuet; il Masgalano premia invece il portamento.",F+"civitella.html")

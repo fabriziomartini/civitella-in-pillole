@@ -4481,5 +4481,47 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "La Pinacoteca d'arte contemporanea ospita dipinti e sculture dai primi anni Settanta alle opere degli artisti di oggi.",
 "l": "frazioni/civitella.html"
+},
+{
+"id": "8f738c40",
+"c": "feste",
+"d": 1,
+"q": "Che cosa sostituisce il cavallo nel Sarapino di Civitella?",
+"a": "L'Ape, il motocarro",
+"x": [
+"Un asino",
+"Una bicicletta",
+"Un trattore"
+],
+"s": "Il Sarapino è il Saracino corso con l'Ape, il mezzo a motore più diffuso nelle campagne del recente passato.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "66d1d493",
+"c": "feste",
+"d": 2,
+"q": "Quando si corre il Sarapino a Civitella?",
+"a": "La seconda domenica di giugno",
+"x": [
+"Il 29 giugno",
+"La prima domenica di settembre",
+"A Carnevale"
+],
+"s": "Il Sarapino si svolge la seconda domenica di giugno, organizzato dalla Pro Loco.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "ef246798",
+"c": "feste",
+"d": 3,
+"q": "Come si chiama il premio che conquista il rione vincitore del Sarapino?",
+"a": "Il «Retribuet»",
+"x": [
+"Il «Palio»",
+"Il «Masgalano d'oro»",
+"La «Lancia d'oro»"
+],
+"s": "I quattro rioni corrono tre carriere ciascuno contro il buratto per conquistare il Retribuet; il Masgalano premia invece il portamento.",
+"l": "frazioni/civitella.html"
 }
 ];

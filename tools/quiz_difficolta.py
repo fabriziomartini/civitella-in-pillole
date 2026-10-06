@@ -357,4 +357,7 @@ CODICI = {
     "2368801b": "-v=",  # Secondo il piano paesaggistico regionale, che cosa separa il monte di 
     "cb9f19ff": "-d=",  # Da che cosa deriva la pianura della Val di Chiana?
     "1447e0cc": "-d=",  # Che cosa raccoglie la Pinacoteca di Civitella?
+    "8f738c40": "-d-",  # Che cosa sostituisce il cavallo nel Sarapino di Civitella?
+    "66d1d493": "-v+",  # Quando si corre il Sarapino a Civitella?
+    "ef246798": "Pv+",  # Come si chiama il premio che conquista il rione vincitore del Sarapino
 }
