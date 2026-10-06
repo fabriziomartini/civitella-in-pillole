@@ -160,7 +160,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Le chiese di Santa Maria (1635) e di San Pietro (1836) sono a Ciggiano, non ad Albergo | Discover Arezzo | N | alta |
 | Parrocchia di San Biagio | Annuario della Diocesi | N | alta |
 | Festa dell'uva, del vino e dell'olio, organizzata dalla Pro Loco di Ciggiano: 49ª edizione nel 2026 | ArezzoTv, Sagre Toscane | N | media |
-| Ha una banda, la Società Filarmonica Ciggiano APS | RUNTS | N | bassa |
+| Ha una banda, la Società Filarmonica Ciggiano APS | RUNTS | N | media |
 
 ### Cornia
 | Fatto | Fonte | Liv. | Ril. |
