@@ -5,7 +5,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "5a86694d",
 "c": "geo",
-"d": 2,
+"d": 3,
 "q": "Quanti residenti contava il comune al censimento ISTAT del 2021?",
 "a": "8.814",
 "x": [
@@ -19,7 +19,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ebc792a8",
 "c": "geo",
-"d": 1,
+"d": 2,
 "q": "Qual è il centro abitato più popoloso del comune?",
 "a": "Pieve al Toppo",
 "x": [
@@ -61,7 +61,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e4b714c5",
 "c": "geo",
-"d": 2,
+"d": 1,
 "q": "Dove si trova Civitella in Val di Chiana rispetto ad Arezzo?",
 "a": "A circa 15 km a sud-ovest",
 "x": [
@@ -103,7 +103,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4746e93c",
 "c": "geo",
-"d": 2,
+"d": 1,
 "q": "Su quali colline sorge il capoluogo storico, secondo Wikipedia e ToscanaNovecento?",
 "a": "Le Colline delle Lepri",
 "x": [
@@ -117,7 +117,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "fea6dfb9",
 "c": "geo",
-"d": 1,
+"d": 2,
 "q": "A quale altitudine sorge, all'incirca, il borgo di Civitella?",
 "a": "Circa 500 metri",
 "x": [
@@ -145,7 +145,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "75a8fc8f",
 "c": "geo",
-"d": 2,
+"d": 1,
 "q": "Quale di questi torrenti scorre nel territorio comunale?",
 "a": "L'Esse",
 "x": [
@@ -159,7 +159,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e2f25241",
 "c": "geo",
-"d": 1,
+"d": 2,
 "q": "Una parte del territorio comunale rientra in quale riserva naturale?",
 "a": "Ponte a Buriano e Penna",
 "x": [
@@ -187,7 +187,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "96d34023",
 "c": "geo",
-"d": 3,
+"d": 2,
 "q": "Quale frazione il Piano Strutturale indica come «porta d'accesso» meridionale alla Riserva di Ponte a Buriano e Penna?",
 "a": "Pieve a Maiano",
 "x": [
@@ -341,7 +341,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d6478a7e",
 "c": "storia",
-"d": 3,
+"d": 1,
 "q": "Che aspetto aveva la rocca di Civitella nel 1182, secondo il Repertorio del Piano?",
 "a": "Quello di un palazzo-torrione",
 "x": [
@@ -355,7 +355,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "2fd2d624",
 "c": "storia",
-"d": 2,
+"d": 3,
 "q": "In quale anno Firenze fece di Civitella il capoluogo di una propria podesteria?",
 "a": "1385",
 "x": [
@@ -397,7 +397,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "77748394",
 "c": "storia",
-"d": 2,
+"d": 3,
 "q": "In quale anno le comunità di Ciggiano, Viciomaggio e Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella?",
 "a": "1774",
 "x": [
@@ -523,7 +523,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "fb55e686",
 "c": "storia",
-"d": 2,
+"d": 3,
 "q": "In quale anno a Villa Oliveto fu istituito un campo di internamento?",
 "a": "1940",
 "x": [
@@ -537,7 +537,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b5f15efd",
 "c": "storia",
-"d": 2,
+"d": 1,
 "q": "Chi era internato soprattutto nel campo di Villa Oliveto?",
 "a": "Famiglie ebree britanniche provenienti dalla Libia",
 "x": [
@@ -565,7 +565,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "bebf7d33",
 "c": "storia",
-"d": 1,
+"d": 2,
 "q": "Da quale espressione latina deriva il nome di Viciomaggio?",
 "a": "Vicus maior",
 "x": [
@@ -579,7 +579,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "26c46d87",
 "c": "storia",
-"d": 2,
+"d": 1,
 "q": "Di quale origine è, quasi sicuramente, il toponimo «Toppo»?",
 "a": "Longobarda",
 "x": [
@@ -593,7 +593,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d150c402",
 "c": "storia",
-"d": 2,
+"d": 1,
 "q": "Da che cosa deriva il nome «Maiano»?",
 "a": "Dal nome di un proprietario romano, probabilmente un Marius",
 "x": [
@@ -621,7 +621,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "3e37b695",
 "c": "1944",
-"d": 1,
+"d": 2,
 "q": "In quale data avvenne la strage nazista di Civitella?",
 "a": "29 giugno 1944",
 "x": [
@@ -705,7 +705,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d650b33d",
 "c": "1944",
-"d": 1,
+"d": 2,
 "q": "Dove arriva la Marcia per la pace che parte da Civitella?",
 "a": "A San Pancrazio",
 "x": [
@@ -761,7 +761,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "471dce11",
 "c": "1944",
-"d": 2,
+"d": 3,
 "q": "In quale anno fu realizzato il portale in bronzo di Bino Bini per la chiesa di Civitella?",
 "a": "1994",
 "x": [
@@ -817,7 +817,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "24c8d8bd",
 "c": "1944",
-"d": 3,
+"d": 2,
 "q": "Chi era Giovanni Cau, catturato a Gebbia nel 1944?",
 "a": "Un insegnante di scienze naturali e autore di testi scolastici",
 "x": [
@@ -873,7 +873,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e6beb218",
 "c": "frazioni",
-"d": 2,
+"d": 3,
 "q": "Quale santo è titolare delle parrocchie sia di Ciggiano sia di Tegoleto?",
 "a": "San Biagio",
 "x": [
@@ -985,7 +985,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "b555e58c",
 "c": "frazioni",
-"d": 3,
+"d": 2,
 "q": "A quale scultore è attribuita la Santa Maria Maddalena della chiesa di San Biagio a Ciggiano?",
 "a": "Andrea Sansovino",
 "x": [
@@ -1027,7 +1027,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "264f4207",
 "c": "frazioni",
-"d": 2,
+"d": 1,
 "q": "Quale attività artigianale esisteva un tempo a Cornia?",
 "a": "La lavorazione delle scope di saggina",
 "x": [
@@ -1069,7 +1069,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "d02d06cf",
 "c": "frazioni",
-"d": 3,
+"d": 2,
 "q": "Di quale famiglia fu dimora Villa Oliveto, già Villa Mazzi?",
 "a": "I conti Barbolani di Montauto",
 "x": [
@@ -1125,7 +1125,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4570545d",
 "c": "frazioni",
-"d": 2,
+"d": 3,
 "q": "Da quale anno si tiene il Presepe Vivente di Oliveto?",
 "a": "2014",
 "x": [
@@ -1139,7 +1139,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "605f6a96",
 "c": "frazioni",
-"d": 2,
+"d": 1,
 "q": "Dove è allestita la Natività del Presepe Vivente di Oliveto?",
 "a": "Nella chiesetta di San Rocco",
 "x": [
@@ -1209,7 +1209,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ac4c5d0d",
 "c": "frazioni",
-"d": 3,
+"d": 2,
 "q": "Da quale anno Ponticino ha una stazione ferroviaria?",
 "a": "1866",
 "x": [
@@ -1237,7 +1237,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "1938aa25",
 "c": "frazioni",
-"d": 2,
+"d": 3,
 "q": "In quale anno un referendum approvò la fusione tra Laterina e Pergine Valdarno, che riguarda anche Ponticino?",
 "a": "2017",
 "x": [
@@ -1293,7 +1293,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "bd1eb40f",
 "c": "frazioni",
-"d": 3,
+"d": 2,
 "q": "Quale paese è al centro del libro «Un uomo dabbene per davvero» di Giuseppe Renzetti?",
 "a": "Spoiano",
 "x": [
@@ -1377,7 +1377,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c1817196",
 "c": "frazioni",
-"d": 1,
+"d": 2,
 "q": "Chi vinse la tappa del Giro d'Italia arrivata a Tegoleto nel 2004?",
 "a": "Alessandro Petacchi",
 "x": [
@@ -1433,7 +1433,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "daf0e244",
 "c": "frazioni",
-"d": 2,
+"d": 1,
 "q": "Quale strada romana passava da Albergo, secondo l'itinerario del Comune?",
 "a": "Una via municipalis unita a un ramo della Cassia",
 "x": [
@@ -1447,7 +1447,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "cc15f4f6",
 "c": "frazioni",
-"d": 1,
+"d": 2,
 "q": "A quale ordine religioso apparteneva il priorato da cui nacque la chiesa di Santa Maria Assunta a Civitella?",
 "a": "Benedettino",
 "x": [
@@ -1517,7 +1517,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4881de19",
 "c": "frazioni",
-"d": 2,
+"d": 1,
 "q": "In quale piazza di Civitella si trova la cisterna medievale?",
 "a": "Piazza Lazzeri",
 "x": [
@@ -1559,7 +1559,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e4363716",
 "c": "borghi",
-"d": 2,
+"d": 1,
 "q": "Che cosa c'è oggi a Matroia, secondo il Piano Strutturale?",
 "a": "Un allevamento di cavalli",
 "x": [
@@ -1587,7 +1587,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ec3b56a5",
 "c": "borghi",
-"d": 2,
+"d": 3,
 "q": "In quale anno il castello di Montoto passò da Arezzo a Firenze?",
 "a": "1385",
 "x": [
@@ -1601,7 +1601,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "ba3dff5e",
 "c": "borghi",
-"d": 2,
+"d": 1,
 "q": "Che cosa resta sulla cima di Poggio Castellare?",
 "a": "Una cinta muraria ellittica a secco",
 "x": [
@@ -1615,7 +1615,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f06a2f2d",
 "c": "borghi",
-"d": 2,
+"d": 1,
 "q": "Da che cosa deriva il nome di Montarfoni?",
 "a": "Da «Monte di Arfo», un antico proprietario germanico",
 "x": [
@@ -1657,7 +1657,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "961f484f",
 "c": "borghi",
-"d": 2,
+"d": 1,
 "q": "Che cosa è la torre di Dorna, ricordata dal 1198?",
 "a": "La parte più antica rimasta integra del castello",
 "x": [
@@ -1699,7 +1699,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f59b9207",
 "c": "borghi",
-"d": 2,
+"d": 1,
 "q": "Come descrisse Firenze il castello di Gaenne prima di ordinarne la distruzione?",
 "a": "«Un forte castello di sito e di muro»",
 "x": [
@@ -1741,7 +1741,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "e4fa556c",
 "c": "borghi",
-"d": 2,
+"d": 3,
 "q": "In quale materiale è il cippo romano trovato a Le Fosse?",
 "a": "Travertino",
 "x": [
@@ -2007,7 +2007,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "fd5f1067",
 "c": "economia",
-"d": 1,
+"d": 2,
 "q": "Come si chiama il progetto di educazione alimentare che Slow Food porta nelle scuole del comune?",
 "a": "Orto in Condotta",
 "x": [
@@ -2161,7 +2161,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "642f3ac8",
 "c": "feste",
-"d": 2,
+"d": 1,
 "q": "Quando si tiene la Fiera del Miele di Pieve al Toppo?",
 "a": "La prima domenica di ottobre",
 "x": [
@@ -2189,7 +2189,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "f220d5ea",
 "c": "feste",
-"d": 1,
+"d": 2,
 "q": "Dove si tiene il Mercato del Cacio?",
 "a": "Nel borgo di Civitella",
 "x": [
@@ -2273,7 +2273,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "253c5d99",
 "c": "feste",
-"d": 2,
+"d": 1,
 "q": "Dove si svolgono le proiezioni di Cinema sotto le Stelle?",
 "a": "In piazza della Chiesa a Tegoleto",
 "x": [
@@ -2315,7 +2315,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "20356cbe",
 "c": "feste",
-"d": 1,
+"d": 2,
 "q": "In quale frazione si tiene il Presepe Vivente?",
 "a": "Oliveto",
 "x": [
@@ -2357,7 +2357,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "909f8526",
 "c": "feste",
-"d": 2,
+"d": 1,
 "q": "Di quale sport si occupa la Polisportiva Albergo Oliveto con i più giovani?",
 "a": "Ciclismo",
 "x": [
@@ -2371,7 +2371,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "410b1cb5",
 "c": "storia",
-"d": 3,
+"d": 2,
 "q": "In quale anno il titolo di pieve e il fonte battesimale passarono dalla Pieve al Toppo a Badia al Pino?",
 "a": "1502",
 "x": [
@@ -2399,7 +2399,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "7a384985",
 "c": "storia",
-"d": 3,
+"d": 2,
 "q": "In quale anno furono distrutti la pieve e l'ospedale per i pellegrini di Pieve al Toppo?",
 "a": "1502",
 "x": [
@@ -2413,7 +2413,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "cb2abf6f",
 "c": "storia",
-"d": 2,
+"d": 1,
 "q": "Sotto quali valichi si trova Ciggiano, che ne fecero un nodo strategico?",
 "a": "Palazzuolo e San Pancrazio",
 "x": [
@@ -2427,7 +2427,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "96a6f855",
 "c": "storia",
-"d": 2,
+"d": 1,
 "q": "Che cos'era la «calla» che i pastori facevano a Ciggiano?",
 "a": "La conta degli animali, con il pagamento della gabella",
 "x": [
@@ -2511,7 +2511,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "8bc58b2b",
 "c": "frazioni",
-"d": 3,
+"d": 2,
 "q": "In quale frazione si trova Palazzo Santini-Paccinelli, villa settecentesca simmetrica rispetto alla scala centrale?",
 "a": "Badia al Pino",
 "x": [
@@ -2567,7 +2567,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "4bfffd85",
 "c": "frazioni",
-"d": 3,
+"d": 2,
 "q": "Chi fuse nel 1358 la campana oggi nel campanile della chiesa di Pieve a Maiano?",
 "a": "Neri d'Arezzo",
 "x": [
@@ -2637,7 +2637,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c5767706",
 "c": "frazioni",
-"d": 1,
+"d": 2,
 "q": "Che cosa c'è nel recinto d'accesso al Palatium-torre della Rocca di Civitella?",
 "a": "La cisterna per la raccolta dell'acqua",
 "x": [
@@ -2693,7 +2693,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "38fd6d61",
 "c": "geo",
-"d": 2,
+"d": 1,
 "q": "Che cosa è stato trovato nel 2004 in località La Cascinella, presso Ciggiano?",
 "a": "Tracce di un insediamento etrusco e romano",
 "x": [
@@ -2707,7 +2707,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "c7eef4ea",
 "c": "geo",
-"d": 2,
+"d": 1,
 "q": "Secondo Visit Tuscany, che cosa è stato trovato nella chiesa di San Pietro a Ciggiano?",
 "a": "Reperti con iscrizioni etrusche",
 "x": [
@@ -2721,7 +2721,7 @@ window.QUIZ_DOMANDE = [
 {
 "id": "eab967e7",
 "c": "geo",
-"d": 1,
+"d": 2,
 "q": "Fino a che spessore arrivano i muri del Castellare di Sant'Angelo, presso Cornia?",
 "a": "Circa un metro e mezzo",
 "x": [
@@ -2773,5 +2773,1363 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Il Piano prevede il Parco Faunistico Naturalistico, l'ANPIL di Cornia e un centro servizi negli edifici inutilizzati del borgo.",
 "l": "frazioni/cornia.html"
+},
+{
+"id": "20b4867a",
+"c": "geo",
+"d": 1,
+"q": "Tra quali località si estende il tratto dell'Arno protetto dalla Riserva naturale di Ponte a Buriano e Penna?",
+"a": "Tra Ponte a Buriano e la diga della Penna",
+"x": [
+"Tra Firenze e Pontassieve",
+"Tra Stia e Poppi",
+"Tra Empoli e Pisa"
+],
+"s": "La Riserva protegge il tratto dell'Arno tra Ponte a Buriano e la diga della Penna.",
+"l": "geografia.html"
+},
+{
+"id": "848435e4",
+"c": "geo",
+"d": 2,
+"q": "Tra quali quote si trovano i centri abitati del comune, secondo Cittaslow?",
+"a": "Tra circa 300 e 600 metri",
+"x": [
+"Tra 0 e 100 metri",
+"Tra 800 e 1.200 metri",
+"Tra 1.200 e 1.500 metri"
+],
+"s": "I centri abitati del comune stanno tra circa 300 e 600 metri di quota.",
+"l": "geografia.html"
+},
+{
+"id": "4298beed",
+"c": "geo",
+"d": 1,
+"q": "La pianura del comune è la parte settentrionale di quale valle?",
+"a": "La Val di Chiana",
+"x": [
+"Il Valdarno",
+"La Val d'Orcia",
+"Il Casentino"
+],
+"s": "Il territorio ha una zona collinare e una di pianura, che è la parte settentrionale della Val di Chiana.",
+"l": "geografia.html"
+},
+{
+"id": "a852afc3",
+"c": "geo",
+"d": 1,
+"q": "Quale di questi è uno dei torrenti principali del comune, insieme a Esse, Trove e Lota?",
+"a": "Il Leprone",
+"x": [
+"L'Arbia",
+"La Merse",
+"Il Bisenzio"
+],
+"s": "I torrenti principali sono Esse, Leprone, Trove e Lota.",
+"l": "geografia.html"
+},
+{
+"id": "4d63ebae",
+"c": "geo",
+"d": 3,
+"q": "Quanti residenti contava Pieve al Toppo, il centro più popoloso del comune, al censimento del 2021?",
+"a": "1.545",
+"x": [
+"545",
+"3.545",
+"6.200"
+],
+"s": "Al censimento ISTAT 2021 Pieve al Toppo contava 1.545 residenti, davanti a Tegoleto (1.412).",
+"l": "geografia.html"
+},
+{
+"id": "52faadf9",
+"c": "geo",
+"d": 2,
+"q": "Quale centro è il terzo per numero di abitanti, dopo Pieve al Toppo e Tegoleto?",
+"a": "Badia al Pino",
+"x": [
+"Viciomaggio",
+"Ciggiano",
+"Albergo"
+],
+"s": "Al censimento 2021 Badia al Pino contava 1.059 residenti, Viciomaggio 950.",
+"l": "geografia.html"
+},
+{
+"id": "729c801a",
+"c": "geo",
+"d": 3,
+"q": "Quanti residenti contava il borgo di Civitella, il capoluogo storico, al censimento del 2021?",
+"a": "148",
+"x": [
+"1.480",
+"2.300",
+"15"
+],
+"s": "Il borgo storico contava 148 residenti; la maggior parte degli abitanti vive in pianura.",
+"l": "geografia.html"
+},
+{
+"id": "2a6d43b8",
+"c": "geo",
+"d": 2,
+"q": "Quale di queste località era la meno popolosa al censimento del 2021?",
+"a": "Oliveto",
+"x": [
+"Tuori",
+"Spoiano",
+"Albergo"
+],
+"s": "Oliveto contava 15 residenti, Spoiano 120, Tuori 129, Albergo 279.",
+"l": "geografia.html"
+},
+{
+"id": "dc924e7d",
+"c": "geo",
+"d": 2,
+"q": "Quale frazione contava circa 950 residenti al censimento del 2021?",
+"a": "Viciomaggio",
+"x": [
+"Ciggiano",
+"Albergo",
+"Tuori"
+],
+"s": "Viciomaggio contava 950 residenti, Ciggiano 530, Albergo 279, Tuori 129.",
+"l": "geografia.html"
+},
+{
+"id": "3589ff26",
+"c": "geo",
+"d": 2,
+"q": "Di quale epoca sono gli strumenti in pietra trovati al Podere Casella, presso Pieve a Maiano?",
+"a": "Del Paleolitico medio e superiore",
+"x": [
+"Dell'età del bronzo",
+"Dell'età del ferro",
+"Del Neolitico finale"
+],
+"s": "Il Repertorio del Piano segnala al Podere Casella strumenti del Paleolitico medio e superiore.",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "414fd435",
+"c": "geo",
+"d": 2,
+"q": "Dove è stato individuato un insediamento romano del I-II secolo d.C. a Pieve a Maiano?",
+"a": "Al campo sportivo",
+"x": [
+"Sotto la chiesa",
+"Nel cimitero",
+"Lungo la ferrovia"
+],
+"s": "Il Repertorio segnala un insediamento romano al campo sportivo e una fornace a Vallimboi.",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "e19b1b46",
+"c": "geo",
+"d": 3,
+"q": "In quale località di Pieve a Maiano c'era una fornace romana?",
+"a": "Vallimboi",
+"x": [
+"I Ponti",
+"Le Fosse",
+"Tribbio"
+],
+"s": "Vicino all'insediamento romano del campo sportivo c'era la fornace di Vallimboi; le fornaci de I Ponti sono a Pieve al Toppo.",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "aae10fe5",
+"c": "geo",
+"d": 2,
+"q": "Quale ritrovamento attesta l'origine romana di Spoiano?",
+"a": "Un tesoretto di monete romane",
+"x": [
+"Un anfiteatro",
+"Un mosaico pavimentale",
+"Un tratto di acquedotto"
+],
+"s": "A Spoiano è stato trovato un tesoretto di monete romane.",
+"l": "frazioni/spoiano.html"
+},
+{
+"id": "3b033cf0",
+"c": "geo",
+"d": 3,
+"q": "A quale epoca risale l'urna etrusca con iscrizione trovata a Viciomaggio nel 1872?",
+"a": "All'età ellenistica",
+"x": [
+"All'età villanoviana",
+"All'età del bronzo",
+"All'età longobarda"
+],
+"s": "Nel 1872 a Viciomaggio fu trovata un'urna etrusca di età ellenistica con un'iscrizione.",
+"l": "frazioni/viciomaggio.html"
+},
+{
+"id": "1ab2c013",
+"c": "geo",
+"d": 1,
+"q": "Di quale catena collinare è una propaggine la zona collinare del comune?",
+"a": "I Preappennini toscani",
+"x": [
+"Le Alpi Apuane",
+"Il Monte Amiata",
+"Le Colline Metallifere"
+],
+"s": "La parte collinare e di bassa montagna, coperta di boschi, è una propaggine dei Preappennini toscani.",
+"l": "index.html"
+},
+{
+"id": "7a62a739",
+"c": "storia",
+"d": 3,
+"q": "In quale giorno fu combattuta la battaglia di Pieve al Toppo del 1288?",
+"a": "Il 26 giugno",
+"x": [
+"Il 29 giugno",
+"Il 4 luglio",
+"Il 15 agosto"
+],
+"s": "Il 26 giugno 1288 gli aretini ghibellini sconfissero i senesi guelfi.",
+"l": "storia.html"
+},
+{
+"id": "18947b6d",
+"c": "storia",
+"d": 2,
+"q": "Di quale parte erano i senesi sconfitti al Toppo nel 1288?",
+"a": "Guelfa",
+"x": [
+"Ghibellina",
+"Imperiale",
+"Dei Bianchi"
+],
+"s": "Gli aretini ghibellini sconfissero i senesi guelfi.",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "4497e778",
+"c": "storia",
+"d": 1,
+"q": "In quali epoche fu frequentato il colle di Civitella, prima di diventare una roccaforte longobarda?",
+"a": "In epoca etrusca e romana",
+"x": [
+"Solo dall'età moderna",
+"In epoca normanna",
+"In epoca bizantina e araba"
+],
+"s": "Già frequentata in epoca etrusca e romana, Civitella divenne una roccaforte longobarda.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "4c4023b6",
+"c": "storia",
+"d": 2,
+"q": "A presidio di chi sorgevano, dall'XI secolo, le strutture sul colle di Civitella?",
+"a": "Dei vescovi-conti aretini",
+"x": [
+"Dei Medici",
+"Della Repubblica di Siena",
+"Dei conti Guidi"
+],
+"s": "Dall'XI secolo sul colle sorgevano strutture a presidio dei vescovi-conti aretini.",
+"l": "storia.html"
+},
+{
+"id": "0a7ac152",
+"c": "storia",
+"d": 1,
+"q": "Che cosa fece alla rocca di Civitella il vescovo Guglielmino degli Ubertini, che nel 1248 la scelse come dimora?",
+"a": "Ne potenziò le mura",
+"x": [
+"La fece demolire",
+"La vendette a Firenze",
+"La trasformò in un convento"
+],
+"s": "Nel 1248 Guglielmino degli Ubertini scelse la rocca come dimora e ne potenziò le mura.",
+"l": "storia.html"
+},
+{
+"id": "6869ff95",
+"c": "storia",
+"d": 2,
+"q": "Quale città acquisì Arezzo e il suo contado prima di fare di Civitella, nel 1385, il capoluogo di una propria podesteria?",
+"a": "Firenze",
+"x": [
+"Siena",
+"Perugia",
+"Pisa"
+],
+"s": "Nel 1385 Firenze, acquisiti Arezzo e il suo contado, fece di Civitella il capoluogo di una sua podesteria.",
+"l": "storia.html"
+},
+{
+"id": "cf547452",
+"c": "storia",
+"d": 3,
+"q": "Quale castello fu aggregato alla Comunità di Civitella nel 1774, insieme a Ciggiano, Viciomaggio e Badia al Pino?",
+"a": "Montarfoni",
+"x": [
+"Gaenne",
+"Dorna",
+"Montoto"
+],
+"s": "Nel 1774 Ciggiano, Viciomaggio, Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella.",
+"l": "storia.html"
+},
+{
+"id": "6a7032b1",
+"c": "storia",
+"d": 3,
+"q": "In quale anno Ciggiano subì un altro assedio, dopo il saccheggio di Niccolò Piccinino del 1431?",
+"a": "1554",
+"x": [
+"1385",
+"1502",
+"1774"
+],
+"s": "Nel 1431 Ciggiano fu saccheggiato dalle truppe di Piccinino e nel 1554 subì un altro assedio.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "5ff357cf",
+"c": "storia",
+"d": 3,
+"q": "Quale altro titolo, oltre a quello di pieve, passò a Badia al Pino nel 1583?",
+"a": "Quello di Santa Lucia a Campigliano",
+"x": [
+"Quello di sede vescovile",
+"Quello di abbazia di Vallombrosa",
+"Quello di priorato di Camaldoli"
+],
+"s": "Nel 1502 arrivarono il fonte battesimale e il titolo di pieve, nel 1583 il titolo di Santa Lucia a Campigliano.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "d1c40d05",
+"c": "storia",
+"d": 3,
+"q": "In quale anno un documento chiama l'abbazia «Badia di S. Martino e S. Lorenzo al Pino»?",
+"a": "1046",
+"x": [
+"1039",
+"1441",
+"1502"
+],
+"s": "Un documento del 1046 chiama l'abbazia «Badia di S. Martino e S. Lorenzo al Pino»; il 1039 si riferisce alla chiesa.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "572b6b97",
+"c": "storia",
+"d": 1,
+"q": "Che cosa c'era accanto all'antica pieve del Toppo?",
+"a": "Un ospedale per i pellegrini",
+"x": [
+"Un castello",
+"Un mercato coperto",
+"Un mulino"
+],
+"s": "La pieve, con un ospedale per i pellegrini, fu confermata nel 938 tra i possedimenti del Capitolo di Arezzo.",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "12a183b1",
+"c": "storia",
+"d": 3,
+"q": "Tra i possedimenti di chi fu confermata nel 938 la pieve del Toppo?",
+"a": "Del Capitolo di Arezzo",
+"x": [
+"Dell'abbazia di Agnano",
+"Del vescovo di Siena",
+"Dei conti Guidi"
+],
+"s": "Nel 938 la pieve fu confermata tra i possedimenti del Capitolo di Arezzo.",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "3fa9492f",
+"c": "storia",
+"d": 3,
+"q": "In quale mese del 1940 fu istituito il campo di internamento di Villa Oliveto?",
+"a": "Giugno",
+"x": [
+"Gennaio",
+"Settembre",
+"Dicembre"
+],
+"s": "Il campo fu istituito nel giugno 1940.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "4dc5acd4",
+"c": "1944",
+"d": 3,
+"q": "Quale reparto operò a Gebbia il 29 giugno 1944, insieme alla divisione «Hermann Göring»?",
+"a": "La Feldgendarmerie del capitano Heinz Barz",
+"x": [
+"La Guardia Nazionale Repubblicana",
+"Un reparto di alpini",
+"Le SS di stanza a Firenze"
+],
+"s": "Reparti della «Hermann Göring», con la Feldgendarmerie del capitano Heinz Barz, applicarono a Gebbia lo stesso metodo usato a Civitella e a Cornia.",
+"l": "frazioni/gebbia.html"
+},
+{
+"id": "5c286059",
+"c": "1944",
+"d": 2,
+"q": "Secondo l'Archivio della Memoria, che cosa uccisero i tedeschi a Gebbia, oltre agli uomini?",
+"a": "Tutti gli animali",
+"x": [
+"Nessun altro essere vivente",
+"I cavalli della fattoria",
+"Solo i cani da guardia"
+],
+"s": "Donne e bambini non furono toccati né le case bruciate, ma i tedeschi uccisero tutti gli animali.",
+"l": "frazioni/gebbia.html"
+},
+{
+"id": "7ec5aac3",
+"c": "1944",
+"d": 2,
+"q": "Dove furono fucilati gli uomini presi a Gebbia, secondo l'Archivio della Memoria?",
+"a": "Presso il Podere Valle, vicino a San Pancrazio",
+"x": [
+"Nella piazza di Civitella",
+"Nel cimitero di Cornia",
+"Alla stazione di Albergo"
+],
+"s": "Furono fucilati presso il Podere Valle, vicino a San Pancrazio.",
+"l": "frazioni/gebbia.html"
+},
+{
+"id": "15cc1db8",
+"c": "1944",
+"d": 3,
+"q": "In quale giorno furono uccisi Giovanni Cau e la moglie Helga Elmqvist, catturati a Gebbia?",
+"a": "Il 2 luglio 1944",
+"x": [
+"Il 29 giugno 1944",
+"Il 16 aprile 1944",
+"L'8 settembre 1943"
+],
+"s": "Furono catturati a Gebbia e uccisi il 2 luglio 1944.",
+"l": "frazioni/gebbia.html"
+},
+{
+"id": "320d4828",
+"c": "1944",
+"d": 3,
+"q": "Fino a quale giorno arrivano le morti ricordate dalla lastra dei martiri di Cornia?",
+"a": "Il 16 luglio 1944",
+"x": [
+"Il 29 giugno 1944",
+"Il 25 aprile 1945",
+"Il 2 luglio 1944"
+],
+"s": "La lastra riporta 58 nomi di caduti uccisi fra il 29 giugno e il 16 luglio 1944.",
+"l": "frazioni/cornia.html"
+},
+{
+"id": "e6acc20f",
+"c": "1944",
+"d": 3,
+"q": "Chi fucilò a Ciggiano, il 16 aprile 1944, i partigiani Giovanni Marmo e Mario Marapitti?",
+"a": "Le SS",
+"x": [
+"La divisione «Hermann Göring»",
+"I carabinieri",
+"La Feldgendarmerie di Heinz Barz"
+],
+"s": "Secondo ToscanaNovecento furono fucilati dalle SS.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "5b3d98f6",
+"c": "1944",
+"d": 2,
+"q": "Quale luogo della memoria si trova a Civitella, oltre alla «Pietà del giugno 1944» e alla Sala della Memoria?",
+"a": "La Cappella dei Martiri",
+"x": [
+"Il Sacrario militare",
+"Il Museo della Resistenza",
+"La Torre della Memoria"
+],
+"s": "A Civitella ci sono la Cappella dei Martiri e il monumento «Pietà del giugno 1944».",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "d69a35d2",
+"c": "1944",
+"d": 2,
+"q": "Dove si rifugiavano durante la guerra gli abitanti di Viciomaggio?",
+"a": "In un cunicolo con una stanza sotterranea lungo il Fosso del Riolo",
+"x": [
+"Nelle cantine della villa",
+"In una galleria ferroviaria",
+"Nel campanile della chiesa"
+],
+"s": "Il rifugio era un cunicolo con una stanza sotterranea lungo il Fosso del Riolo, verso Malpertuso.",
+"l": "frazioni/viciomaggio.html"
+},
+{
+"id": "f6883e41",
+"c": "1944",
+"d": 2,
+"q": "Chi era Hazbi Ismail, tra le vittime elencate dall'Atlante per «Cornia e dintorni»?",
+"a": "Un partigiano di 28 anni",
+"x": [
+"Il parroco di Cornia",
+"Un soldato tedesco",
+"Il maestro del paese"
+],
+"s": "L'Atlante delle stragi elenca tra le vittime il partigiano Hazbi Ismail, di 28 anni.",
+"l": "frazioni/cornia.html"
+},
+{
+"id": "cdce2f79",
+"c": "1944",
+"d": 1,
+"q": "Che cosa ricorda il portale in bronzo di Bino Bini nella chiesa di Civitella?",
+"a": "L'eccidio del 1944, nel cinquantesimo anniversario",
+"x": [
+"La battaglia del Toppo",
+"La fondazione del priorato",
+"La visita di un papa"
+],
+"s": "Il portale del 1994 ricorda l'eccidio nel cinquantesimo anniversario.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "855aa29c",
+"c": "frazioni",
+"d": 1,
+"q": "Che cosa prevede il Piano Strutturale per la Rocca di Civitella?",
+"a": "Il restauro e un «museo» dedicato ai castelli del territorio",
+"x": [
+"La demolizione dei ruderi",
+"Un albergo di lusso",
+"Un parcheggio panoramico"
+],
+"s": "Il Piano prevede il restauro della Rocca e un «museo» come punto di riferimento per visitare castelli, rocche, torri e antichi tracciati.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "5290f03d",
+"c": "frazioni",
+"d": 2,
+"q": "Quali stemmi si vedono sul Palazzo Pretorio di Civitella?",
+"a": "Quelli dei podestà fiorentini",
+"x": [
+"Quelli dei vescovi di Arezzo",
+"Quelli dei granduchi di Lorena",
+"Quelli dei Savoia"
+],
+"s": "Il Palazzo Pretorio è trecentesco, con un portico a cinque archi e gli stemmi dei podestà fiorentini.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "77e1c3f5",
+"c": "frazioni",
+"d": 3,
+"q": "In quale anno morì il notaio Becattini, che lasciò il suo palazzo per un ospedale dei poveri?",
+"a": "1877",
+"x": [
+"1777",
+"1917",
+"1944"
+],
+"s": "Il notaio morì il 19 luglio 1877; dal 1978 il palazzo è del Comune.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "fd831df6",
+"c": "frazioni",
+"d": 3,
+"q": "Quali oratori si trovano nel borgo di Civitella?",
+"a": "Quello della Santissima Trinità e quello della Madonna di Mercatale",
+"x": [
+"Quello della Madonna della Costarella e quello di San Rocco",
+"Quello della Madonna del Conforto e quello di Santa Croce",
+"Quello di San Rocco e quello della Madonna del Rosario"
+],
+"s": "A Civitella ci sono gli oratori della Santissima Trinità e della Madonna di Mercatale; la Costarella è a Ciggiano.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "608aba01",
+"c": "frazioni",
+"d": 2,
+"q": "Quale bene storico di Albergo è censito nel Repertorio del Piano Strutturale?",
+"a": "La fonte-cisterna",
+"x": [
+"Un acquedotto romano",
+"Una torre di avvistamento",
+"Un mulino ad acqua"
+],
+"s": "Il Repertorio censisce la fonte-cisterna di Albergo e ne valorizza il centro storico.",
+"l": "frazioni/albergo.html"
+},
+{
+"id": "e6917851",
+"c": "frazioni",
+"d": 1,
+"q": "Che cosa ospita oggi il palazzetto settecentesco di Badia al Pino, sede comunale fino ai primi anni Settanta?",
+"a": "La Biblioteca comunale",
+"x": [
+"Il municipio",
+"Un museo archeologico",
+"La scuola primaria"
+],
+"s": "Fu sede comunale dal 1917 ai primi anni Settanta; oggi è la Biblioteca comunale.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "c435203b",
+"c": "frazioni",
+"d": 3,
+"q": "In quale anno fu inaugurato il monumento ai caduti nel piazzale della chiesa di Badia al Pino?",
+"a": "1951",
+"x": [
+"1921",
+"1946",
+"1971"
+],
+"s": "Il monumento ai caduti delle due guerre fu inaugurato il 26 agosto 1951.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "d3fdc7c5",
+"c": "frazioni",
+"d": 2,
+"q": "Che cosa caratterizza Villa del Bosco, a Badia al Pino?",
+"a": "Un parco con un filare di pini",
+"x": [
+"Una limonaia del 1836",
+"Una torre-piccionaia",
+"Una cappella con orologio"
+],
+"s": "Villa del Bosco ha un parco e un filare di pini.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "7c31e8d6",
+"c": "frazioni",
+"d": 3,
+"q": "A quali santi è dedicata la chiesa di San Bartolomeo a Badia al Pino?",
+"a": "Bartolomeo, Martino e Filippo",
+"x": [
+"Bartolomeo, Pietro e Paolo",
+"Bartolomeo, Biagio e Rocco",
+"Bartolomeo, Giorgio e Luca"
+],
+"s": "La chiesa, annessa all'antica abbazia, è dedicata ai santi Bartolomeo, Martino e Filippo.",
+"l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "f996bc77",
+"c": "frazioni",
+"d": 3,
+"q": "Quale altare custodisce la chiesa di San Biagio a Ciggiano?",
+"a": "L'altare Mazzeschi",
+"x": [
+"L'altare Pecchioli",
+"L'altare Barbolani",
+"L'altare Becattini"
+],
+"s": "San Biagio custodisce l'altare Mazzeschi e una Santa Maria Maddalena attribuita ad Andrea Sansovino.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "2c5801d3",
+"c": "frazioni",
+"d": 2,
+"q": "Di quale secolo è il loggiato della chiesa della Madonna della Costarella, a Ciggiano?",
+"a": "Del Settecento",
+"x": [
+"Del Trecento",
+"Del Cinquecento",
+"Del Novecento"
+],
+"s": "La chiesa fu terminata nel 1635; il loggiato è settecentesco.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "48e6e4b6",
+"c": "frazioni",
+"d": 3,
+"q": "In quale anno la chiesa di San Pietro a Ciggiano ebbe l'intervento che le diede l'aspetto eclettico?",
+"a": "1836",
+"x": [
+"1636",
+"1736",
+"1936"
+],
+"s": "La chiesa è di origine medievale; il suo aspetto eclettico è frutto di un intervento del 1836.",
+"l": "frazioni/ciggiano.html"
+},
+{
+"id": "eccf0f3a",
+"c": "frazioni",
+"d": 2,
+"q": "In quali registri compare già nel 1274 la chiesa di Sant'Angelo a Cornia?",
+"a": "Nelle decime",
+"x": [
+"Nel catasto leopoldino",
+"Negli statuti di Siena",
+"Nei registri dell'ISTAT"
+],
+"s": "La chiesa di San Michele Arcangelo compare nelle decime del 1274.",
+"l": "frazioni/cornia.html"
+},
+{
+"id": "d4b4fda3",
+"c": "frazioni",
+"d": 3,
+"q": "In quale anno fu ricostruita la chiesa di San Giovanni d'Oliveto?",
+"a": "1343",
+"x": [
+"1243",
+"1443",
+"1643"
+],
+"s": "San Giovanni d'Oliveto compare nelle decime del 1274 e fu ricostruita nel 1343.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "2c46b6c8",
+"c": "frazioni",
+"d": 1,
+"q": "Che cos'era in origine l'Oratorio di San Rocco, a Oliveto?",
+"a": "Un tabernacolo, diventato cappella nell'Ottocento",
+"x": [
+"Una torre di guardia",
+"Un mulino",
+"Una scuola"
+],
+"s": "L'oratorio nacque come tabernacolo e divenne cappella nell'Ottocento.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "1ee31880",
+"c": "frazioni",
+"d": 3,
+"q": "Attorno a quale anno fu rifatta la Cappella della Compagnia di Oliveto, secondo l'iscrizione sul portale?",
+"a": "1637",
+"x": [
+"1337",
+"1737",
+"1937"
+],
+"s": "La Cappella della Compagnia fu rifatta attorno al 1637, come indica l'iscrizione sul portale.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "49446c6c",
+"c": "frazioni",
+"d": 1,
+"q": "Di quali alberi è ricco il parco di Villa Oliveto?",
+"a": "Cedri e lecci",
+"x": [
+"Palme e agavi",
+"Faggi e abeti",
+"Pioppi e salici"
+],
+"s": "La villa ha un parco di ispirazione romantica ricco di cedri e lecci.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "498b0966",
+"c": "frazioni",
+"d": 3,
+"q": "In quale anno morì Muriel Spark, che visse a Oliveto?",
+"a": "2006",
+"x": [
+"1996",
+"2001",
+"2016"
+],
+"s": "Ricevette la cittadinanza onoraria nel 2005, morì nel 2006 ed è sepolta a Oliveto.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "3bd4c74d",
+"c": "frazioni",
+"d": 3,
+"q": "In quale anno fu ampliata la chiesa di Santa Maria Assunta a Pieve a Maiano?",
+"a": "1865",
+"x": [
+"1765",
+"1824",
+"1965"
+],
+"s": "La chiesa fu costruita dopo il 1824 e ampliata nel 1865.",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "91087b87",
+"c": "frazioni",
+"d": 2,
+"q": "Qual è il titolo della parrocchia di Pieve a Maiano?",
+"a": "Santa Maria Assunta",
+"x": [
+"San Biagio",
+"San Martino",
+"Sant'Andrea Apostolo"
+],
+"s": "La parrocchia di Pieve a Maiano è Santa Maria Assunta.",
+"l": "frazioni/pieve-a-maiano.html"
+},
+{
+"id": "253e4dff",
+"c": "frazioni",
+"d": 3,
+"q": "Da quale anno l'oratorio di Pieve al Toppo è dedicato alla Madonna del Conforto?",
+"a": "1906",
+"x": [
+"1502",
+"1806",
+"1966"
+],
+"s": "L'oratorio sorge sul sito dell'antica pieve ed è dedicato alla Madonna del Conforto dal 1906.",
+"l": "frazioni/pieve-al-toppo.html"
+},
+{
+"id": "974228d6",
+"c": "frazioni",
+"d": 2,
+"q": "Qual è l'unico bene storico di Ponticino censito dal Repertorio del Piano?",
+"a": "Il mulino",
+"x": [
+"Il ponte romanico",
+"La pieve",
+"Il castello"
+],
+"s": "Il Repertorio censisce solo il Mulino di Ponticino; il «ponte romanico» non ha riscontri.",
+"l": "frazioni/ponticino.html"
+},
+{
+"id": "d9d80f19",
+"c": "frazioni",
+"d": 2,
+"q": "In quale comune ha sede la parrocchia dei Santi Iacopo e Cristoforo di Ponticino?",
+"a": "Laterina Pergine Valdarno",
+"x": [
+"Civitella in Val di Chiana",
+"Arezzo",
+"Bucine"
+],
+"s": "Secondo l'annuario della Diocesi la parrocchia ha sede nel comune di Laterina Pergine Valdarno.",
+"l": "frazioni/ponticino.html"
+},
+{
+"id": "3d4a15ba",
+"c": "frazioni",
+"d": 2,
+"q": "Quale elemento caratterizza Villa Pecchioli, a Spoiano?",
+"a": "Una torre-piccionaia",
+"x": [
+"Una limonaia del 1836",
+"Un filare di pini",
+"Una cappella con orologio"
+],
+"s": "Villa Pecchioli è settecentesca, con una torre-piccionaia.",
+"l": "frazioni/spoiano.html"
+},
+{
+"id": "99f5bb0f",
+"c": "frazioni",
+"d": 2,
+"q": "In quale periodo dell'anno si tiene la stagione del Teatro Moderno di Tegoleto?",
+"a": "Da ottobre a marzo",
+"x": [
+"Da giugno ad agosto",
+"Solo a dicembre",
+"Da aprile a giugno"
+],
+"s": "Il TMT ha una stagione da ottobre a marzo.",
+"l": "frazioni/tegoleto.html"
+},
+{
+"id": "2f350987",
+"c": "frazioni",
+"d": 3,
+"q": "Quale tappa del Giro d'Italia 2004 arrivò a Tegoleto?",
+"a": "La quarta",
+"x": [
+"La prima",
+"La decima",
+"L'ultima"
+],
+"s": "Il 12 maggio 2004 vi arrivò la quarta tappa, vinta da Alessandro Petacchi.",
+"l": "frazioni/tegoleto.html"
+},
+{
+"id": "13de9716",
+"c": "frazioni",
+"d": 2,
+"q": "Davanti a quale stabilimento si concluse la tappa del Giro d'Italia arrivata a Tegoleto nel 2004?",
+"a": "Quello della Del Tongo",
+"x": [
+"Quello della CEIA",
+"Quello della Chimet",
+"Quello della Kico"
+],
+"s": "La tappa fu vinta da Petacchi davanti allo stabilimento del mobilificio Del Tongo.",
+"l": "frazioni/tegoleto.html"
+},
+{
+"id": "ced4fecf",
+"c": "frazioni",
+"d": 2,
+"q": "Su quali beni di Tuori c'è un vincolo nazionale?",
+"a": "Il cassero, la chiesa e il cimitero",
+"x": [
+"Tutto il centro storico",
+"Solo il Saracino",
+"La villa e il suo parco"
+],
+"s": "Il vincolo riguarda cassero, chiesa e cimitero, non il centro storico.",
+"l": "frazioni/tuori.html"
+},
+{
+"id": "8288be8c",
+"c": "frazioni",
+"d": 2,
+"q": "Com'è fatto il portico del Saracino, presso Tuori?",
+"a": "A tre archi a tutto sesto",
+"x": [
+"A cinque archi a sesto acuto",
+"A un solo grande arco",
+"A colonne senza archi"
+],
+"s": "Il Saracino ha un portico a tre archi a tutto sesto e una loggia ad arco ribassato.",
+"l": "frazioni/tuori.html"
+},
+{
+"id": "b72de4ff",
+"c": "frazioni",
+"d": 3,
+"q": "In quale anno fu restaurata, con decorazioni pittoriche, la parte posteriore della Villa di Viciomaggio?",
+"a": "1868",
+"x": [
+"1768",
+"1836",
+"1968"
+],
+"s": "La villa è settecentesca; la parte posteriore fu restaurata nel 1868, la limonaia è del 1836.",
+"l": "frazioni/viciomaggio.html"
+},
+{
+"id": "20485c5d",
+"c": "borghi",
+"d": 2,
+"q": "Su che cosa sorsero i poderi di Montoto, lungo via della Centrale?",
+"a": "Su un fortilizio longobardo",
+"x": [
+"Su una villa romana",
+"Su un convento francescano",
+"Su una fornace etrusca"
+],
+"s": "I poderi di Montoto sorsero su un fortilizio longobardo, passato a Firenze nel 1385.",
+"l": "frazioni/borghi-minori.html#montoto"
+},
+{
+"id": "2bad47c2",
+"c": "borghi",
+"d": 3,
+"q": "A quale santo è dedicata la chiesetta di Matroia?",
+"a": "San Michele Arcangelo",
+"x": [
+"San Rocco",
+"San Biagio",
+"Sant'Andrea"
+],
+"s": "La chiesetta di San Michele Arcangelo è quanto resta, con un rocchio di colonna e una vasca, di un antico insediamento religioso.",
+"l": "frazioni/borghi-minori.html#matroia"
+},
+{
+"id": "4cfbc901",
+"c": "borghi",
+"d": 2,
+"q": "Che cosa si conserva a Tribbio, oltre al nome che ricorda un trivio romano?",
+"a": "Un pozzo storico",
+"x": [
+"Un arco romano",
+"Una torre di guardia",
+"Un ponte medievale"
+],
+"s": "Tribbio prende il nome da un trivio romano e conserva un pozzo storico.",
+"l": "frazioni/borghi-minori.html#tribbio"
+},
+{
+"id": "7551f5ac",
+"c": "borghi",
+"d": 1,
+"q": "Quando furono abbandonati i borghi medievali di Malpertuso e Le Fosse?",
+"a": "Nel tardo Medioevo",
+"x": [
+"Nell'Ottocento",
+"Dopo il 1944",
+"In età romana"
+],
+"s": "Malpertuso e Le Fosse sono borghi medievali abbandonati nel tardo Medioevo.",
+"l": "frazioni/borghi-minori.html#malpertuso-le-fosse"
+},
+{
+"id": "d2a0a62f",
+"c": "borghi",
+"d": 2,
+"q": "Di quale origine è il castello di Dorna?",
+"a": "Longobarda",
+"x": [
+"Etrusca",
+"Normanna",
+"Rinascimentale"
+],
+"s": "Dorna fu un castello longobardo (VIII–X secolo).",
+"l": "frazioni/borghi-minori.html#dorna"
+},
+{
+"id": "a8e3eb8d",
+"c": "borghi",
+"d": 3,
+"q": "Come è chiamata Dorna in un documento del 1181?",
+"a": "Castrum Durna",
+"x": [
+"Curtis Dornae",
+"Villa Turna",
+"Castellum Ornae"
+],
+"s": "Un documento del 1181 parla del castrum Durna; la torre è ricordata dal 1198.",
+"l": "frazioni/borghi-minori.html#dorna"
+},
+{
+"id": "e5f0dee8",
+"c": "borghi",
+"d": 3,
+"q": "A quali santi era dedicata la chiesa documentata a Dorna nel 1182?",
+"a": "Vito e Nicola",
+"x": [
+"Pietro e Paolo",
+"Cosma e Damiano",
+"Giorgio e Luca"
+],
+"s": "Nel 1182 è documentata una chiesa dei Santi Vito e Nicola.",
+"l": "frazioni/borghi-minori.html#dorna"
+},
+{
+"id": "534d8c16",
+"c": "borghi",
+"d": 3,
+"q": "A quale famiglia passò il castello di Gaenne dopo i longobardi di Dorna?",
+"a": "I Tarlati",
+"x": [
+"Gli Ubertini",
+"I Medici",
+"I conti Guidi"
+],
+"s": "Nel 1069 Gaenne apparteneva ai longobardi di Dorna, poi passò ai Tarlati.",
+"l": "frazioni/borghi-minori.html#gaenne"
+},
+{
+"id": "0574409f",
+"c": "borghi",
+"d": 3,
+"q": "Da quale anno San Martino in Poggio è parrocchia?",
+"a": "1814",
+"x": [
+"1690",
+"1726",
+"1917"
+],
+"s": "La chiesa del 1690 fu ampliata nel 1726 e divenne parrocchia nel 1814.",
+"l": "frazioni/borghi-minori.html#san-martino-in-poggio"
+},
+{
+"id": "a085dfa8",
+"c": "borghi",
+"d": 2,
+"q": "A che altitudine si trova, all'incirca, San Martino in Poggio?",
+"a": "Circa 540 metri",
+"x": [
+"Circa 140 metri",
+"Circa 940 metri",
+"Circa 1.240 metri"
+],
+"s": "San Martino in Poggio si trova a circa 540 metri.",
+"l": "frazioni/borghi-minori.html#san-martino-in-poggio"
+},
+{
+"id": "e834399c",
+"c": "borghi",
+"d": 2,
+"q": "Quanto è lunga, all'incirca, la cinta muraria a secco di Poggio Castellare?",
+"a": "Circa 300 metri",
+"x": [
+"Circa 30 metri",
+"Circa 3 chilometri",
+"Circa 10 metri"
+],
+"s": "Sulla cima resta una cinta ellittica a secco di circa 300 metri; la datazione è discussa.",
+"l": "frazioni/borghi-minori.html#poggio-castellare"
+},
+{
+"id": "27480726",
+"c": "economia",
+"d": 2,
+"q": "Chi fondò nel 1954 la Del Tongo?",
+"a": "I fratelli Stefano e Pasquale Del Tongo",
+"x": [
+"Il Comune di Civitella",
+"Una cooperativa di falegnami",
+"Un gruppo industriale milanese"
+],
+"s": "I fratelli Stefano e Pasquale Del Tongo fondarono a Tegoleto l'azienda di cucine componibili.",
+"l": "lavoro-e-sapori.html"
+},
+{
+"id": "ef327bd3",
+"c": "economia",
+"d": 3,
+"q": "Quale classica del ciclismo vinse la squadra Del Tongo nel 1983?",
+"a": "La Milano-Sanremo",
+"x": [
+"La Parigi-Roubaix",
+"La Liegi-Bastogne-Liegi",
+"Il Giro delle Fiandre"
+],
+"s": "Nel 1983 la Del Tongo vinse il Giro d'Italia con Saronni e la Milano-Sanremo.",
+"l": "lavoro-e-sapori.html"
+},
+{
+"id": "b2e17c50",
+"c": "economia",
+"d": 3,
+"q": "Quante tappe del Giro d'Italia vinse la squadra ciclistica Del Tongo?",
+"a": "29",
+"x": [
+"9",
+"59",
+"99"
+],
+"s": "Tra il 1982 e il 1991 la squadra vinse 29 tappe del Giro d'Italia.",
+"l": "lavoro-e-sapori.html"
+},
+{
+"id": "8ee7c334",
+"c": "economia",
+"d": 2,
+"q": "Dove aprì Chimet il suo secondo stabilimento, negli anni Ottanta?",
+"a": "A Viciomaggio",
+"x": [
+"A Tegoleto",
+"Ad Albergo",
+"A Ponticino"
+],
+"s": "Chimet aprì il primo stabilimento a Badia al Pino nel 1976 e il secondo a Viciomaggio negli anni Ottanta.",
+"l": "lavoro-e-sapori.html"
+},
+{
+"id": "d8488735",
+"c": "economia",
+"d": 1,
+"q": "Quali varietà di olivo sono tipiche del territorio, insieme al moraiolo?",
+"a": "Frantoio, leccino e pendolino",
+"x": [
+"Taggiasca, nocellara e coratina",
+"Ogliarola, carolea e bosana",
+"Itrana, peranzana e biancolilla"
+],
+"s": "Le varietà sono frantoio, leccino, moraiolo e pendolino; l'olio è Toscano IGP.",
+"l": "lavoro-e-sapori.html"
+},
+{
+"id": "8cac38d7",
+"c": "economia",
+"d": 2,
+"q": "Quale indicazione geografica ha l'olio extravergine del territorio?",
+"a": "Toscano IGP",
+"x": [
+"Chianti Classico DOP",
+"Riviera Ligure DOP",
+"Terra di Bari DOP"
+],
+"s": "Le varietà locali sono frantoio, leccino, moraiolo e pendolino, e l'olio è Toscano IGP.",
+"l": "lavoro-e-sapori.html"
+},
+{
+"id": "daf78ce6",
+"c": "feste",
+"d": 2,
+"q": "Chi organizza la Sagra dei Baccelli di Spoiano?",
+"a": "La Polisportiva Spoiano",
+"x": [
+"La Pro Loco di Ciggiano",
+"Il Circolo ARCI di Pieve al Toppo",
+"La parrocchia di Spoiano"
+],
+"s": "La Sagra dei Baccelli è organizzata dalla Polisportiva Spoiano.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "c3556ffe",
+"c": "feste",
+"d": 3,
+"q": "Quale edizione della Sagra dei Baccelli si è tenuta nel 2025?",
+"a": "La 48ª",
+"x": [
+"La 8ª",
+"La 25ª",
+"La 75ª"
+],
+"s": "Nel 2025 la Sagra dei Baccelli è arrivata alla 48ª edizione.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "eb4598d2",
+"c": "feste",
+"d": 2,
+"q": "Chi organizza la Sagra della Pesca di Pieve al Toppo?",
+"a": "Il Circolo ARCI di Pieve al Toppo",
+"x": [
+"L'U.S.D. Tegoleto",
+"La Polisportiva Albergo Oliveto",
+"La Pro Loco di Civitella"
+],
+"s": "La Sagra della Pesca, dedicata al frutto, è organizzata dal Circolo ARCI.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "c9416e86",
+"c": "feste",
+"d": 2,
+"q": "Chi organizza la Festa della Rosa di Viciomaggio?",
+"a": "L'A.S.D. Viciomaggio",
+"x": [
+"La parrocchia di San Martino",
+"Il Circolo Paccinelli",
+"Comunità & Tegoleto"
+],
+"s": "La Festa della Rosa, tra fine aprile e inizio maggio, è organizzata dall'A.S.D. Viciomaggio.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "98eb66e1",
+"c": "feste",
+"d": 3,
+"q": "Chi organizza la Sagra del Cinghiale di Pieve a Maiano?",
+"a": "L'U.S. Pieve a Maiano",
+"x": [
+"La Pro Loco di Civitella",
+"Il Circolo ARCI",
+"Slow Food Valdichiana"
+],
+"s": "La Sagra del Cinghiale è organizzata dall'U.S. Pieve a Maiano.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "da689784",
+"c": "feste",
+"d": 2,
+"q": "Chi organizza la Festa dell'uva, del vino e dell'olio di Ciggiano?",
+"a": "La Pro Loco di Ciggiano",
+"x": [
+"La Società Filarmonica",
+"La parrocchia di San Biagio",
+"Il Comune con Slow Food"
+],
+"s": "La festa è organizzata dalla Pro Loco di Ciggiano.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "9a5d061a",
+"c": "feste",
+"d": 1,
+"q": "In quale mese si tiene il Mercato del Cacio, nel borgo di Civitella?",
+"a": "Maggio",
+"x": [
+"Febbraio",
+"Agosto",
+"Novembre"
+],
+"s": "Il Mercato del Cacio si tiene a maggio ed è organizzato dal Comune con Slow Food.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "11601917",
+"c": "feste",
+"d": 1,
+"q": "In quale mese si tiene la Sagra del Crostino di Albergo?",
+"a": "Luglio",
+"x": [
+"Marzo",
+"Ottobre",
+"Dicembre"
+],
+"s": "La Sagra del Crostino si tiene a luglio.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "4c118d8f",
+"c": "feste",
+"d": 2,
+"q": "Chi organizza il Mercato del Cacio, Calici sotto la Torre e la Fiera del Miele?",
+"a": "Il Comune con Slow Food Valdichiana",
+"x": [
+"La Pro Loco di Ciggiano",
+"Il Circolo ARCI",
+"La Polisportiva Albergo Oliveto"
+],
+"s": "Queste manifestazioni sono organizzate dal Comune con Slow Food.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "7f7108c7",
+"c": "feste",
+"d": 2,
+"q": "In quale giorno della settimana si tengono le proiezioni di Cinema sotto le Stelle a Tegoleto?",
+"a": "Il mercoledì",
+"x": [
+"Il lunedì",
+"Il venerdì",
+"La domenica"
+],
+"s": "Le proiezioni gratuite si tengono il mercoledì sera di luglio in piazza della Chiesa.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "f146f2ed",
+"c": "feste",
+"d": 3,
+"q": "Da quale anno si tiene Cinema sotto le Stelle a Tegoleto?",
+"a": "2018",
+"x": [
+"2008",
+"2022",
+"2025"
+],
+"s": "Le proiezioni sono nate nel 2018.",
+"l": "feste-e-associazioni.html"
+},
+{
+"id": "4be5e12f",
+"c": "feste",
+"d": 3,
+"q": "Quale edizione dell'Olio Novo si è tenuta nel 2025?",
+"a": "La 28ª",
+"x": [
+"La 5ª",
+"La 50ª",
+"La 100ª"
+],
+"s": "Nel 2025 L'Olio Novo è arrivato alla 28ª edizione.",
+"l": "feste-e-associazioni.html"
 }
 ];

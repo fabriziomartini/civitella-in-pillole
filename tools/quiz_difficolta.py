@@ -1,212 +1,335 @@
-"""Difficoltà delle domande del quiz: 1 facile, 2 media, 3 difficile.
+"""Difficoltà delle domande del quiz, calcolata con una regola esplicita.
+
+Ogni domanda ha un codice di tre caratteri, uno per criterio:
+
+1. Che cosa chiede la domanda
+   N = un anno, una data o un numero preciso            +2
+   P = un nome proprio poco noto (persona, ente, opera)  +1
+   - = un luogo, un fatto o un concetto                   0
+2. Come sono le risposte sbagliate
+   v = vicine alla giusta (anni vicini, nomi dello stesso tipo e plausibili)   +1
+   n = normali                                                                  0
+   d = almeno una si scarta subito                                             -1
+3. Quanto è noto il fatto
+   + = dettaglio, citato di passaggio in una pagina      +1
+   = = normale                                            0
+   - = celebre o in evidenza sul sito                     -1
+
+Somma: 0 o meno = facile (1), 1-2 = media (2), 3 o più = difficile (3).
 
 Chiave: id della domanda (le prime 8 cifre dell'MD5 del testo, vedi tools/genera_quiz.py).
-Ogni domanda deve avere un livello: genera_quiz.py si ferma se ne manca uno.
-Se si riformula una domanda cambia il suo id: va aggiornata anche qui.
+Se si riformula una domanda cambia il suo id: va aggiornato anche qui (genera_quiz.py lo segnala).
 
-Criterio:
-- facile: fatti noti o ricordati in evidenza sul sito, oppure risposte deducibili per esclusione;
-- media: fatti specifici ma memorabili (un luogo, un nome, un'epoca);
-- difficile: anni precisi, nomi poco noti, risposte sbagliate molto vicine alla giusta.
+DATI raccoglie i livelli ricavati dalle statistiche reali del foglio Google
+(vedi tools/calibra_difficolta.py): quando una domanda ha abbastanza risposte, il suo livello
+viene da lì e prevale sul codice.
 """
 
-DIFFICOLTA = {
-    "5a86694d": 2,
-    "ebc792a8": 1,
-    "eec92ec8": 2,
-    "3224d171": 2,
-    "e4b714c5": 2,
-    "b23a93db": 2,
-    "e3946457": 2,
-    "4746e93c": 2,
-    "fea6dfb9": 1,
-    "f2064462": 1,
-    "75a8fc8f": 2,
-    "e2f25241": 1,
-    "e65e12bd": 1,
-    "96d34023": 3,
-    "1a05018c": 1,
-    "607cb6d7": 1,
-    "878f8be1": 3,
-    "b051cf1f": 2,
-    "7a620330": 2,
-    "608e57f8": 2,
-    "f5a0d8d3": 3,
-    "fe9e42b2": 3,
-    "db28ef0d": 1,
-    "3dd6026e": 2,
-    "d6478a7e": 3,
-    "2fd2d624": 2,
-    "edd96569": 2,
-    "b9e45476": 3,
-    "77748394": 2,
-    "b929883a": 2,
-    "4ffa7202": 1,
-    "32504015": 2,
-    "1e4dc6a7": 2,
-    "571968bf": 1,
-    "1230b87b": 3,
-    "a95227b3": 3,
-    "a7c46ad1": 1,
-    "fb55e686": 2,
-    "b5f15efd": 2,
-    "71ecaade": 2,
-    "bebf7d33": 1,
-    "26c46d87": 2,
-    "d150c402": 2,
-    "bb0a87e4": 1,
-    "3e37b695": 1,
-    "75f82986": 2,
-    "3440c37a": 2,
-    "f4da425c": 2,
-    "e98abd07": 2,
-    "ae2d129c": 2,
-    "d650b33d": 1,
-    "76c00bc0": 2,
-    "ab4e24ee": 1,
-    "7461cfc3": 1,
-    "471dce11": 2,
-    "b6c6fc75": 3,
-    "9b2fcfcf": 3,
-    "9677ff56": 3,
-    "24c8d8bd": 3,
-    "a6b8c90b": 1,
-    "3f92e789": 2,
-    "0542f44e": 2,
-    "e6beb218": 2,
-    "a36520a9": 3,
-    "120e1846": 2,
-    "f2907c6a": 2,
-    "1b1b61a6": 3,
-    "b24d9f73": 3,
-    "c686859b": 3,
-    "c2c65bab": 3,
-    "b555e58c": 3,
-    "c31940bf": 2,
-    "8d375aa0": 2,
-    "264f4207": 2,
-    "7460edf6": 2,
-    "c1b2389e": 2,
-    "d02d06cf": 3,
-    "782eea04": 1,
-    "f98ae568": 1,
-    "ae843126": 2,
-    "4570545d": 2,
-    "605f6a96": 2,
-    "8c3a7f97": 1,
-    "f229085c": 3,
-    "9ed31f21": 2,
-    "91b7689b": 1,
-    "ac4c5d0d": 3,
-    "21a4f930": 1,
-    "1938aa25": 2,
-    "b126f10e": 2,
-    "86a6174e": 2,
-    "d00da1ec": 2,
-    "bd1eb40f": 3,
-    "e7c2c418": 2,
-    "1086aa45": 3,
-    "3e486f3c": 2,
-    "91b9c111": 2,
-    "7c7d8c24": 2,
-    "c1817196": 1,
-    "d7a4e134": 3,
-    "a06601d7": 2,
-    "1d45bdf1": 2,
-    "daf0e244": 2,
-    "cc15f4f6": 1,
-    "2a3e555c": 2,
-    "bdcb792b": 3,
-    "dedef337": 1,
-    "8a7414cd": 3,
-    "4881de19": 2,
-    "bdf6b86c": 3,
-    "cd56501b": 1,
-    "e4363716": 2,
-    "dbcd5fc3": 2,
-    "ec3b56a5": 2,
-    "ba3dff5e": 2,
-    "f06a2f2d": 2,
-    "d9e63c28": 1,
-    "d6eaf7ca": 3,
-    "961f484f": 2,
-    "7591d2bd": 3,
-    "ff97d330": 3,
-    "f59b9207": 2,
-    "0aeb1238": 2,
-    "b8b3b4f1": 2,
-    "e4fa556c": 2,
-    "fbceb884": 1,
-    "84695b7e": 3,
-    "da81be25": 2,
-    "d00c385a": 1,
-    "4fbe35df": 1,
-    "ec632da2": 3,
-    "15d7a73c": 2,
-    "aaba5c69": 1,
-    "4825255e": 3,
-    "51f555d3": 2,
-    "005b6b8c": 3,
-    "6355b329": 3,
-    "92e0687d": 2,
-    "6c2a3e07": 3,
-    "fbd430a4": 2,
-    "5ea5e45a": 2,
-    "a04d9971": 1,
-    "92190992": 2,
-    "fd5f1067": 1,
-    "d16bdeb0": 2,
-    "3116bcad": 3,
-    "f0be8eb1": 2,
-    "4422dd68": 3,
-    "2d7782fe": 2,
-    "b7b8833c": 1,
-    "35bf8000": 2,
-    "18b90576": 2,
-    "e1d94892": 3,
-    "3102235c": 1,
-    "642f3ac8": 2,
-    "3a131b5f": 2,
-    "f220d5ea": 1,
-    "beec873c": 1,
-    "2e7141f4": 2,
-    "23617f63": 2,
-    "8e949863": 3,
-    "260bd43e": 2,
-    "253c5d99": 2,
-    "4a402844": 2,
-    "044286f0": 1,
-    "20356cbe": 1,
-    "87a41003": 3,
-    "2f520af4": 2,
-    "909f8526": 2,
-    "410b1cb5": 3,
-    "c87b3b73": 3,
-    "7a384985": 3,
-    "cb2abf6f": 2,
-    "96a6f855": 2,
-    "523cea0b": 3,
-    "01491e5c": 2,
-    "f4c98a78": 3,
-    "4fcbea87": 1,
-    "f8e908eb": 1,
-    "8bc58b2b": 3,
-    "19907f55": 1,
-    "43d14c27": 3,
-    "b4c51f53": 2,
-    "4bfffd85": 3,
-    "1f3abaaa": 1,
-    "21e2abd1": 3,
-    "388b792d": 1,
-    "0ff18981": 1,
-    "c5767706": 1,
-    "99db94ce": 2,
-    "a6b92165": 1,
-    "dad49b73": 1,
-    "38fd6d61": 2,
-    "c7eef4ea": 2,
-    "eab967e7": 1,
-    "1526724b": 2,
-    "5b8c6dd0": 2,
-    "dc640362": 1,
+PUNTI = [{"N": 2, "P": 1, "-": 0}, {"v": 1, "n": 0, "d": -1}, {"+": 1, "=": 0, "-": -1}]
+
+
+def livello(codice):
+    somma = sum(PUNTI[i][codice[i]] for i in range(3))
+    return 1 if somma <= 0 else 2 if somma <= 2 else 3
+
+
+# Livelli dalle statistiche reali (id: livello). Generato da tools/calibra_difficolta.py.
+DATI = {}
+
+CODICI = {
+    "5a86694d": "Nv=",  # Quanti residenti contava il comune al censimento ISTAT del 2021?
+    "ebc792a8": "-v=",  # Qual è il centro abitato più popoloso del comune?
+    "eec92ec8": "-v=",  # Quale centro è il secondo per numero di abitanti, dopo Pieve al Toppo?
+    "3224d171": "Nn=",  # Quanto è esteso, all'incirca, il territorio comunale?
+    "e4b714c5": "-n=",  # Dove si trova Civitella in Val di Chiana rispetto ad Arezzo?
+    "b23a93db": "-v=",  # Con quale di questi comuni confina Civitella in Val di Chiana?
+    "e3946457": "-v=",  # Quale di questi comuni NON confina con Civitella in Val di Chiana?
+    "4746e93c": "Pd=",  # Su quali colline sorge il capoluogo storico, secondo Wikipedia e Tosca
+    "fea6dfb9": "Nd=",  # A quale altitudine sorge, all'incirca, il borgo di Civitella?
+    "f2064462": "Pd-",  # Tra quali valli si trova il colle di Civitella?
+    "75a8fc8f": "Pd=",  # Quale di questi torrenti scorre nel territorio comunale?
+    "e2f25241": "Pn=",  # Una parte del territorio comunale rientra in quale riserva naturale?
+    "e65e12bd": "-d-",  # Quale fiume protegge la Riserva naturale di Ponte a Buriano e Penna?
+    "96d34023": "-v+",  # Quale frazione il Piano Strutturale indica come «porta d'accesso» meri
+    "1a05018c": "Pd=",  # Quale vino si produce sulle colline del comune?
+    "607cb6d7": "-d=",  # Come sono sistemati, tradizionalmente, gli oliveti sui pendii collinar
+    "878f8be1": "Nn+",  # Circa quanti abitanti del comune vivono in case sparse, fuori dai cent
+    "b051cf1f": "-v=",  # Quale frazione è divisa tra Civitella e il comune di Laterina Pergine 
+    "7a620330": "Pn+",  # Con quale comune tedesco è gemellato Civitella in Val di Chiana?
+    "608e57f8": "Nn=",  # Da quando Civitella fa parte della rete Cittaslow?
+    "f5a0d8d3": "Nn+",  # In quale anno Civitella è entrata nell'associazione Città dell'Olio?
+    "fe9e42b2": "Nv=",  # A quale anno risale la prima notizia del castello di Civitella?
+    "db28ef0d": "-d-",  # Che cosa era il colle di Civitella in epoca longobarda?
+    "3dd6026e": "Pv=",  # Quale vescovo di Arezzo scelse nel 1248 la rocca di Civitella come pro
+    "d6478a7e": "-d+",  # Che aspetto aveva la rocca di Civitella nel 1182, secondo il Repertori
+    "2fd2d624": "Nv=",  # In quale anno Firenze fece di Civitella il capoluogo di una propria po
+    "edd96569": "Pv=",  # Da quale podesteria fu staccata Civitella nel 1385?
+    "b9e45476": "Nv=",  # Fino a quale anno durò la podesteria di Civitella?
+    "77748394": "Nv=",  # In quale anno le comunità di Ciggiano, Viciomaggio e Badia al Pino e i
+    "b929883a": "Nv-",  # In quale anno la sede comunale fu trasferita da Civitella a Badia al P
+    "4ffa7202": "-d=",  # Perché nel 1917 la sede comunale fu trasferita a Badia al Pino?
+    "32504015": "Nv-",  # In quale anno fu combattuta la battaglia di Pieve al Toppo?
+    "1e4dc6a7": "-v=",  # Chi vinse la battaglia di Pieve al Toppo del 1288?
+    "571968bf": "Pn-",  # Quale poeta ricorda la battaglia di Pieve al Toppo come le «giostre de
+    "1230b87b": "Nv+",  # In quale canto dell'Inferno Dante ricorda le «giostre del Toppo»?
+    "a95227b3": "Pv+",  # Quale personaggio, caduto nella battaglia di Pieve al Toppo, compare n
+    "a7c46ad1": "-d-",  # Che cosa distrusse la rocca di Civitella?
+    "fb55e686": "Nv=",  # In quale anno a Villa Oliveto fu istituito un campo di internamento?
+    "b5f15efd": "-n=",  # Chi era internato soprattutto nel campo di Villa Oliveto?
+    "71ecaade": "Pv=",  # Dove furono deportate nel 1944 le famiglie internate a Villa Oliveto?
+    "bebf7d33": "-v=",  # Da quale espressione latina deriva il nome di Viciomaggio?
+    "26c46d87": "-n=",  # Di quale origine è, quasi sicuramente, il toponimo «Toppo»?
+    "d150c402": "-n=",  # Da che cosa deriva il nome «Maiano»?
+    "bb0a87e4": "-d=",  # Da che cosa prende il nome Tribbio?
+    "3e37b695": "Nv-",  # In quale data avvenne la strage nazista di Civitella?
+    "75f82986": "Pv=",  # Quale festa si celebrava a Civitella il giorno della strage del 1944?
+    "3440c37a": "-v=",  # Quale di queste località NON fu colpita dalla strage del 29 giugno 194
+    "f4da425c": "Nd=",  # Quante vittime ci furono nel solo paese di Civitella, secondo ToscanaN
+    "e98abd07": "Pv=",  # Quale reparto tedesco compì le stragi del 29 giugno 1944?
+    "ae2d129c": "-v=",  # Di quale comune fa parte San Pancrazio, colpito dalla strage del 1944?
+    "d650b33d": "-v=",  # Dove arriva la Marcia per la pace che parte da Civitella?
+    "76c00bc0": "-v=",  # Con quale comune è organizzata la Marcia per la pace?
+    "ab4e24ee": "Pd=",  # Quale associazione ha allestito la Sala della Memoria a Civitella?
+    "7461cfc3": "Pd=",  # Come si chiama il monumento sul muro accanto alla chiesa di Civitella?
+    "471dce11": "Nv=",  # In quale anno fu realizzato il portale in bronzo di Bino Bini per la c
+    "b6c6fc75": "Nv+",  # In quale data le SS fucilarono a Ciggiano i partigiani Marmo e Marapit
+    "9b2fcfcf": "Nv+",  # In quale anno fu eretto il cippo dell'eccidio di Cornia?
+    "9677ff56": "Nn+",  # Quanti nomi riporta la lastra dei martiri di Cornia?
+    "24c8d8bd": "-n+",  # Chi era Giovanni Cau, catturato a Gebbia nel 1944?
+    "a6b8c90b": "-v-",  # In quale frazione ha sede il Comune?
+    "3f92e789": "Pv=",  # A quali santi era dedicata l'antica abbazia del Pino?
+    "0542f44e": "Pv=",  # Qual è il titolo della parrocchia di Badia al Pino?
+    "e6beb218": "Pv+",  # Quale santo è titolare delle parrocchie sia di Ciggiano sia di Tegolet
+    "a36520a9": "Pv+",  # Quale santo è titolare delle parrocchie sia di Spoiano sia di Pieve al
+    "120e1846": "Pv=",  # A quale santo è dedicata la parrocchia di Viciomaggio?
+    "f2907c6a": "Pv=",  # A quale santo è dedicata la parrocchia di Oliveto?
+    "1b1b61a6": "Nn+",  # In quale anno Tuori compare per la prima volta nei documenti?
+    "b24d9f73": "Nn+",  # Da quale anno è documentata l'antica pieve di Pieve al Toppo?
+    "c686859b": "Nn+",  # In quale anno fu progettata la moderna chiesa parrocchiale di Pieve al
+    "c2c65bab": "Nn+",  # In quale anno la chiesa di San Biagio a Ciggiano fu elevata a pieve?
+    "b555e58c": "Pv=",  # A quale scultore è attribuita la Santa Maria Maddalena della chiesa di
+    "c31940bf": "-v=",  # In quale frazione si trova la chiesa della Madonna della Costarella, c
+    "8d375aa0": "-v+",  # Quale borgo collinare si trova a circa 360 metri, su un colle tra le v
+    "264f4207": "-n=",  # Quale attività artigianale esisteva un tempo a Cornia?
+    "7460edf6": "Pn=",  # A quale santo è dedicata la chiesa di Cornia, detta di Sant'Angelo?
+    "c1b2389e": "-v+",  # Quale frazione è la più alta tra queste, a circa 560 metri?
+    "d02d06cf": "Pv=",  # Di quale famiglia fu dimora Villa Oliveto, già Villa Mazzi?
+    "782eea04": "Pd-",  # Quale scrittrice scozzese visse a Oliveto ed è sepolta nel suo cimiter
+    "f98ae568": "Pd-",  # Quale romanzo ha scritto Muriel Spark, che visse a Oliveto?
+    "ae843126": "Nn=",  # In quale anno Muriel Spark ricevette la cittadinanza onoraria di Civit
+    "4570545d": "Nn+",  # Da quale anno si tiene il Presepe Vivente di Oliveto?
+    "605f6a96": "-d=",  # Dove è allestita la Natività del Presepe Vivente di Oliveto?
+    "8c3a7f97": "-d=",  # Che cosa è stato trovato al Podere Casella, presso Pieve a Maiano?
+    "f229085c": "Pv+",  # Di quale imperatore è la moneta d'oro trovata a Pieve a Maiano?
+    "9ed31f21": "-v=",  # Vicino a quale frazione si trova il podere Spedaluccio?
+    "91b7689b": "-d=",  # Che cosa si produceva nelle fornaci romane di località I Ponti, a Piev
+    "ac4c5d0d": "Nn=",  # Da quale anno Ponticino ha una stazione ferroviaria?
+    "21a4f930": "-n=",  # Su quale linea ferroviaria si trova la stazione di Ponticino?
+    "1938aa25": "Nn+",  # In quale anno un referendum approvò la fusione tra Laterina e Pergine 
+    "b126f10e": "-v=",  # Con quali comuni Civitella si divideva Ponticino prima del 2018?
+    "86a6174e": "Pv=",  # Quale villa settecentesca si trova a Spoiano?
+    "d00da1ec": "-n+",  # Che cosa divenne Villa Pecchioli, a Spoiano, nel 1928?
+    "bd1eb40f": "-v+",  # Quale paese è al centro del libro «Un uomo dabbene per davvero» di Giu
+    "e7c2c418": "-v=",  # Chi ricostruì la torre di Tegoleto alla fine del Trecento?
+    "1086aa45": "Pv+",  # A quale ordine passò la fattoria di Tegoleto nel 1783?
+    "3e486f3c": "Nn=",  # In quale anno nacque il Teatro Moderno di Tegoleto?
+    "91b9c111": "Pn=",  # Chi gestisce il Teatro Moderno di Tegoleto?
+    "7c7d8c24": "Nn=",  # In quale anno a Tegoleto arrivò una tappa del Giro d'Italia?
+    "c1817196": "Pv=",  # Chi vinse la tappa del Giro d'Italia arrivata a Tegoleto nel 2004?
+    "d7a4e134": "Nn+",  # In quale anno fu trovata a Viciomaggio un'urna cineraria etrusca con i
+    "a06601d7": "-v=",  # In quale frazione si trova la villa-fattoria settecentesca con una lim
+    "1d45bdf1": "Pv=",  # Su quale linea ferroviaria si trova la stazione di Albergo?
+    "daf0e244": "-d=",  # Quale strada romana passava da Albergo, secondo l'itinerario del Comun
+    "cc15f4f6": "-v=",  # A quale ordine religioso apparteneva il priorato da cui nacque la chie
+    "2a3e555c": "Nn=",  # In quale anno fu completata in stile romanico la chiesa di Santa Maria
+    "bdcb792b": "Nn+",  # Quanti archi ha il portico del Palazzo Pretorio di Civitella?
+    "dedef337": "-n=",  # Per quale scopo il notaio Becattini lasciò il suo palazzo alla Confrat
+    "8a7414cd": "Nn+",  # Da quale anno Palazzo Becattini è di proprietà del Comune?
+    "4881de19": "Pd=",  # In quale piazza di Civitella si trova la cisterna medievale?
+    "bdf6b86c": "Pv+",  # Chi costruì il Saracino, la casa colonica cinquecentesca presso Tuori?
+    "cd56501b": "-d=",  # Per che cosa era noto il luogo di Matroia?
+    "e4363716": "-d+",  # Che cosa c'è oggi a Matroia, secondo il Piano Strutturale?
+    "dbcd5fc3": "-v=",  # Dove si trova oggi la campana del 1358 proveniente da Montoto?
+    "ec3b56a5": "Nv=",  # In quale anno il castello di Montoto passò da Arezzo a Firenze?
+    "ba3dff5e": "-d=",  # Che cosa resta sulla cima di Poggio Castellare?
+    "f06a2f2d": "-n=",  # Da che cosa deriva il nome di Montarfoni?
+    "d9e63c28": "-d=",  # Che cosa conserva oggi Montarfoni, oltre alla villa seicentesca?
+    "d6eaf7ca": "Pv+",  # Da chi fu acquistata nel 1814 la villa-fattoria di Dorna?
+    "961f484f": "-n=",  # Che cosa è la torre di Dorna, ricordata dal 1198?
+    "7591d2bd": "Pv+",  # A chi è dedicata la chiesa di San Martino in Poggio costruita nel 1690
+    "ff97d330": "Pv+",  # Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?
+    "f59b9207": "-n=",  # Come descrisse Firenze il castello di Gaenne prima di ordinarne la dis
+    "0aeb1238": "Pv=",  # A chi apparteneva il castello di Gaenne nel 1069?
+    "b8b3b4f1": "-v=",  # Tra quali frazioni si trova la località Le Caserosse?
+    "e4fa556c": "Pv+",  # In quale materiale è il cippo romano trovato a Le Fosse?
+    "fbceb884": "-d-",  # Che cosa produce l'azienda CEIA di Viciomaggio?
+    "84695b7e": "Nv=",  # In quale anno fu costituita la società CEIA?
+    "da81be25": "-v=",  # Per quale industria CEIA brevettò nel 1962 i suoi primi metal detector
+    "d00c385a": "-d=",  # Dal 1975 CEIA produce metal detector per quale settore?
+    "4fbe35df": "-d=",  # Di che cosa si occupa Chimet?
+    "ec632da2": "Nv=",  # In quale anno fu fondata Chimet?
+    "15d7a73c": "-v=",  # Dove aprì Chimet il suo primo stabilimento, nel 1976?
+    "aaba5c69": "-d-",  # Che cosa produceva l'azienda Del Tongo di Tegoleto?
+    "4825255e": "Nv=",  # In quale anno fu fondata la Del Tongo?
+    "51f555d3": "Nn=",  # In quale anno fallì la Del Tongo?
+    "005b6b8c": "Pv+",  # Quale azienda acquisì nel 2022 il marchio Del Tongo?
+    "6355b329": "Nv+",  # In quali anni fu attiva la squadra ciclistica professionistica Del Ton
+    "92e0687d": "Pv=",  # Con quale corridore la squadra Del Tongo vinse il Giro d'Italia del 19
+    "6c2a3e07": "Pv+",  # Con quale corridore la squadra Del Tongo vinse il Giro d'Italia del 19
+    "fbd430a4": "Pv=",  # Quale celebre velocista esordì tra i professionisti con la maglia Del 
+    "5ea5e45a": "Pv=",  # Quale di queste è una varietà tradizionale di olivo del territorio?
+    "a04d9971": "Pd=",  # A quale Strada del Vino appartiene il Comune di Civitella?
+    "92190992": "-v=",  # Dove ha sede la condotta Slow Food Valdichiana?
+    "fd5f1067": "Pn=",  # Come si chiama il progetto di educazione alimentare che Slow Food port
+    "d16bdeb0": "-v=",  # In quale frazione si tiene la Sagra della Bistecca?
+    "3116bcad": "Pv+",  # Chi organizza la Sagra della Bistecca?
+    "f0be8eb1": "-v=",  # In quale frazione si tiene la Sagra del Crostino?
+    "4422dd68": "Pv+",  # Chi organizza la Sagra del Crostino di Albergo?
+    "2d7782fe": "-v=",  # In quale frazione si tiene la Sagra dei Baccelli?
+    "b7b8833c": "-n=",  # In quale mese si tiene la Sagra dei Baccelli?
+    "35bf8000": "-v=",  # In quale frazione si tiene la Sagra del Cinghiale?
+    "18b90576": "-v=",  # In quale frazione si tiene la Festa dell'uva, del vino e dell'olio?
+    "e1d94892": "Nn+",  # Quale edizione della Festa dell'uva di Ciggiano si è tenuta nel 2026?
+    "3102235c": "-d=",  # A che cosa è dedicata la Sagra della Pesca di Pieve al Toppo?
+    "642f3ac8": "-n=",  # Quando si tiene la Fiera del Miele di Pieve al Toppo?
+    "3a131b5f": "-v=",  # In quale frazione si tiene la Fiera del Miele?
+    "f220d5ea": "-v=",  # Dove si tiene il Mercato del Cacio?
+    "beec873c": "-d=",  # Che cosa si degusta a Calici sotto la Torre?
+    "2e7141f4": "-v=",  # In quale frazione si tiene la Festa della Rosa?
+    "23617f63": "-v=",  # In quale frazione si tiene il RioFest?
+    "8e949863": "Nv+",  # In quale anno si è tenuta la prima edizione del RioFest?
+    "260bd43e": "Pv=",  # Quale associazione organizza il RioFest e Cinema sotto le Stelle?
+    "253c5d99": "-n=",  # Dove si svolgono le proiezioni di Cinema sotto le Stelle?
+    "4a402844": "-v=",  # In quale frazione si tiene il Mercato dei Sapori e della Terra?
+    "044286f0": "-n=",  # In quale periodo si tiene la rassegna L'Olio Novo?
+    "20356cbe": "-v=",  # In quale frazione si tiene il Presepe Vivente?
+    "87a41003": "Pv+",  # Chi organizza la Festa al Tegoleto?
+    "2f520af4": "-v=",  # In quale frazione ha sede la Società Filarmonica, la banda del paese?
+    "909f8526": "-d=",  # Di quale sport si occupa la Polisportiva Albergo Oliveto con i più gio
+    "410b1cb5": "Nn=",  # In quale anno il titolo di pieve e il fonte battesimale passarono dall
+    "c87b3b73": "Nn+",  # In quale anno fu soppressa la Badia del Pino?
+    "7a384985": "Nn=",  # In quale anno furono distrutti la pieve e l'ospedale per i pellegrini 
+    "cb2abf6f": "Pd=",  # Sotto quali valichi si trova Ciggiano, che ne fecero un nodo strategic
+    "96a6f855": "-n=",  # Che cos'era la «calla» che i pastori facevano a Ciggiano?
+    "523cea0b": "Pv+",  # Le truppe di quale condottiero assediarono e saccheggiarono Ciggiano n
+    "01491e5c": "Pv=",  # Quale granduca soppresse nel 1783 la Compagnia di Santa Croce di Ciggi
+    "f4c98a78": "Pv+",  # Quali famiglie, tornate proprietarie del feudo, riedificarono nel Seic
+    "4fcbea87": "-d+",  # Che cosa diventò all'inizio dell'Ottocento la piazza d'armi del castel
+    "f8e908eb": "-d=",  # Che funzione aveva il castello di Tuori nel Medioevo?
+    "8bc58b2b": "-v+",  # In quale frazione si trova Palazzo Santini-Paccinelli, villa settecent
+    "19907f55": "-n=",  # Quale reliquia custodisce la chiesa della Compagnia di Santa Croce a C
+    "43d14c27": "Pv+",  # Quale pittore dipinse la Madonna del Rosario conservata nella chiesa d
+    "b4c51f53": "Nn=",  # In quale anno Villa Oliveto fu ceduta al Comune di Civitella?
+    "4bfffd85": "Pn+",  # Chi fuse nel 1358 la campana oggi nel campanile della chiesa di Pieve 
+    "1f3abaaa": "-n=",  # Che cos'era anticamente il podere Spedaluccio, vicino a Pieve a Maiano
+    "21e2abd1": "Nn+",  # Da quale anno è documentato l'antico ospizio dello Spedaluccio?
+    "388b792d": "-n=",  # Su che cosa sorge l'Oratorio della Madonna del Conforto a Pieve al Top
+    "0ff18981": "-d=",  # Che cos'era all'inizio, nel 1960, il Teatro Moderno di Tegoleto?
+    "c5767706": "-n+",  # Che cosa c'è nel recinto d'accesso al Palatium-torre della Rocca di Ci
+    "99db94ce": "Pn=",  # Quale via medievale transitava da Albergo?
+    "a6b92165": "-d=",  # Quale bene è tutelato da vincolo nazionale a Badia al Pino?
+    "dad49b73": "-d=",  # Che cosa raccoglie la Sala della Memoria allestita a Civitella dall'as
+    "38fd6d61": "-d+",  # Che cosa è stato trovato nel 2004 in località La Cascinella, presso Ci
+    "c7eef4ea": "-d+",  # Secondo Visit Tuscany, che cosa è stato trovato nella chiesa di San Pi
+    "eab967e7": "Nd+",  # Fino a che spessore arrivano i muri del Castellare di Sant'Angelo, pre
+    "1526724b": "Pn+",  # Su segnalazione di chi furono scoperte le fornaci romane in località I
+    "5b8c6dd0": "-n+",  # Quale reperto da Viciomaggio è conservato al Museo Archeologico Nazion
+    "dc640362": "-d=",  # Che cosa prevede il Piano Strutturale per l'area di Cornia?
+    "20b4867a": "-d=",  # Tra quali località si estende il tratto dell'Arno protetto dalla Riser
+    "848435e4": "Nd=",  # Tra quali quote si trovano i centri abitati del comune, secondo Cittas
+    "4298beed": "-v-",  # La pianura del comune è la parte settentrionale di quale valle?
+    "a852afc3": "Pd=",  # Quale di questi è uno dei torrenti principali del comune, insieme a Es
+    "4d63ebae": "Nn+",  # Quanti residenti contava Pieve al Toppo, il centro più popoloso del co
+    "52faadf9": "-v+",  # Quale centro è il terzo per numero di abitanti, dopo Pieve al Toppo e 
+    "729c801a": "Nv+",  # Quanti residenti contava il borgo di Civitella, il capoluogo storico, 
+    "2a6d43b8": "-v+",  # Quale di queste località era la meno popolosa al censimento del 2021?
+    "dc924e7d": "-v+",  # Quale frazione contava circa 950 residenti al censimento del 2021?
+    "3589ff26": "-v+",  # Di quale epoca sono gli strumenti in pietra trovati al Podere Casella,
+    "414fd435": "-v+",  # Dove è stato individuato un insediamento romano del I-II secolo d.C. a
+    "e19b1b46": "Pv+",  # In quale località di Pieve a Maiano c'era una fornace romana?
+    "aae10fe5": "-n+",  # Quale ritrovamento attesta l'origine romana di Spoiano?
+    "3b033cf0": "Pv+",  # A quale epoca risale l'urna etrusca con iscrizione trovata a Viciomagg
+    "1ab2c013": "Pd=",  # Di quale catena collinare è una propaggine la zona collinare del comun
+    "7a62a739": "Nv+",  # In quale giorno fu combattuta la battaglia di Pieve al Toppo del 1288?
+    "18947b6d": "-v=",  # Di quale parte erano i senesi sconfitti al Toppo nel 1288?
+    "4497e778": "-d=",  # In quali epoche fu frequentato il colle di Civitella, prima di diventa
+    "4c4023b6": "Pv=",  # A presidio di chi sorgevano, dall'XI secolo, le strutture sul colle di
+    "0a7ac152": "-d=",  # Che cosa fece alla rocca di Civitella il vescovo Guglielmino degli Ube
+    "6869ff95": "Pv-",  # Quale città acquisì Arezzo e il suo contado prima di fare di Civitella
+    "cf547452": "Pv+",  # Quale castello fu aggregato alla Comunità di Civitella nel 1774, insie
+    "6a7032b1": "Nv+",  # In quale anno Ciggiano subì un altro assedio, dopo il saccheggio di Ni
+    "5ff357cf": "Pv+",  # Quale altro titolo, oltre a quello di pieve, passò a Badia al Pino nel
+    "d1c40d05": "Nv+",  # In quale anno un documento chiama l'abbazia «Badia di S. Martino e S. 
+    "572b6b97": "-n=",  # Che cosa c'era accanto all'antica pieve del Toppo?
+    "12a183b1": "Pv+",  # Tra i possedimenti di chi fu confermata nel 938 la pieve del Toppo?
+    "3fa9492f": "Nv+",  # In quale mese del 1940 fu istituito il campo di internamento di Villa 
+    "4dc5acd4": "Pv+",  # Quale reparto operò a Gebbia il 29 giugno 1944, insieme alla divisione
+    "5c286059": "-n+",  # Secondo l'Archivio della Memoria, che cosa uccisero i tedeschi a Gebbi
+    "7ec5aac3": "-v+",  # Dove furono fucilati gli uomini presi a Gebbia, secondo l'Archivio del
+    "15cc1db8": "Nv+",  # In quale giorno furono uccisi Giovanni Cau e la moglie Helga Elmqvist,
+    "320d4828": "Nv+",  # Fino a quale giorno arrivano le morti ricordate dalla lastra dei marti
+    "e6acc20f": "Pv+",  # Chi fucilò a Ciggiano, il 16 aprile 1944, i partigiani Giovanni Marmo 
+    "5b3d98f6": "Pv=",  # Quale luogo della memoria si trova a Civitella, oltre alla «Pietà del 
+    "d69a35d2": "-v+",  # Dove si rifugiavano durante la guerra gli abitanti di Viciomaggio?
+    "f6883e41": "-n+",  # Chi era Hazbi Ismail, tra le vittime elencate dall'Atlante per «Cornia
+    "cdce2f79": "-d=",  # Che cosa ricorda il portale in bronzo di Bino Bini nella chiesa di Civ
+    "855aa29c": "-d=",  # Che cosa prevede il Piano Strutturale per la Rocca di Civitella?
+    "5290f03d": "-v+",  # Quali stemmi si vedono sul Palazzo Pretorio di Civitella?
+    "77e1c3f5": "Nn+",  # In quale anno morì il notaio Becattini, che lasciò il suo palazzo per 
+    "fd831df6": "Pv+",  # Quali oratori si trovano nel borgo di Civitella?
+    "608aba01": "-n+",  # Quale bene storico di Albergo è censito nel Repertorio del Piano Strut
+    "e6917851": "-n=",  # Che cosa ospita oggi il palazzetto settecentesco di Badia al Pino, sed
+    "c435203b": "Nv+",  # In quale anno fu inaugurato il monumento ai caduti nel piazzale della 
+    "d3fdc7c5": "-v+",  # Che cosa caratterizza Villa del Bosco, a Badia al Pino?
+    "7c31e8d6": "Pv+",  # A quali santi è dedicata la chiesa di San Bartolomeo a Badia al Pino?
+    "f996bc77": "Pv+",  # Quale altare custodisce la chiesa di San Biagio a Ciggiano?
+    "2c5801d3": "-v+",  # Di quale secolo è il loggiato della chiesa della Madonna della Costare
+    "48e6e4b6": "Nv+",  # In quale anno la chiesa di San Pietro a Ciggiano ebbe l'intervento che
+    "eccf0f3a": "-v+",  # In quali registri compare già nel 1274 la chiesa di Sant'Angelo a Corn
+    "d4b4fda3": "Nv+",  # In quale anno fu ricostruita la chiesa di San Giovanni d'Oliveto?
+    "2c46b6c8": "-d+",  # Che cos'era in origine l'Oratorio di San Rocco, a Oliveto?
+    "1ee31880": "Nv+",  # Attorno a quale anno fu rifatta la Cappella della Compagnia di Oliveto
+    "49446c6c": "-d=",  # Di quali alberi è ricco il parco di Villa Oliveto?
+    "498b0966": "Nv=",  # In quale anno morì Muriel Spark, che visse a Oliveto?
+    "3bd4c74d": "Nv+",  # In quale anno fu ampliata la chiesa di Santa Maria Assunta a Pieve a M
+    "91087b87": "Pv=",  # Qual è il titolo della parrocchia di Pieve a Maiano?
+    "253e4dff": "Nn+",  # Da quale anno l'oratorio di Pieve al Toppo è dedicato alla Madonna del
+    "974228d6": "-v+",  # Qual è l'unico bene storico di Ponticino censito dal Repertorio del Pi
+    "d9d80f19": "-v+",  # In quale comune ha sede la parrocchia dei Santi Iacopo e Cristoforo di
+    "3d4a15ba": "-v+",  # Quale elemento caratterizza Villa Pecchioli, a Spoiano?
+    "99f5bb0f": "-n+",  # In quale periodo dell'anno si tiene la stagione del Teatro Moderno di 
+    "2f350987": "Nv+",  # Quale tappa del Giro d'Italia 2004 arrivò a Tegoleto?
+    "13de9716": "Pv=",  # Davanti a quale stabilimento si concluse la tappa del Giro d'Italia ar
+    "ced4fecf": "-v+",  # Su quali beni di Tuori c'è un vincolo nazionale?
+    "8288be8c": "-v+",  # Com'è fatto il portico del Saracino, presso Tuori?
+    "b72de4ff": "Nv+",  # In quale anno fu restaurata, con decorazioni pittoriche, la parte post
+    "20485c5d": "-n+",  # Su che cosa sorsero i poderi di Montoto, lungo via della Centrale?
+    "2bad47c2": "Pv+",  # A quale santo è dedicata la chiesetta di Matroia?
+    "4cfbc901": "-n+",  # Che cosa si conserva a Tribbio, oltre al nome che ricorda un trivio ro
+    "7551f5ac": "-n=",  # Quando furono abbandonati i borghi medievali di Malpertuso e Le Fosse?
+    "d2a0a62f": "-v=",  # Di quale origine è il castello di Dorna?
+    "a8e3eb8d": "Pv+",  # Come è chiamata Dorna in un documento del 1181?
+    "e5f0dee8": "Pv+",  # A quali santi era dedicata la chiesa documentata a Dorna nel 1182?
+    "534d8c16": "Pv+",  # A quale famiglia passò il castello di Gaenne dopo i longobardi di Dorn
+    "0574409f": "Nv+",  # Da quale anno San Martino in Poggio è parrocchia?
+    "a085dfa8": "Nd+",  # A che altitudine si trova, all'incirca, San Martino in Poggio?
+    "e834399c": "Nd+",  # Quanto è lunga, all'incirca, la cinta muraria a secco di Poggio Castel
+    "27480726": "Pn=",  # Chi fondò nel 1954 la Del Tongo?
+    "ef327bd3": "Pv+",  # Quale classica del ciclismo vinse la squadra Del Tongo nel 1983?
+    "b2e17c50": "Nn+",  # Quante tappe del Giro d'Italia vinse la squadra ciclistica Del Tongo?
+    "8ee7c334": "-v+",  # Dove aprì Chimet il suo secondo stabilimento, negli anni Ottanta?
+    "d8488735": "Pd=",  # Quali varietà di olivo sono tipiche del territorio, insieme al moraiol
+    "8cac38d7": "Pv=",  # Quale indicazione geografica ha l'olio extravergine del territorio?
+    "daf78ce6": "Pv=",  # Chi organizza la Sagra dei Baccelli di Spoiano?
+    "c3556ffe": "Nn+",  # Quale edizione della Sagra dei Baccelli si è tenuta nel 2025?
+    "eb4598d2": "Pv=",  # Chi organizza la Sagra della Pesca di Pieve al Toppo?
+    "c9416e86": "Pv=",  # Chi organizza la Festa della Rosa di Viciomaggio?
+    "98eb66e1": "Pv+",  # Chi organizza la Sagra del Cinghiale di Pieve a Maiano?
+    "da689784": "Pv=",  # Chi organizza la Festa dell'uva, del vino e dell'olio di Ciggiano?
+    "9a5d061a": "-n=",  # In quale mese si tiene il Mercato del Cacio, nel borgo di Civitella?
+    "11601917": "-n=",  # In quale mese si tiene la Sagra del Crostino di Albergo?
+    "4c118d8f": "-v=",  # Chi organizza il Mercato del Cacio, Calici sotto la Torre e la Fiera d
+    "7f7108c7": "-v+",  # In quale giorno della settimana si tengono le proiezioni di Cinema sot
+    "f146f2ed": "Nv+",  # Da quale anno si tiene Cinema sotto le Stelle a Tegoleto?
+    "4be5e12f": "Nn+",  # Quale edizione dell'Olio Novo si è tenuta nel 2025?
 }
