@@ -365,4 +365,6 @@ CODICI = {
     "79914e1e": "-v=",  # Come era chiamata Civitella per la frequente presenza dei vescovi aret
     "175fd5fe": "Nn+",  # In quale anno fu firmata nel castello la «Pace di Civitella», secondo 
     "e65747b8": "Pv+",  # Quale di questi è uno dei quattro rioni che corrono il Sarapino?
+    "f6ac606f": "Pv=",  # Quale porta di Civitella fu distrutta dalle bombe nel 1944?
+    "e8da5b98": "Pv+",  # A chi donarono Palazzo Ninci i suoi proprietari nel 1917?
 }

@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 328 domande.
+Totale: 330 domande.
 
 ## Geografia (44)
 
@@ -413,7 +413,7 @@ Totale: 328 domande.
    ✔ Il Tribunale militare di La Spezia · ✘ Il tribunale di Norimberga · La Corte d'Assise di Arezzo · Il Tribunale di Firenze  
    _Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania._ → `storia.html`
 
-## Frazioni (95)
+## Frazioni (97)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -700,6 +700,12 @@ Totale: 328 domande.
 95. [1447e0cc] ●○○ `-d=` **Che cosa raccoglie la Pinacoteca di Civitella?**  
    ✔ Dipinti e sculture d'arte contemporanea, dagli anni Settanta a oggi · ✘ Reperti etruschi e romani · Arte sacra medievale · Attrezzi della civiltà contadina  
    _La Pinacoteca d'arte contemporanea ospita dipinti e sculture dai primi anni Settanta alle opere degli artisti di oggi._ → `frazioni/civitella.html`
+96. [f6ac606f] ●●○ `Pv=` **Quale porta di Civitella fu distrutta dalle bombe nel 1944?**  
+   ✔ Porta Aretina · ✘ Porta Senese · Porta Fiorentina · Porta Romana  
+   _Delle due porte del XIII secolo, Porta Aretina fu distrutta nel 1944; Porta Senese è rimasta integra._ → `frazioni/civitella.html`
+97. [e8da5b98] ●●● `Pv+` **A chi donarono Palazzo Ninci i suoi proprietari nel 1917?**  
+   ✔ Alla Fraternita dei Laici · ✘ Al Comune di Civitella · Alla diocesi di Arezzo · Alla Pro Loco  
+   _Palazzo Ninci, in piazza Lazzeri, fu donato nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925._ → `frazioni/civitella.html`
 
 ## Borghi minori (35)
 

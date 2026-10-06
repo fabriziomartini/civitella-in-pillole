@@ -4593,5 +4593,33 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "I rioni del Sarapino sono San Francesco, Porta Aretina, Porta Senese e La Torre.",
 "l": "frazioni/civitella.html"
+},
+{
+"id": "f6ac606f",
+"c": "frazioni",
+"d": 2,
+"q": "Quale porta di Civitella fu distrutta dalle bombe nel 1944?",
+"a": "Porta Aretina",
+"x": [
+"Porta Senese",
+"Porta Fiorentina",
+"Porta Romana"
+],
+"s": "Delle due porte del XIII secolo, Porta Aretina fu distrutta nel 1944; Porta Senese è rimasta integra.",
+"l": "frazioni/civitella.html"
+},
+{
+"id": "e8da5b98",
+"c": "frazioni",
+"d": 3,
+"q": "A chi donarono Palazzo Ninci i suoi proprietari nel 1917?",
+"a": "Alla Fraternita dei Laici",
+"x": [
+"Al Comune di Civitella",
+"Alla diocesi di Arezzo",
+"Alla Pro Loco"
+],
+"s": "Palazzo Ninci, in piazza Lazzeri, fu donato nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925.",
+"l": "frazioni/civitella.html"
 }
 ];

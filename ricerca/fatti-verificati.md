@@ -138,6 +138,9 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Il portale in bronzo della chiesa, opera di Bino Bini (1994), ricorda l'eccidio nel cinquantesimo anniversario | Wikipedia (Chiesa di Santa Maria Assunta) | R | alta |
 | La Rocca: sulla più alta delle due sommità del colle c'è il *Palatium*-torre, con il recinto d'accesso e la cisterna per l'acqua | Repertorio (T002) | R | alta |
 | Il Piano Strutturale prevede il restauro della Rocca e un «museo» come punto di riferimento per visitare castelli, castellari, rocche, torri e antichi tracciati | Piano Strutturale | R | alta |
+| Le mura risalgono al XII secolo e furono restaurate nel 1969 | Itinerario 2 del Comune | R | alta |
+| Delle due porte del XIII secolo, Porta Aretina fu distrutta dalle bombe nel 1944; Porta Senese è integra | Discover Arezzo; scheda del Comune sulla Porta Senese | R | alta |
+| Palazzo Ninci, in piazza Lazzeri: rifusione settecentesca di più edifici medievali; donato dai Ninci nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925 | Scheda del Comune su Palazzo Ninci; Discover Arezzo | R | media |
 | Palazzo Pretorio: trecentesco, con portico a cinque archi e gli stemmi dei podestà fiorentini | Discover Arezzo | R | media |
 | Palazzo Becattini: nato dalla fusione di edifici medievali e trasformato nell'Ottocento; il notaio Becattini, morto il 19 luglio 1877, lo lasciò alla Confraternita di Carità per un ospedale dei poveri; dal 1978 è del Comune | Repertorio (A007) | R | media |
 | Ci sono gli oratori della SS. Trinità e della Madonna di Mercatale, la cisterna medievale di piazza Lazzeri e la Galleria comunale d'arte contemporanea (l'oratorio della Costarella è stato tolto: la Madonna della Costarella è a Ciggiano, Repertorio E152) | Repertorio (O001, O004), Wikipedia, Discover Arezzo | R | alta |
@@ -494,7 +497,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 
 **Guida turistica «Alla scoperta della Val di Chiana» (ambito turistico, PDF di 11 pagine): non affidabile per la storia**
 - Scrive che Civitella fu «fondata in epoca etrusca», che «nel XII secolo viene distrutta durante la battaglia di Pieve al Toppo» (la battaglia è del 1288) e che passò a Firenze «dopo la battaglia di Campaldino nel 1289» (fu nel 1385). Mette la Madonna robbiana «all'interno della chiesa di Santa Maria» (Discover Arezzo: tabernacolo presso la Porta Senese).
-- Da verificare prima di qualsiasi uso: mura del XII secolo e cinta ellittica; Porta Senese unica porta intatta; due piazze con palazzi porticati; Palazzo Pretorio, Palazzo Becattini, la Cancelleria e Palazzo Ninci («Nenci» nella guida) ricostruiti dopo la guerra.
+- Verificato in N1 (6/10/2026): mura del XII secolo CONFERMATE (restaurate nel 1969), ma «cinta ellittica» non presente; Porta Senese integra CONFERMATA (Porta Aretina distrutta nel 1944); «due piazze collegate da palazzi con portici» non presente (le fonti nominano piazza Lazzeri e piazza Mazzini); la «Cancelleria» e la ricostruzione postbellica dei palazzi NON PRESENTI (Palazzo Pretorio è trecentesco, Palazzo Ninci settecentesco). Usati solo i fatti confermati.
 
 **Pro Loco, «Civitella nella storia»: parti non usate**
 - Il 917 con Berengario e Uguccione «marchese del Colle», con la genealogia fino a Carlo Magno: non confermato da nessuna fonte scritta verificata.

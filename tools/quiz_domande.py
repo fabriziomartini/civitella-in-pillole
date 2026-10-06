@@ -377,3 +377,7 @@ q(s,"Quale di questi comuni fu soppresso e unito a Civitella nel 1774?","Tuori",
 q(s,"Come era chiamata Civitella per la frequente presenza dei vescovi aretini?","«Civitella del Vescovo»",["«Civitella dei Medici»", "«Civitella del Papa»", "«Civitella dei Conti»"],"Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra».","storia.html")
 q(s,"In quale anno fu firmata nel castello la «Pace di Civitella», secondo la Pro Loco?","1311",["1252", "1385", "1554"],"Il 26 marzo 1311 il vescovo Ildobrandino dei conti Guidi fece firmare la pace tra guelfi e ghibellini, alla presenza degli ambasciatori di Arrigo VII.","storia.html")
 q(t,"Quale di questi è uno dei quattro rioni che corrono il Sarapino?","Porta Senese",["Porta Crucifera","Santo Spirito","Sant'Andrea"],"I rioni del Sarapino sono San Francesco, Porta Aretina, Porta Senese e La Torre.",F+"civitella.html")
+
+# --- Verifica N1 delle affermazioni della guida turistica (6/10/2026) ---
+q(f,"Quale porta di Civitella fu distrutta dalle bombe nel 1944?","Porta Aretina",["Porta Senese", "Porta Fiorentina", "Porta Romana"],"Delle due porte del XIII secolo, Porta Aretina fu distrutta nel 1944; Porta Senese è rimasta integra.",F+"civitella.html")
+q(f,"A chi donarono Palazzo Ninci i suoi proprietari nel 1917?","Alla Fraternita dei Laici",["Al Comune di Civitella", "Alla diocesi di Arezzo", "Alla Pro Loco"],"Palazzo Ninci, in piazza Lazzeri, fu donato nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925.",F+"civitella.html")
