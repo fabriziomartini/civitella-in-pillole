@@ -297,7 +297,7 @@ Totale: 330 domande.
    _Nel 1252 Civitella capitolò e fu rasa al suolo; il vescovo Guglielmino la fece poi ricostruire con una doppia cerchia di mura._ → `storia.html`
 51. [fd4ef637] ●○○ `-d=` **Quale di questi comuni fu soppresso e unito a Civitella nel 1774?**  
    ✔ Ciggiano · ✘ Monte San Savino · Lucignano · Bucine  
-   _Nel 1774 Pietro Leopoldo unì a Civitella nove piccoli comuni: Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto._ → `storia.html`
+   _Nel 1774 nove piccoli comuni furono aggregati a Civitella; Ciggiano è tra quelli ricordati sia dagli itinerari del Comune sia dalla Pro Loco._ → `storia.html`
 52. [79914e1e] ●○○ `-d=` **Come era chiamata Civitella per la frequente presenza dei vescovi aretini?**  
    ✔ «Civitella del Vescovo» · ✘ «Civitella dei Medici» · «Civitella del Papa» · «Civitella dei Conti»  
    _Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra»._ → `storia.html`

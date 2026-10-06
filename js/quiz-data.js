@@ -4549,7 +4549,7 @@ window.QUIZ_DOMANDE = [
 "Lucignano",
 "Bucine"
 ],
-"s": "Nel 1774 Pietro Leopoldo unì a Civitella nove piccoli comuni: Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto.",
+"s": "Nel 1774 nove piccoli comuni furono aggregati a Civitella; Ciggiano è tra quelli ricordati sia dagli itinerari del Comune sia dalla Pro Loco.",
 "l": "storia.html"
 },
 {
