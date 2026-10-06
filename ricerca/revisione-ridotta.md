@@ -16,7 +16,7 @@ Questo file sostituisce la revisione completa di `revisione-frase-per-frase.md`,
 - i residenti, presi dal CSV ISTAT;
 - le frasi già confermate nei registri.
 
-**Amministrazione** ha bisogno di fonti nuove: vedi in fondo.
+**Amministrazione**: risolta il 6 ottobre 2026 con la pagina ufficiale «Esplora Politici» del Comune (vedi `fatti-verificati.md`, sezione 8). Il prompt in fondo non serve più.
 
 **Oltre alla verità, la rilevanza.** Per ogni blocco Claude segnala anche i fatti veri ma poco rilevanti: piccole aziende, piccole associazioni, numeri amministrativi. Decide l'utente se tenerli. Nel quiz entrano solo fatti di rilevanza alta o media (vedi `fatti-verificati.md`).
 
@@ -182,7 +182,7 @@ Verifica ogni frase SOLO sulle fonti del notebook. Per ciascuna: N | CONFERMATA 
 
 ---
 
-## Amministrazione: prima vanno aggiunte le fonti
+## Amministrazione (non più necessario: risolta senza notebook)
 
 La pagina parla di persone reali e nessuno dei due notebook ha le fonti per verificarla.
 

@@ -332,9 +332,28 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 
 ## 8. Amministrazione
 
-⚠ Non ancora verificata con il notebook: servono le pagine del Comune (vedi `revisione-ridotta.md`). La pagina contiene anche un'incoerenza, perché dice «4 consiglieri di opposizione» ma ne elenca 5.
+Composizione verificata sulla pagina ufficiale del Comune «Esplora Politici» (https://www.comune.civitella-in-val-di-chiana.ar.it/EG0/EGSCHTST19.HBL?en=eg907&MESSA=PUBBLICA), incollata dall'utente il 6 ottobre 2026. Confermata dalla pagina «Organi di governo → Consiglio comunale» (https://www.comune.civitella-in-val-di-chiana.ar.it/amministrazione/organi_di_governo/Organo_di_governo_1.html, aggiornata il 17-02-2025), con gli stessi 12 nomi e gli stessi ruoli. Fatti su persone in carica: **esclusi dal quiz**.
+
+| Fatto | Fonte | Liv. | Ril. |
+|---|---|---|---|
+| Sindaco Andrea Tavarnesi; vicesindaco Gian Luca Lucchetti; assessori Ivano Capacci, Claudia Del Tongo, Serena Nardi | Comune, Esplora Politici; pagina «Organi di governo → Giunta» (Organo_di_governo_2.html, aggiornata il 17-02-2025) | R | media |
+| Deleghe: Lucchetti (vicesindaco) attività produttive e commercio, promozione del territorio e turismo, polizia municipale e protezione civile; Capacci lavori pubblici, patrimonio, manutenzioni, decoro urbano, viabilità, politiche agricole e promozione dei prodotti agricoli e alimentari, rapporti con le realtà frazionali e gemellaggi; Del Tongo politiche sportive, associazioni e volontariato, politiche giovanili e cultura; Nardi politiche scolastiche, pari opportunità, accoglienza e integrazione | Comune, persona_2…5.html (aggiornate il 27-05-2026) | R | bassa |
+| Vicesindaco e assessori: inizio mandato 04-10-2021, insediamento 22-10-2021, atto di conferimento delibera di consiglio n. 47 del 2021, gruppo «Solidarietà e progresso» | Comune, persona_2…5.html | R | bassa |
+| Sindaco Tavarnesi: inizio mandato 04-10-2021, insediamento 23-10-2021 (un giorno dopo gli assessori: così sul sito del Comune); deleghe pianificazione del territorio, urbanistica ed edilizia, sanità e sociale, personale, bilancio, ambiente, politiche energetiche e innovazione tecnologica; gruppo «Solidarietà e progresso» | Comune, persona_1.html (aggiornata il 27-05-2026) | R | bassa |
+| Ginetta Menchetti è presidente del consiglio comunale | Comune, Esplora Politici | R | media |
+| Andrea Tavarnesi è il sindaco (pagina «Organi di governo → Sindaco», aggiornata il 16-09-2025) | Comune | R | media |
+| Il Comune ha sede in via Settembrini 21, a Badia al Pino (piè di pagina del sito del Comune) | Comune | R | bassa |
+| Consiglieri di maggioranza: Menchetti, Donati, Fabbriciani, Lanini, Ortaggi, Randellini, Terrazzi, Zeffiri (8) | Comune, Esplora Politici | R | bassa |
+| Consiglieri di minoranza: Badii, Migliore, Moretti, Veneri (4) | Comune, Esplora Politici | R | bassa |
+| Nomi delle liste ed esiti elettorali 2021 | tuttitalia.it | W | bassa |
+
+Correzione: in precedenza il sito metteva per errore Luca Zeffiri all'opposizione.
 
 ---
+
+## 8b. Video istituzionale del Comune: non usato come fonte
+
+Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non è una fonte del sito**: per scelta dell'utente valgono solo le fonti scritte. Le sue affermazioni servono al massimo come spunti da cercare in fonti scritte: statuti di dogana del 1461 per Ciggiano; Sala della Memoria realizzata nel 2004; Centro di Documentazione di Villa Oliveto dal 2001; 917 Berengario e Uguccione; 1252 distruzione per mano di Aldobrandino Cacciaconti e ricostruzione di Guglielmino Ubertini; rocca del VI-VII secolo; Madonna robbiana sulla Porta Senese; Museo della vite e del vino a Ciggiano; Premio nazionale «Città di Civitella». Alcune cifre del video contrastano con le fonti scritte (circa 170 vittime il 29 giugno 1944; Oliveto «fondato attorno al 1385»; Villa Oliveto «costruita intorno al 1937») e non vanno usate.
 
 ## 9. Divergenze tra fonti (da NON usare nel quiz)
 
