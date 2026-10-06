@@ -71,6 +71,9 @@ function risposta(testo) {
  */
 function prepara() {
   var foglio = SpreadsheetApp.getActiveSpreadsheet();
+  if (!foglio) {
+    throw new Error('Questo script non è collegato a un foglio: aprilo dal foglio Google con Estensioni → Apps Script.');
+  }
 
   function crea(nome, intestazione) {
     var f = foglio.getSheetByName(nome) || foglio.insertSheet(nome);
@@ -106,6 +109,7 @@ function prepara() {
 
   stat.setColumnWidth(1, 260);
   stat.setColumnWidth(2, 420);
+  Logger.log('Fatto: fogli Partite, Risposte e Statistiche pronti in «' + foglio.getName() + '».');
 }
 
 // Fine dello script: se copiando non vedi questa riga, il codice è stato tagliato.
