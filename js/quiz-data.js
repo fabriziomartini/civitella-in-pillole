@@ -609,13 +609,13 @@ window.QUIZ_DOMANDE = [
 "c": "storia",
 "d": 1,
 "q": "Da che cosa prende il nome Tribbio?",
-"a": "Da un trivio romano, un incrocio di tre strade",
+"a": "Da un trivio, un incrocio di tre strade",
 "x": [
 "Da una tribù etrusca",
 "Da un tribunale medievale",
 "Da un torrente"
 ],
-"s": "Tribbio sorse in età romana attorno a un trivium.",
+"s": "Il nome viene dal trivium, l'incrocio di tre strade; il Repertorio lo cataloga come trivio, forse di età romana.",
 "l": "frazioni/borghi-minori.html#tribbio"
 },
 {
@@ -1697,17 +1697,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/borghi-minori.html#san-martino-in-poggio"
 },
 {
-"id": "f59b9207",
+"id": "d3a07030",
 "c": "borghi",
 "d": 1,
-"q": "Come descrisse Firenze il castello di Gaenne prima di ordinarne la distruzione?",
+"q": "Come descrissero i fiorentini il castello di Gaenne, passato sotto il loro dominio nel 1385?",
 "a": "«Un forte castello di sito e di muro»",
 "x": [
 "«La più bella rocca di Toscana»",
 "«Un castello senza difese»",
 "«Il nido dei ghibellini»"
 ],
-"s": "Firenze lo descrisse così e ne ordinò la distruzione dopo il 1385.",
+"s": "Nel 1385 Gaenne passò a Firenze, che lo descrisse come «un forte castello di sito e di muro».",
 "l": "frazioni/borghi-minori.html#gaenne"
 },
 {
@@ -3755,17 +3755,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/borghi-minori.html#matroia"
 },
 {
-"id": "4cfbc901",
+"id": "99c66c9f",
 "c": "borghi",
 "d": 2,
-"q": "Che cosa si conserva a Tribbio, oltre al nome che ricorda un trivio romano?",
+"q": "Che cosa si conserva a Tribbio, oltre al nome che ricorda un antico trivio?",
 "a": "Un pozzo storico",
 "x": [
 "Un arco romano",
 "Una torre di guardia",
 "Un ponte medievale"
 ],
-"s": "Tribbio prende il nome da un trivio romano e conserva un pozzo storico.",
+"s": "Tribbio prende il nome da un trivio, un incrocio di tre strade, e conserva un vecchio pozzo censito tra i beni storici.",
 "l": "frazioni/borghi-minori.html#tribbio"
 },
 {
@@ -4131,5 +4131,201 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Nel 2025 L'Olio Novo è arrivato alla 28ª edizione.",
 "l": "feste-e-associazioni.html"
+},
+{
+"id": "748416c9",
+"c": "storia",
+"d": 2,
+"q": "Da chi fu assediata la rocca di Civitella tra il 1284 e il 1285?",
+"a": "Dagli aretini",
+"x": [
+"Dai fiorentini",
+"Dai senesi",
+"Dai pisani"
+],
+"s": "Tra il 1284 e il 1285 la rocca fu assediata dagli stessi aretini che nel 1288 vinsero la battaglia del Toppo.",
+"l": "storia.html"
+},
+{
+"id": "4fe3b32c",
+"c": "storia",
+"d": 3,
+"q": "Quanti piccoli comuni furono aggregati alla Comunità di Civitella nel 1774, secondo il Repertorio del Piano Strutturale?",
+"a": "Nove",
+"x": [
+"Tre",
+"Quindici",
+"Venti"
+],
+"s": "Il Repertorio parla di nove piccoli comuni aggregati nel 1774; tra questi gli itinerari del Comune ricordano Ciggiano, Viciomaggio e Badia al Pino.",
+"l": "storia.html"
+},
+{
+"id": "67e04d32",
+"c": "1944",
+"d": 1,
+"q": "Perché la rocca di Civitella fu bombardata dagli Alleati?",
+"a": "Perché al suo interno si era installato il comando tedesco",
+"x": [
+"Per errore, scambiandola per un ponte",
+"Perché era un deposito di munizioni italiano",
+"Per colpire la ferrovia vicina"
+],
+"s": "La rocca, da secoli simbolo del paese, fu distrutta da un bombardamento alleato perché vi si era installato il comando tedesco.",
+"l": "storia.html"
+},
+{
+"id": "1af9c0f0",
+"c": "borghi",
+"d": 2,
+"q": "Quanto è spessa, all'incirca, la cinta muraria a secco di Poggio Castellare?",
+"a": "Circa 1,60 metri",
+"x": [
+"Circa 16 centimetri",
+"Circa 6 metri",
+"Circa 16 metri"
+],
+"s": "La cinta ellittica a secco è spessa 1,60 metri e lunga circa 300.",
+"l": "frazioni/borghi-minori.html#poggio-castellare"
+},
+{
+"id": "6762121d",
+"c": "borghi",
+"d": 2,
+"q": "Per curare quali malati si attingeva l'acqua della sorgente di Matroia?",
+"a": "I neonati colpiti da malattie gastroenteriche",
+"x": [
+"Gli anziani con dolori articolari",
+"Chi soffriva di malattie della pelle",
+"Chi aveva i calcoli renali"
+],
+"s": "Alla sorgente, presso la cappella di San Michele Arcangelo, erano attribuite virtù salutari soprattutto per i neonati.",
+"l": "frazioni/borghi-minori.html#matroia"
+},
+{
+"id": "191e897a",
+"c": "borghi",
+"d": 2,
+"q": "Dove si trova oggi il mulino di Montoto?",
+"a": "Sommerso dall'invaso della Penna",
+"x": [
+"Trasformato in museo",
+"Inglobato nella villa di Montarfoni",
+"Ricostruito a Pieve a Maiano"
+],
+"s": "Il mulino di Montoto è oggi sommerso dall'invaso della Penna, lungo l'antica strada di Vallelunga.",
+"l": "frazioni/borghi-minori.html#montoto"
+},
+{
+"id": "de37df18",
+"c": "borghi",
+"d": 2,
+"q": "Che cosa è stato trovato a Le Fosse, oltre a un cippo romano in travertino?",
+"a": "Reperti sporadici di età preistorica e romana",
+"x": [
+"Una necropoli etrusca",
+"Un tesoro di monete medievali",
+"Un mosaico pavimentale"
+],
+"s": "Il Repertorio registra a Le Fosse un cippo romano in travertino e reperti sporadici di età preistorica e romana.",
+"l": "frazioni/borghi-minori.html#malpertuso-le-fosse"
+},
+{
+"id": "ff1c509f",
+"c": "borghi",
+"d": 1,
+"q": "Che cosa prevede il Piano Strutturale per il borgo-fattoria e la villa di Montarfoni?",
+"a": "Un «polo di eccellenza territoriale»",
+"x": [
+"Un centro commerciale",
+"Una zona industriale",
+"Un campeggio"
+],
+"s": "Il borgo-fattoria è organizzato come un piccolo paese, con piazzetta, chiesa, cantina e frantoio-mulino.",
+"l": "frazioni/borghi-minori.html#montarfoni"
+},
+{
+"id": "2e9fd6ab",
+"c": "borghi",
+"d": 2,
+"q": "Di che cosa fu dotata la chiesa di San Martino in Poggio quando fu ampliata nel 1726?",
+"a": "Di due nuovi altari",
+"x": [
+"Di un campanile a vela",
+"Di un organo",
+"Di un portico a tre archi"
+],
+"s": "La chiesa dei Santi Maria e Carlo, costruita nel 1690, fu ampliata nel 1726 con due nuovi altari.",
+"l": "frazioni/borghi-minori.html#san-martino-in-poggio"
+},
+{
+"id": "585551af",
+"c": "borghi",
+"d": 2,
+"q": "Quale altro luogo è destinato a diventare un parco archeologico insieme a Poggio Castellare?",
+"a": "Il castello di Gaenne",
+"x": [
+"Matroia",
+"Tribbio",
+"Dorna"
+],
+"s": "Il Piano Strutturale prevede un parco archeologico con campo scuola di scavo a Poggio Castellare e Gaenne.",
+"l": "frazioni/borghi-minori.html#poggio-castellare"
+},
+{
+"id": "d46d4a3e",
+"c": "1944",
+"d": 2,
+"q": "Come morì Mario Mannelli, ricordato da un monumento a Viciomaggio?",
+"a": "Fu ucciso per rappresaglia fascista nel 1944",
+"x": [
+"Cadde nella battaglia del Toppo",
+"Morì nel bombardamento della rocca",
+"Fu ucciso nella Grande Guerra"
+],
+"s": "Mario Mannelli fu ucciso dai fascisti nel 1944; sulla data esatta le fonti non concordano.",
+"l": "frazioni/viciomaggio.html"
+},
+{
+"id": "dc8e4d56",
+"c": "borghi",
+"d": 3,
+"q": "Quale Madonna era venerata a Matroia, legata al culto delle acque?",
+"a": "La Madonna del Latte",
+"x": [
+"La Madonna del Conforto",
+"La Madonna della Costarella",
+"La Madonna di Mercatale"
+],
+"s": "A Matroia era venerata una Madonna del Latte; l'acqua della sorgente si attingeva per i neonati.",
+"l": "frazioni/borghi-minori.html#matroia"
+},
+{
+"id": "1a6af485",
+"c": "borghi",
+"d": 3,
+"q": "Sopra quale strada sorse il castello di Montarfoni?",
+"a": "La strada Regia Aretina",
+"x": [
+"La via Cassia",
+"La via Francigena",
+"La Via Vecchia Senese"
+],
+"s": "Il castello sorse sopra la strada Regia Aretina; ne restano la porta e tratti delle mura.",
+"l": "frazioni/borghi-minori.html#montarfoni"
+},
+{
+"id": "396551e5",
+"c": "frazioni",
+"d": 3,
+"q": "Di quale bottega è la Madonna con il Bambino del 1522 nel tabernacolo presso la Porta Senese di Civitella?",
+"a": "Quella di Giovanni della Robbia",
+"x": [
+"Quella di Donatello",
+"Quella di Luca Signorelli",
+"Quella del Sansovino"
+],
+"s": "È una terracotta invetriata del 1522 della bottega di Giovanni della Robbia.",
+"l": "frazioni/civitella.html"
 }
 ];

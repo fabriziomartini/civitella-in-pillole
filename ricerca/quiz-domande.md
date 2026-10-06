@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 295 domande.
+Totale: 309 domande.
 
 ## Geografia (42)
 
@@ -137,7 +137,7 @@ Totale: 295 domande.
    ✔ I Preappennini toscani · ✘ Le Alpi Apuane · Il Monte Amiata · Le Colline Metallifere  
    _La parte collinare e di bassa montagna, coperta di boschi, è una propaggine dei Preappennini toscani._ → `index.html`
 
-## Storia (46)
+## Storia (48)
 
 1. [fe9e42b2] ●●● `Nv=` **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -206,8 +206,8 @@ Totale: 295 domande.
    ✔ Dal nome di un proprietario romano, probabilmente un Marius · ✘ Dal mese di maggio · Da una famiglia medievale fiorentina · Da una divinità etrusca  
    _«Maiano» è un toponimo prediale romano, da Marius._ → `frazioni/pieve-a-maiano.html`
 23. [bb0a87e4] ●○○ `-d=` **Da che cosa prende il nome Tribbio?**  
-   ✔ Da un trivio romano, un incrocio di tre strade · ✘ Da una tribù etrusca · Da un tribunale medievale · Da un torrente  
-   _Tribbio sorse in età romana attorno a un trivium._ → `frazioni/borghi-minori.html#tribbio`
+   ✔ Da un trivio, un incrocio di tre strade · ✘ Da una tribù etrusca · Da un tribunale medievale · Da un torrente  
+   _Il nome viene dal trivium, l'incrocio di tre strade; il Repertorio lo cataloga come trivio, forse di età romana._ → `frazioni/borghi-minori.html#tribbio`
 24. [410b1cb5] ●●○ `Nn=` **In quale anno il titolo di pieve e il fonte battesimale passarono dalla Pieve al Toppo a Badia al Pino?**  
    ✔ 1502 · ✘ 1288 · 1774 · 1917  
    _Nel 1502, distrutta la pieve del Toppo, il titolo di pieve passò alla chiesa di Badia al Pino._ → `frazioni/badia-al-pino.html`
@@ -277,8 +277,14 @@ Totale: 295 domande.
 46. [3fa9492f] ●●● `Nv+` **In quale mese del 1940 fu istituito il campo di internamento di Villa Oliveto?**  
    ✔ Giugno · ✘ Gennaio · Settembre · Dicembre  
    _Il campo fu istituito nel giugno 1940._ → `frazioni/oliveto.html`
+47. [748416c9] ●●○ `-v=` **Da chi fu assediata la rocca di Civitella tra il 1284 e il 1285?**  
+   ✔ Dagli aretini · ✘ Dai fiorentini · Dai senesi · Dai pisani  
+   _Tra il 1284 e il 1285 la rocca fu assediata dagli stessi aretini che nel 1288 vinsero la battaglia del Toppo._ → `storia.html`
+48. [4fe3b32c] ●●● `Nv+` **Quanti piccoli comuni furono aggregati alla Comunità di Civitella nel 1774, secondo il Repertorio del Piano Strutturale?**  
+   ✔ Nove · ✘ Tre · Quindici · Venti  
+   _Il Repertorio parla di nove piccoli comuni aggregati nel 1774; tra questi gli itinerari del Comune ricordano Ciggiano, Viciomaggio e Badia al Pino._ → `storia.html`
 
-## Il 1944 (26)
+## Il 1944 (28)
 
 1. [3e37b695] ●●○ `Nv-` **In quale data avvenne la strage nazista di Civitella?**  
    ✔ 29 giugno 1944 · ✘ 25 aprile 1945 · 8 settembre 1943 · 4 giugno 1944  
@@ -358,8 +364,14 @@ Totale: 295 domande.
 26. [cdce2f79] ●○○ `-d=` **Che cosa ricorda il portale in bronzo di Bino Bini nella chiesa di Civitella?**  
    ✔ L'eccidio del 1944, nel cinquantesimo anniversario · ✘ La battaglia del Toppo · La fondazione del priorato · La visita di un papa  
    _Il portale del 1994 ricorda l'eccidio nel cinquantesimo anniversario._ → `frazioni/civitella.html`
+27. [67e04d32] ●○○ `-n=` **Perché la rocca di Civitella fu bombardata dagli Alleati?**  
+   ✔ Perché al suo interno si era installato il comando tedesco · ✘ Per errore, scambiandola per un ponte · Perché era un deposito di munizioni italiano · Per colpire la ferrovia vicina  
+   _La rocca, da secoli simbolo del paese, fu distrutta da un bombardamento alleato perché vi si era installato il comando tedesco._ → `storia.html`
+28. [d46d4a3e] ●●○ `-n+` **Come morì Mario Mannelli, ricordato da un monumento a Viciomaggio?**  
+   ✔ Fu ucciso per rappresaglia fascista nel 1944 · ✘ Cadde nella battaglia del Toppo · Morì nel bombardamento della rocca · Fu ucciso nella Grande Guerra  
+   _Mario Mannelli fu ucciso dai fascisti nel 1944; sulla data esatta le fonti non concordano._ → `frazioni/viciomaggio.html`
 
-## Frazioni (93)
+## Frazioni (94)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -640,8 +652,11 @@ Totale: 295 domande.
 93. [b72de4ff] ●●● `Nv+` **In quale anno fu restaurata, con decorazioni pittoriche, la parte posteriore della Villa di Viciomaggio?**  
    ✔ 1868 · ✘ 1768 · 1836 · 1968  
    _La villa è settecentesca; la parte posteriore fu restaurata nel 1868, la limonaia è del 1836._ → `frazioni/viciomaggio.html`
+94. [396551e5] ●●● `Pv+` **Di quale bottega è la Madonna con il Bambino del 1522 nel tabernacolo presso la Porta Senese di Civitella?**  
+   ✔ Quella di Giovanni della Robbia · ✘ Quella di Donatello · Quella di Luca Signorelli · Quella del Sansovino  
+   _È una terracotta invetriata del 1522 della bottega di Giovanni della Robbia._ → `frazioni/civitella.html`
 
-## Borghi minori (26)
+## Borghi minori (35)
 
 1. [cd56501b] ●○○ `-d=` **Per che cosa era noto il luogo di Matroia?**  
    ✔ Per una sorgente con acque ritenute medicamentose · ✘ Per una miniera d'argento · Per un castello dei Medici · Per una fornace di vetro  
@@ -676,9 +691,9 @@ Totale: 295 domande.
 11. [ff97d330] ●●● `Pv+` **Grazie a chi fu costruita la chiesa di San Martino in Poggio nel 1690?**  
    ✔ Il nobile fiorentino Carlo Casini · ✘ Il vescovo Guglielmino degli Ubertini · La famiglia Pecchioli · Il notaio Becattini  
    _La chiesa fu costruita con il patrimonio donato da Carlo Casini._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
-12. [f59b9207] ●○○ `-n=` **Come descrisse Firenze il castello di Gaenne prima di ordinarne la distruzione?**  
+12. [d3a07030] ●○○ `-n=` **Come descrissero i fiorentini il castello di Gaenne, passato sotto il loro dominio nel 1385?**  
    ✔ «Un forte castello di sito e di muro» · ✘ «La più bella rocca di Toscana» · «Un castello senza difese» · «Il nido dei ghibellini»  
-   _Firenze lo descrisse così e ne ordinò la distruzione dopo il 1385._ → `frazioni/borghi-minori.html#gaenne`
+   _Nel 1385 Gaenne passò a Firenze, che lo descrisse come «un forte castello di sito e di muro»._ → `frazioni/borghi-minori.html#gaenne`
 13. [0aeb1238] ●●○ `Pv=` **A chi apparteneva il castello di Gaenne nel 1069?**  
    ✔ Ai longobardi di Dorna · ✘ Ai Medici · Ai vescovi di Siena · Ai conti Guidi  
    _Nel 1069 apparteneva ai longobardi di Dorna, poi passò ai Tarlati._ → `frazioni/borghi-minori.html#gaenne`
@@ -694,9 +709,9 @@ Totale: 295 domande.
 17. [2bad47c2] ●●● `Pv+` **A quale santo è dedicata la chiesetta di Matroia?**  
    ✔ San Michele Arcangelo · ✘ San Rocco · San Biagio · Sant'Andrea  
    _La chiesetta di San Michele Arcangelo è quanto resta, con un rocchio di colonna e una vasca, di un antico insediamento religioso._ → `frazioni/borghi-minori.html#matroia`
-18. [4cfbc901] ●●○ `-n+` **Che cosa si conserva a Tribbio, oltre al nome che ricorda un trivio romano?**  
+18. [99c66c9f] ●●○ `-n+` **Che cosa si conserva a Tribbio, oltre al nome che ricorda un antico trivio?**  
    ✔ Un pozzo storico · ✘ Un arco romano · Una torre di guardia · Un ponte medievale  
-   _Tribbio prende il nome da un trivio romano e conserva un pozzo storico._ → `frazioni/borghi-minori.html#tribbio`
+   _Tribbio prende il nome da un trivio, un incrocio di tre strade, e conserva un vecchio pozzo censito tra i beni storici._ → `frazioni/borghi-minori.html#tribbio`
 19. [7551f5ac] ●○○ `-n=` **Quando furono abbandonati i borghi medievali di Malpertuso e Le Fosse?**  
    ✔ Nel tardo Medioevo · ✘ Nell'Ottocento · Dopo il 1944 · In età romana  
    _Malpertuso e Le Fosse sono borghi medievali abbandonati nel tardo Medioevo._ → `frazioni/borghi-minori.html#malpertuso-le-fosse`
@@ -721,6 +736,33 @@ Totale: 295 domande.
 26. [e834399c] ●●○ `Nd+` **Quanto è lunga, all'incirca, la cinta muraria a secco di Poggio Castellare?**  
    ✔ Circa 300 metri · ✘ Circa 30 metri · Circa 3 chilometri · Circa 10 metri  
    _Sulla cima resta una cinta ellittica a secco di circa 300 metri; la datazione è discussa._ → `frazioni/borghi-minori.html#poggio-castellare`
+27. [1af9c0f0] ●●○ `Nd+` **Quanto è spessa, all'incirca, la cinta muraria a secco di Poggio Castellare?**  
+   ✔ Circa 1,60 metri · ✘ Circa 16 centimetri · Circa 6 metri · Circa 16 metri  
+   _La cinta ellittica a secco è spessa 1,60 metri e lunga circa 300._ → `frazioni/borghi-minori.html#poggio-castellare`
+28. [6762121d] ●●○ `-v+` **Per curare quali malati si attingeva l'acqua della sorgente di Matroia?**  
+   ✔ I neonati colpiti da malattie gastroenteriche · ✘ Gli anziani con dolori articolari · Chi soffriva di malattie della pelle · Chi aveva i calcoli renali  
+   _Alla sorgente, presso la cappella di San Michele Arcangelo, erano attribuite virtù salutari soprattutto per i neonati._ → `frazioni/borghi-minori.html#matroia`
+29. [191e897a] ●●○ `-n+` **Dove si trova oggi il mulino di Montoto?**  
+   ✔ Sommerso dall'invaso della Penna · ✘ Trasformato in museo · Inglobato nella villa di Montarfoni · Ricostruito a Pieve a Maiano  
+   _Il mulino di Montoto è oggi sommerso dall'invaso della Penna, lungo l'antica strada di Vallelunga._ → `frazioni/borghi-minori.html#montoto`
+30. [de37df18] ●●○ `-n+` **Che cosa è stato trovato a Le Fosse, oltre a un cippo romano in travertino?**  
+   ✔ Reperti sporadici di età preistorica e romana · ✘ Una necropoli etrusca · Un tesoro di monete medievali · Un mosaico pavimentale  
+   _Il Repertorio registra a Le Fosse un cippo romano in travertino e reperti sporadici di età preistorica e romana._ → `frazioni/borghi-minori.html#malpertuso-le-fosse`
+31. [ff1c509f] ●○○ `-d+` **Che cosa prevede il Piano Strutturale per il borgo-fattoria e la villa di Montarfoni?**  
+   ✔ Un «polo di eccellenza territoriale» · ✘ Un centro commerciale · Una zona industriale · Un campeggio  
+   _Il borgo-fattoria è organizzato come un piccolo paese, con piazzetta, chiesa, cantina e frantoio-mulino._ → `frazioni/borghi-minori.html#montarfoni`
+32. [2e9fd6ab] ●●○ `-v+` **Di che cosa fu dotata la chiesa di San Martino in Poggio quando fu ampliata nel 1726?**  
+   ✔ Di due nuovi altari · ✘ Di un campanile a vela · Di un organo · Di un portico a tre archi  
+   _La chiesa dei Santi Maria e Carlo, costruita nel 1690, fu ampliata nel 1726 con due nuovi altari._ → `frazioni/borghi-minori.html#san-martino-in-poggio`
+33. [585551af] ●●○ `-v=` **Quale altro luogo è destinato a diventare un parco archeologico insieme a Poggio Castellare?**  
+   ✔ Il castello di Gaenne · ✘ Matroia · Tribbio · Dorna  
+   _Il Piano Strutturale prevede un parco archeologico con campo scuola di scavo a Poggio Castellare e Gaenne._ → `frazioni/borghi-minori.html#poggio-castellare`
+34. [dc8e4d56] ●●● `Pv+` **Quale Madonna era venerata a Matroia, legata al culto delle acque?**  
+   ✔ La Madonna del Latte · ✘ La Madonna del Conforto · La Madonna della Costarella · La Madonna di Mercatale  
+   _A Matroia era venerata una Madonna del Latte; l'acqua della sorgente si attingeva per i neonati._ → `frazioni/borghi-minori.html#matroia`
+35. [1a6af485] ●●● `Pv+` **Sopra quale strada sorse il castello di Montarfoni?**  
+   ✔ La strada Regia Aretina · ✘ La via Cassia · La via Francigena · La Via Vecchia Senese  
+   _Il castello sorse sopra la strada Regia Aretina; ne restano la porta e tratti delle mura._ → `frazioni/borghi-minori.html#montarfoni`
 
 ## Lavoro e sapori (25)
 
