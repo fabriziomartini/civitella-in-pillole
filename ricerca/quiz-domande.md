@@ -191,7 +191,7 @@ Totale: 169 domande.
    ✔ 58 · ✘ 8 · 115 · 300  
    _La lastra riporta 58 caduti di Cornia e delle località vicine._ → `frazioni/cornia.html`
 15. [24c8d8bd] **Chi era Giovanni Cau, catturato a Gebbia nel 1944?**  
-   ✔ Uno scrittore e divulgatore scientifico · ✘ Il parroco del paese · Un comandante partigiano · Il podestà di Civitella  
+   ✔ Un insegnante di scienze naturali e autore di testi scolastici · ✘ Il parroco del paese · Un comandante partigiano · Il podestà di Civitella  
    _Giovanni Cau e la moglie Helga Elmqvist furono catturati a Gebbia e uccisi il 2 luglio 1944._ → `frazioni/gebbia.html`
 
 ## Frazioni (51)

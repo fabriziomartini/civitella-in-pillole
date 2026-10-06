@@ -101,3 +101,16 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
   - **ATTENZIONE, conclusione dei primi giri da rivedere:** in `verifica-log.md` avevamo scritto che l'Oratorio della Costarella era nel capoluogo e che la «Costarella di Ciggiano» era un errore. Ora N3 dice che E152 è a Ciggiano e che l'oratorio O004 è lo stesso edificio, mentre in un giro precedente lo aveva collocato «in Località Civitella». Il capoluogo ha anche una via della Costarella. Da chiarire con l'utente se nel borgo di Civitella esiste un oratorio della Costarella; per ora la menzione su civitella.html resta, segnata ⚠.
   - **Chiesa di San Pietro (1836):** la cita solo Discover Arezzo. Il Repertorio ha soltanto un'edicola dei Santi Pietro e Caterina in località La Villa. Da confermare con l'utente.
   - **«Sotto i valichi di Palazzuolo e San Pancrazio»: CONFERMATO** (Repertorio N001).
+
+## Cornia e Gebbia: blocco R3, N1 e N3 in parallelo
+- **Confermate:**
+  - 1: 292 anime nel 1833 (Repertorio) e scope di saggina (itinerario 1). Tolto «in tempi più recenti», che era un'aggiunta mia; ora la notizia è attribuita all'itinerario del Comune.
+  - 2: muri spessi fino a 1,50 m (Repertorio S033).
+  - 3: Parco faunistico, ANPIL e centro servizi (NTA, Relazione generale).
+  - 4: violenza indiscriminata su donne e bambini (ToscanaNovecento).
+  - 5: lastra con 58 nomi e località (ToscanaNovecento).
+  - 6: cippo del 1969 presso il cimitero (ToscanaNovecento: «nel XXV° dell'eccidio di Cornia 1944-1969»).
+  - 9: Heinz Barz, Feldgendarmerie (Atlante).
+- **7 Gebbia «a circa 3,5 km dal capoluogo»: NON PRESENTE** in entrambi. Da confermare con l'utente, oppure da togliere.
+- **8 casale agrituristico: NON PRESENTE** ed è un'attività privata: tolto.
+- **10 Cau: PARZIALE.** Cattura a Gebbia e uccisione a Monte San Savino il 2 luglio confermate (Archivio della Memoria). Il 1892, «pittrice» e «trasferiti da Firenze per sfuggire alla guerra» non sono confermati. Riscritto con quello che dice la ricerca web: nato a Cagliari, insegnante di scienze naturali a Firenze e autore di testi scolastici; Helga svedese, traduttrice di fiabe nordiche e illustratrice. Aggiunto che i loro nomi sono sul cippo di Cornia (Repertorio ME009). Corretta anche la risposta del quiz.

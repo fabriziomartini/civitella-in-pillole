@@ -760,7 +760,7 @@ window.QUIZ_DOMANDE = [
 "id": "24c8d8bd",
 "c": "1944",
 "q": "Chi era Giovanni Cau, catturato a Gebbia nel 1944?",
-"a": "Uno scrittore e divulgatore scientifico",
+"a": "Un insegnante di scienze naturali e autore di testi scolastici",
 "x": [
 "Il parroco del paese",
 "Un comandante partigiano",

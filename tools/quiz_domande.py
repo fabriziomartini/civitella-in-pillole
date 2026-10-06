@@ -71,7 +71,7 @@ q(m,"In quale anno fu realizzato il portale in bronzo di Bino Bini per la chiesa
 q(m,"In quale data le SS fucilarono a Ciggiano i partigiani Marmo e Marapitti?","16 aprile 1944",["29 giugno 1944","25 aprile 1945","8 settembre 1943"],"Giovanni Marmo e Mario Marapitti furono fucilati il 16 aprile 1944.",F+"ciggiano.html")
 q(m,"In quale anno fu eretto il cippo dell'eccidio di Cornia?","1969",["1945","1994","2004"],"Il cippo fu eretto nel 1969, nel venticinquesimo anniversario.",F+"cornia.html")
 q(m,"Quanti nomi riporta la lastra dei martiri di Cornia?","58",["8","115","300"],"La lastra riporta 58 caduti di Cornia e delle località vicine.",F+"cornia.html")
-q(m,"Chi era Giovanni Cau, catturato a Gebbia nel 1944?","Uno scrittore e divulgatore scientifico",["Il parroco del paese","Un comandante partigiano","Il podestà di Civitella"],"Giovanni Cau e la moglie Helga Elmqvist furono catturati a Gebbia e uccisi il 2 luglio 1944.",F+"gebbia.html")
+q(m,"Chi era Giovanni Cau, catturato a Gebbia nel 1944?","Un insegnante di scienze naturali e autore di testi scolastici",["Il parroco del paese","Un comandante partigiano","Il podestà di Civitella"],"Giovanni Cau e la moglie Helga Elmqvist furono catturati a Gebbia e uccisi il 2 luglio 1944.",F+"gebbia.html")
 
 # --- Frazioni ---
 f='frazioni'
