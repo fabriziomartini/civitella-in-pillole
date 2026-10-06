@@ -93,8 +93,10 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Monte San Savino «è stato capoluogo di vicariato sotto i granduchi, con autorità su Civitella, Lucignano e Foiano della Chiana» | PIT, ambito 19 | R | alta |
 | Nel 1774 Pietro Leopoldo soppresse i comuni di Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto e li unì a Civitella (nove, come i «nove piccoli comuni» del Repertorio); più tardi si aggiunse Pieve a Maiano | Pro Loco, «Civitella nella storia»; Repertorio (numero) | R (numero), W (nomi) | alta |
 | Nel 1252 il podestà di Arezzo Ildebrando Cacciaconti assediò Civitella, che fu rasa al suolo; Guglielmino la ricostruì con una doppia cerchia di mura, lavori finiti probabilmente intorno al 1270 | Pro Loco; distruzione del 1252 anche nell'itinerario 2 del Comune | W | alta |
-| Intorno al Mille Civitella passò alla diocesi di Arezzo come capoluogo del viscontado di Ambra («Civitella di Valdambra»); detta anche «Civitella del Vescovo» | Pro Loco | W | media |
-| 3 luglio 1289 resa ai fiorentini; 26 marzo 1311 «Pace di Civitella» con gli ambasciatori di Arrigo VII, voluta dal vescovo Ildobrandino dei conti Guidi; 1362 sottomissione a Firenze; 1397 saccheggio senese, 1398 riconquista fiorentina; 1554 assalto respinto dell'esercito senese di Piero Strozzi | Pro Loco | W | alta |
+| Nell'XI secolo Civitella passò al vescovo di Arezzo, capoluogo del viscontado della Valdambra, e fu ribattezzata «Civitella del Vescovo» | Wikipedia (N1), Pro Loco | R | alta |
+| Nome «Civitella di Valdambra» | Pro Loco | W | media |
+| Dopo Campaldino (1289) Civitella fu presa da Firenze; nel 1311 vi fu stipulata la pace tra il vescovo Ildebrandino Guidi di Romena e l'imperatore Enrico VII; nel 1554 fu assediata da Siena e difesa da Paolo da Castello, capitano di Cosimo I | Wikipedia (N1), Pro Loco | R | alta |
+| Solo Pro Loco: resa il 3 luglio 1289; data 26 marzo 1311 e nome «Pace di Civitella»; sottomissione a Firenze nel 1362; saccheggio del 1397 e riconquista del 1398; Piero Strozzi alla guida dei senesi nel 1554 | Pro Loco | W | media |
 | Nel 1917 la sede comunale fu trasferita a Badia al Pino per lo spopolamento delle zone collinari | Wikipedia | R | alta |
 | Un bombardamento alleato distrusse la rocca di Civitella, perché al suo interno si era installato il comando tedesco (le fonti non indicano la data) | Wikipedia, Cittaslow | R | alta |
 | Nel giugno 1940 a Villa Oliveto fu istituito un campo di internamento, soprattutto per famiglie ebree di nazionalità britannica provenienti dalla Libia; nel 1944 furono deportate a Bergen-Belsen | Regione Toscana, Storia e Memorie, Wikipedia | N | alta |
@@ -403,6 +405,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 | Titolo della chiesa di Tuori | Diocesi: Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
 | Altitudine del capoluogo | 500 m (testo di Wikipedia, ToscanaNovecento), 525 m (scheda di Wikipedia), 600 m (guida turistica) | «circa 500 m» |
 | Data dell'uccisione di Mario Mannelli | ToscanaNovecento: «il 29 marzo 1944 avvenne una strage di matrice fascista»; Repertorio, scheda del monumento (ME013): «ucciso per rappresaglia fascista il 29 maggio 1944» | tutte e due le date |
+| Passaggio di Civitella a Firenze | Wikipedia: ingresso nel territorio fiorentino nel 1348; Pro Loco: custodia fiorentina dal 1344 e sottomissione degli abitanti nel 1362; SIUSA: podesteria fiorentina dal 1385; Wikipedia: presa da Firenze dopo Campaldino (1289) | sul sito: presa nel 1289, sottomissione 1362 (Pro Loco), podesteria 1385 |
 | Rocca di Civitella dopo il 1248 | Itinerario 2 del Comune: «ristrutturata dopo la distruzione del 1252»; Wikipedia: «nel 1272 Guglielmino la ricostruì»; Repertorio: nel 1248 Guglielmino ne potenziò le mura | tutte e tre, attribuite |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
 
