@@ -18,6 +18,14 @@ Questo file sostituisce la revisione completa di `revisione-frase-per-frase.md`,
 
 **Amministrazione** ha bisogno di fonti nuove: vedi in fondo.
 
+## Regola di decisione: NON PRESENTE non significa "da togliere"
+- **CONFERMATA:** la frase resta.
+- **SMENTITA:** si corregge secondo la fonte.
+- **PARZIALE:** si riscrive con la parte confermata. Se il dettaglio mancante è un fatto noto e verificabile, prima si cerca un'altra fonte.
+- **NON PRESENTE:** non si toglie in automatico.
+  - **Fatti noti e facili da verificare** (una stazione, una linea ferroviaria, una strada, l'esistenza di un edificio): restano. Claude cerca una fonte sul web da citare, oppure basta la conferma dell'utente, che conosce il territorio; la conferma va annotata nel registro.
+  - **Dettagli specifici** (date, numeri, nomi, attribuzioni): prima si cerca un'altra fonte sul web. Si tolgono o si riformulano solo se non se ne trova nessuna.
+
 ---
 
 ## R1 · Badia al Pino
