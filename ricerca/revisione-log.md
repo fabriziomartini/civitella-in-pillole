@@ -114,3 +114,15 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 - **7 Gebbia «a circa 3,5 km dal capoluogo»: NON PRESENTE** in entrambi. Da confermare con l'utente, oppure da togliere.
 - **8 casale agrituristico: NON PRESENTE** ed è un'attività privata: tolto.
 - **10 Cau: PARZIALE.** Cattura a Gebbia e uccisione a Monte San Savino il 2 luglio confermate (Archivio della Memoria). Il 1892, «pittrice» e «trasferiti da Firenze per sfuggire alla guerra» non sono confermati. Riscritto con quello che dice la ricerca web: nato a Cagliari, insegnante di scienze naturali a Firenze e autore di testi scolastici; Helga svedese, traduttrice di fiabe nordiche e illustratrice. Aggiunto che i loro nomi sono sul cippo di Cornia (Repertorio ME009). Corretta anche la risposta del quiz.
+
+## Oliveto: blocco R4, N1 e N3 in parallelo
+- **Confermate:**
+  - 1–3: castello del XII secolo con origini tardo-imperiali e longobarde, Ubertini e Saracini, Casa del Podestà e piazza d'armi (Repertorio T003, T004, scheda della Casa del Podestà);
+  - 5: casetta trecentesca con vincolo nazionale (Repertorio);
+  - 6: parco romantico con cedri e lecci (Regione Toscana);
+  - 7: Cappella della Compagnia del 1637; San Giovanni d'Oliveto nelle decime del 1274 (e del 1309), ricostruita nel 1343 (Repertorio);
+  - 8: ceduta al Comune nel 1980 (Regione Toscana); archivio sui circa 50 campi (Repertorio MU003).
+- **4 Sant'Andrea: le fonti divergono sul 1933.** Discover Arezzo: «rifatta nel 1933 in stile neomedievale»; Repertorio C022: «documentata per la prima volta nel 1300 [...] Il campanile è del 1933». Sul sito ci sono ora le due versioni. Tolto «pittore cinquecentesco» per Orazio Porta, che non ha fonte.
+- **9 Muriel Spark e 10 Presepe Vivente:** nei notebook c'è solo una parte (la tomba nel cimitero; il Presepe dal 2014). Gli altri dettagli restano: erano già stati verificati sul web nel giro di cronaca (Wikipedia EN, Arezzo Notizie, Rete Documentaria Aretina, sito del Presepe, livello W).
+
+**Oliveto: revisione completata.**

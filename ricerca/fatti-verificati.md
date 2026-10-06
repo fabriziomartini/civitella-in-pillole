@@ -345,6 +345,7 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 | Bianco Vergine DOC | Cittaslow: 1972; Vinoway: 1970 | «dai primi anni Settanta» |
 | Gaenne bizantino | Comune: fortilizio bizantino nel VI secolo; Repertorio: «forse» | «forse» |
 | Poggio Castellare | etrusco o romano, medievale, dalla protostoria alla tarda antichità; Comune: bizantino poi longobardo | datazione discussa |
+| Chiesa di Sant'Andrea a Oliveto, 1933 | Discover Arezzo: chiesa «rifatta nel 1933 in stile neomedievale»; Repertorio: «il campanile è del 1933» | tutte e due le versioni |
 | Titolo della chiesa di Tuori | Diocesi: Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
 | Altitudine del capoluogo | 500 m (testo di Wikipedia, ToscanaNovecento), 525 m (scheda di Wikipedia), 600 m (guida turistica) | «circa 500 m» |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
