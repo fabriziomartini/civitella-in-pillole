@@ -16,7 +16,7 @@
   var CHIAVE_RECORD = "civitella-quiz-record";
   // Indirizzo dell'app web di Google Apps Script che raccoglie le statistiche anonime
   // (vedi tools/quiz-statistiche.gs). Vuoto = invio disattivato.
-  var STATISTICHE_URL = "";
+  var STATISTICHE_URL = "https://script.google.com/macros/s/AKfycbyKP2GX48pHJ_YVPeOI7TBHcVkCgxMsS4FOYz-xZPQpddd4CrJZeXI5FrvVkPbS1Z9U/exec";
 
   var stato = { lunghezza: LUNGHEZZA, domande: [], indice: 0, risposte: [] };
   var el = {};
