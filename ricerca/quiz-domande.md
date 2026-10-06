@@ -191,7 +191,7 @@ Totale: 169 domande.
    ✔ 58 · ✘ 8 · 115 · 300  
    _La lastra riporta 58 caduti di Cornia e delle località vicine._ → `frazioni/cornia.html`
 15. [24c8d8bd] **Chi era Giovanni Cau, catturato a Gebbia nel 1944?**  
-   ✔ Uno scrittore e divulgatore scientifico · ✘ Il parroco del paese · Un comandante partigiano · Il podestà di Civitella  
+   ✔ Un insegnante di scienze naturali e autore di testi scolastici · ✘ Il parroco del paese · Un comandante partigiano · Il podestà di Civitella  
    _Giovanni Cau e la moglie Helga Elmqvist furono catturati a Gebbia e uccisi il 2 luglio 1944._ → `frazioni/gebbia.html`
 
 ## Frazioni (51)
@@ -201,7 +201,7 @@ Totale: 169 domande.
    _Dal 1917 la sede comunale è a Badia al Pino._ → `frazioni/badia-al-pino.html`
 2. [3f92e789] **A quali santi era dedicata l'antica abbazia del Pino?**  
    ✔ Martino e Lorenzo · ✘ Pietro e Paolo · Biagio e Rocco · Giorgio e Luca  
-   _Nel Cinquecento al titolo dei santi Martino e Lorenzo si aggiunse quello di San Bartolomeo._ → `frazioni/badia-al-pino.html`
+   _Un documento del 1046 la chiama «Badia di S. Martino e S. Lorenzo al Pino»._ → `frazioni/badia-al-pino.html`
 3. [0542f44e] **Qual è il titolo della parrocchia di Badia al Pino?**  
    ✔ San Bartolomeo · ✘ San Biagio · San Martino · Sant'Andrea  
    _La parrocchia di Badia al Pino è dedicata a San Bartolomeo._ → `frazioni/badia-al-pino.html`
@@ -232,9 +232,9 @@ Totale: 169 domande.
 12. [b555e58c] **A quale scultore è attribuita la Santa Maria Maddalena della chiesa di San Biagio a Ciggiano?**  
    ✔ Andrea Sansovino · ✘ Michelangelo · Donatello · Giambologna  
    _La scultura del primo Cinquecento è attribuita ad Andrea Sansovino._ → `frazioni/ciggiano.html`
-13. [ef7b3974] **In quale frazione si trovano le chiese di Santa Maria (1635) e di San Pietro (1836)?**  
+13. [c31940bf] **In quale frazione si trova la chiesa della Madonna della Costarella, costruita nel 1635 con le elemosine dei pastori della transumanza?**  
    ✔ Ciggiano · ✘ Albergo · Spoiano · Tuori  
-   _Sono due chiese di Ciggiano; in passato erano state attribuite per errore ad Albergo._ → `frazioni/ciggiano.html`
+   _Sorge fuori dal castello di Ciggiano, lungo la via vecchia senese percorsa dalle greggi._ → `frazioni/ciggiano.html`
 14. [8d375aa0] **Quale borgo collinare si trova a circa 360 metri, su un colle tra le valli del Gargaiolo e dell'Esse?**  
    ✔ Ciggiano · ✘ Tegoleto · Albergo · Badia al Pino  
    _La scheda del Comune indica per Ciggiano un'altitudine di 359 metri._ → `frazioni/ciggiano.html`
@@ -290,7 +290,7 @@ Totale: 169 domande.
    ✔ Laterina e Pergine Valdarno · ✘ Bucine e Arezzo · Monte San Savino e Arezzo · Bucine e Montevarchi  
    _Fino al 2017 Ponticino era diviso tra Civitella, Laterina e Pergine Valdarno._ → `frazioni/ponticino.html`
 32. [86a6174e] **Quale villa settecentesca si trova a Spoiano?**  
-   ✔ Villa Pecchioli · ✘ Villa Milloni · Villa Oliveto · Villa del Bosco  
+   ✔ Villa Pecchioli · ✘ Villa di Viciomaggio · Villa Oliveto · Villa del Bosco  
    _Villa Pecchioli è l'edificio simbolo di Spoiano._ → `frazioni/spoiano.html`
 33. [d00da1ec] **Che cosa divenne Villa Pecchioli, a Spoiano, nel 1928?**  
    ✔ Un asilo infantile · ✘ Un ospedale · Una caserma · Una scuola di musica  
@@ -319,9 +319,9 @@ Totale: 169 domande.
 41. [d7a4e134] **In quale anno fu trovata a Viciomaggio un'urna cineraria etrusca con iscrizione?**  
    ✔ 1872 · ✘ 1772 · 1922 · 1972  
    _L'urna ellenistica, con l'iscrizione l. prastn[a] nerinal, fu trovata nel 1872._ → `frazioni/viciomaggio.html`
-42. [cdf1c249] **In quale frazione si trova Villa Milloni, con la sua limonaia?**  
+42. [a06601d7] **In quale frazione si trova la villa-fattoria settecentesca con una limonaia del 1836 e una cappella con orologio e campanile a vela?**  
    ✔ Viciomaggio · ✘ Spoiano · Tuori · Ciggiano  
-   _Villa Milloni è la Fattoria di Viciomaggio._ → `frazioni/viciomaggio.html`
+   _È la villa padronale di Viciomaggio, restaurata nel 1868._ → `frazioni/viciomaggio.html`
 43. [1d45bdf1] **Su quale linea ferroviaria si trova la stazione di Albergo?**  
    ✔ Arezzo–Sinalunga · ✘ Firenze–Roma · Faentina · Porrettana  
    _Le stazioni di Albergo e di Civitella-Badia al Pino sono sulla ferrovia Arezzo–Sinalunga._ → `frazioni/albergo.html`

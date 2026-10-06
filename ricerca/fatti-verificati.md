@@ -125,7 +125,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Il Piano Strutturale prevede il restauro della Rocca e un «museo» come punto di riferimento per visitare castelli, castellari, rocche, torri e antichi tracciati | Piano Strutturale | R | alta |
 | Palazzo Pretorio: trecentesco, con portico a cinque archi e gli stemmi dei podestà fiorentini | Discover Arezzo | R | media |
 | Palazzo Becattini: nato dalla fusione di edifici medievali e trasformato nell'Ottocento; il notaio Becattini, morto il 19 luglio 1877, lo lasciò alla Confraternita di Carità per un ospedale dei poveri; dal 1978 è del Comune | Repertorio (A007) | R | media |
-| Ci sono gli oratori della SS. Trinità, della Madonna di Mercatale e della Madonna della Costarella, la cisterna medievale di piazza Lazzeri e la Galleria comunale d'arte contemporanea | Repertorio (O001, O004), Wikipedia, Discover Arezzo | R | alta |
+| Ci sono gli oratori della SS. Trinità e della Madonna di Mercatale, la cisterna medievale di piazza Lazzeri e la Galleria comunale d'arte contemporanea (l'oratorio della Costarella è stato tolto: la Madonna della Costarella è a Ciggiano, Repertorio E152) | Repertorio (O001, O004), Wikipedia, Discover Arezzo | R | alta |
 | Ha sede a Civitella la condotta Slow Food Valdichiana | Cittaslow | R | media |
 | Ha sede a Civitella la Pro Loco Civitella in Val di Chiana APS | RUNTS | R | bassa |
 
@@ -146,10 +146,17 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | Sede comunale dal 1917 | Wikipedia | R | alta |
 | Parrocchia di San Bartolomeo | Annuario della Diocesi | N | alta |
-| Nata attorno all'abbazia del Pino, dedicata ai santi Martino e Lorenzo; nel Cinquecento si aggiunse il titolo di San Bartolomeo | Wikipedia (Chiesa di San Bartolomeo) | N | alta |
+| Borgo fortificato nato nell'XI secolo attorno all'abbazia benedettina del Pino; nel 1046 è detta «Badia di S. Martino e S. Lorenzo al Pino» | Comune; Repertorio (N004) | R | alta |
+| La chiesa di San Bartolomeo (dedicata ai santi Bartolomeo, Martino e Filippo) è ricordata nel X secolo e nel 1039 | Repertorio (C001), Wikipedia | R | alta |
+| Nel 1502, distrutta la pieve del Toppo, il fonte battesimale e il titolo di pieve passarono a Badia al Pino; nel 1583 vi passò il titolo di Santa Lucia a Campigliano | Repertorio (C001) | R | alta |
+| La Badia fu soppressa nel 1441 e il paese divenne un insediamento essenzialmente rurale | Comune | R | alta |
+| Restano una torre, con vincolo nazionale, e i resti di una porta del castello | Repertorio (T001), itinerario 3 | R | alta |
+| Il palazzetto settecentesco fu sede comunale dal 1917 ai primi anni Settanta; oggi è la Biblioteca comunale | Comune | R | media |
+| Palazzo Santini-Paccinelli: villa settecentesca a pianta rettangolare, simmetrica rispetto al vano scala centrale | Repertorio (A020) | R | media |
+| Villa del Bosco, con parco e filare di pini | Repertorio (V001, PG010, FI007) | R | media |
+| Monumento ai caduti delle due guerre nel piazzale della chiesa, inaugurato il 26 agosto 1951 | Repertorio | R | media |
 | Ha la stazione di Civitella-Badia al Pino sulla linea Arezzo–Sinalunga | Wikipedia | R | media |
 | Nel 1976 vi aprì il primo stabilimento Chimet | Chimet | N | alta |
-| Altri dettagli (1039, 1441/1446, vincolo della torre, palazzetto, monumento del 1951, case coloniche) | — | ⚠ | alta |
 
 ### Ciggiano
 | Fatto | Fonte | Liv. | Ril. |
@@ -157,7 +164,10 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Altitudine 359 m; 634 abitanti nel 1833, 508 nel 2001, 610 nel 2011 | Scheda del Comune | N | alta |
 | Borgo fortificato con pieve già nell'XI secolo; San Biagio elevata a pieve nel 1465 | Itinerario 1 del Comune, Repertorio | N | alta |
 | San Biagio custodisce l'altare Mazzeschi e una Santa Maria Maddalena attribuita ad Andrea Sansovino | Itinerario 1 del Comune | N | alta |
-| Le chiese di Santa Maria (1635) e di San Pietro (1836) sono a Ciggiano, non ad Albergo | Discover Arezzo | N | alta |
+| La chiesa della Madonna della Costarella (detta anche di Santa Maria), fuori dal castello di Ciggiano, fu terminata nel 1635 con le elemosine dei pastori della via vecchia senese; il loggiato è settecentesco | Repertorio (E152), Discover Arezzo | R | alta |
+| Ciggiano è «sotto i valichi di Palazzuolo e San Pancrazio»; tappa obbligata della dogana fiorentina, con la «calla» dei pastori | Repertorio (N001) | R | alta |
+| Nel 1431 fu assediato e saccheggiato dalle truppe di Niccolò Piccinino; nel 1554 subì un altro assedio | Repertorio (N001) | R | alta |
+| Chiesa di San Pietro a Ciggiano, di origine medievale, con un intervento eclettico del 1836; vi sono stati trovati reperti con iscrizioni etrusche | Discover Arezzo, Visit Tuscany | W | media |
 | Parrocchia di San Biagio | Annuario della Diocesi | N | alta |
 | Festa dell'uva, del vino e dell'olio, organizzata dalla Pro Loco di Ciggiano: 49ª edizione nel 2026 | ArezzoTv, Sagre Toscane | N | media |
 | Ha una banda, la Società Filarmonica Ciggiano APS | RUNTS | N | media |
@@ -174,6 +184,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 ### Gebbia
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
+| Gebbia dista 3,5 km dal borgo di Civitella | Google Maps, misurato dall'utente | U | bassa |
 | L'Atlante elenca 16 vittime per «Gebbia e dintorni»; l'Archivio della Memoria parla di 8 uomini fucilati | Atlante, Archivio della Memoria | N | alta |
 
 ### Oliveto
@@ -193,17 +204,17 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | Parrocchia di Santa Maria Assunta | Annuario della Diocesi | N | alta |
 | «Maiano» è un toponimo prediale romano (da *Marius*) | Repertorio | N | alta |
-| Strumenti paleolitici al Podere Casella | Repertorio | N | alta |
+| Strumenti del Paleolitico medio e superiore al Podere Casella | Repertorio (S002) | R | alta |
 | Insediamento romano al campo sportivo (I–II secolo d.C.) e fornace di Vallimboi | Repertorio | N | alta |
 | Moneta d'oro dell'imperatore Claudio (41–54 d.C.) | Repertorio | N | alta |
-| Il podere Spedaluccio è nei pressi di Pieve a Maiano, non ad Albergo | Relazione generale del PS, p. 60 | R | alta |
+| Il podere Spedaluccio si trova circa un chilometro dopo Pieve a Maiano, lungo la statale 69: è ciò che resta di un antico ospizio per viandanti documentato dal 1198 (non è ad Albergo) | Itinerario 2 del Comune; Relazione generale del PS, p. 60 | R | alta |
 | Sagra del Cinghiale (U.S. Pieve a Maiano): 42ª edizione nel 2026 | Sagre Toscane | N | media |
 
 ### Pieve al Toppo
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
 | È il centro abitato più popoloso del comune (1.545 residenti nel 2021) | ISTAT | W | alta |
-| La pieve, con un ospedale, è documentata dal 938 e fu distrutta intorno al 1500 | Repertorio, Wikipedia | N | alta |
+| La pieve, con un ospedale per i pellegrini, fu confermata nel 938 tra i possedimenti del Capitolo di Arezzo; chiesa e ospedale furono distrutti nel 1502 | Repertorio (B024) | R | alta |
 | «Toppo» è di origine longobarda | Repertorio | N | alta |
 | Oratorio della Madonna del Conforto, con questa dedica dal 1906 | Repertorio | N | media |
 | Parrocchiale di San Giovanni Battista: progetto del 1967, porticato del 1977 | Repertorio | N | media |
@@ -244,15 +255,15 @@ Ultimo aggiornamento: 6 ottobre 2026.
 |---|---|---|---|
 | Attestato nel 1021 | Repertorio | N | alta |
 | Parrocchia dei Santi Giorgio e Luca (titolo ufficiale della Diocesi; il Comune scrive «Giorgio e Lucia») | Annuario della Diocesi, itinerario del Comune | N | alta |
-| Centro storico con vincolo nazionale | Repertorio | N | alta |
-| Il Saracino: casa colonica del XVI secolo della Fraternita dei Laici, con portale ad arco policentrico | Repertorio | N | media |
+| Vincolo nazionale su cassero, chiesa e cimitero (non sul centro storico) | Repertorio (N017) | R | alta |
+| Il Saracino: casa colonica del XVI secolo della Fraternita dei Laici, con portico a tre archi a tutto sesto e loggia ad arco policentrico ribassato | Repertorio (M308) | R | media |
 
 ### Viciomaggio
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
 | Parrocchia di San Martino | Annuario della Diocesi | N | alta |
 | Il nome viene da *vicus maior* | Itinerari del Comune | N | alta |
-| Villa Milloni: settecentesca, decorazioni del 1868, limonaia del 1836, cappella secentesca con orologio e campanile a vela | Repertorio | N | alta |
+| Villa di Viciomaggio: villa padronale settecentesca, restauro della parte posteriore nel 1868 con decorazioni pittoriche, limonaia del 1836, cappella secentesca con orologio e campanile a vela | Repertorio (L282) | R | alta |
 | Nel 1872 vi fu trovata un'urna etrusca ellenistica con l'iscrizione *l. prastn[a] nerinal* | Repertorio | N | alta |
 | Nella zona industriale hanno sede CEIA e uno stabilimento Chimet (anni Ottanta) | CEIA, Chimet | N | alta |
 | Festa della Rosa, organizzata dall'A.S.D. Viciomaggio: nel 2026 dal 23 aprile al 3 maggio | Sagre Toscane | W | media |
@@ -333,9 +344,9 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 | Vittime del 1944 | ToscanaNovecento: 244 (115 Civitella, 58 Cornia, 71 San Pancrazio); Atlante: 146 per Civitella, Cornia e Gebbia e 58 per San Pancrazio | tutte e due le versioni, senza fare somme |
 | Ospedale di Albergo | Comune: «sorgeva»; Repertorio: «probabilmente», con una fonte attigua | tutte e due le versioni |
 | Bianco Vergine DOC | Cittaslow: 1972; Vinoway: 1970 | «dai primi anni Settanta» |
-| Soppressione dell'abbazia del Pino | 1441 o 1446 | tutte e due le date |
 | Gaenne bizantino | Comune: fortilizio bizantino nel VI secolo; Repertorio: «forse» | «forse» |
 | Poggio Castellare | etrusco o romano, medievale, dalla protostoria alla tarda antichità; Comune: bizantino poi longobardo | datazione discussa |
+| Chiesa di Sant'Andrea a Oliveto, 1933 | Discover Arezzo: chiesa «rifatta nel 1933 in stile neomedievale»; Repertorio: «il campanile è del 1933» | tutte e due le versioni |
 | Titolo della chiesa di Tuori | Diocesi: Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
 | Altitudine del capoluogo | 500 m (testo di Wikipedia, ToscanaNovecento), 525 m (scheda di Wikipedia), 600 m (guida turistica) | «circa 500 m» |
 | Gebbia | Archivio della Memoria: 8 uomini fucilati; Atlante: 16 vittime per «Gebbia e dintorni» | tutte e due le versioni |
@@ -381,10 +392,37 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 - «Crostini neri al vinsanto».
 - «Ai piedi dell'Appennino».
 - «Fascia 250–350 m».
-- Dettagli del podere Spedaluccio (1198, statale 69, un chilometro oltre Pieve a Maiano): in attesa del blocco di Pieve a Maiano.
 
 **Aziende non rappresentative**
 - Zone Creative srl (Badia al Pino, macchinari per l'oreficeria): esiste, ma è una piccola azienda senza un ruolo riconosciuto nel territorio. Era finita sul sito e nel quiz solo perché compariva tra le fonti del notebook 3. Tolta il 6/10/2026.
+
+**Civitella**
+- Oratorio della Madonna della Costarella «nel capoluogo»: non confermato. Il Repertorio (E152) colloca la Madonna della Costarella fuori dal castello di Ciggiano, l'utente non lo conosce nel borgo e il web non dà riscontri. Tolto da civitella.html. Correggeva una conclusione sbagliata dei primi giri (`verifica-log.md`).
+
+**Pieve a Maiano e Ponticino (revisione R5)**
+- Fattoria di Maiano «tutelata da vincolo nazionale»: SMENTITA. Nella scheda del Repertorio il vincolo nazionale non è notificato. Ora è «censita nel Repertorio».
+- Paleolitico del Podere Casella come «le testimonianze più antiche del comune»: il superlativo non ha fonte. Tolto.
+- Civitella «comprende la maggior parte del territorio di Ponticino»: non confermato. L'itinerario del Comune dice che presso Ponticino si esce brevemente dal territorio comunale, e l'ISTAT attribuisce il centro abitato a Laterina Pergine Valdarno. Tolto.
+
+**Tuori e Viciomaggio (revisione R7)**
+- Tuori nel «terzo anello difensivo dello Stato aretino», «vigilava sulla Val di Chiana e sulla Valdambra», cassero «punto di comunicazione visiva con la Val di Chiana senese»: non confermati dal Repertorio. Venivano da ruderimedievali.altervista.org. Tolti.
+- «Centro storico di Tuori tutelato da vincolo nazionale»: SMENTITO. Il vincolo è su cassero, chiesa e cimitero.
+- Patrono di Tuori San Giorgio «23 aprile»: non confermato. Tolto dal riquadro «In breve».
+- Viciomaggio «ricordato in un atto notarile del 1024»: l'atto notarile non c'è. Resta «fin dal 1024».
+- «Villa Milloni»: il nome non compare né nel Repertorio né sul web. Per il Repertorio è la «Villa di Viciomaggio» (L282), e il sito la elencava due volte. Ora c'è una sola voce, «Villa di Viciomaggio» (anche in Patrimonio e nel quiz).
+- Vasi del I secolo a.C. «al Museo di Arezzo»: il Repertorio dice «luogo sconosciuto». Al museo c'è solo il cammeo di diaspro.
+- Leggenda di Annibale a Viciomaggio: non è in nessuna fonte. Tolta.
+
+**Pieve al Toppo, Spoiano, Tegoleto (revisione R6)**
+- Pieve «distrutta intorno al 1500 da eventi bellici»: il Repertorio dà la data esatta, 1502, e non parla di eventi bellici. Corretto. (Il Repertorio riporta in un'altra scheda «983» invece di 938: probabile refuso, sul sito resta il 938.)
+- Campo polivalente «già fatto» a Pieve al Toppo: la fonte dice che i lavori sono in corso in via dei Boschi. Corretto qui e in feste-e-associazioni.html.
+- Fave dei Baccelli «crude con olio, pecorino o finocchiona»: non confermato e poco rilevante. Tolto.
+- La risposta di N3 secondo cui la parrocchia di Tegoleto sarebbe San Michele Arcangelo è **sbagliata**: l'annuario della Diocesi e l'itinerario 3 del Comune dicono San Biagio. Resta San Biagio.
+
+**Badia al Pino (revisione R1)**
+- Abbazia soppressa «nel 1446» e unita al monastero del «Paradiso a Ripoli»: non confermato da nessun notebook né dal web.
+- Titolo di San Bartolomeo «aggiunto nel Cinquecento»: non confermato. Il Repertorio dice invece che la chiesa è dedicata ai santi Bartolomeo, Martino e Filippo.
+- Case coloniche Bellavista, Casetto (Casa del Moro) e San Lorentino «intorno a Badia al Pino»: le schede le collocano a Bellavista (Dorna), Ca' del Moro e Loretino. Tolte dalla pagina, anche per la scarsa rilevanza.
 
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).

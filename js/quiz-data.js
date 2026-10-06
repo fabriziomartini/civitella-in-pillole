@@ -760,7 +760,7 @@ window.QUIZ_DOMANDE = [
 "id": "24c8d8bd",
 "c": "1944",
 "q": "Chi era Giovanni Cau, catturato a Gebbia nel 1944?",
-"a": "Uno scrittore e divulgatore scientifico",
+"a": "Un insegnante di scienze naturali e autore di testi scolastici",
 "x": [
 "Il parroco del paese",
 "Un comandante partigiano",
@@ -792,7 +792,7 @@ window.QUIZ_DOMANDE = [
 "Biagio e Rocco",
 "Giorgio e Luca"
 ],
-"s": "Nel Cinquecento al titolo dei santi Martino e Lorenzo si aggiunse quello di San Bartolomeo.",
+"s": "Un documento del 1046 la chiama «Badia di S. Martino e S. Lorenzo al Pino».",
 "l": "frazioni/badia-al-pino.html"
 },
 {
@@ -926,16 +926,16 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/ciggiano.html"
 },
 {
-"id": "ef7b3974",
+"id": "c31940bf",
 "c": "frazioni",
-"q": "In quale frazione si trovano le chiese di Santa Maria (1635) e di San Pietro (1836)?",
+"q": "In quale frazione si trova la chiesa della Madonna della Costarella, costruita nel 1635 con le elemosine dei pastori della transumanza?",
 "a": "Ciggiano",
 "x": [
 "Albergo",
 "Spoiano",
 "Tuori"
 ],
-"s": "Sono due chiese di Ciggiano; in passato erano state attribuite per errore ad Albergo.",
+"s": "Sorge fuori dal castello di Ciggiano, lungo la via vecchia senese percorsa dalle greggi.",
 "l": "frazioni/ciggiano.html"
 },
 {
@@ -1178,7 +1178,7 @@ window.QUIZ_DOMANDE = [
 "q": "Quale villa settecentesca si trova a Spoiano?",
 "a": "Villa Pecchioli",
 "x": [
-"Villa Milloni",
+"Villa di Viciomaggio",
 "Villa Oliveto",
 "Villa del Bosco"
 ],
@@ -1303,16 +1303,16 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/viciomaggio.html"
 },
 {
-"id": "cdf1c249",
+"id": "a06601d7",
 "c": "frazioni",
-"q": "In quale frazione si trova Villa Milloni, con la sua limonaia?",
+"q": "In quale frazione si trova la villa-fattoria settecentesca con una limonaia del 1836 e una cappella con orologio e campanile a vela?",
 "a": "Viciomaggio",
 "x": [
 "Spoiano",
 "Tuori",
 "Ciggiano"
 ],
-"s": "Villa Milloni è la Fattoria di Viciomaggio.",
+"s": "È la villa padronale di Viciomaggio, restaurata nel 1868.",
 "l": "frazioni/viciomaggio.html"
 },
 {
