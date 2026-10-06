@@ -79,3 +79,20 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 - **Fonti aggiunte alla pagina:** scheda del Comune sulla Sede comunale e itinerario 3.
 
 **Badia al Pino: revisione completata.**
+
+## Ciggiano: blocco R2, N1 e N3 in parallelo
+- **Confermate:**
+  - 1: colle di 360 m tra Gargaiolo ed Esse (Repertorio N001; il Comune indica 359 m);
+  - 2: toponimo (N001);
+  - 3: dogana e «calla» (N001);
+  - 4: 1250, 1307, 1381, 1385 (N001);
+  - 6: pieve dal 1465, altare Mazzeschi, Maddalena del Sansovino (Discover Arezzo, itinerario 1);
+  - 7: Compagnia di Santa Croce (Repertorio O005);
+  - 9: ricognizioni del 2004 e la Cascinella (S058, S059);
+  - 10: monumento con 30 caduti, 2 dispersi, Scapecchi, Marmo e Marapitti (ToscanaNovecento).
+- **5: PARZIALE.** Il saccheggio delle truppe di Piccinino è del 1431; nel 1554 la fonte parla solo di «un altro assedio». Riscritta.
+- **8: da chiarire.** Discover Arezzo (N1) conferma le chiese di Santa Maria (1635) e di San Pietro (1836). Il Repertorio (N3) però descrive una «Chiesa della Madonna della Costarella» (E152), terminata nel 1635 con le elemosine dei pastori della via vecchia senese e con il loggiato aggiunto nel Settecento, e non trova San Pietro. Va chiarito con un prompt mirato:
+  - dove si trova la chiesa della scheda E152;
+  - se coincide con l'oratorio della Costarella del capoluogo (O004);
+  - a quale paese si riferisce il passaggio di Discover Arezzo.
+- **Da verificare insieme:** «sotto i valichi di Palazzuolo e San Pancrazio».
