@@ -57,3 +57,10 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 - **Tolto il commento** "le fonti non spiegano l'origine del toponimo".
 
 **Albergo: revisione completata.**
+
+## Correzioni senza notebook (prima della revisione ridotta)
+- **Badia al Pino:** "capoluogo amministrativo" diventa "sede del Comune". Il capoluogo storico è Civitella; il resto della pagina e le fonti parlano di "sede comunale".
+- **Storia:** tolto "per un totale di 204", una somma fatta da me.
+- **Tegoleto:** tolto "uno dei calendari più ricchi del comune", un mio giudizio.
+- **Spoiano:** tolto "e le fonti turistiche del territorio", un commento senza contenuto.
+- **Home:** "prime propaggini dell'Appennino" diventa "colline boscose, propaggine dei Preappennini toscani", come scrive Wikipedia.
