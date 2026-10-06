@@ -186,3 +186,19 @@ Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11
 - **Mercato dei Sapori e della Terra:** si tiene **ad aprile** (domenica 14 aprile 2024) nella piazza della chiesa di Tegoleto, appena rinnovata; 5ª edizione nel 2024. Lo organizzano il Comune e Slow Food Val di Chiana, con C&T Comunità di Tegoleto (La Nazione, due articoli). Si può mettere nel calendario ad aprile.
 - **Cinema sotto le stelle a Tegoleto:** nessun riscontro web. **Resta fuori.**
 - **Fiera del Fiore / Festa delle Palme:** nessun riscontro web. **Resta sospesa.**
+
+## Segnalazioni dell'utente (6/10/2026)
+- **Dati ISTAT su economia e agricoltura:** non reperiti, **rinunciamo**. La pagina Economia non avrà un riquadro "in cifre" con imprese e addetti.
+- **Festa della Rosa, Viciomaggio: CONFERMATA, nuova.**
+  - Edizione 2026: dal 23 aprile al 3 maggio, con pranzi il 25 aprile e il 1° maggio, tornei e musica.
+  - Organizzazione: **A.S.D. Viciomaggio** "in collaborazione con la comunità locale", con il patrocinio del Comune.
+  - Il numero dell'edizione non è indicato.
+  - Fonti: sagretoscane.com/sagre/ar/civitella-in-val-di-chiana/festa-della-rosa.html e la pagina Facebook ufficiale FestaDellaRosaOfficial.
+  - Chiude anche il punto "eventi non presenti nelle fonti" per l'ASD Viciomaggio.
+- **Cinema sotto le Stelle, Tegoleto: CONFERMATO.** Dettagli da Arezzo24, "Tegoleto, la programmazione di Cinema sotto le stelle":
+  - IX edizione nel 2026, **nata nel 2018**: i conti tornano, 2018–2026 sono nove edizioni.
+  - Si tiene in Piazza della Chiesa di Tegoleto, il mercoledì sera di luglio (15, 22 e 29 luglio 2026), a ingresso gratuito.
+  - La promuove l'**Associazione Comunità & Tegoleto APS**, con il patrocinio del Comune e in collaborazione con il Cinema Eden – Officine della Cultura.
+  - Pagina Facebook: facebook.com/cinemategoleto.
+  - Conferma l'attribuzione del prompt 5 e smentisce il "non presente" del prompt 7.
+- **Fiera del Fiore / Festa delle Palme:** nessun riferimento trovato nemmeno dall'utente. **Esclusa**, come la Festa Siner Week.
