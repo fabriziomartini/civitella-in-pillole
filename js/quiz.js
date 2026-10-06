@@ -12,9 +12,10 @@
     feste: { nome: "Feste e sport", accento: "cultura" }
   };
   var LETTERE = ["A", "B", "C", "D"];
+  var LUNGHEZZA = 15;
   var CHIAVE_RECORD = "civitella-quiz-record";
 
-  var stato = { lunghezza: 10, domande: [], indice: 0, risposte: [] };
+  var stato = { lunghezza: LUNGHEZZA, domande: [], indice: 0, risposte: [] };
   var el = {};
 
   function mescola(lista) {
@@ -73,11 +74,8 @@
   }
 
   function aggiornaStart() {
-    var r = leggiRecord();
-    var parti = [];
-    if (r[10] !== undefined) parti.push("10 domande: " + r[10] + "/10");
-    if (r[20] !== undefined) parti.push("20 domande: " + r[20] + "/20");
-    el.record.textContent = parti.length ? "Il tuo record — " + parti.join(" · ") : "";
+    var r = leggiRecord()[LUNGHEZZA];
+    el.record.textContent = r !== undefined ? "Il tuo record: " + r + "/" + LUNGHEZZA : "";
     el.totale.textContent = window.QUIZ_DOMANDE.length;
   }
 
@@ -195,11 +193,10 @@
     if (!el.start || !window.QUIZ_DOMANDE) return;
 
     Array.prototype.forEach.call(document.querySelectorAll("[data-quiz-start]"), function (b) {
-      b.addEventListener("click", function () { inizia(parseInt(b.getAttribute("data-quiz-start"), 10)); });
+      b.addEventListener("click", function () { inizia(LUNGHEZZA); });
     });
     el.avanti.addEventListener("click", avanti);
     document.getElementById("quiz-rigioca").addEventListener("click", function () { inizia(stato.lunghezza); });
-    document.getElementById("quiz-cambia").addEventListener("click", function () { aggiornaStart(); mostra("start"); });
 
     // Tastiera: 1-4 o A-D per rispondere, Invio per andare avanti.
     document.addEventListener("keydown", function (e) {

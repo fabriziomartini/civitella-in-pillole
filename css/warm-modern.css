@@ -972,55 +972,16 @@ button:focus-visible {
   .wm-quiz-card { padding: var(--wm-space-5); border-radius: var(--wm-radius-md); }
 }
 
-.wm-quiz-start__choices {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: var(--wm-space-4);
-  margin: var(--wm-space-5) 0;
-}
-
-@media (min-width: 576px) {
-  .wm-quiz-start__choices { grid-template-columns: 1fr 1fr; }
-}
-
-.wm-quiz-choice {
-  display: flex;
-  align-items: center;
-  gap: var(--wm-space-4);
-  padding: var(--wm-space-4) var(--wm-space-5);
-  border: 2px solid var(--wm-sand);
-  border-radius: var(--wm-radius-md);
-  background: var(--wm-cream);
-  color: var(--wm-ink);
-  text-align: left;
-  cursor: pointer;
-  transition: border-color 0.15s ease, transform 0.15s ease, background-color 0.15s ease;
-}
-
-.wm-quiz-choice:hover { border-color: var(--wm-terracotta); background: var(--wm-white); transform: translateY(-2px); }
-
-.wm-quiz-choice__n {
-  font-family: var(--wm-font-display);
-  font-weight: 800;
-  font-size: 2.25rem;
-  line-height: 1;
-  color: var(--wm-terracotta);
-}
-
-.wm-quiz-choice__label {
-  display: flex;
-  flex-direction: column;
-  font-family: var(--wm-font-display);
-  font-weight: 700;
+.wm-btn.wm-quiz-begin {
+  margin: var(--wm-space-3) 0 var(--wm-space-4);
+  border: 0;
+  background: var(--wm-terracotta);
+  color: var(--wm-white);
   font-size: 1.05rem;
+  cursor: pointer;
 }
 
-.wm-quiz-choice__label small {
-  font-family: var(--wm-font-body);
-  font-weight: 400;
-  font-size: var(--wm-fs-small);
-  color: var(--wm-ink-soft);
-}
+.wm-btn.wm-quiz-begin:hover { background: var(--wm-terracotta-deep); color: var(--wm-white); transform: translateY(-2px); }
 
 .wm-quiz-start__record {
   font-family: var(--wm-font-display);
@@ -1172,14 +1133,6 @@ button:focus-visible {
 .wm-btn.wm-quiz-next { margin-top: var(--wm-space-5); }
 .wm-btn.wm-quiz-next:hover,
 .wm-quiz-score__actions .wm-btn:hover { background: var(--wm-terracotta-deep); color: var(--wm-white); }
-
-.wm-quiz-score__actions .wm-btn--ghost {
-  background: transparent;
-  color: var(--wm-terracotta-deep);
-  box-shadow: inset 0 0 0 2px var(--wm-terracotta-tint);
-}
-
-.wm-quiz-score__actions .wm-btn--ghost:hover { background: var(--wm-cream-deep); color: var(--wm-terracotta-deep); }
 
 /* Risultato */
 .wm-quiz-score { text-align: center; }
