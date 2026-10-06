@@ -160,3 +160,8 @@ Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11
   - Squadra Del Tongo 1982–1991 (Wikipedia): Giro 1983 con Saronni e 1991 con Chioccioli; 29 tappe del Giro; Milano-Sanremo 1983; Lombardia 1982 e 1986; Tirreno-Adriatico e Giro di Svizzera 1982.
 - **Sagra dei Baccelli:** 48ª edizione nel 2025, quindi dal 1978, se l'edizione è stata annuale. Il "1975" **non va usato**: nessuna fonte del notebook lo riporta.
 - **Bianco Vergine DOC: le fonti non concordano.** Cittaslow dice 1972, Vinoway 1970. Sul sito scriverò "DOC dai primi anni Settanta" e citerò Cittaslow per il 1972, senza dare la data come certa.
+
+## Festa Siner Week ed eventi citati solo da Cittaslow
+- **"Festa Siner Week" (Pieve al Toppo): ESCLUSA.** Compare solo sulla scheda cittaslow.it/citta/civitella-val-di-chiana. Una ricerca web del 6/10/2026 non ha trovato altri riscontri e l'utente, che vive in zona, non l'ha mai sentita. Probabile refuso o evento non più attivo. Torna sul sito solo con una seconda fonte indipendente.
+- **Stessa regola per la "Fiera del Fiore e delle sementi / Festa delle Palme" (Civitella):** anche questa viene solo dalla scheda Cittaslow e la ricerca web non dà altri riscontri. **Sospesa** finché non c'è una seconda fonte (sito del Comune, stampa locale o Pro Loco).
+- **Regola generale per le nuove pagine:** un evento o un dato che compare in una sola fonte di tipo "scheda promozionale" (Cittaslow, portali turistici) va sul sito solo se un'altra fonte indipendente lo conferma.
