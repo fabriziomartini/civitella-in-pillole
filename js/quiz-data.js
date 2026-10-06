@@ -111,21 +111,7 @@ window.QUIZ_DOMANDE = [
 "Le colline del Chianti",
 "Le Crete Senesi"
 ],
-"s": "Civitella sorge sulle Colline delle Lepri, a circa 500 metri.",
-"l": "geografia.html"
-},
-{
-"id": "fea6dfb9",
-"c": "geo",
-"d": 2,
-"q": "A quale altitudine sorge, all'incirca, il borgo di Civitella?",
-"a": "Circa 500 metri",
-"x": [
-"Circa 150 metri",
-"Circa 900 metri",
-"Circa 1.300 metri"
-],
-"s": "Il capoluogo storico sorge a circa 500 metri sul livello del mare.",
+"s": "Secondo Wikipedia e ToscanaNovecento, Civitella sorge sulle Colline delle Lepri.",
 "l": "geografia.html"
 },
 {
@@ -223,7 +209,7 @@ window.QUIZ_DOMANDE = [
 "In risaie allagate",
 "Su terreni sabbiosi di duna"
 ],
-"s": "La Relazione del Piano descrive oliveti su terrazzamenti sostenuti da muri in pietra o ciglionamenti.",
+"s": "La Relazione del Piano Strutturale descrive in collina oliveti su terrazzamenti e ciglionamenti.",
 "l": "geografia.html"
 },
 {
@@ -265,7 +251,7 @@ window.QUIZ_DOMANDE = [
 "Rosenheim",
 "Bamberga"
 ],
-"s": "I rappresentanti di Kämpfelbach partecipano ogni anno al Mercato del Cacio.",
+"s": "Il comune è gemellato con Kämpfelbach, i cui rappresentanti partecipano al Mercato del Cacio.",
 "l": "frazioni/civitella.html"
 },
 {
@@ -295,20 +281,6 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Civitella fa parte delle Città dell'Olio dal 2025.",
 "l": "lavoro-e-sapori.html"
-},
-{
-"id": "fe9e42b2",
-"c": "storia",
-"d": 3,
-"q": "A quale anno risale la prima notizia del castello di Civitella?",
-"a": "1048",
-"x": [
-"1288",
-"1385",
-"1527"
-],
-"s": "Il castello di Civitella è ricordato per la prima volta nel 1048.",
-"l": "storia.html"
 },
 {
 "id": "db28ef0d",
@@ -391,7 +363,7 @@ window.QUIZ_DOMANDE = [
 "1774",
 "1917"
 ],
-"s": "La podesteria di Civitella fu soppressa con la riforma del 1838.",
+"s": "La podesteria di Civitella, istituita da Firenze nel 1385, durò fino al 1838.",
 "l": "storia.html"
 },
 {
@@ -433,7 +405,7 @@ window.QUIZ_DOMANDE = [
 "Per un'alluvione",
 "Per ordine del Granduca"
 ],
-"s": "Lo spopolamento della collina aveva reso le frazioni di pianura molto più popolose del borgo di Civitella.",
+"s": "Con lo spopolamento delle zone collinari la sede passò a Badia al Pino; il comune mantenne il nome dell'antico borgo.",
 "l": "storia.html"
 },
 {
@@ -461,7 +433,7 @@ window.QUIZ_DOMANDE = [
 "I fiorentini",
 "I pisani"
 ],
-"s": "Gli aretini ghibellini tesero un'imboscata ai senesi guelfi e ne fecero strage.",
+"s": "Il 26 giugno 1288 gli aretini ghibellini sconfissero i senesi guelfi.",
 "l": "frazioni/pieve-al-toppo.html"
 },
 {
@@ -507,17 +479,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/pieve-al-toppo.html"
 },
 {
-"id": "a7c46ad1",
+"id": "224669b9",
 "c": "storia",
 "d": 1,
-"q": "Che cosa distrusse la rocca di Civitella?",
+"q": "Che cosa distrusse la rocca di Civitella durante la seconda guerra mondiale?",
 "a": "Un bombardamento alleato",
 "x": [
 "Un terremoto",
-"Un incendio nel Settecento",
-"Un assedio fiorentino"
+"Un incendio appiccato dai partigiani",
+"Un assalto dei carri armati tedeschi"
 ],
-"s": "La rocca longobarda fu distrutta da un bombardamento alleato.",
+"s": "La rocca di Civitella fu distrutta da un bombardamento alleato durante la guerra.",
 "l": "frazioni/civitella.html"
 },
 {
@@ -659,20 +631,6 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "La strage colpì Civitella, Cornia, Gebbia e San Pancrazio di Bucine.",
 "l": "storia.html"
-},
-{
-"id": "f4da425c",
-"c": "1944",
-"d": 2,
-"q": "Quante vittime ci furono nel solo paese di Civitella, secondo ToscanaNovecento?",
-"a": "115",
-"x": [
-"15",
-"400",
-"1.000"
-],
-"s": "ToscanaNovecento conta 115 morti a Civitella.",
-"l": "frazioni/civitella.html"
 },
 {
 "id": "e98abd07",
@@ -825,7 +783,7 @@ window.QUIZ_DOMANDE = [
 "Un comandante partigiano",
 "Il podestà di Civitella"
 ],
-"s": "Giovanni Cau e la moglie Helga Elmqvist furono catturati a Gebbia e uccisi il 2 luglio 1944.",
+"s": "Nato a Cagliari, insegnava scienze naturali a Firenze e scriveva testi scolastici; fu ucciso con la moglie Helga Elmqvist il 2 luglio 1944.",
 "l": "frazioni/gebbia.html"
 },
 {
@@ -864,7 +822,7 @@ window.QUIZ_DOMANDE = [
 "a": "San Bartolomeo",
 "x": [
 "San Biagio",
-"San Martino",
+"San Michele Arcangelo",
 "Sant'Andrea"
 ],
 "s": "La parrocchia di Badia al Pino è dedicata a San Bartolomeo.",
@@ -927,32 +885,18 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/oliveto.html"
 },
 {
-"id": "1b1b61a6",
+"id": "080e4e41",
 "c": "frazioni",
 "d": 3,
-"q": "In quale anno Tuori compare per la prima volta nei documenti?",
+"q": "In quale anno è già attestato Tuori, secondo il Repertorio?",
 "a": "1021",
 "x": [
 "1385",
 "1774",
 "1917"
 ],
-"s": "Tuori è ricordato nel 1021 come abitato del piviere di Santa Maria al Toppo.",
+"s": "Il Repertorio attesta Tuori già nel 1021.",
 "l": "frazioni/tuori.html"
-},
-{
-"id": "b24d9f73",
-"c": "frazioni",
-"d": 3,
-"q": "Da quale anno è documentata l'antica pieve di Pieve al Toppo?",
-"a": "938",
-"x": [
-"1288",
-"1500",
-"1906"
-],
-"s": "La pieve, con un ospedale, è documentata dal 938.",
-"l": "frazioni/pieve-al-toppo.html"
 },
 {
 "id": "c686859b",
@@ -993,21 +937,21 @@ window.QUIZ_DOMANDE = [
 "Donatello",
 "Giambologna"
 ],
-"s": "La scultura del primo Cinquecento è attribuita ad Andrea Sansovino.",
+"s": "Nella chiesa di San Biagio a Ciggiano c'è una Santa Maria Maddalena attribuita ad Andrea Sansovino.",
 "l": "frazioni/ciggiano.html"
 },
 {
-"id": "c31940bf",
+"id": "d971761e",
 "c": "frazioni",
 "d": 2,
-"q": "In quale frazione si trova la chiesa della Madonna della Costarella, costruita nel 1635 con le elemosine dei pastori della transumanza?",
+"q": "In quale frazione si trova la chiesa della Madonna della Costarella, terminata nel 1635 con le elemosine dei pastori della via vecchia senese?",
 "a": "Ciggiano",
 "x": [
 "Albergo",
 "Spoiano",
 "Tuori"
 ],
-"s": "Sorge fuori dal castello di Ciggiano, lungo la via vecchia senese percorsa dalle greggi.",
+"s": "Sorge fuori dal castello di Ciggiano e fu terminata nel 1635; il loggiato è settecentesco.",
 "l": "frazioni/ciggiano.html"
 },
 {
@@ -1021,7 +965,7 @@ window.QUIZ_DOMANDE = [
 "Albergo",
 "Badia al Pino"
 ],
-"s": "La scheda del Comune indica per Ciggiano un'altitudine di 359 metri.",
+"s": "Il Repertorio colloca Ciggiano su un colle di circa 360 m tra il Gargaiolo e l'Esse; la scheda del Comune indica 359 m.",
 "l": "frazioni/ciggiano.html"
 },
 {
@@ -1147,7 +1091,7 @@ window.QUIZ_DOMANDE = [
 "Nel Teatro Moderno",
 "Nella stazione di Albergo"
 ],
-"s": "Un percorso illuminato da torce conduce alla Natività nella chiesetta di San Rocco.",
+"s": "Il Presepe Vivente, con oltre 80 figuranti, si conclude con la Natività nella chiesetta di San Rocco.",
 "l": "frazioni/oliveto.html"
 },
 {
@@ -1273,7 +1217,7 @@ window.QUIZ_DOMANDE = [
 "Villa Oliveto",
 "Villa del Bosco"
 ],
-"s": "Villa Pecchioli è l'edificio simbolo di Spoiano.",
+"s": "Villa Pecchioli, a Spoiano, divenne asilo infantile nel 1928 e fu restaurata nel 1981.",
 "l": "frazioni/spoiano.html"
 },
 {
@@ -1301,7 +1245,7 @@ window.QUIZ_DOMANDE = [
 "Gebbia",
 "Oliveto"
 ],
-"s": "Il libro racconta la vita contadina della Valdichiana attraverso la figura del padre dell'autore.",
+"s": "Spoiano è al centro del libro di Giuseppe Renzetti.",
 "l": "frazioni/spoiano.html"
 },
 {
@@ -1403,17 +1347,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/viciomaggio.html"
 },
 {
-"id": "a06601d7",
+"id": "8b92c31b",
 "c": "frazioni",
 "d": 2,
-"q": "In quale frazione si trova la villa-fattoria settecentesca con una limonaia del 1836 e una cappella con orologio e campanile a vela?",
+"q": "In quale frazione si trova la villa padronale settecentesca con una limonaia del 1836 e una cappella con orologio e campanile a vela?",
 "a": "Viciomaggio",
 "x": [
 "Spoiano",
 "Tuori",
 "Ciggiano"
 ],
-"s": "È la villa padronale di Viciomaggio, restaurata nel 1868.",
+"s": "È la villa padronale di Viciomaggio, restaurata nella parte posteriore nel 1868.",
 "l": "frazioni/viciomaggio.html"
 },
 {
@@ -1525,21 +1469,21 @@ window.QUIZ_DOMANDE = [
 "Piazza della Signoria",
 "Piazza del Campo"
 ],
-"s": "La cisterna medievale si trova in piazza Lazzeri, di fronte alla chiesa.",
+"s": "La cisterna medievale si trova in piazza Lazzeri, intitolata al parroco don Alcide Lazzeri.",
 "l": "frazioni/civitella.html"
 },
 {
-"id": "bdf6b86c",
+"id": "584e621e",
 "c": "frazioni",
 "d": 3,
-"q": "Chi costruì il Saracino, la casa colonica cinquecentesca presso Tuori?",
-"a": "La Fraternita dei Laici di Arezzo",
+"q": "A quale ente apparteneva il Saracino, la casa colonica cinquecentesca presso Tuori?",
+"a": "Alla Fraternita dei Laici",
 "x": [
-"I Medici",
-"Il vescovo di Arezzo",
-"L'Ordine di Santo Stefano"
+"Ai Medici",
+"Al vescovo di Arezzo",
+"All'Ordine di Santo Stefano"
 ],
-"s": "Il Saracino fu costruito dalla Fraternita dei Laici di Arezzo.",
+"s": "Il Repertorio la descrive come casa colonica del XVI secolo della Fraternita dei Laici.",
 "l": "frazioni/tuori.html"
 },
 {
@@ -1585,10 +1529,10 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/borghi-minori.html#montoto"
 },
 {
-"id": "ec3b56a5",
+"id": "0ea02fda",
 "c": "borghi",
 "d": 3,
-"q": "In quale anno il castello di Montoto passò da Arezzo a Firenze?",
+"q": "In quale anno il castello di Montoto passò a Firenze?",
 "a": "1385",
 "x": [
 "1048",
@@ -1641,31 +1585,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/borghi-minori.html#montarfoni"
 },
 {
-"id": "d6eaf7ca",
+"id": "5356e1c0",
 "c": "borghi",
 "d": 3,
-"q": "Da chi fu acquistata nel 1814 la villa-fattoria di Dorna?",
-"a": "Dalle suore Montalve della Quiete di Firenze",
+"q": "A chi appartenne Dorna a partire dal 1814?",
+"a": "Alle suore Montalve",
 "x": [
-"Dai Medici",
-"Dai Gesuiti",
-"Dal Comune di Arezzo"
+"Ai Medici",
+"Ai Gesuiti",
+"Al Comune di Arezzo"
 ],
-"s": "Nel XVIII secolo era dei Riccardi; nel 1814 passò alle suore Montalve.",
-"l": "frazioni/borghi-minori.html#dorna"
-},
-{
-"id": "961f484f",
-"c": "borghi",
-"d": 1,
-"q": "Che cosa è la torre di Dorna, ricordata dal 1198?",
-"a": "La parte più antica rimasta integra del castello",
-"x": [
-"Un campanile ottocentesco",
-"Una torre dell'acquedotto",
-"Un faro"
-],
-"s": "La torre è la parte più antica rimasta integra dell'insediamento longobardo.",
+"s": "Nel XVIII secolo era dei Riccardi; dal 1814 fu delle suore Montalve.",
 "l": "frazioni/borghi-minori.html#dorna"
 },
 {
@@ -1679,7 +1609,7 @@ window.QUIZ_DOMANDE = [
 "A San Biagio",
 "A Sant'Andrea"
 ],
-"s": "Il titolo ricorda il nobile Carlo Casini, che la finanziò.",
+"s": "Il Repertorio scrive che la chiesa fu costruita con il patrimonio di Carlo Casini, da cui il titolo dei Santi Maria e Carlo.",
 "l": "frazioni/borghi-minori.html#san-martino-in-poggio"
 },
 {
@@ -1757,13 +1687,13 @@ window.QUIZ_DOMANDE = [
 "c": "economia",
 "d": 1,
 "q": "Che cosa produce l'azienda CEIA di Viciomaggio?",
-"a": "Metal detector e sistemi di ispezione",
+"a": "Metal detector",
 "x": [
 "Cucine componibili",
 "Gioielli",
 "Macchine agricole"
 ],
-"s": "CEIA progetta e costruisce metal detector e sistemi di ispezione elettromagnetica.",
+"s": "CEIA produce metal detector: per l'industria tessile dal 1962, per gli aeroporti dal 1975.",
 "l": "lavoro-e-sapori.html#industria"
 },
 {
@@ -1819,7 +1749,7 @@ window.QUIZ_DOMANDE = [
 "Della costruzione di mobili",
 "Della produzione di cucine"
 ],
-"s": "Chimet recupera e affina i metalli preziosi contenuti negli scarti industriali.",
+"s": "Chimet recupera e affina metalli preziosi; il suo primo stabilimento aprì a Badia al Pino nel 1976.",
 "l": "lavoro-e-sapori.html#industria"
 },
 {
@@ -1903,7 +1833,7 @@ window.QUIZ_DOMANDE = [
 "Lube",
 "Veneta Cucine"
 ],
-"s": "Il marchio fu aggiudicato all'asta all'azienda teramana Kico.",
+"s": "Nel 2022 il marchio Del Tongo fu acquisito dall'azienda Kico.",
 "l": "lavoro-e-sapori.html#del-tongo"
 },
 {
@@ -1931,7 +1861,7 @@ window.QUIZ_DOMANDE = [
 "Fausto Coppi",
 "Marco Pantani"
 ],
-"s": "Saronni vinse il Giro 1983 e la Milano-Sanremo dello stesso anno.",
+"s": "Saronni vinse il Giro 1983 con la Del Tongo; nello stesso anno la squadra vinse anche la Milano-Sanremo.",
 "l": "lavoro-e-sapori.html#del-tongo"
 },
 {
@@ -2281,7 +2211,7 @@ window.QUIZ_DOMANDE = [
 "Allo stadio di Badia al Pino",
 "Al lago della Penna"
 ],
-"s": "Le proiezioni gratuite si tengono il mercoledì sera di luglio, dal 2018.",
+"s": "Le proiezioni gratuite si tengono in piazza della Chiesa a Tegoleto, il mercoledì sera di luglio, dal 2018.",
 "l": "feste-e-associazioni.html#luglio"
 },
 {
@@ -2355,20 +2285,6 @@ window.QUIZ_DOMANDE = [
 "l": "feste-e-associazioni.html#ass-ciggiano"
 },
 {
-"id": "909f8526",
-"c": "feste",
-"d": 1,
-"q": "Di quale sport si occupa la Polisportiva Albergo Oliveto con i più giovani?",
-"a": "Ciclismo",
-"x": [
-"Rugby",
-"Nuoto",
-"Scherma"
-],
-"s": "Organizza corsi di avviamento al ciclismo per bambini e ragazzi.",
-"l": "feste-e-associazioni.html#ass-albergo-oliveto"
-},
-{
 "id": "410b1cb5",
 "c": "storia",
 "d": 2,
@@ -2407,7 +2323,7 @@ window.QUIZ_DOMANDE = [
 "1385",
 "1944"
 ],
-"s": "Chiesa e ospedale furono distrutti nel 1502; sul sito sorse poi l'Oratorio della Madonna del Conforto.",
+"s": "Chiesa e ospedale furono distrutti nel 1502; sul sito dell'antica pieve sorge oggi l'Oratorio della Madonna del Conforto.",
 "l": "frazioni/pieve-al-toppo.html"
 },
 {
@@ -2435,7 +2351,7 @@ window.QUIZ_DOMANDE = [
 "Un mercato della lana",
 "Una gara di tosatura"
 ],
-"s": "Gli statuti di dogana fiorentini indicavano Ciggiano come tappa obbligata: qui si faceva la calla e si pagava la gabella.",
+"s": "Ciggiano era tappa obbligata della dogana fiorentina: qui i pastori facevano la «calla», la conta degli animali, pagando la gabella.",
 "l": "frazioni/ciggiano.html"
 },
 {
@@ -2495,20 +2411,6 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/oliveto.html"
 },
 {
-"id": "f8e908eb",
-"c": "storia",
-"d": 1,
-"q": "Che funzione aveva il castello di Tuori nel Medioevo?",
-"a": "Era sede di guarnigioni a presidio di Arezzo",
-"x": [
-"Era la residenza estiva dei Medici",
-"Era un convento fortificato",
-"Era una dogana senese"
-],
-"s": "Tuori divenne un castello sede di guarnigioni militari a presidio della città di Arezzo; ne resta il cassero.",
-"l": "frazioni/tuori.html"
-},
-{
 "id": "8bc58b2b",
 "c": "frazioni",
 "d": 2,
@@ -2519,7 +2421,7 @@ window.QUIZ_DOMANDE = [
 "Tuori",
 "Spoiano"
 ],
-"s": "Il palazzo sorge ai margini del nucleo medievale di Badia al Pino.",
+"s": "Il Repertorio lo descrive come villa settecentesca a pianta rettangolare, simmetrica rispetto al vano scala centrale.",
 "l": "frazioni/badia-al-pino.html"
 },
 {
@@ -2533,7 +2435,7 @@ window.QUIZ_DOMANDE = [
 "Il mantello di San Martino",
 "Un osso di San Biagio"
 ],
-"s": "La reliquia veniva esposta nei giorni della festa, il 3 maggio e il 14 settembre.",
+"s": "La reliquia della Croce veniva esposta il 3 maggio e il 14 settembre.",
 "l": "frazioni/ciggiano.html"
 },
 {
@@ -2603,7 +2505,7 @@ window.QUIZ_DOMANDE = [
 "1385",
 "1774"
 ],
-"s": "L'itinerario del Comune ricorda l'ospizio «documentato fino dal 1198».",
+"s": "L'itinerario del Comune ricorda l'antico ospizio per viandanti, documentato dal 1198.",
 "l": "frazioni/pieve-a-maiano.html"
 },
 {
@@ -2617,7 +2519,7 @@ window.QUIZ_DOMANDE = [
 "Su un'antica fornace",
 "Sulle mura del castello"
 ],
-"s": "Fu edificato nel Cinquecento sui resti dell'antica pieve e dedicato alla Madonna del Conforto nel 1906.",
+"s": "L'oratorio sorge sul sito dell'antica pieve ed è dedicato alla Madonna del Conforto dal 1906.",
 "l": "frazioni/pieve-al-toppo.html"
 },
 {
@@ -2631,7 +2533,7 @@ window.QUIZ_DOMANDE = [
 "Una fabbrica",
 "Una scuola"
 ],
-"s": "Nato per volontà di alcuni parrocchiani, fu cinema fino agli anni Ottanta e dal 1997 è sala polifunzionale.",
+"s": "Nato nel 1960 come cinema per iniziativa di alcuni parrocchiani, dal 1997 è una sala polifunzionale.",
 "l": "frazioni/tegoleto.html"
 },
 {
@@ -2715,7 +2617,7 @@ window.QUIZ_DOMANDE = [
 "Una nave romana",
 "Un codice miniato"
 ],
-"s": "Secondo il portale turistico della Regione, i reperti etruschi di Viciomaggio e di San Pietro a Ciggiano attestano un abitato antico.",
+"s": "Secondo Visit Tuscany, nella chiesa di San Pietro a Ciggiano, di origine medievale, sono stati trovati reperti con iscrizioni etrusche.",
 "l": "frazioni/ciggiano.html"
 },
 {
@@ -2771,7 +2673,7 @@ window.QUIZ_DOMANDE = [
 "Un aeroporto",
 "Una diga"
 ],
-"s": "Il Piano prevede il Parco Faunistico Naturalistico, l'ANPIL di Cornia e un centro servizi negli edifici inutilizzati del borgo.",
+"s": "Il Piano prevede a Cornia un Parco faunistico e un'ANPIL, con un centro servizi negli edifici inutilizzati del borgo.",
 "l": "frazioni/cornia.html"
 },
 {
@@ -2869,7 +2771,7 @@ window.QUIZ_DOMANDE = [
 "2.300",
 "15"
 ],
-"s": "Il borgo storico contava 148 residenti; la maggior parte degli abitanti vive in pianura.",
+"s": "Il borgo storico contava 148 residenti; il centro più popoloso, Pieve al Toppo, ne contava 1.545.",
 "l": "geografia.html"
 },
 {
@@ -3041,20 +2943,6 @@ window.QUIZ_DOMANDE = [
 "l": "storia.html"
 },
 {
-"id": "0a7ac152",
-"c": "storia",
-"d": 1,
-"q": "Che cosa fece alla rocca di Civitella il vescovo Guglielmino degli Ubertini, che nel 1248 la scelse come dimora?",
-"a": "Ne potenziò le mura",
-"x": [
-"La fece demolire",
-"La vendette a Firenze",
-"La trasformò in un convento"
-],
-"s": "Nel 1248 Guglielmino degli Ubertini scelse la rocca come dimora e ne potenziò le mura.",
-"l": "storia.html"
-},
-{
 "id": "6869ff95",
 "c": "storia",
 "d": 2,
@@ -3077,7 +2965,7 @@ window.QUIZ_DOMANDE = [
 "x": [
 "Gaenne",
 "Dorna",
-"Montoto"
+"Poggio Castellare"
 ],
 "s": "Nel 1774 Ciggiano, Viciomaggio, Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella.",
 "l": "storia.html"
@@ -3135,21 +3023,21 @@ window.QUIZ_DOMANDE = [
 "Un mercato coperto",
 "Un mulino"
 ],
-"s": "La pieve, con un ospedale per i pellegrini, fu confermata nel 938 tra i possedimenti del Capitolo di Arezzo.",
+"s": "La pieve aveva accanto un ospedale per i pellegrini; chiesa e ospedale furono distrutti nel 1502.",
 "l": "frazioni/pieve-al-toppo.html"
 },
 {
-"id": "12a183b1",
+"id": "7d7a33f9",
 "c": "storia",
 "d": 3,
-"q": "Tra i possedimenti di chi fu confermata nel 938 la pieve del Toppo?",
-"a": "Del Capitolo di Arezzo",
+"q": "A chi apparteneva anticamente la pieve del Toppo, con il suo ospedale per i pellegrini?",
+"a": "Al Capitolo di Arezzo",
 "x": [
-"Dell'abbazia di Agnano",
-"Del vescovo di Siena",
-"Dei conti Guidi"
+"All'abbazia di Agnano",
+"Al vescovo di Siena",
+"Ai conti Guidi"
 ],
-"s": "Nel 938 la pieve fu confermata tra i possedimenti del Capitolo di Arezzo.",
+"s": "Il Repertorio la ricorda tra i possedimenti del Capitolo di Arezzo.",
 "l": "frazioni/pieve-al-toppo.html"
 },
 {
@@ -3517,17 +3405,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/oliveto.html"
 },
 {
-"id": "1ee31880",
+"id": "0c33c206",
 "c": "frazioni",
 "d": 3,
-"q": "Attorno a quale anno fu rifatta la Cappella della Compagnia di Oliveto, secondo l'iscrizione sul portale?",
+"q": "Attorno a quale anno fu rifatta la Cappella della Compagnia di Oliveto?",
 "a": "1637",
 "x": [
 "1337",
 "1737",
 "1937"
 ],
-"s": "La Cappella della Compagnia fu rifatta attorno al 1637, come indica l'iscrizione sul portale.",
+"s": "Secondo il Repertorio, la Cappella della Compagnia fu rifatta attorno al 1637.",
 "l": "frazioni/oliveto.html"
 },
 {
@@ -3541,7 +3429,7 @@ window.QUIZ_DOMANDE = [
 "Faggi e abeti",
 "Pioppi e salici"
 ],
-"s": "La villa ha un parco di ispirazione romantica ricco di cedri e lecci.",
+"s": "La villa, dei conti Barbolani di Montauto, ha un parco di ispirazione romantica ricco di cedri e lecci.",
 "l": "frazioni/oliveto.html"
 },
 {
@@ -3751,7 +3639,7 @@ window.QUIZ_DOMANDE = [
 "San Biagio",
 "Sant'Andrea"
 ],
-"s": "La chiesetta di San Michele Arcangelo è quanto resta, con un rocchio di colonna e una vasca, di un antico insediamento religioso.",
+"s": "La chiesetta di San Michele Arcangelo è ciò che resta di un insediamento religioso che «fu sede di un convento».",
 "l": "frazioni/borghi-minori.html#matroia"
 },
 {
@@ -4171,7 +4059,7 @@ window.QUIZ_DOMANDE = [
 "Perché era un deposito di munizioni italiano",
 "Per colpire la ferrovia vicina"
 ],
-"s": "La rocca, da secoli simbolo del paese, fu distrutta da un bombardamento alleato perché vi si era installato il comando tedesco.",
+"s": "La rocca fu distrutta da un bombardamento alleato perché vi si era installato il comando tedesco.",
 "l": "storia.html"
 },
 {
@@ -4241,7 +4129,7 @@ window.QUIZ_DOMANDE = [
 "Una zona industriale",
 "Un campeggio"
 ],
-"s": "Il borgo-fattoria è organizzato come un piccolo paese, con piazzetta, chiesa, cantina e frantoio-mulino.",
+"s": "Le Norme del Piano (art. 95) prevedono nel borgo-fattoria e nella villa un «polo di eccellenza territoriale».",
 "l": "frazioni/borghi-minori.html#montarfoni"
 },
 {
@@ -4259,17 +4147,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/borghi-minori.html#san-martino-in-poggio"
 },
 {
-"id": "585551af",
+"id": "8624b548",
 "c": "borghi",
 "d": 2,
-"q": "Quale altro luogo è destinato a diventare un parco archeologico insieme a Poggio Castellare?",
+"q": "Quale di questi luoghi, insieme a Poggio Castellare, è previsto come parco archeologico dalle Norme del Piano?",
 "a": "Il castello di Gaenne",
 "x": [
 "Matroia",
 "Tribbio",
 "Dorna"
 ],
-"s": "Il Piano Strutturale prevede un parco archeologico con campo scuola di scavo a Poggio Castellare e Gaenne.",
+"s": "Le Norme del Piano (art. 49) indicano come parchi archeologici il Castellare di Oliveto, Poggio Castellare e Gaenne.",
 "l": "frazioni/borghi-minori.html#poggio-castellare"
 },
 {
@@ -4277,7 +4165,7 @@ window.QUIZ_DOMANDE = [
 "c": "1944",
 "d": 2,
 "q": "Come morì Mario Mannelli, ricordato da un monumento a Viciomaggio?",
-"a": "Fu ucciso per rappresaglia fascista nel 1944",
+"a": "Fu ucciso dai fascisti nel 1944",
 "x": [
 "Cadde nella battaglia del Toppo",
 "Morì nel bombardamento della rocca",
@@ -4307,7 +4195,7 @@ window.QUIZ_DOMANDE = [
 "q": "Sopra quale strada sorse il castello di Montarfoni?",
 "a": "La strada Regia Aretina",
 "x": [
-"La via Cassia",
+"La via Aurelia",
 "La via Francigena",
 "La Via Vecchia Senese"
 ],
@@ -4395,7 +4283,7 @@ window.QUIZ_DOMANDE = [
 "«Lupo»",
 "«Monte Rosa»"
 ],
-"s": "La formazione «Renzino» era guidata dal giovane Edoardo Succhielli; l'agguato fu uno dei pretesti della rappresaglia.",
+"s": "La formazione «Renzino» era guidata da Edoardo Succhielli; secondo l'Atlante, questa e altre azioni diedero ai tedeschi il pretesto per la rappresaglia.",
 "l": "storia.html"
 },
 {
@@ -4441,15 +4329,15 @@ window.QUIZ_DOMANDE = [
 "l": "storia.html"
 },
 {
-"id": "2368801b",
+"id": "2dab9df8",
 "c": "geo",
 "d": 2,
-"q": "Secondo il piano paesaggistico regionale, che cosa separa il monte di Civitella nella parte settentrionale della Val di Chiana?",
-"a": "La Val di Chiana dal Valdarno",
+"q": "Secondo il piano paesaggistico regionale, il monte di Civitella segna la separazione della Val di Chiana da quale valle?",
+"a": "Il Valdarno",
 "x": [
-"La Val di Chiana dalla Val d'Orcia",
-"Il Casentino dal Valdarno",
-"La Toscana dall'Umbria"
+"Il Casentino",
+"La Val d'Orcia",
+"La Valtiberina"
 ],
 "s": "Il piano scrive che «il monte di Civitella Val di Chiana segna il punto di separazione col territorio del Valdarno».",
 "l": "geografia.html"
@@ -4493,7 +4381,7 @@ window.QUIZ_DOMANDE = [
 "Una bicicletta",
 "Un trattore"
 ],
-"s": "Il Sarapino è il Saracino corso con l'Ape, il mezzo a motore più diffuso nelle campagne del recente passato.",
+"s": "Il Sarapino è il Saracino corso con l'Ape al posto del cavallo: il nome unisce «saracino» e «ape».",
 "l": "frazioni/civitella.html"
 },
 {
@@ -4518,10 +4406,10 @@ window.QUIZ_DOMANDE = [
 "a": "Il «Retribuet»",
 "x": [
 "Il «Palio»",
-"Il «Masgalano d'oro»",
+"Il «Drappo dei rioni»",
 "La «Lancia d'oro»"
 ],
-"s": "I quattro rioni corrono tre carriere ciascuno contro il buratto per conquistare il Retribuet; il Masgalano premia invece il portamento.",
+"s": "I quattro rioni corrono tre carriere ciascuno contro il buratto per conquistare il Retribuet.",
 "l": "frazioni/civitella.html"
 },
 {
@@ -4553,31 +4441,31 @@ window.QUIZ_DOMANDE = [
 "l": "storia.html"
 },
 {
-"id": "79914e1e",
+"id": "274cd667",
 "c": "storia",
 "d": 1,
-"q": "Come era chiamata Civitella per la frequente presenza dei vescovi aretini?",
+"q": "Con quale nome fu ribattezzata Civitella quando, nell'XI secolo, passò al vescovo di Arezzo?",
 "a": "«Civitella del Vescovo»",
 "x": [
 "«Civitella dei Medici»",
 "«Civitella del Papa»",
 "«Civitella dei Conti»"
 ],
-"s": "Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra».",
+"s": "Passata al vescovo di Arezzo, fu detta «Civitella del Vescovo»; la Pro Loco ricorda anche il nome «Civitella di Valdambra».",
 "l": "storia.html"
 },
 {
-"id": "175fd5fe",
+"id": "8885f433",
 "c": "storia",
 "d": 3,
-"q": "In quale anno fu firmata nel castello la «Pace di Civitella», secondo la Pro Loco?",
+"q": "In quale anno fu firmata a Civitella la «Pace di Civitella», secondo la Pro Loco?",
 "a": "1311",
 "x": [
 "1252",
 "1385",
 "1554"
 ],
-"s": "Il 26 marzo 1311 il vescovo Ildobrandino dei conti Guidi fece firmare la pace tra guelfi e ghibellini, alla presenza degli ambasciatori di Arrigo VII.",
+"s": "La Pro Loco data al 26 marzo 1311 la pace tra il vescovo Ildebrandino Guidi di Romena e l'imperatore Enrico VII (Arrigo VII).",
 "l": "storia.html"
 },
 {
@@ -4637,17 +4525,17 @@ window.QUIZ_DOMANDE = [
 "l": "storia.html"
 },
 {
-"id": "f262764e",
+"id": "42c23bec",
 "c": "storia",
 "d": 3,
-"q": "Quale comune fu staccato dalla Comunità di Civitella nel 1774 e passò a Monte San Savino?",
+"q": "Secondo il Repetti, quale comune con il riordino del 1774 passò alla Comunità di Monte San Savino?",
 "a": "Montagnano",
 "x": [
 "Montarfoni",
 "Montoto",
 "Ciggiano"
 ],
-"s": "Secondo il Repetti, con la legge del 1774 il comune di Montagnano fu unito alla Comunità di Monte San Savino.",
+"s": "Secondo il Repetti, con il provvedimento del 1774 il comune di Montagnano passò alla Comunità di Monte San Savino.",
 "l": "storia.html"
 },
 {
@@ -4703,7 +4591,7 @@ window.QUIZ_DOMANDE = [
 "Un leone rampante",
 "Una croce rossa"
 ],
-"s": "Il Repetti ricorda il sigillo del Comune di Oliveto: un olivo in pieno frutto in campo bianco e nero.",
+"s": "Il Repetti ricorda il sigillo del Comune di Oliveto: un olivo in pieno frutto.",
 "l": "frazioni/oliveto.html"
 },
 {
@@ -4721,17 +4609,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/oliveto.html"
 },
 {
-"id": "c849d496",
+"id": "094fa249",
 "c": "storia",
 "d": 2,
-"q": "Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano, ripresi dopo l'invasione di Niccolò Piccinino?",
+"q": "Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano, presi nel 1431 da Niccolò Piccinino?",
 "a": "Di smantellarli",
 "x": [
 "Di ricostruirli più grandi",
 "Di venderli ai senesi",
 "Di affidarli al vescovo di Arezzo"
 ],
-"s": "Nel 1431 Piccinino prese Ciggiano e Oliveto; riconquistati, nel 1433 Firenze ordinò di smantellarli (Repetti).",
+"s": "Secondo il Repetti, nel 1431 Piccinino prese Ciggiano e Oliveto; nel 1433 Firenze ordinò di smantellare quei castelli.",
 "l": "frazioni/oliveto.html"
 },
 {
@@ -4773,7 +4661,7 @@ window.QUIZ_DOMANDE = [
 "L'esercito imperiale di Arrigo VII",
 "I ghibellini di Arezzo"
 ],
-"s": "Nel 1307 Ciggiano era di parte guelfa e vi si accampò un esercito della lega guelfa toscana.",
+"s": "Secondo il Repetti, nel 1307 a Ciggiano si accampò un esercito della lega guelfa toscana.",
 "l": "frazioni/ciggiano.html"
 },
 {
@@ -4809,13 +4697,13 @@ window.QUIZ_DOMANDE = [
 "c": "geo",
 "d": 1,
 "q": "Che cosa accadeva alle acque della Chiana presso il Toppo nell'XI secolo, secondo il Repetti?",
-"a": "Ristagnavano quasi ferme, divise tra il Valdarno e il Tevere",
+"a": "Si dividevano tra il Valdarno e il Tevere",
 "x": [
 "Formavano una grande cascata",
 "Scorrevano tutte verso il mare di Livorno",
 "Erano già state bonificate dai Medici"
 ],
-"s": "Nell'XI secolo le acque della Chiana presso il Toppo «bilicavano»: una parte andava verso il Valdarno aretino, una parte con il Paglia verso il Tevere.",
+"s": "Secondo il Repetti, nell'XI secolo le acque della Chiana presso il Toppo «bilicavano» tra il Valdarno e il Tevere.",
 "l": "frazioni/pieve-al-toppo.html"
 },
 {
@@ -4833,17 +4721,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/pieve-al-toppo.html"
 },
 {
-"id": "f6b39c53",
+"id": "4fc570fa",
 "c": "frazioni",
 "d": 3,
-"q": "Quante chiese dipendevano dalla pieve di Santa Maria al Toppo, secondo il Repetti?",
+"q": "Quante chiese dipendevano dalla pieve del Toppo, secondo il Repetti?",
 "a": "24",
 "x": [
 "4",
 "12",
 "50"
 ],
-"s": "Prima della rovina del 1502 la pieve aveva 24 chiese dipendenti, tra cui quelle di Civitella, Tegoleto, Oliveto, Viciomaggio, Ciggiano e Cornia.",
+"s": "Secondo il Repetti, prima della rovina del 1502 la pieve aveva 24 chiese dipendenti.",
 "l": "frazioni/pieve-al-toppo.html"
 },
 {
@@ -4861,17 +4749,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/pieve-a-maiano.html"
 },
 {
-"id": "6030ead1",
+"id": "845faf36",
 "c": "frazioni",
 "d": 3,
-"q": "Con quale nome il Repetti distingue la Pieve a Maiano del comune di Civitella?",
+"q": "Con quale nome il Repetti chiama la Pieve a Maiano del comune di Civitella?",
 "a": "Majano di Valle Lunga",
 "x": [
 "Majano di Lucardo",
 "Majano di Fiesole",
 "Majano al Toppo"
 ],
-"s": "Il Repetti la chiama «Majano di Valle Lunga», nel Val d'Arno aretino, per distinguerla dagli altri Majano della Toscana.",
+"s": "Il Repetti la chiama «Majano di Valle Lunga», nel Val d'Arno aretino, sulla strada regia aretina davanti alla gola dell'Imbuto.",
 "l": "frazioni/pieve-a-maiano.html"
 },
 {
@@ -4903,17 +4791,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/borghi-minori.html#montoto"
 },
 {
-"id": "ccb2628a",
+"id": "3bf8e1f2",
 "c": "borghi",
 "d": 3,
-"q": "In quale privilegio del 1356 il castello di Gaenne è ricordato tra quelli del contado aretino?",
+"q": "In quale privilegio del 1356 è ricordato il castello di Gaenne?",
 "a": "In quello dell'imperatore Carlo IV alla città di Arezzo",
 "x": [
 "Nella bolla di papa Eugenio IV",
 "Negli statuti della Repubblica di Siena",
 "Nel catasto del granduca Pietro Leopoldo"
 ],
-"s": "Il Repetti ricorda Gaenna tra i castelletti del contado aretino nel privilegio di Carlo IV del 1356.",
+"s": "Secondo il Repetti, Gaenna è ricordata nel privilegio dell'imperatore Carlo IV ad Arezzo del 1356.",
 "l": "frazioni/borghi-minori.html#gaenne"
 },
 {
@@ -4921,13 +4809,13 @@ window.QUIZ_DOMANDE = [
 "c": "borghi",
 "d": 2,
 "q": "A chi pagava ancora un canone annuo, nell'Ottocento, il proprietario della tenuta di Dorna?",
-"a": "Al capitolo della cattedrale di Arezzo",
+"a": "Al capitolo di Arezzo",
 "x": [
 "Al Comune di Civitella",
 "Al granduca di Toscana",
-"Ai monaci di Camaldoli"
+"Al vescovo di Siena"
 ],
-"s": "Era un'eredità della donazione del 1181, con cui Rolandino di Mambilia lasciò al capitolo i suoi beni nel castello di Dorna.",
+"s": "Secondo il Repetti, era l'eredità di una donazione fatta al capitolo nel 1181 da Rolandino di Mambilia.",
 "l": "frazioni/borghi-minori.html#dorna"
 },
 {
