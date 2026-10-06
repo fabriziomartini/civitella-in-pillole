@@ -14,6 +14,9 @@
   var LETTERE = ["A", "B", "C", "D"];
   var LUNGHEZZA = 15;
   var CHIAVE_RECORD = "civitella-quiz-record";
+  // Indirizzo dell'app web di Google Apps Script che raccoglie le statistiche anonime
+  // (vedi tools/quiz-statistiche.gs). Vuoto = invio disattivato.
+  var STATISTICHE_URL = "";
 
   var stato = { lunghezza: LUNGHEZZA, domande: [], indice: 0, risposte: [] };
   var el = {};
@@ -150,10 +153,34 @@
     return "C'è ancora molto da scoprire: il sito è qui apposta.";
   }
 
+  // Invia in forma anonima il punteggio e, per ogni domanda, id, categoria, testo e giusto/sbagliato.
+  // text/plain evita la richiesta preliminare CORS, che Apps Script non gestisce.
+  function inviaStatistiche(punti) {
+    if (!STATISTICHE_URL || !window.fetch) return;
+    var dati = {
+      v: 1,
+      punti: punti,
+      totale: stato.lunghezza,
+      risposte: stato.domande.map(function (corrente, k) {
+        return { id: corrente.dati.id, c: corrente.dati.c, q: corrente.dati.q, ok: stato.risposte[k].giusta ? 1 : 0 };
+      })
+    };
+    try {
+      fetch(STATISTICHE_URL, {
+        method: "POST",
+        mode: "no-cors",
+        keepalive: true,
+        headers: { "Content-Type": "text/plain;charset=utf-8" },
+        body: JSON.stringify(dati)
+      }).catch(function () { /* le statistiche non devono mai bloccare il quiz */ });
+    } catch (e) { /* idem */ }
+  }
+
   function risultato() {
     var punti = stato.risposte.filter(function (r) { return r.giusta; }).length;
     var n = stato.lunghezza;
     var record = salvaRecord(n, punti);
+    inviaStatistiche(punti);
     el.barra.style.width = "100%";
     el.punteggio.textContent = punti + "/" + n;
     el.giudizio.textContent = giudizio(Math.round((punti / n) * 100)) + (record ? " Nuovo record personale!" : "");
@@ -207,6 +234,7 @@
       if (i !== -1 && stato.risposte.length === stato.indice) { e.preventDefault(); rispondi(i); }
     });
 
+    if (STATISTICHE_URL) document.getElementById("quiz-privacy").hidden = false;
     aggiornaStart();
     mostra("start");
   });

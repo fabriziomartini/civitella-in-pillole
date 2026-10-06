@@ -991,6 +991,8 @@ button:focus-visible {
 
 .wm-quiz-start__record:empty { display: none; }
 
+.wm-quiz-start__privacy { margin: var(--wm-space-3) 0 0; font-size: var(--wm-fs-xs); color: var(--wm-ink-soft); }
+
 /* Avanzamento */
 .wm-quiz-progress {
   display: flex;
