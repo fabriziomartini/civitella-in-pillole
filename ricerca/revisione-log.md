@@ -41,3 +41,19 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 - **Lezione:** la seconda passata in N3 ha recuperato 5 frasi che per N1 erano NON PRESENTE o PARZIALE. Un NON PRESENTE in un solo notebook non basta per togliere una frase.
 
 **Civitella: revisione completata.**
+
+## Albergo: N1 e N3 in parallelo
+- **Confermate:**
+  - 1 e 9: centro di pianura con la stazione sulla linea Arezzo–Sinalunga (Discover Arezzo, Wikipedia);
+  - 2: "probabilmente di origine romana" (itinerario 3 del Comune);
+  - 7: centro storico N002 e valorizzazione dei complessi religiosi (Repertorio, NTA art. 95).
+- **3 Parrocchia "nessuna propria": NON PRESENTE** in entrambi i notebook. Tolta dal riquadro "In breve".
+- **4: PARZIALE.** "Sviluppato lungo le vie storiche" era generico. Ora ci sono i dettagli delle fonti: la *via municipalis* romana unita a un ramo della Cassia per il Valdarno (itinerario 3) e la via senese-aretina nel Medioevo (Repertorio, N002).
+- **5 Ospedale: le fonti divergono.** Il Comune lo dà per certo ("sorgeva un ospedale per viandanti e malati"); il Repertorio dice "probabilmente", con una fonte attigua. Sul sito ci sono ora tutte e due le versioni, ciascuna attribuita alla sua fonte.
+- **6 Spedaluccio: PARZIALE.** Il 1198, la statale 69 e "un chilometro oltre Pieve a Maiano" non sono in nessuno dei due notebook. Su Albergo resta solo: "non si trova ad Albergo, ma nei pressi di Pieve a Maiano" (Relazione generale, p. 60). Tolto anche "equivoco ricorrente". I dettagli vanno verificati con il blocco di Pieve a Maiano.
+- **8 Fonte-cisterna: PARZIALE.** Esiste (Repertorio, F004), ma "antica riserva d'acqua del borgo" non è scritto. Ora: "censita nel Repertorio dei beni storici".
+- **10 Sagra del Crostino: PARZIALE.** Confermati luglio, Polisportiva, ciclismo giovanile, campo sportivo e 51ª edizione nel 2026. Tolti i "crostini neri con il vinsanto", che non hanno fonte.
+- **11 Campo polivalente: PARZIALE.** Non è "accanto al campo sportivo" ma in via Morandi (Centritalia News). Corretto anche in feste-e-associazioni.html.
+- **Tolto il commento** "le fonti non spiegano l'origine del toponimo".
+
+**Albergo: revisione completata.**
