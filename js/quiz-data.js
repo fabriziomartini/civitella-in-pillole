@@ -4549,7 +4549,7 @@ window.QUIZ_DOMANDE = [
 "Lucignano",
 "Bucine"
 ],
-"s": "Nel 1774 nove piccoli comuni furono aggregati a Civitella; Ciggiano è tra quelli ricordati sia dagli itinerari del Comune sia dalla Pro Loco.",
+"s": "Il 14 novembre 1774 alla Comunità di Civitella furono assegnati nove comuni: Civitella, Oliveto, Viciomaggio con Tuori, Tegoleto, Badia al Pino, Ciggiano, Cornia, Montarfoni e Montoto (Repetti).",
 "l": "storia.html"
 },
 {
@@ -4621,5 +4621,75 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Palazzo Ninci, in piazza Lazzeri, fu donato nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925.",
 "l": "frazioni/civitella.html"
+},
+{
+"id": "ccfe4a64",
+"c": "storia",
+"d": 3,
+"q": "In quale giorno del 1774 fu emanato il provvedimento che assegnò nove comuni alla Comunità di Civitella?",
+"a": "Il 14 novembre",
+"x": [
+"Il 29 giugno",
+"Il 1° gennaio",
+"Il 25 marzo"
+],
+"s": "Con un provvedimento del 14 novembre 1774 alla Comunità di Civitella furono assegnati nove comuni preesistenti (Repetti).",
+"l": "storia.html"
+},
+{
+"id": "f262764e",
+"c": "storia",
+"d": 3,
+"q": "Quale comune fu staccato dalla Comunità di Civitella nel 1774 e passò a Monte San Savino?",
+"a": "Montagnano",
+"x": [
+"Montarfoni",
+"Montoto",
+"Ciggiano"
+],
+"s": "Secondo il Repetti, con la legge del 1774 il comune di Montagnano fu unito alla Comunità di Monte San Savino.",
+"l": "storia.html"
+},
+{
+"id": "41b02c31",
+"c": "storia",
+"d": 2,
+"q": "Chi difese Civitella nel 1554 dall'assalto delle truppe senesi di Piero Strozzi?",
+"a": "Paolo da Castello",
+"x": [
+"Giovanni dalle Bande Nere",
+"Niccolò Piccinino",
+"Buonconte da Montefeltro"
+],
+"s": "Paolo da Castello, capitano al servizio di Cosimo I de' Medici, difese Civitella e la fortificò con nuove mura.",
+"l": "storia.html"
+},
+{
+"id": "7f8563ab",
+"c": "storia",
+"d": 3,
+"q": "Quanti abitanti contava la Comunità di Civitella nel 1833, secondo il Repetti?",
+"a": "4.883",
+"x": [
+"1.883",
+"8.814",
+"14.883"
+],
+"s": "Nel 1833 la Comunità contava 4.883 abitanti; al censimento del 2021 il comune ne contava 8.814.",
+"l": "storia.html"
+},
+{
+"id": "d1b0f93f",
+"c": "frazioni",
+"d": 3,
+"q": "A quale monastero fiorentino furono incorporate nel 1441 le chiese di Civitella e della Badia al Pino?",
+"a": "Il monastero di Santa Brigida",
+"x": [
+"L'abbazia di Vallombrosa",
+"Il convento di San Marco",
+"La basilica di Santa Croce"
+],
+"s": "Una bolla di papa Eugenio IV del 17 novembre 1441 le incorporò nel monastero di Santa Brigida presso Firenze (Repetti).",
+"l": "frazioni/badia-al-pino.html"
 }
 ];

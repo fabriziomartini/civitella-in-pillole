@@ -367,4 +367,9 @@ CODICI = {
     "e65747b8": "Pv+",  # Quale di questi è uno dei quattro rioni che corrono il Sarapino?
     "f6ac606f": "Pv=",  # Quale porta di Civitella fu distrutta dalle bombe nel 1944?
     "e8da5b98": "Pv+",  # A chi donarono Palazzo Ninci i suoi proprietari nel 1917?
+    "ccfe4a64": "Nv+",  # In quale giorno del 1774 fu emanato il provvedimento che assegnò nove 
+    "f262764e": "Pv+",  # Quale comune fu staccato dalla Comunità di Civitella nel 1774 e passò 
+    "41b02c31": "Pv=",  # Chi difese Civitella nel 1554 dall'assalto delle truppe senesi di Pier
+    "7f8563ab": "Nv+",  # Quanti abitanti contava la Comunità di Civitella nel 1833, secondo il 
+    "d1b0f93f": "Pv+",  # A quale monastero fiorentino furono incorporate nel 1441 le chiese di 
 }

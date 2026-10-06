@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 330 domande.
+Totale: 335 domande.
 
 ## Geografia (44)
 
@@ -143,7 +143,7 @@ Totale: 330 domande.
    ✔ Dal prosciugamento di un antico lago · ✘ Dal ritiro di un ghiacciaio · Da un'antica colata di lava · Dal ritiro del mare in età romana  
    _La pianura, a circa 250 metri di quota, deriva dal prosciugamento di un lago pleistocenico._ → `geografia.html`
 
-## Storia (53)
+## Storia (57)
 
 1. [fe9e42b2] ●●● `Nv=` **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -297,13 +297,25 @@ Totale: 330 domande.
    _Nel 1252 Civitella capitolò e fu rasa al suolo; il vescovo Guglielmino la fece poi ricostruire con una doppia cerchia di mura._ → `storia.html`
 51. [fd4ef637] ●○○ `-d=` **Quale di questi comuni fu soppresso e unito a Civitella nel 1774?**  
    ✔ Ciggiano · ✘ Monte San Savino · Lucignano · Bucine  
-   _Nel 1774 nove piccoli comuni furono aggregati a Civitella; Ciggiano è tra quelli ricordati sia dagli itinerari del Comune sia dalla Pro Loco._ → `storia.html`
+   _Il 14 novembre 1774 alla Comunità di Civitella furono assegnati nove comuni: Civitella, Oliveto, Viciomaggio con Tuori, Tegoleto, Badia al Pino, Ciggiano, Cornia, Montarfoni e Montoto (Repetti)._ → `storia.html`
 52. [79914e1e] ●○○ `-d=` **Come era chiamata Civitella per la frequente presenza dei vescovi aretini?**  
    ✔ «Civitella del Vescovo» · ✘ «Civitella dei Medici» · «Civitella del Papa» · «Civitella dei Conti»  
    _Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra»._ → `storia.html`
 53. [175fd5fe] ●●● `Nn+` **In quale anno fu firmata nel castello la «Pace di Civitella», secondo la Pro Loco?**  
    ✔ 1311 · ✘ 1252 · 1385 · 1554  
    _Il 26 marzo 1311 il vescovo Ildobrandino dei conti Guidi fece firmare la pace tra guelfi e ghibellini, alla presenza degli ambasciatori di Arrigo VII._ → `storia.html`
+54. [ccfe4a64] ●●● `Nv+` **In quale giorno del 1774 fu emanato il provvedimento che assegnò nove comuni alla Comunità di Civitella?**  
+   ✔ Il 14 novembre · ✘ Il 29 giugno · Il 1° gennaio · Il 25 marzo  
+   _Con un provvedimento del 14 novembre 1774 alla Comunità di Civitella furono assegnati nove comuni preesistenti (Repetti)._ → `storia.html`
+55. [f262764e] ●●● `Pv+` **Quale comune fu staccato dalla Comunità di Civitella nel 1774 e passò a Monte San Savino?**  
+   ✔ Montagnano · ✘ Montarfoni · Montoto · Ciggiano  
+   _Secondo il Repetti, con la legge del 1774 il comune di Montagnano fu unito alla Comunità di Monte San Savino._ → `storia.html`
+56. [41b02c31] ●●○ `Pv=` **Chi difese Civitella nel 1554 dall'assalto delle truppe senesi di Piero Strozzi?**  
+   ✔ Paolo da Castello · ✘ Giovanni dalle Bande Nere · Niccolò Piccinino · Buonconte da Montefeltro  
+   _Paolo da Castello, capitano al servizio di Cosimo I de' Medici, difese Civitella e la fortificò con nuove mura._ → `storia.html`
+57. [7f8563ab] ●●● `Nv+` **Quanti abitanti contava la Comunità di Civitella nel 1833, secondo il Repetti?**  
+   ✔ 4.883 · ✘ 1.883 · 8.814 · 14.883  
+   _Nel 1833 la Comunità contava 4.883 abitanti; al censimento del 2021 il comune ne contava 8.814._ → `storia.html`
 
 ## Il 1944 (35)
 
@@ -413,7 +425,7 @@ Totale: 330 domande.
    ✔ Il Tribunale militare di La Spezia · ✘ Il tribunale di Norimberga · La Corte d'Assise di Arezzo · Il Tribunale di Firenze  
    _Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania._ → `storia.html`
 
-## Frazioni (97)
+## Frazioni (98)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -706,6 +718,9 @@ Totale: 330 domande.
 97. [e8da5b98] ●●● `Pv+` **A chi donarono Palazzo Ninci i suoi proprietari nel 1917?**  
    ✔ Alla Fraternita dei Laici · ✘ Al Comune di Civitella · Alla diocesi di Arezzo · Alla Pro Loco  
    _Palazzo Ninci, in piazza Lazzeri, fu donato nel 1917 alla Fraternita dei Laici, che lo tenne fino al 1925._ → `frazioni/civitella.html`
+98. [d1b0f93f] ●●● `Pv+` **A quale monastero fiorentino furono incorporate nel 1441 le chiese di Civitella e della Badia al Pino?**  
+   ✔ Il monastero di Santa Brigida · ✘ L'abbazia di Vallombrosa · Il convento di San Marco · La basilica di Santa Croce  
+   _Una bolla di papa Eugenio IV del 17 novembre 1441 le incorporò nel monastero di Santa Brigida presso Firenze (Repetti)._ → `frazioni/badia-al-pino.html`
 
 ## Borghi minori (35)
 

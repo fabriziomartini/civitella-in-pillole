@@ -92,11 +92,13 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Nel 1774 Ciggiano, Viciomaggio, Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella. Il Repertorio conferma Montarfoni (H240a) e parla di «nove piccoli comuni» aggregati nel 1774, senza nominarli | Itinerari del Comune; Repertorio | N (R per Montarfoni e i nove comuni) | alta |
 | Monte San Savino «è stato capoluogo di vicariato sotto i granduchi, con autorità su Civitella, Lucignano e Foiano della Chiana» | PIT, ambito 19 | R | alta |
 | Nel 1774 Pietro Leopoldo soppresse i comuni di Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto e li unì a Civitella (nove, come i «nove piccoli comuni» del Repertorio); più tardi si aggiunse Pieve a Maiano | Pro Loco, «Civitella nella storia»; Repertorio (numero) | R (numero), W (nomi) | alta |
-| Fonti per i singoli nomi del 1774: Montarfoni = Repertorio H240a + Pro Loco; Ciggiano, Viciomaggio, Badia al Pino = itinerari del Comune + Pro Loco; Oliveto, Tegoleto, Tuori, Cornia, Montoto = solo Pro Loco. N3 (6/10/2026): nel Repertorio il 1774 compare solo nelle schede N007 (Civitella, «nove piccoli comuni») e H240a (Montarfoni) | N3, N1 | — | — |
+| **Repetti, voce Civitella:** «Alla Comunità di Civitella con provvedimento speciale del 14 novembre 1774 vennero assegnati nove preesistenti Comuni. 1. Civitella; 2. Oliveto; 3. Viccio Maggio e Tuori; 4. Tegoleto; 5. Badia al Pino; 6. Ciggiano; 7. Cornia; 8. Montarfone; 9 Montoto»; Montagnano passò alla Comunità di Monte San Savino. Tutti i nomi ora hanno due fonti (Repetti e Pro Loco); il conteggio è quello del Repetti | Repetti (dizionario-repetti.it, testo incollato dall'utente) | R | alta |
+| Fonti per i singoli nomi del 1774 (prima del Repetti): Montarfoni = Repertorio H240a + Pro Loco; Ciggiano, Viciomaggio, Badia al Pino = itinerari del Comune + Pro Loco; Oliveto, Tegoleto, Tuori, Cornia, Montoto = solo Pro Loco. N3 (6/10/2026): nel Repertorio il 1774 compare solo nelle schede N007 (Civitella, «nove piccoli comuni») e H240a (Montarfoni) | N3, N1 | — | — |
 | Nel 1252 il podestà di Arezzo Ildebrando Cacciaconti assediò Civitella, che fu rasa al suolo; Guglielmino la ricostruì con una doppia cerchia di mura, lavori finiti probabilmente intorno al 1270 | Pro Loco; distruzione del 1252 anche nell'itinerario 2 del Comune | W | alta |
 | Nell'XI secolo Civitella passò al vescovo di Arezzo, capoluogo del viscontado della Valdambra, e fu ribattezzata «Civitella del Vescovo» | Wikipedia (N1), Pro Loco | R | alta |
 | Nome «Civitella di Valdambra» | Pro Loco | W | media |
 | Dopo Campaldino (1289) Civitella fu presa da Firenze; nel 1311 vi fu stipulata la pace tra il vescovo Ildebrandino Guidi di Romena e l'imperatore Enrico VII; nel 1554 fu assediata da Siena e difesa da Paolo da Castello, capitano di Cosimo I | Wikipedia (N1), Pro Loco | R | alta |
+| Repetti conferma: «Civitella del Vescovo», capoluogo del viscontado di Val d'Ambra; nel 1311 nel palazzo vescovile Ildebrandino accolse gli ambasciatori di Arrigo VII (il vescovo di Butrinto e Pandolfo Savelli), che vi aprirono tribunale per il giuramento di fedeltà; dopo Campaldino il castello fu presidiato dai fiorentini; nel 1554 fu assalito dalle genti di Pietro Strozzi e difeso da Paolo da Castello, che lo fortificò con nuove mura; nel 1280 Guglielmino vi decretò l'unione dei capitoli; la parrocchia di S. Maria fu priorato della Badia al Pino per una donazione del 1046 del vescovo Immone; bolla di Eugenio IV del 17 novembre 1441 che incorporò le chiese di Civitella e della Badia al Pino nel monastero di S. Brigida presso Firenze (confermata nel 1447); nel 1833 la Comunità aveva 4.883 abitanti e la parrocchia di Civitella 654 (779 nel 1551); a Civitella un potestà di terza classe dipendente dal vicario di Monte S. Savino | Repetti | R | alta |
 | Solo Pro Loco: resa il 3 luglio 1289; data 26 marzo 1311 e nome «Pace di Civitella»; sottomissione a Firenze nel 1362; saccheggio del 1397 e riconquista del 1398; Piero Strozzi alla guida dei senesi nel 1554 | Pro Loco | W | media |
 | Nel 1917 la sede comunale fu trasferita a Badia al Pino per lo spopolamento delle zone collinari | Wikipedia | R | alta |
 | Un bombardamento alleato distrusse la rocca di Civitella, perché al suo interno si era installato il comando tedesco (le fonti non indicano la data) | Wikipedia, Cittaslow | R | alta |
@@ -403,7 +405,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 | Gaenne bizantino | Comune: fortilizio bizantino nel VI secolo; Repertorio: «forse» | «forse» |
 | Poggio Castellare | etrusco o romano, medievale, dalla protostoria alla tarda antichità; Comune: bizantino poi longobardo | datazione discussa |
 | Chiesa di Sant'Andrea a Oliveto, 1933 | Discover Arezzo: chiesa «rifatta nel 1933 in stile neomedievale»; Repertorio: «il campanile è del 1933» | tutte e due le versioni |
-| Titolo della chiesa di Tuori | Diocesi: Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
+| Titolo della chiesa di Tuori | Diocesi e Repetti (1833): Santi Giorgio e Luca; Comune: Giorgio e Lucia | quello della Diocesi, con una nota |
 | Altitudine del capoluogo | 500 m (testo di Wikipedia, ToscanaNovecento), 525 m (scheda di Wikipedia), 600 m (guida turistica) | «circa 500 m» |
 | Data dell'uccisione di Mario Mannelli | ToscanaNovecento: «il 29 marzo 1944 avvenne una strage di matrice fascista»; Repertorio, scheda del monumento (ME013): «ucciso per rappresaglia fascista il 29 maggio 1944» | tutte e due le date |
 | Passaggio di Civitella a Firenze | Wikipedia: ingresso nel territorio fiorentino nel 1348; Pro Loco: custodia fiorentina dal 1344 e sottomissione degli abitanti nel 1362; SIUSA: podesteria fiorentina dal 1385; Wikipedia: presa da Firenze dopo Campaldino (1289) | sul sito: presa nel 1289, sottomissione 1362 (Pro Loco), podesteria 1385 |
@@ -507,6 +509,10 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 - Il 917 con Berengario e Uguccione «marchese del Colle», con la genealogia fino a Carlo Magno: non confermato da nessuna fonte scritta verificata.
 - Magister Rainerius «nato a Civitella», autore nel 1272 di un'«Ars Tabellionatus»: da verificare su fonti storiche.
 - Aneddoti sui vescovi Arnaldo ed Eliotto morti a Civitella e sugli «altri sette vescovi» sepolti lì.
+
+**Repetti: divergenze con la Pro Loco**
+- Morte del vescovo Eliotto a Civitella: Repetti 1182, Pro Loco 1186. Non usata.
+- Pieve a Maiano «aggregata più tardi» (Pro Loco): il Repetti nel 1833 elenca già la parrocchia di «Montoto e Majano» nella Comunità. Tolto dal sito.
 
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).
