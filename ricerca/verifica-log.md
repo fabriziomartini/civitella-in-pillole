@@ -238,3 +238,25 @@ Albergo, Cornia (San Michele Arcangelo è chiesa, non parrocchia autonoma), Matr
 - **Matroia:** spostata nella nuova pagina `frazioni/borghi-minori.html`, insieme a Montoto, Poggio Castellare, Malpertuso e Le Fosse, Tribbio, Montarfoni e Dorna, San Martino in Poggio e Gaenne. `matroia.html` ora reindirizza lì.
 - **Nuova pagina `patrimonio.html`:** castelli e castellari, ville e fattorie, mulini, e una linea del tempo dell'archeologia.
 - **Da completare** quando il notebook si sblocca: storia e posizione di San Martino in Poggio, Montarfoni, Gaenne.
+
+## Borghi minori: risposta del notebook 1 (fonti del Comune)
+- **San Martino in Poggio:** a quota 540, lungo il 2° itinerario dopo Montarfoni; chiesa dei Santi Maria e Carlo (1690, ampliata nel XVIII secolo); il sentiero CAI 107 porta all'Oratorio della Madonna di Mercatale.
+- **Montarfoni:** castello aggregato a Civitella nel 1774; restano la porta e tratti di mura; chiesa di Sant'Andrea. Il mulino non è nelle fonti del Comune, ma è censito nel Repertorio (notebook 2).
+- **Dorna:** separata da Montarfoni in una scheda propria. Insediamento longobardo, torre ricordata dal 1198, fattoria del XVIII secolo.
+- **Gaenne:** toponimo etrusco, fortilizio bizantino nel VI secolo, poi dei longobardi di Dorna intorno al Mille e dei Tarlati; distrutto per ordine di Firenze dopo il 1385; bombardato nella Seconda guerra mondiale; oggi rovine con la pianta leggibile, raggiungibili da Viciomaggio e dal sentiero CAI 105.
+- Aggiornati di conseguenza Patrimonio (castelli, ville, linea del tempo), Storia (Montarfoni nel 1774) e Viciomaggio (rimando a Gaenne).
+
+## Borghi minori: risposta del notebook 2 (Piano Strutturale)
+- **San Martino in Poggio:**
+  - Prima chiesa San Martino di Loreto a Pian del Pozzo (1194, abbazia di Agnano), scomparsa dopo il XV secolo.
+  - Chiesa attuale del 1690 dal patrimonio di Carlo Casini, da cui il titolo "Santi Maria e Carlo"; ampliata nel 1726, parrocchia dal 1814; 317 abitanti nel 1845.
+- **Montarfoni:** nome da "Monte di Arfo"; porta e mura inglobate nella villa padronale; borgo-fattoria con piazzetta, chiesa, cantina e frantoio-mulino; villa seicentesca con limonaia e parco terrazzato.
+- **Dorna:**
+  - Castello longobardo dei patroni della Pieve al Toppo (VIII–X secolo); *castrum Durna* nel 1181.
+  - Chiesa dei Santi Vito e Nicola (1182), poi inglobata in una casa colonica.
+  - Proprietà dei Riccardi nel XVIII secolo e delle suore Montalve dal 1814.
+- **Gaenne:**
+  - Le due fonti divergono. Notebook 2: "*forse* costruito su un fortilizio bizantino", e dei longobardi di Dorna **nel 1069**. Notebook 1: "nel VI secolo divenne fortilizio bizantino". Sul sito restano il "forse" e il 1069.
+  - Aggiunti la descrizione fiorentina ("un forte castello di sito e di muro"), la maiolica arcaica e il parco archeologico previsto.
+- **Poggio Castellare:** a 483 m, con una cinta ellittica a secco di circa 300 m. La **datazione è discussa** (etrusco/romano, medievale, dalla protostoria alla tarda antichità); è riportata come tale, accanto alla versione del Comune ("bizantino poi longobardo").
+- **Le Fosse:** cippo romano in travertino. **Tribbio:** pozzo storico.
