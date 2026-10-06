@@ -279,7 +279,13 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | **Montoto:** poderi lungo via della Centrale sorti su un fortilizio longobardo; passò a Firenze nel 1385; la campana del 1358 della chiesa di Pieve a Maiano viene da qui | Repertorio | N | alta |
 | **Poggio Castellare:** a 483 m, cinta ellittica a secco spessa 1,60 m e lunga circa 300 m, datazione discussa | Repertorio (S017) | R | alta |
 | **Malpertuso e Le Fosse:** borghi medievali abbandonati nel tardo Medioevo; a Le Fosse un cippo romano in travertino | Itinerari del Comune, Repertorio | N | alta |
-| **Tribbio:** nome dal trivio romano, con un pozzo storico | Itinerari del Comune, Repertorio | N | alta |
+| **Tribbio:** nome dal trivio; il Repertorio lo cataloga come trivio di epoca «romana?» (con il punto interrogativo, S070); pozzo storico | Itinerari del Comune, Repertorio | R | alta |
+| **Matroia:** l'acqua della sorgente era attinta «specialmente per favorire la guarigione dei neonati colpiti da malattie gastroenteriche»; l'insediamento religioso «fu sede di un convento» (S036) | Repertorio | R | media |
+| **Montoto:** il suo mulino è «sprofondato nell'invaso della Penna», sull'antica strada di Vallelunga o Via Fiorentina di Pieve a Maiano (probabilmente medievale) | Repertorio | R | media |
+| **Malpertuso e Le Fosse:** edicola (B026) e croce di via Malpertuso (B038); a Le Fosse reperti sporadici di età preistorica e romana (S060) | Repertorio | R | media |
+| **Montarfoni:** mulino (M005) e Maestà (B049) censiti; le NTA (art. 95) prevedono un «polo di eccellenza territoriale» nel borgo-fattoria e nella villa | Repertorio, NTA | R | media |
+| **San Martino in Poggio:** nel 1726 la chiesa fu ampliata e «dotata di due nuovi altari»; filari di cipressi censiti (FI008) | Repertorio (H241b) | R | media |
+| **Parchi archeologici** (NTA art. 49, ambito V5.2): Castellare di Oliveto, Poggio Castellare e Gaenne | NTA | R | media |
 | **Montarfoni:** nome da «Monte di Arfo», antico proprietario germanico; castello aggregato a Civitella nel 1774; borgo-fattoria con villa seicentesca e limonaia | Itinerari del Comune, Repertorio (H240a) | R | alta |
 | **Dorna:** castello longobardo (VIII–X secolo); *castrum Durna* nel 1181; torre ricordata dal 1198; chiesa dei Santi Vito e Nicola (1182); dei Riccardi nel XVIII secolo e delle suore Montalve dal 1814 | Repertorio (A001a, A001d); date confermate in R8 | R | alta |
 | **San Martino in Poggio:** a circa 540 m; chiesa dei Santi Maria e Carlo del 1690 (patrimonio di Carlo Casini), ampliata nel 1726, parrocchia dal 1814; 317 abitanti nel 1845 | Itinerari del Comune, Repertorio (H241b) | R | alta |
@@ -445,6 +451,8 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 - Case coloniche Bellavista, Casetto (Casa del Moro) e San Lorentino «intorno a Badia al Pino»: le schede le collocano a Bellavista (Dorna), Ca' del Moro e Loretino. Tolte dalla pagina, anche per la scarsa rilevanza.
 
 **Storia e borghi (revisione R8)**
+- Tribbio «sorse in età romana»: il Repertorio scrive «romana?». Corretto in «forse di età romana».
+- «Sepolcro etrusco sotto il paese» di Gaenne (S016): NotebookLM lo afferma, ma la citazione dice solo «resti di un antico sepolcro con oggetti e pezzi di tufo vulcanico», senza epoca né luogo. Non usato.
 - Eccidio «uno degli episodi più gravi delle stragi naziste in Toscana»: la formula non è nelle fonti. Tolta da storia.html.
 - Rocca distrutta «negli stessi mesi» dell'eccidio: le fonti non danno la data del bombardamento. Corretto con il motivo documentato (il comando tedesco nella rocca).
 

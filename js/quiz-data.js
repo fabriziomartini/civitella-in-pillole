@@ -609,13 +609,13 @@ window.QUIZ_DOMANDE = [
 "c": "storia",
 "d": 1,
 "q": "Da che cosa prende il nome Tribbio?",
-"a": "Da un trivio romano, un incrocio di tre strade",
+"a": "Da un trivio, un incrocio di tre strade",
 "x": [
 "Da una tribù etrusca",
 "Da un tribunale medievale",
 "Da un torrente"
 ],
-"s": "Tribbio sorse in età romana attorno a un trivium.",
+"s": "Il nome viene dal trivium, l'incrocio di tre strade; il Repertorio lo cataloga come trivio, forse di età romana.",
 "l": "frazioni/borghi-minori.html#tribbio"
 },
 {
@@ -3755,17 +3755,17 @@ window.QUIZ_DOMANDE = [
 "l": "frazioni/borghi-minori.html#matroia"
 },
 {
-"id": "4cfbc901",
+"id": "99c66c9f",
 "c": "borghi",
 "d": 2,
-"q": "Che cosa si conserva a Tribbio, oltre al nome che ricorda un trivio romano?",
+"q": "Che cosa si conserva a Tribbio, oltre al nome che ricorda un antico trivio?",
 "a": "Un pozzo storico",
 "x": [
 "Un arco romano",
 "Una torre di guardia",
 "Un ponte medievale"
 ],
-"s": "Tribbio prende il nome da un trivio romano e conserva un pozzo storico.",
+"s": "Tribbio prende il nome da un trivio, un incrocio di tre strade, e conserva un vecchio pozzo censito tra i beni storici.",
 "l": "frazioni/borghi-minori.html#tribbio"
 },
 {
@@ -4186,6 +4186,90 @@ window.QUIZ_DOMANDE = [
 "Circa 16 metri"
 ],
 "s": "La cinta ellittica a secco è spessa 1,60 metri e lunga circa 300.",
+"l": "frazioni/borghi-minori.html#poggio-castellare"
+},
+{
+"id": "6762121d",
+"c": "borghi",
+"d": 2,
+"q": "Per curare quali malati si attingeva l'acqua della sorgente di Matroia?",
+"a": "I neonati colpiti da malattie gastroenteriche",
+"x": [
+"Gli anziani con dolori articolari",
+"Chi soffriva di malattie della pelle",
+"Chi aveva i calcoli renali"
+],
+"s": "Alla sorgente, presso la cappella di San Michele Arcangelo, erano attribuite virtù salutari soprattutto per i neonati.",
+"l": "frazioni/borghi-minori.html#matroia"
+},
+{
+"id": "191e897a",
+"c": "borghi",
+"d": 2,
+"q": "Dove si trova oggi il mulino di Montoto?",
+"a": "Sommerso dall'invaso della Penna",
+"x": [
+"Trasformato in museo",
+"Inglobato nella villa di Montarfoni",
+"Ricostruito a Pieve a Maiano"
+],
+"s": "Il mulino di Montoto è oggi sommerso dall'invaso della Penna, lungo l'antica strada di Vallelunga.",
+"l": "frazioni/borghi-minori.html#montoto"
+},
+{
+"id": "de37df18",
+"c": "borghi",
+"d": 2,
+"q": "Che cosa è stato trovato a Le Fosse, oltre a un cippo romano in travertino?",
+"a": "Reperti sporadici di età preistorica e romana",
+"x": [
+"Una necropoli etrusca",
+"Un tesoro di monete medievali",
+"Un mosaico pavimentale"
+],
+"s": "Il Repertorio registra a Le Fosse un cippo romano in travertino e reperti sporadici di età preistorica e romana.",
+"l": "frazioni/borghi-minori.html#malpertuso-le-fosse"
+},
+{
+"id": "ff1c509f",
+"c": "borghi",
+"d": 1,
+"q": "Che cosa prevede il Piano Strutturale per il borgo-fattoria e la villa di Montarfoni?",
+"a": "Un «polo di eccellenza territoriale»",
+"x": [
+"Un centro commerciale",
+"Una zona industriale",
+"Un campeggio"
+],
+"s": "Il borgo-fattoria è organizzato come un piccolo paese, con piazzetta, chiesa, cantina e frantoio-mulino.",
+"l": "frazioni/borghi-minori.html#montarfoni"
+},
+{
+"id": "2e9fd6ab",
+"c": "borghi",
+"d": 2,
+"q": "Di che cosa fu dotata la chiesa di San Martino in Poggio quando fu ampliata nel 1726?",
+"a": "Di due nuovi altari",
+"x": [
+"Di un campanile a vela",
+"Di un organo",
+"Di un portico a tre archi"
+],
+"s": "La chiesa dei Santi Maria e Carlo, costruita nel 1690, fu ampliata nel 1726 con due nuovi altari.",
+"l": "frazioni/borghi-minori.html#san-martino-in-poggio"
+},
+{
+"id": "585551af",
+"c": "borghi",
+"d": 2,
+"q": "Quale altro luogo è destinato a diventare un parco archeologico insieme a Poggio Castellare?",
+"a": "Il castello di Gaenne",
+"x": [
+"Matroia",
+"Tribbio",
+"Dorna"
+],
+"s": "Il Piano Strutturale prevede un parco archeologico con campo scuola di scavo a Poggio Castellare e Gaenne.",
 "l": "frazioni/borghi-minori.html#poggio-castellare"
 }
 ];

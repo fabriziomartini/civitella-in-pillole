@@ -305,7 +305,7 @@ CODICI = {
     "b72de4ff": "Nv+",  # In quale anno fu restaurata, con decorazioni pittoriche, la parte post
     "20485c5d": "-n+",  # Su che cosa sorsero i poderi di Montoto, lungo via della Centrale?
     "2bad47c2": "Pv+",  # A quale santo è dedicata la chiesetta di Matroia?
-    "4cfbc901": "-n+",  # Che cosa si conserva a Tribbio, oltre al nome che ricorda un trivio ro
+    "99c66c9f": "-n+",  # Che cosa si conserva a Tribbio, oltre al nome che ricorda un antico tr
     "7551f5ac": "-n=",  # Quando furono abbandonati i borghi medievali di Malpertuso e Le Fosse?
     "d2a0a62f": "-v=",  # Di quale origine è il castello di Dorna?
     "a8e3eb8d": "Pv+",  # Come è chiamata Dorna in un documento del 1181?
@@ -336,4 +336,10 @@ CODICI = {
     "4fe3b32c": "Nv+",  # Quanti piccoli comuni furono aggregati alla Comunità di Civitella nel 
     "67e04d32": "-n=",  # Perché la rocca di Civitella fu bombardata dagli Alleati?
     "1af9c0f0": "Nd+",  # Quanto è spessa, all'incirca, la cinta muraria a secco di Poggio Caste
+    "6762121d": "-v+",  # Per curare quali malati si attingeva l'acqua della sorgente di Matroia
+    "191e897a": "-n+",  # Dove si trova oggi il mulino di Montoto?
+    "de37df18": "-n+",  # Che cosa è stato trovato a Le Fosse, oltre a un cippo romano in traver
+    "ff1c509f": "-d+",  # Che cosa prevede il Piano Strutturale per il borgo-fattoria e la villa
+    "2e9fd6ab": "-v+",  # Di che cosa fu dotata la chiesa di San Martino in Poggio quando fu amp
+    "585551af": "-v=",  # Quale altro luogo è destinato a diventare un parco archeologico insiem
 }
