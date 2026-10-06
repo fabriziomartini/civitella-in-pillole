@@ -12,9 +12,13 @@
     feste: { nome: "Feste e sport", accento: "cultura" }
   };
   var LETTERE = ["A", "B", "C", "D"];
+  var LUNGHEZZA = 15;
   var CHIAVE_RECORD = "civitella-quiz-record";
+  // Indirizzo dell'app web di Google Apps Script che raccoglie le statistiche anonime
+  // (vedi tools/quiz-statistiche.gs). Vuoto = invio disattivato.
+  var STATISTICHE_URL = "https://script.google.com/macros/s/AKfycbyKP2GX48pHJ_YVPeOI7TBHcVkCgxMsS4FOYz-xZPQpddd4CrJZeXI5FrvVkPbS1Z9U/exec";
 
-  var stato = { lunghezza: 10, domande: [], indice: 0, risposte: [] };
+  var stato = { lunghezza: LUNGHEZZA, domande: [], indice: 0, risposte: [] };
   var el = {};
 
   function mescola(lista) {
@@ -73,11 +77,8 @@
   }
 
   function aggiornaStart() {
-    var r = leggiRecord();
-    var parti = [];
-    if (r[10] !== undefined) parti.push("10 domande: " + r[10] + "/10");
-    if (r[20] !== undefined) parti.push("20 domande: " + r[20] + "/20");
-    el.record.textContent = parti.length ? "Il tuo record — " + parti.join(" · ") : "";
+    var r = leggiRecord()[LUNGHEZZA];
+    el.record.textContent = r !== undefined ? "Il tuo record: " + r + "/" + LUNGHEZZA : "";
     el.totale.textContent = window.QUIZ_DOMANDE.length;
   }
 
@@ -132,7 +133,6 @@
     el.esito.textContent = giusta ? "Esatto!" : "Non è questa. La risposta giusta è: " + corrente.dati.a;
     el.esito.className = "wm-quiz-feedback__esito " + (giusta ? "is-correct" : "is-wrong");
     el.spiegazione.textContent = corrente.dati.s;
-    el.link.href = corrente.dati.l;
     el.feedback.hidden = false;
     el.avanti.textContent = stato.indice + 1 < stato.lunghezza ? "Avanti" : "Vedi il risultato";
     el.avanti.hidden = false;
@@ -153,10 +153,34 @@
     return "C'è ancora molto da scoprire: il sito è qui apposta.";
   }
 
+  // Invia in forma anonima il punteggio e, per ogni domanda, id, categoria, testo e giusto/sbagliato.
+  // text/plain evita la richiesta preliminare CORS, che Apps Script non gestisce.
+  function inviaStatistiche(punti) {
+    if (!STATISTICHE_URL || !window.fetch) return;
+    var dati = {
+      v: 1,
+      punti: punti,
+      totale: stato.lunghezza,
+      risposte: stato.domande.map(function (corrente, k) {
+        return { id: corrente.dati.id, c: corrente.dati.c, q: corrente.dati.q, ok: stato.risposte[k].giusta ? 1 : 0 };
+      })
+    };
+    try {
+      fetch(STATISTICHE_URL, {
+        method: "POST",
+        mode: "no-cors",
+        keepalive: true,
+        headers: { "Content-Type": "text/plain;charset=utf-8" },
+        body: JSON.stringify(dati)
+      }).catch(function () { /* le statistiche non devono mai bloccare il quiz */ });
+    } catch (e) { /* idem */ }
+  }
+
   function risultato() {
     var punti = stato.risposte.filter(function (r) { return r.giusta; }).length;
     var n = stato.lunghezza;
     var record = salvaRecord(n, punti);
+    inviaStatistiche(punti);
     el.barra.style.width = "100%";
     el.punteggio.textContent = punti + "/" + n;
     el.giudizio.textContent = giudizio(Math.round((punti / n) * 100)) + (record ? " Nuovo record personale!" : "");
@@ -176,8 +200,11 @@
       if (!r.giusta) li.appendChild(crea("p", "wm-quiz-review__tua", "La tua risposta: " + r.scelta));
       li.appendChild(crea("p", "wm-quiz-review__ok", "Risposta esatta: " + d.a));
       var sp = crea("p", "wm-quiz-review__s", d.s + " ");
+      // Nuova scheda: chi approfondisce non perde il riepilogo della partita.
       var a = crea("a", "", "Approfondisci");
       a.href = d.l;
+      a.target = "_blank";
+      a.rel = "noopener";
       sp.appendChild(a);
       li.appendChild(sp);
       el.riepilogo.appendChild(li);
@@ -188,16 +215,15 @@
 
   document.addEventListener("DOMContentLoaded", function () {
     ["start", "play", "result", "record", "totale", "card", "categoria", "contatore", "barra", "barraWrap",
-      "domanda", "opzioni", "feedback", "esito", "spiegazione", "link", "avanti", "punteggio", "giudizio", "riepilogo"]
+      "domanda", "opzioni", "feedback", "esito", "spiegazione", "avanti", "punteggio", "giudizio", "riepilogo"]
       .forEach(function (id) { el[id] = document.getElementById("quiz-" + id); });
     if (!el.start || !window.QUIZ_DOMANDE) return;
 
     Array.prototype.forEach.call(document.querySelectorAll("[data-quiz-start]"), function (b) {
-      b.addEventListener("click", function () { inizia(parseInt(b.getAttribute("data-quiz-start"), 10)); });
+      b.addEventListener("click", function () { inizia(LUNGHEZZA); });
     });
     el.avanti.addEventListener("click", avanti);
     document.getElementById("quiz-rigioca").addEventListener("click", function () { inizia(stato.lunghezza); });
-    document.getElementById("quiz-cambia").addEventListener("click", function () { aggiornaStart(); mostra("start"); });
 
     // Tastiera: 1-4 o A-D per rispondere, Invio per andare avanti.
     document.addEventListener("keydown", function (e) {
@@ -208,6 +234,7 @@
       if (i !== -1 && stato.risposte.length === stato.indice) { e.preventDefault(); rispondi(i); }
     });
 
+    if (STATISTICHE_URL) document.getElementById("quiz-privacy").hidden = false;
     aggiornaStart();
     mostra("start");
   });

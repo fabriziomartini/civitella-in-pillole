@@ -31,26 +31,18 @@
             <div class="wm-quiz">
 
                 <section id="quiz-start" class="wm-quiz-card wm-quiz-start" aria-labelledby="quiz-start-title">
-                    <h2 id="quiz-start-title" class="wm-h3"><i class="bi bi-patch-question"></i>Scegli la partita</h2>
-                    <p>Ogni partita pesca domande a caso da un archivio di <strong id="quiz-totale">oltre cento</strong> domande, alternando gli argomenti. Dopo ogni risposta vedi subito se era giusta, con una breve spiegazione; alla fine trovi il riepilogo completo.</p>
-                    <div class="wm-quiz-start__choices">
-                        <button type="button" class="wm-quiz-choice" data-quiz-start="10">
-                            <span class="wm-quiz-choice__n">10</span>
-                            <span class="wm-quiz-choice__label">Partita veloce<small>circa 3 minuti</small></span>
-                        </button>
-                        <button type="button" class="wm-quiz-choice" data-quiz-start="20">
-                            <span class="wm-quiz-choice__n">20</span>
-                            <span class="wm-quiz-choice__label">Partita lunga<small>per veri esperti</small></span>
-                        </button>
-                    </div>
+                    <h2 id="quiz-start-title" class="wm-h3"><i class="bi bi-patch-question"></i>15 domande, circa 5 minuti</h2>
+                    <p>Ogni partita pesca 15 domande a caso da un archivio di <strong id="quiz-totale">oltre cento</strong> domande, alternando gli argomenti. Dopo ogni risposta vedi subito se era giusta, con una breve spiegazione; alla fine trovi il riepilogo completo.</p>
+                    <button type="button" class="wm-btn wm-quiz-begin" data-quiz-start>Inizia il quiz <i class="bi bi-arrow-right"></i></button>
                     <p id="quiz-record" class="wm-quiz-start__record"></p>
                     <p class="wm-note">Le domande nascono solo da fatti verificati sulle fonti del sito. Da tastiera puoi rispondere con i tasti 1&ndash;4 (o A&ndash;D).</p>
+                    <p id="quiz-privacy" class="wm-quiz-start__privacy" hidden><i class="bi bi-shield-check"></i> Alla fine di ogni partita il punteggio e l&rsquo;esito delle singole domande vengono raccolti in forma anonima, senza nomi n&eacute; indirizzi, per capire quali argomenti sono meno conosciuti.</p>
                 </section>
 
                 <section id="quiz-play" hidden aria-label="Domanda in corso">
                     <div class="wm-quiz-progress">
-                        <span id="quiz-contatore" class="wm-quiz-progress__label">Domanda 1 di 10</span>
-                        <div id="quiz-barraWrap" class="wm-quiz-progress__track" role="progressbar" aria-label="Avanzamento" aria-valuemin="0" aria-valuenow="0" aria-valuemax="10">
+                        <span id="quiz-contatore" class="wm-quiz-progress__label">Domanda 1 di 15</span>
+                        <div id="quiz-barraWrap" class="wm-quiz-progress__track" role="progressbar" aria-label="Avanzamento" aria-valuemin="0" aria-valuenow="0" aria-valuemax="15">
                             <div id="quiz-barra" class="wm-quiz-progress__bar"></div>
                         </div>
                     </div>
@@ -60,7 +52,7 @@
                         <div id="quiz-opzioni" class="wm-quiz-options"></div>
                         <div id="quiz-feedback" class="wm-quiz-feedback" hidden aria-live="polite">
                             <p id="quiz-esito" class="wm-quiz-feedback__esito"></p>
-                            <p><span id="quiz-spiegazione"></span> <a id="quiz-link" href="#">Approfondisci</a></p>
+                            <p id="quiz-spiegazione"></p>
                         </div>
                         <button id="quiz-avanti" type="button" class="wm-btn wm-quiz-next" hidden>Avanti</button>
                     </div>
@@ -69,11 +61,10 @@
                 <section id="quiz-result" hidden aria-labelledby="quiz-punteggio">
                     <div class="wm-quiz-card wm-quiz-score">
                         <p class="wm-quiz-score__label">Il tuo punteggio</p>
-                        <h2 id="quiz-punteggio" class="wm-quiz-score__value" tabindex="-1">0/10</h2>
+                        <h2 id="quiz-punteggio" class="wm-quiz-score__value" tabindex="-1">0/15</h2>
                         <p id="quiz-giudizio" class="wm-quiz-score__msg"></p>
                         <div class="wm-quiz-score__actions">
                             <button id="quiz-rigioca" type="button" class="wm-btn">Rigioca con nuove domande</button>
-                            <button id="quiz-cambia" type="button" class="wm-btn wm-btn--ghost">Cambia partita</button>
                         </div>
                     </div>
                     <h2 class="wm-h3 mt-5"><i class="bi bi-list-check"></i>Riepilogo</h2>
