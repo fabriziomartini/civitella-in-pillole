@@ -219,6 +219,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Parrocchia di Sant'Andrea Apostolo | Annuario della Diocesi | N | alta |
 | Castello ricordato nel XII secolo, con origini tardo-imperiali e longobarde; feudo di Ubertini e Saracini | Repertorio | N | alta |
 | Restano il cassero (oggi abitazione), la porta e tratti di mura; la Casa del Podestà fu riedificata nel Seicento | Repertorio | N | media |
+| Repetti, Oliveto: signoria degli Ubertini; Azzone di Franceschino degli Ubertini in accomandigia a Firenze il 16 giugno 1385, consegna del castello l'8 settembre 1385; Firenze lo fece «precingere e fortificare di torri» (Manni); 1431 preso da Niccolò Piccinino con Ciggiano e Battivolle, 1433 Firenze ordina di smantellarli; Comune a sé fino al motuproprio del 14 novembre 1774; sigillo con un olivo in pieno frutto; 1833: S. Andrea al Castello 257 abitanti, S. Giovan Battista al Villaggio 279 | Repetti, voce «Oliveto di Civitella» (testo incollato dall'utente) | R | alta |
 | Cappella della Compagnia (1637) e Oratorio di San Rocco (tabernacolo diventato cappella nell'Ottocento) | Repertorio | N | media |
 | San Giovanni d'Oliveto: nelle decime del 1274, ricostruita nel 1343 | Repertorio | N | alta |
 | Villa Oliveto, già Villa Mazzi: dei conti Barbolani di Montauto, parco con cedri e lecci, oggi Centro di Documentazione | Regione Toscana, Wikipedia | N | alta |

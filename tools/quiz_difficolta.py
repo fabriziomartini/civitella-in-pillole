@@ -372,4 +372,7 @@ CODICI = {
     "41b02c31": "Pv=",  # Chi difese Civitella nel 1554 dall'assalto delle truppe senesi di Pier
     "7f8563ab": "Nv+",  # Quanti abitanti contava la Comunità di Civitella nel 1833, secondo il 
     "d1b0f93f": "Pv+",  # A quale monastero fiorentino furono incorporate nel 1441 le chiese di 
+    "99383471": "-d+",  # Che cosa raffigurava il sigillo dell'antico Comune di Oliveto?
+    "84b5459a": "-v+",  # A chi consegnò Azzone degli Ubertini il castello di Oliveto nel settem
+    "c849d496": "-n+",  # Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano,
 }

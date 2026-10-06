@@ -4691,5 +4691,47 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "Una bolla di papa Eugenio IV del 17 novembre 1441 le incorporò nel monastero di Santa Brigida presso Firenze (Repetti).",
 "l": "frazioni/badia-al-pino.html"
+},
+{
+"id": "99383471",
+"c": "frazioni",
+"d": 1,
+"q": "Che cosa raffigurava il sigillo dell'antico Comune di Oliveto?",
+"a": "Un olivo carico di frutti",
+"x": [
+"Una torre merlata",
+"Un leone rampante",
+"Una croce rossa"
+],
+"s": "Il Repetti ricorda il sigillo del Comune di Oliveto: un olivo in pieno frutto in campo bianco e nero.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "84b5459a",
+"c": "storia",
+"d": 2,
+"q": "A chi consegnò Azzone degli Ubertini il castello di Oliveto nel settembre 1385?",
+"a": "Alla Repubblica di Firenze",
+"x": [
+"Alla Repubblica di Siena",
+"Al vescovo di Arezzo",
+"Ai Visconti di Milano"
+],
+"s": "Ricevuto in accomandigia da Firenze nel giugno 1385, l'8 settembre Azzone consegnò il castello, che i fiorentini fortificarono di torri.",
+"l": "frazioni/oliveto.html"
+},
+{
+"id": "c849d496",
+"c": "storia",
+"d": 2,
+"q": "Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano, ripresi dopo l'invasione di Niccolò Piccinino?",
+"a": "Di smantellarli",
+"x": [
+"Di ricostruirli più grandi",
+"Di venderli ai senesi",
+"Di affidarli al vescovo di Arezzo"
+],
+"s": "Nel 1431 Piccinino prese Ciggiano e Oliveto; riconquistati, nel 1433 Firenze ordinò di smantellarli (Repetti).",
+"l": "frazioni/oliveto.html"
 }
 ];

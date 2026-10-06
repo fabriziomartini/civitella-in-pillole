@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 335 domande.
+Totale: 338 domande.
 
 ## Geografia (44)
 
@@ -143,7 +143,7 @@ Totale: 335 domande.
    ✔ Dal prosciugamento di un antico lago · ✘ Dal ritiro di un ghiacciaio · Da un'antica colata di lava · Dal ritiro del mare in età romana  
    _La pianura, a circa 250 metri di quota, deriva dal prosciugamento di un lago pleistocenico._ → `geografia.html`
 
-## Storia (57)
+## Storia (59)
 
 1. [fe9e42b2] ●●● `Nv=` **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -316,6 +316,12 @@ Totale: 335 domande.
 57. [7f8563ab] ●●● `Nv+` **Quanti abitanti contava la Comunità di Civitella nel 1833, secondo il Repetti?**  
    ✔ 4.883 · ✘ 1.883 · 8.814 · 14.883  
    _Nel 1833 la Comunità contava 4.883 abitanti; al censimento del 2021 il comune ne contava 8.814._ → `storia.html`
+58. [84b5459a] ●●○ `-v+` **A chi consegnò Azzone degli Ubertini il castello di Oliveto nel settembre 1385?**  
+   ✔ Alla Repubblica di Firenze · ✘ Alla Repubblica di Siena · Al vescovo di Arezzo · Ai Visconti di Milano  
+   _Ricevuto in accomandigia da Firenze nel giugno 1385, l'8 settembre Azzone consegnò il castello, che i fiorentini fortificarono di torri._ → `frazioni/oliveto.html`
+59. [c849d496] ●●○ `-n+` **Che cosa ordinò Firenze nel 1433 per i castelli di Oliveto e Ciggiano, ripresi dopo l'invasione di Niccolò Piccinino?**  
+   ✔ Di smantellarli · ✘ Di ricostruirli più grandi · Di venderli ai senesi · Di affidarli al vescovo di Arezzo  
+   _Nel 1431 Piccinino prese Ciggiano e Oliveto; riconquistati, nel 1433 Firenze ordinò di smantellarli (Repetti)._ → `frazioni/oliveto.html`
 
 ## Il 1944 (35)
 
@@ -425,7 +431,7 @@ Totale: 335 domande.
    ✔ Il Tribunale militare di La Spezia · ✘ Il tribunale di Norimberga · La Corte d'Assise di Arezzo · Il Tribunale di Firenze  
    _Nel 2006 il Tribunale militare di La Spezia condannò Milde e riconobbe responsabile anche la Repubblica Federale di Germania._ → `storia.html`
 
-## Frazioni (98)
+## Frazioni (99)
 
 1. [a6b8c90b] ●○○ `-v-` **In quale frazione ha sede il Comune?**  
    ✔ Badia al Pino · ✘ Civitella · Tegoleto · Pieve al Toppo  
@@ -721,6 +727,9 @@ Totale: 335 domande.
 98. [d1b0f93f] ●●● `Pv+` **A quale monastero fiorentino furono incorporate nel 1441 le chiese di Civitella e della Badia al Pino?**  
    ✔ Il monastero di Santa Brigida · ✘ L'abbazia di Vallombrosa · Il convento di San Marco · La basilica di Santa Croce  
    _Una bolla di papa Eugenio IV del 17 novembre 1441 le incorporò nel monastero di Santa Brigida presso Firenze (Repetti)._ → `frazioni/badia-al-pino.html`
+99. [99383471] ●○○ `-d+` **Che cosa raffigurava il sigillo dell'antico Comune di Oliveto?**  
+   ✔ Un olivo carico di frutti · ✘ Una torre merlata · Un leone rampante · Una croce rossa  
+   _Il Repetti ricorda il sigillo del Comune di Oliveto: un olivo in pieno frutto in campo bianco e nero._ → `frazioni/oliveto.html`
 
 ## Borghi minori (35)
 
