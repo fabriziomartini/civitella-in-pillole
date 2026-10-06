@@ -392,4 +392,6 @@ CODICI = {
     "cc3c0e44": "Nv=",  # In quale anno di censimento il comune ha contato più abitanti?
     "2a62011f": "Nd=",  # Quanti abitanti contava il comune al primo censimento dell'Italia uni
     "60dff0f2": "-n=",  # Come cambiò la popolazione del comune tra il censimento del 1951 e qu
+    "ede3b0e0": "Nn=",  # In quale anno fu inaugurata la ferrovia Arezzo–Sinalunga, che ha una 
+    "4b7efa1f": "-d+",  # Con quale trazione funzionarono i treni della Arezzo–Sinalunga fin dal
 }

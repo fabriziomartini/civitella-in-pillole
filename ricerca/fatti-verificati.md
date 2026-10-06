@@ -183,7 +183,9 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Palazzo Santini-Paccinelli: villa settecentesca a pianta rettangolare, simmetrica rispetto al vano scala centrale | Repertorio (A020) | R | media |
 | Villa del Bosco, con parco e filare di pini | Repertorio (V001, PG010, FI007) | R | media |
 | Monumento ai caduti delle due guerre nel piazzale della chiesa, inaugurato il 26 agosto 1951 | Repertorio | R | media |
-| Ha la stazione di Civitella-Badia al Pino sulla linea Arezzo–Sinalunga | Wikipedia | R | media |
+| Ha la stazione di Civitella-Badia al Pino sulla linea Arezzo–Sinalunga, al km 12+666; stazioni vicine in servizio: Arezzo Via Chiari e Albergo | Wikipedia (Stazione di Civitella-Badia al Pino; Ferrovia Arezzo-Sinalunga) | R | media |
+| Ferrovia Arezzo–Sinalunga: inaugurata il 3 settembre 1930; progettata a vapore, elettrificata (3000 V cc) su iniziativa dell'ing. Giacomo Sutter, a trazione elettrica dall'apertura; danneggiata in guerra, tratta Arezzo–Foiano riaperta l'11 aprile 1948, intera linea il 24 settembre 1950 | Wikipedia (Ferrovia Arezzo-Sinalunga), che cita Muscolino 1978 | W | alta |
+| Nello schema della linea, Viciomaggio (km 9+230) e Ciggiano (km 19+100) sono fermate dismesse (simbolo eHST); Albergo (km 15+368) fermata in servizio | Wikipedia (Ferrovia Arezzo-Sinalunga), schema delle stazioni | W | media |
 | Nel 1976 vi aprì il primo stabilimento Chimet | Chimet | N | alta |
 
 ### Ciggiano
