@@ -211,3 +211,8 @@ Fonti principali: elenco RUNTS (20 enti), lettera della Consulta dello Sport (11
   - **Sul sito:** "una terza in località Le Caserosse, nella pianura tra Viciomaggio e Pieve al Toppo".
   - **Aziende insediate:** non presenti nelle fonti.
   - **Non usato sul sito:** la fermata ferroviaria e la variante sono solo previsioni del Piano; che il comparto Del Tongo sia "a Tegoleto" è una deduzione del notebook dall'indirizzo di via Aretina Nord (il collegamento tra Del Tongo e Tegoleto è già documentato da Wikipedia); la zona isolata Chimet non viene localizzata con precisione.
+
+## Geografia e "Colline delle Lepri" (6/10/2026)
+- **"Colline delle Lepri": TOLTO.** Era nella pagina Geografia e nella scheda di Civitella, ma non compare in nessuna fonte del registro e la ricerca web non dà riscontri. Probabile allucinazione di una versione precedente del sito. Tolto anche "ai piedi dell'Appennino", per lo stesso motivo.
+- **Superficie 100,33 km² e zona climatica E:** riportate da Tuttitalia e Wikipedia (ricerca web). Aggiunte alla pagina Geografia in un riquadro "In breve" al posto della nota "verranno aggiunti in una prossima iterazione".
+- **Da verificare con il notebook:** "15 km a sud-ovest di Arezzo", "tra Valdambra e Valdichiana", fascia altimetrica 250–350 m, comuni confinanti, corsi d'acqua.

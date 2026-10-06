@@ -701,6 +701,12 @@ button:focus-visible {
 
 .wm-article .wm-section-head { margin-top: var(--wm-space-8); }
 
+/* Nelle pagine a sezioni il titolo è il primo figlio di <section>: la regola
+   "h2:first-child" lo azzererebbe, quindi lo spazio va sulla sezione stessa */
+.wm-article > section { margin-top: var(--wm-space-8); }
+.wm-article > .wm-pills + section { margin-top: 0; }
+.wm-article > section > .wm-section-head:first-child { margin-top: 0; }
+
 [class*="wm-accent--"] .wm-feature-list li { border-left-color: var(--wm-accent); }
 
 /* Schede compatte dei luoghi minori */
