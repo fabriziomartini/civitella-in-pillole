@@ -214,7 +214,7 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Fatto | Fonte | Liv. | Ril. |
 |---|---|---|---|
 | È il centro abitato più popoloso del comune (1.545 residenti nel 2021) | ISTAT | W | alta |
-| La pieve, con un ospedale, è documentata dal 938 e fu distrutta intorno al 1500 | Repertorio, Wikipedia | N | alta |
+| La pieve, con un ospedale per i pellegrini, fu confermata nel 938 tra i possedimenti del Capitolo di Arezzo; chiesa e ospedale furono distrutti nel 1502 | Repertorio (B024) | R | alta |
 | «Toppo» è di origine longobarda | Repertorio | N | alta |
 | Oratorio della Madonna del Conforto, con questa dedica dal 1906 | Repertorio | N | media |
 | Parrocchiale di San Giovanni Battista: progetto del 1967, porticato del 1977 | Repertorio | N | media |
@@ -403,6 +403,12 @@ Il calendario completo è nella pagina `feste-e-associazioni.html`; edizioni e o
 - Fattoria di Maiano «tutelata da vincolo nazionale»: SMENTITA. Nella scheda del Repertorio il vincolo nazionale non è notificato. Ora è «censita nel Repertorio».
 - Paleolitico del Podere Casella come «le testimonianze più antiche del comune»: il superlativo non ha fonte. Tolto.
 - Civitella «comprende la maggior parte del territorio di Ponticino»: non confermato. L'itinerario del Comune dice che presso Ponticino si esce brevemente dal territorio comunale, e l'ISTAT attribuisce il centro abitato a Laterina Pergine Valdarno. Tolto.
+
+**Pieve al Toppo, Spoiano, Tegoleto (revisione R6)**
+- Pieve «distrutta intorno al 1500 da eventi bellici»: il Repertorio dà la data esatta, 1502, e non parla di eventi bellici. Corretto. (Il Repertorio riporta in un'altra scheda «983» invece di 938: probabile refuso, sul sito resta il 938.)
+- Campo polivalente «già fatto» a Pieve al Toppo: la fonte dice che i lavori sono in corso in via dei Boschi. Corretto qui e in feste-e-associazioni.html.
+- Fave dei Baccelli «crude con olio, pecorino o finocchiona»: non confermato e poco rilevante. Tolto.
+- La risposta di N3 secondo cui la parrocchia di Tegoleto sarebbe San Michele Arcangelo è **sbagliata**: l'annuario della Diocesi e l'itinerario 3 del Comune dicono San Biagio. Resta San Biagio.
 
 **Badia al Pino (revisione R1)**
 - Abbazia soppressa «nel 1446» e unita al monastero del «Paradiso a Ripoli»: non confermato da nessun notebook né dal web.

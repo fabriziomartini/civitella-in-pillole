@@ -143,3 +143,17 @@ I prompt sono in `revisione-frase-per-frase.md`. Per ogni frase: esito del noteb
 - **5 Fattoria di Maiano con vincolo nazionale: SMENTITA** (Repertorio: campo del vincolo nazionale vuoto). Corretta su pieve-a-maiano.html e patrimonio.html.
 - **7 stazione 1866 e 8 referendum 2017:** non sono nei notebook, ma erano già stati verificati sul web (Wikipedia, Stazione di Ponticino; Tuttitalia), livello W. Restano.
 - **9 «maggior parte del territorio di Ponticino»: SMENTITA da N1** (l'itinerario esce dal territorio comunale presso Ponticino), NON PRESENTE in N3. Tolta.
+
+## Pieve al Toppo, Spoiano, Tegoleto: blocco R6, solo N3 (per il limite di NotebookLM)
+- **Confermate:**
+  - 3: Oratorio della Madonna del Conforto, dal 1906 (B024);
+  - 4: chiesa moderna progettata nel 1967, porticato del 1977 (il titolo San Giovanni Battista viene dall'annuario della Diocesi);
+  - 5: fornaci de I Ponti a 1,60 m, segnalazione del Gruppo Archeologico (S028);
+  - 7: Villa Pecchioli asilo nel 1928, restaurata nel 1981 (C055);
+  - 10: fattoria di Tegoleto, 1783 Marzocchi, casa d'agenzia nel 1814 (C048);
+  - 11: Teatro Moderno, 1960 cinema, 1997 sala polifunzionale (TE001).
+- **1: PARZIALE.** La distruzione è del **1502**, non «intorno al 1500 da eventi bellici»: corretto, con il rimando al passaggio del titolo di pieve a Badia al Pino. L'origine longobarda di «Toppo» era già stata confermata da N1 (verifica-log, prompt 6): resta.
+- **2: nome del condottiero.** Il Repertorio scrive «Guglielmo dei Pazzi», Wikipedia e la tradizione «Guglielmino de' Pazzi»: è la stessa persona e il nome resta.
+- **6: PARZIALE nella sostanza.** I lavori del campetto in via dei Boschi sono «in corso»: corretto il testo, che lo dava per fatto.
+- **8: fave con olio, pecorino o finocchiona: NON PRESENTE.** Tolto.
+- **9 San Biagio a Tegoleto: N3 si confonde con Ciggiano** e dice che la parrocchia di Tegoleto è San Michele Arcangelo. È smentito dall'annuario della Diocesi (San Biagio) e dall'itinerario 3 del Comune (X secolo, ristrutturata nel XII, resti dell'abside), già verificati in N1. Resta.
