@@ -30,14 +30,8 @@
     return a;
   }
 
-  // Peso di ogni categoria nella pesca: storia, geografia e frazioni escono più spesso.
-  // La probabilità di una categoria cresce con la radice del numero di domande,
-  // così le categorie piccole non si ripetono a ogni partita e quelle grandi non dominano.
-  var PESO = { storia: 1.4, geo: 1.3, frazioni: 1.2, "1944": 1.1, borghi: 1, economia: 0.7, feste: 0.7 };
   var LIVELLI = { 1: "Facile", 2: "Media", 3: "Difficile" };
   var CHIAVE_VISTE = "civitella-quiz-viste";
-
-  function intero(min, max) { return min + Math.floor(Math.random() * (max - min + 1)); }
 
   // Id delle domande già uscite, dalla più vecchia alla più recente.
   function leggiViste() {
@@ -53,32 +47,38 @@
     } catch (e) { /* storage non disponibile: il quiz funziona lo stesso */ }
   }
 
-  function pescaPesata(lista, peso) {
-    var pesi = lista.map(peso);
-    var totale = pesi.reduce(function (a, b) { return a + b; }, 0);
-    var r = Math.random() * totale;
-    for (var i = 0; i < lista.length; i++) { r -= pesi[i]; if (r <= 0) return lista[i]; }
-    return lista[lista.length - 1];
-  }
-
-  // Ogni partita mescola i livelli (circa un terzo facili, un terzo medie, un quarto difficili, con variazioni casuali),
-  // evita le domande uscite di recente e distribuisce le categorie senza farne prevalere una.
+  // Partita bilanciata: ogni categoria ha lo stesso numero di domande (le eventuali in più vanno
+  // a categorie scelte a caso) e i tre livelli si dividono le domande in parti uguali.
+  // Dentro questi vincoli tutto è casuale; le domande uscite di recente vengono evitate.
   function pescaDomande(n) {
     var tutte = window.QUIZ_DOMANDE;
-    var dimensione = {};
-    tutte.forEach(function (d) { dimensione[d.c] = (dimensione[d.c] || 0) + 1; });
+    var categorie = [];
+    tutte.forEach(function (d) { if (categorie.indexOf(d.c) === -1) categorie.push(d.c); });
     var viste = leggiViste();
     var eta = {};
     viste.forEach(function (id, i) { eta[id] = viste.length - i; }); // 1 = uscita nell'ultima partita
 
-    var facili = intero(4, 6), difficili = intero(3, 5);
-    var livelli = [];
-    for (var k = 0; k < n; k++) livelli.push(k < facili ? 1 : k < facili + difficili ? 3 : 2);
+    // Posti per categoria: n diviso equamente, il resto a categorie diverse scelte a caso.
+    var posti = [];
+    var giro = Math.floor(n / categorie.length);
+    categorie.forEach(function (c) { for (var k = 0; k < giro; k++) posti.push(c); });
+    mescola(categorie).slice(0, n - posti.length).forEach(function (c) { posti.push(c); });
 
-    var prese = {}, usate = {}, scelte = [];
-    mescola(livelli).forEach(function (livello) {
-      var libere = tutte.filter(function (d) { return !prese[d.id]; });
-      var candidate = libere.filter(function (d) { return d.d === livello; });
+    // Quote per livello: n diviso in tre, il resto a livelli scelti a caso.
+    var quota = { 1: Math.floor(n / 3), 2: Math.floor(n / 3), 3: Math.floor(n / 3) };
+    mescola([1, 2, 3]).slice(0, n % 3).forEach(function (l) { quota[l]++; });
+
+    var prese = {}, scelte = [];
+    mescola(posti).forEach(function (c) {
+      var libere = tutte.filter(function (d) { return d.c === c && !prese[d.id]; });
+      // Livelli ancora da riempire, dal più scoperto; a parità decide il caso.
+      var livelli = mescola([1, 2, 3]).sort(function (a, b) { return quota[b] - quota[a]; });
+      var candidate = [];
+      for (var i = 0; i < livelli.length && !candidate.length; i++) {
+        if (quota[livelli[i]] <= 0) continue;
+        candidate = libere.filter(function (d) { return d.d === livelli[i] && !eta[d.id]; });
+      }
+      if (!candidate.length) candidate = libere.filter(function (d) { return quota[d.d] > 0; });
       if (!candidate.length) candidate = libere;
       var mai = candidate.filter(function (d) { return !eta[d.id]; });
       if (mai.length) candidate = mai;
@@ -87,11 +87,9 @@
         candidate.sort(function (a, b) { return eta[b.id] - eta[a.id]; });
         candidate = candidate.slice(0, Math.max(1, Math.ceil(candidate.length / 2)));
       }
-      var d = pescaPesata(candidate, function (x) {
-        return (PESO[x.c] || 1) / Math.sqrt(dimensione[x.c]) / Math.pow(1 + (usate[x.c] || 0), 2);
-      });
+      var d = candidate[Math.floor(Math.random() * candidate.length)];
       prese[d.id] = true;
-      usate[d.c] = (usate[d.c] || 0) + 1;
+      quota[d.d]--;
       scelte.push(d);
     });
     salvaViste(scelte.map(function (d) { return d.id; }));
