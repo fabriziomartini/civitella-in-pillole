@@ -91,6 +91,10 @@ Ultimo aggiornamento: 6 ottobre 2026.
 | Nel 1385 Firenze, acquisiti Arezzo e il suo contado, staccò Civitella dalla podesteria di Valdambra e ne fece il capoluogo di una propria podesteria, durata fino al 1838 | SIUSA, Podesteria di Civitella | R | alta |
 | Nel 1774 Ciggiano, Viciomaggio, Badia al Pino e il castello di Montarfoni furono aggregati alla Comunità di Civitella. Il Repertorio conferma Montarfoni (H240a) e parla di «nove piccoli comuni» aggregati nel 1774, senza nominarli | Itinerari del Comune; Repertorio | N (R per Montarfoni e i nove comuni) | alta |
 | Monte San Savino «è stato capoluogo di vicariato sotto i granduchi, con autorità su Civitella, Lucignano e Foiano della Chiana» | PIT, ambito 19 | R | alta |
+| Nel 1774 Pietro Leopoldo soppresse i comuni di Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto e li unì a Civitella (nove, come i «nove piccoli comuni» del Repertorio); più tardi si aggiunse Pieve a Maiano | Pro Loco, «Civitella nella storia»; Repertorio (numero) | R (numero), W (nomi) | alta |
+| Nel 1252 il podestà di Arezzo Ildebrando Cacciaconti assediò Civitella, che fu rasa al suolo; Guglielmino la ricostruì con una doppia cerchia di mura, lavori finiti probabilmente intorno al 1270 | Pro Loco; distruzione del 1252 anche nell'itinerario 2 del Comune | W | alta |
+| Intorno al Mille Civitella passò alla diocesi di Arezzo come capoluogo del viscontado di Ambra («Civitella di Valdambra»); detta anche «Civitella del Vescovo» | Pro Loco | W | media |
+| 3 luglio 1289 resa ai fiorentini; 26 marzo 1311 «Pace di Civitella» con gli ambasciatori di Arrigo VII, voluta dal vescovo Ildobrandino dei conti Guidi; 1362 sottomissione a Firenze; 1397 saccheggio senese, 1398 riconquista fiorentina; 1554 assalto respinto dell'esercito senese di Piero Strozzi | Pro Loco | W | alta |
 | Nel 1917 la sede comunale fu trasferita a Badia al Pino per lo spopolamento delle zone collinari | Wikipedia | R | alta |
 | Un bombardamento alleato distrusse la rocca di Civitella, perché al suo interno si era installato il comando tedesco (le fonti non indicano la data) | Wikipedia, Cittaslow | R | alta |
 | Nel giugno 1940 a Villa Oliveto fu istituito un campo di internamento, soprattutto per famiglie ebree di nazionalità britannica provenienti dalla Libia; nel 1944 furono deportate a Bergen-Belsen | Regione Toscana, Storia e Memorie, Wikipedia | N | alta |
@@ -411,7 +415,7 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 
 **Date sbagliate o senza fonte**
 - Podesteria del 1348 (è del 1385).
-- «Civitella del Vescovo».
+- «Civitella del Vescovo»: ora ha una fonte (Pro Loco, «Civitella nella storia»); sul sito è attribuita.
 - Ricostruzione del 1272: ora trovata in Wikipedia (giro N1 del 6/10/2026); sul sito è attribuita, vedi le divergenze.
 - Feudo di Giovanni Acuto (1384).
 - Guido Tarlati a Oliveto nel 1318.
@@ -490,6 +494,11 @@ Il video su YouTube (y8NjZjTpmsQ, circa 2019, linkato dal sito del Comune) **non
 **Guida turistica «Alla scoperta della Val di Chiana» (ambito turistico, PDF di 11 pagine): non affidabile per la storia**
 - Scrive che Civitella fu «fondata in epoca etrusca», che «nel XII secolo viene distrutta durante la battaglia di Pieve al Toppo» (la battaglia è del 1288) e che passò a Firenze «dopo la battaglia di Campaldino nel 1289» (fu nel 1385). Mette la Madonna robbiana «all'interno della chiesa di Santa Maria» (Discover Arezzo: tabernacolo presso la Porta Senese).
 - Da verificare prima di qualsiasi uso: mura del XII secolo e cinta ellittica; Porta Senese unica porta intatta; due piazze con palazzi porticati; Palazzo Pretorio, Palazzo Becattini, la Cancelleria e Palazzo Ninci («Nenci» nella guida) ricostruiti dopo la guerra.
+
+**Pro Loco, «Civitella nella storia»: parti non usate**
+- Il 917 con Berengario e Uguccione «marchese del Colle», con la genealogia fino a Carlo Magno: non confermato da nessuna fonte scritta verificata.
+- Magister Rainerius «nato a Civitella», autore nel 1272 di un'«Ars Tabellionatus»: da verificare su fonti storiche.
+- Aneddoti sui vescovi Arnaldo ed Eliotto morti a Civitella e sugli «altri sette vescovi» sepolti lì.
 
 **Dati da non usare**
 - 377 dipendenti di CEIA (sito terzo).

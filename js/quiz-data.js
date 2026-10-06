@@ -4523,5 +4523,61 @@ window.QUIZ_DOMANDE = [
 ],
 "s": "I quattro rioni corrono tre carriere ciascuno contro il buratto per conquistare il Retribuet; il Masgalano premia invece il portamento.",
 "l": "frazioni/civitella.html"
+},
+{
+"id": "37978868",
+"c": "storia",
+"d": 3,
+"q": "Quale podestà di Arezzo assediò e rase al suolo Civitella nel 1252, secondo la Pro Loco?",
+"a": "Ildebrando Cacciaconti",
+"x": [
+"Guido Tarlati",
+"Buonconte da Montefeltro",
+"Niccolò Piccinino"
+],
+"s": "Nel 1252 Civitella capitolò e fu rasa al suolo; il vescovo Guglielmino la fece poi ricostruire con una doppia cerchia di mura.",
+"l": "storia.html"
+},
+{
+"id": "fd4ef637",
+"c": "storia",
+"d": 2,
+"q": "Quale di questi comuni fu soppresso e unito a Civitella nel 1774?",
+"a": "Tuori",
+"x": [
+"Monte San Savino",
+"Lucignano",
+"Bucine"
+],
+"s": "Nel 1774 Pietro Leopoldo unì a Civitella nove piccoli comuni: Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto.",
+"l": "storia.html"
+},
+{
+"id": "79914e1e",
+"c": "storia",
+"d": 2,
+"q": "Come era chiamata Civitella per la frequente presenza dei vescovi aretini?",
+"a": "«Civitella del Vescovo»",
+"x": [
+"«Civitella dei Medici»",
+"«Civitella del Papa»",
+"«Civitella dei Conti»"
+],
+"s": "Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra».",
+"l": "storia.html"
+},
+{
+"id": "175fd5fe",
+"c": "storia",
+"d": 3,
+"q": "In quale anno fu firmata nel castello la «Pace di Civitella», secondo la Pro Loco?",
+"a": "1311",
+"x": [
+"1252",
+"1385",
+"1554"
+],
+"s": "Il 26 marzo 1311 il vescovo Ildobrandino dei conti Guidi fece firmare la pace tra guelfi e ghibellini, alla presenza degli ambasciatori di Arrigo VII.",
+"l": "storia.html"
 }
 ];

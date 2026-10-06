@@ -6,7 +6,7 @@ Elenco leggibile del pool usato da `quiz.html`. **Non modificarlo a mano:** le d
 
 L'**id** tra parentesi quadre è quello che compare nel foglio delle statistiche; il livello (●○○ facile, ●●○ media, ●●● difficile) e il codice che lo determina sono spiegati in `tools/quiz_difficolta.py`.
 
-Totale: 323 domande.
+Totale: 327 domande.
 
 ## Geografia (44)
 
@@ -143,7 +143,7 @@ Totale: 323 domande.
    ✔ Dal prosciugamento di un antico lago · ✘ Dal ritiro di un ghiacciaio · Da un'antica colata di lava · Dal ritiro del mare in età romana  
    _La pianura, a circa 250 metri di quota, deriva dal prosciugamento di un lago pleistocenico._ → `geografia.html`
 
-## Storia (49)
+## Storia (53)
 
 1. [fe9e42b2] ●●● `Nv=` **A quale anno risale la prima notizia del castello di Civitella?**  
    ✔ 1048 · ✘ 1288 · 1385 · 1527  
@@ -292,6 +292,18 @@ Totale: 323 domande.
 49. [3ff855bb] ●●● `Pv+` **Da quale vicariato dipendeva Civitella sotto i granduchi di Toscana?**  
    ✔ Da quello di Monte San Savino · ✘ Da quello di Arezzo · Da quello di Cortona · Da quello di Montevarchi  
    _Monte San Savino fu capoluogo di vicariato sotto i granduchi, con autorità su Civitella, Lucignano e Foiano della Chiana._ → `storia.html`
+50. [37978868] ●●● `Pv+` **Quale podestà di Arezzo assediò e rase al suolo Civitella nel 1252, secondo la Pro Loco?**  
+   ✔ Ildebrando Cacciaconti · ✘ Guido Tarlati · Buonconte da Montefeltro · Niccolò Piccinino  
+   _Nel 1252 Civitella capitolò e fu rasa al suolo; il vescovo Guglielmino la fece poi ricostruire con una doppia cerchia di mura._ → `storia.html`
+51. [fd4ef637] ●●○ `-v=` **Quale di questi comuni fu soppresso e unito a Civitella nel 1774?**  
+   ✔ Tuori · ✘ Monte San Savino · Lucignano · Bucine  
+   _Nel 1774 Pietro Leopoldo unì a Civitella nove piccoli comuni: Oliveto, Ciggiano, Tegoleto, Badia al Pino, Tuori, Viciomaggio, Cornia, Montarfoni e Montoto._ → `storia.html`
+52. [79914e1e] ●●○ `-v=` **Come era chiamata Civitella per la frequente presenza dei vescovi aretini?**  
+   ✔ «Civitella del Vescovo» · ✘ «Civitella dei Medici» · «Civitella del Papa» · «Civitella dei Conti»  
+   _Secondo la Pro Loco fu detta «Civitella del Vescovo»; il nome ufficiale era «Civitella di Valdambra»._ → `storia.html`
+53. [175fd5fe] ●●● `Nn+` **In quale anno fu firmata nel castello la «Pace di Civitella», secondo la Pro Loco?**  
+   ✔ 1311 · ✘ 1252 · 1385 · 1554  
+   _Il 26 marzo 1311 il vescovo Ildobrandino dei conti Guidi fece firmare la pace tra guelfi e ghibellini, alla presenza degli ambasciatori di Arrigo VII._ → `storia.html`
 
 ## Il 1944 (35)
 

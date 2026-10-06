@@ -360,4 +360,8 @@ CODICI = {
     "8f738c40": "-d-",  # Che cosa sostituisce il cavallo nel Sarapino di Civitella?
     "66d1d493": "-v+",  # Quando si corre il Sarapino a Civitella?
     "ef246798": "Pv+",  # Come si chiama il premio che conquista il rione vincitore del Sarapino
+    "37978868": "Pv+",  # Quale podestà di Arezzo assediò e rase al suolo Civitella nel 1252, se
+    "fd4ef637": "-v=",  # Quale di questi comuni fu soppresso e unito a Civitella nel 1774?
+    "79914e1e": "-v=",  # Come era chiamata Civitella per la frequente presenza dei vescovi aret
+    "175fd5fe": "Nn+",  # In quale anno fu firmata nel castello la «Pace di Civitella», secondo 
 }
