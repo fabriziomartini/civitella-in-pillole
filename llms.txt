@@ -6,7 +6,7 @@ Ogni fatto del sito viene da una fonte scritta, elencata nella pagina Fonti e in
 
 ## Pagine principali
 
-- [Civitella in Pillole · Civitella in Val di Chiana](https://fabriziomartini.github.io/civitella-in-pillole/index.html): Civitella in Pillole: storia, geografia e frazioni del Comune di Civitella in Val di Chiana (AR), Toscana.
+- [Civitella in Pillole · Civitella in Val di Chiana](https://fabriziomartini.github.io/civitella-in-pillole/): Civitella in Pillole: storia, geografia e frazioni del Comune di Civitella in Val di Chiana (AR), Toscana.
 - [Storia](https://fabriziomartini.github.io/civitella-in-pillole/storia.html): Storia del Comune di Civitella in Val di Chiana: dalle origini etrusco-romane all'eccidio del 1944.
 - [Geografia](https://fabriziomartini.github.io/civitella-in-pillole/geografia.html): Geografia e territorio del Comune di Civitella in Val di Chiana: collina, pianura, coltivazioni tipiche.
 - [Frazioni](https://fabriziomartini.github.io/civitella-in-pillole/frazioni.html): Le tredici frazioni del Comune di Civitella in Val di Chiana, oltre al capoluogo storico.
