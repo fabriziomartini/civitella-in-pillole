@@ -69,6 +69,11 @@ def leggi(contenuto, schema):
     return html.unescape(re.sub(r"\s+", " ", m.group(1)).strip()) if m else ""
 
 
+def nome_pagina(contenuto):
+    """Il nome breve della pagina (breadcrumb, llms.txt): il testo dell'<h1>."""
+    return re.sub(r"<[^>]+>", "", leggi(contenuto, r"<h1[^>]*>(.*?)</h1>")).strip()
+
+
 def titolo_breve(titolo):
     return titolo.split(" — ")[0].strip()
 
@@ -109,7 +114,7 @@ def footer(base):
 
 
 def briciole(pagina, nome):
-    voci = [("Home", SITO + "index.html")]
+    voci = [("Home", SITO)]
     if pagina.startswith("frazioni/"):
         voci.append(("Le frazioni", SITO + "frazioni.html"))
     if pagina != "index.html":
@@ -125,7 +130,7 @@ def briciole(pagina, nome):
 def dati_strutturati(pagina, contenuto):
     titolo = leggi(contenuto, r"<title>(.*?)</title>")
     descrizione = leggi(contenuto, r'<meta name="description" content="(.*?)"')
-    nome = titolo_breve(titolo)
+    nome = nome_pagina(contenuto)
     url = SITO + pagina
     autore = {"@id": SITO + "#autore"}
     comune = {"@id": SITO + "#comune"}
@@ -155,8 +160,8 @@ def dati_strutturati(pagina, contenuto):
         argomento = comune
     grafo.append({
         "@type": "WebPage",
-        "@id": url,
-        "url": url,
+        "@id": indirizzo(pagina),
+        "url": indirizzo(pagina),
         "name": titolo,
         "description": descrizione,
         "inLanguage": "it",
@@ -176,6 +181,11 @@ def dati_strutturati(pagina, contenuto):
 
 def immagine(pagina):
     return next(n for p, n, *_ in PAGINE if p == pagina)
+
+
+def indirizzo(pagina):
+    """L'indirizzo canonico della pagina (la home è la cartella, non index.html)."""
+    return SITO if pagina == "index.html" else SITO + pagina
 
 
 def ultimo_commit(pagina):
@@ -201,19 +211,19 @@ def main():
             raise SystemExit("footer-placeholder non trovato in " + pagina)
         open(percorso, "w", encoding="utf-8").write(nuovo)
 
-        indice.append((pagina, leggi(contenuto, r"<title>(.*?)</title>"),
+        indice.append((pagina, nome_pagina(contenuto),
                        leggi(contenuto, r'<meta name="description" content="(.*?)"')))
 
     mappa = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for pagina, _, _ in indice:
         data = ultimo_commit(pagina)
-        mappa.append("  <url><loc>%s%s</loc>%s</url>" % (SITO, pagina, "<lastmod>%s</lastmod>" % data if data else ""))
+        mappa.append("  <url><loc>%s</loc>%s</url>" % (indirizzo(pagina), "<lastmod>%s</lastmod>" % data if data else ""))
     mappa.append("</urlset>")
     open(os.path.join(RADICE, "sitemap.xml"), "w", encoding="utf-8").write("\n".join(mappa) + "\n")
 
     def voce(pagina, titolo, descrizione):
-        return "- [%s](%s%s): %s" % (titolo_breve(titolo), SITO, pagina, descrizione)
+        return "- [%s](%s): %s" % (titolo, indirizzo(pagina), descrizione)
 
     generali = [v for v in indice if not v[0].startswith("frazioni/")]
     frazioni = [v for v in indice if v[0].startswith("frazioni/")]
