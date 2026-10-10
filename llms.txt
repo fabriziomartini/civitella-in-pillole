@@ -33,7 +33,7 @@ Ogni fatto del sito viene da una fonte scritta, elencata nella pagina Fonti e in
 - [Tegoleto](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/tegoleto.html): Tegoleto, frazione di pianura di Civitella in Val di Chiana, con la sua torre medievale e il Teatro Moderno Tegoleto.
 - [Tuori](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/tuori.html): Tuori, frazione collinare di Civitella in Val di Chiana, ricordata dal 1021: fu un castello con guarnigioni a presidio di Arezzo.
 - [Viciomaggio](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/viciomaggio.html): Viciomaggio, frazione di Civitella in Val di Chiana ricordata fin dal 1024, il cui nome viene dal latino vicus maior.
-- [Borghi e località minori](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/borghi-minori.html): Borghi e località minori di Civitella in Val di Chiana: Matroia, Montoto, Poggio Castellare, Malpertuso, Tribbio, Montarfoni, Dorna, San Martino in Poggio e il castello di Gaenne.
+- [Borghi e località minori](https://fabriziomartini.github.io/civitella-in-pillole/frazioni/borghi-minori.html): I borghi minori di Civitella in Val di Chiana: Matroia, Montoto, Poggio Castellare, Tribbio, Montarfoni, Dorna, San Martino in Poggio e Gaenne.
 
 ## Optional
 
